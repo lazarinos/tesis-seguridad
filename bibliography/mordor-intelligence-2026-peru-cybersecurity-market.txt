@@ -1,0 +1,109 @@
+PERU CYBERSECURITY MARKET SIZE & SHARE ANALYSIS - GROWTH TRENDS AND FORECAST (2026 - 2031)
+The Peru Cybersecurity Market is Segmented by Offering (Solutions and More), Deployment Mode (Cloud and More), Organization Size (SMEs and More), End User (BFSI and More), and Region (Lima Metropolitan and More). The Market Forecasts are Provided in Terms of Value (USD).
+
+Source: https://www.mordorintelligence.com/industry-reports/perucybersecuritymarket
+
+Peru Cybersecurity Market Analysis by Mordor Intelligence
+The Peru cybersecurity market size was valued at USD 170.22 million in 2025 and estimated to grow from USD 184.72 million in 2026 to reach USD 278.05 million by 2031, at a CAGR of 8.52% during the forecast period (2026-2031). This trajectory is powered by stringent data-protection regulations, an explosion of ransomware campaigns, and accelerated cloud migration led by large banks and telecom operators. Public-sector incidents, such as the May 2025 Rhysida attack on the government’s gob.pe platform, have heightened board-level risk awareness and pushed security spending higher. Peru faces more than 1 million cyberattacks a year, well above the global per-capita average, driving organizations to allocate 15–20% of IT budgets to security, up from under 12% two years ago. Businesses are turning to managed services and cloud-native tools to offset a 30% national shortage of certified cyber-talent, while demand for operational-technology (OT) protection is rising in mining and energy corridors.
+
+Key Report Takeaways
+
+By offering, managed services led with 28.12% of Peru cybersecurity market share in 2025, whereas cloud security solutions are projected to expand at a 13.75% CAGR to 2031.  
+By deployment mode, the cloud segment accounted for 62.45% of the Peru cybersecurity market size in 2025 and is advancing at 13.72% CAGR through 2031.  
+By organization size, large enterprises captured 57.60% revenue share in 2025, while SMEs represent the fastest-growing group at a 12.65% CAGR to 2031.  
+By end user, BFSI dominated with 26.30% share of the Peru cybersecurity market size in 2025; healthcare is the fastest-growing vertical at 12.28% CAGR.  
+Note: Market size and forecast figures in this report are generated using Mordor Intelligence’s proprietary estimation framework, updated with the latest available data and insights as of 2026.
+
+Peru Cybersecurity Market Trends and Insights
+Drivers Impact Analysis*
+
+DRIVER	(~) % IMPACT ON CAGR FORECAST	GEOGRAPHIC RELEVANCE	IMPACT TIMELINE
+Escalating volume and sophistication of cyber-attacks	+2.1%	National, with concentration in Lima metropolitan area	Short term (≤ 2 years)
+Accelerated digital-transformation spending across BFSI, retail and government	+1.8%	National, with early gains in Lima, Arequipa, Trujillo	Medium term (2-4 years)
+Stricter national data-protection and critical-infrastructure mandates (DS-2022, Ley 32185)	+1.5%	National implementation with phased regional rollout	Medium term (2-4 years)
+Rapid cloud-migration projects led by BCP, Credicorp, Telefónica	+1.2%	National, concentrated in major urban centers	Short term (≤ 2 years)
+Surge of QR-wallets (Yape/Plin) driving real-time fraud-detection demand	+0.9%	National, with highest adoption in Lima and coastal cities	Short term (≤ 2 years)
+OT-security upgrades in mining and energy corridors (Arequipa, Moquegua)	+0.8%	Regional focus on Arequipa, Moquegua mining corridors	Short term (≤ 2 years)
+Source: Mordor Intelligence
+Escalating Volume and Sophistication of Cyber-Attacks
+
+More than 1 million attacks hit Peru in 2024, and ransomware gangs such as Rhysida have pivoted toward public services and critical infrastructure. The May 2025 breach of gob.pe, with a 5-bitcoin ransom demand, showcased the shift toward double-extortion tactics and amplified board-level urgency for zero-trust and extended-detection-and-response programs.[1] Manufacturing has now overtaken financial services as the most targeted sector, while IoT proliferation widens the attack surface. Enterprises now dedicate 15–20% of IT budgets to security, up from 8–12% in 2023, underscoring a rapid move toward managed detection and response solutions.
+
+Accelerated Digital-Transformation Spending Across BFSI, Retail and Government
+
+Banks such as BCP and Credicorp are rolling out cloud-first core banking and payment platforms that require encryption by default and real-time fraud analytics, thereby lifting demand for advanced identity and access management (IAM) tools.[2] Government initiatives, including a mandatory electronic mailbox for labor procedures, necessitate end-to-end protection of citizen data, spurring uptake of secure email gateways and data-loss-prevention tools.
+
+Stricter National Data-Protection and Critical-Infrastructure Mandates
+
+New regulations under Peru’s Personal Data Protection Law, effective March 2025, impose 72-hour breach-notification rules and require data-protection officers for high-volume processors.[3] Financial regulators now enforce cybersecurity management systems proportionate to institutional risk, accelerating governance-risk-compliance (GRC) software deployments. The AI Promotion Law (Ley 31814) adds risk-based controls for algorithmic systems, pushing organizations to adopt security-by-design frameworks.
+
+Rapid Cloud-Migration Projects Led by BCP, Credicorp, Telefónica
+
+Credicorp’s Lynx program achieved a 66% drop in digital-channel fraud losses after shifting monitoring to a Microsoft Azure stack with embedded AI models. Telefónica Tech’s alliance with Microsoft supplies Peru’s enterprises with cloud-native security posture management and container protection, helping firms reconcile regulatory data-sovereignty rules with scalability goals.
+
+Restraints Impact Analysis*
+
+RESTRAINTS	(~) % IMPACT ON CAGR FORECAST	GEOGRAPHIC RELEVANCE	IMPACT TIMELINE
+Acute shortage of certified cyber-talent (avg. 30% vacancy rate)	-1.4%	National, most severe in Lima and regional centers	Long term (≥ 4 years)
+Budget constraints among SMEs (Less than USD 10 million revenue)	-1.1%	National, concentrated in secondary cities and rural areas	Medium term (2-4 years)
+Low cyber-maturity score in public agencies outside Lima	-0.8%	Regional focus on departments outside Lima metropolitan area	Medium term (2-4 years)
+Political volatility delaying multi-year security procurements	-0.6%	National, affecting government and state-owned enterprises	Short term (≤ 2 years)
+Source: Mordor Intelligence
+Acute Shortage of Certified Cyber-Talent
+
+A 30% vacancy rate for cybersecurity roles forces organizations to outsource monitoring and incident-response tasks to managed security service providers (MSSPs). Skills are particularly scarce in cloud-security architecture and OT-security engineering, inflating salaries and extending project timelines. Regional entities in Arequipa and Moquegua struggle most to recruit, deepening reliance on remotely delivered services and automation platforms.
+
+Budget Constraints Among SMEs
+
+Nearly 90% of Peru’s firms are SMEs, and fewer than 25% allocate a dedicated cybersecurity budget. Compliance spending often stalls at endpoint protection, leaving gaps in IAM, encryption, and backup strategies. Vendors are responding with fixed-fee, modular SaaS bundles designed for sub-USD 50,000 annual spends.
+
+*Our updated forecasts treat driver/restraint impacts as directional, not additive. The revised impact forecasts reflect baseline growth, mix effects, and variable interactions.
+
+Segment Analysis
+By Offering: Managed Services Underpin Market Evolution
+
+Managed services accounted for 28.12% of Peru cybersecurity market share in 2025 as firms sought 24/7 monitoring to offset staffing gaps. The Peru cybersecurity market size for cloud security solutions is forecast to rise at a 13.75% CAGR. Demand centers on cloud-security-posture management, workload protection, and SaaS security, while professional-services revenues hold steady on the back of compliance and risk-assessment projects. Application-security tools gain traction through the adoption of DevSecOps, and data-security revenues expand following the 2025 breach-notification mandate.  
+
+A pivot toward platform consolidation is evident, as buyers favor single-vendor suites that cover IAM, network, endpoint, and integrated risk management functions. AI-driven anomaly detection and user-behavior analytics have transitioned from pilot to production in large banks and telecom companies, and MSSPs now bundle threat-hunting and incident-response retainers into multi-year contracts to secure recurring revenue. The Peru cybersecurity market continues to reward providers that couple localized service desks with global threat-intel feeds.
+
+Image © Mordor Intelligence. Reuse requires attribution under CC BY 4.0.
+
+
+
+By Deployment Mode: Cloud Dominance Accelerates
+
+Cloud deployments captured 62.45% of total spending in 2025, reflecting a shift by banks and retailers to hybrid stacks that keep sensitive data on-premises while offloading analytics workloads to hyperscalers. The Peru cybersecurity market size attributed to cloud deployments is poised to climb at a 13.72% CAGR to 2031, propelled by rising SaaS adoption and improving broadband quality. Hybrid models are the de facto standard in healthcare and government, where data sovereignty rules dictate that clinical or citizen records stay within national borders.  
+
+On-premises investments persist in agencies that run legacy applications and factories that run proprietary supervisory-control systems, yet even these environments are embracing micro-segmentation and virtual patching delivered via cloud consoles. The Peru cybersecurity industry is witnessing increasing demand for unified policy engines that provide consistent controls across Amazon Web Services, Microsoft Azure, Google Cloud, and local private-cloud nodes.
+
+By Organization Size: SME Uptake Outpaces Enterprise Spending
+
+Large enterprises generated 57.60% of national revenues in 2025, but the SME segment is expanding 1.5 times faster at a 12.65% CAGR. Cost-effective subscription models and government digital-transformation grants are key enablers, especially for retail, logistics, and agribusiness SMEs connecting to e-commerce platforms. Enterprises in particular in BFSI, telecom, and mining continue to invest in zero-trust architecture, OT-security gateways, and cyber-resilience orchestration.  
+
+SMEs gravitate to bundled endpoint, email, and web-gateway services delivered by local MSSPs, reducing deployment cycles from months to weeks. Training-as-a-service portals and cyber-insurance discounts further incentivize investment. Because SMEs account for more than 40% of Peru’s GDP, their security posture increasingly affects the national supply-chain risk profile, reinforcing the importance of scalable solutions in the Peru cybersecurity market.
+
+Image © Mordor Intelligence. Reuse requires attribution under CC BY 4.0.
+
+
+
+By End User: Healthcare Emerges as Growth Leader
+
+The BFSI segment retained 26.30% of spending in 2025, driven by instant-payment platforms and anti-money-laundering mandates. Healthcare spending is set to grow at 12.28% CAGR through 2031 as telemedicine platforms, e-pharmacies, and electronic health records demand encryption and identity verification. Cloud-hosted picture archiving systems and IoMT (Internet of Medical Things) devices add new attack vectors, making zero-trust network access (ZTNA) and micro-segmentation key procurement priorities.  
+
+Retailers investing in omnichannel point-of-sale systems require tokenization and fraud analytics, while the industrial-and-defense cluster increases OT-security allocations in line with critical-infrastructure directives. Manufacturing plants in the southern mining belt have begun deploying industrial-intrusion-detection systems that feed anomalies into centralized SOCs. Energy-and-utilities operators prioritize grid-modernization security, setting the stage for long-term contracts in the Peru cybersecurity market.
+
+Geography Analysis
+Lima commands roughly 59.80% of Peru cybersecurity market spending owing to the city’s concentration of headquarters, data centers, and certified professionals. Superior fiber connectivity and early adopter culture make Lima the first port-of-call for new technology rollouts. Government agencies located in the capital also absorb a disproportionate share of compliance-driven budgets.  
+
+Regional hubs such as Arequipa, Trujillo, and Chiclayo are catching up as banks, retailers, and mining firms decentralize digital operations. Arequipa and Moquegua mining corridors, which host multibillion-USD extraction projects, are investing in OT-security and satellite-link hardening to protect remote-operation centers. This regionalization aligns with Peru’s National Digital Identity Platform, which standardizes cybersecurity baselines across departments.  
+
+Coastal zones benefit from better internet reach and host the bulk of logistics and fisheries industries, whereas highland and Amazon regions lag due to patchy connectivity and tight municipal budgets. The government’s broadband backbone project aims to bridge these gaps, yet until build-out completes, MSSPs will deliver most services remotely. Cross-border commerce with Ecuador, Chile, and Brazil intensifies the need for intrusion-prevention at key customs checkpoints, highlighting geography-specific nuances within the Peru cybersecurity market.
+
+Competitive Landscape
+The Peru cybersecurity market exhibits moderate fragmentation. International vendors IBM, Cisco, Fortinet, Palo Alto Networks, and Kyndryl compete on breadth of portfolio and threat-intel capabilities, while regional specialists such as Datasec Perú and Secure Soft deliver localized incident response and regulatory mapping. Providers able to integrate IT and OT controls gain an edge in mining and energy verticals.  
+
+Artificial-intelligence-driven analytics, cloud-native delivery, and managed-security bundles are key differentiation levers. Kyndryl’s launch of unified detection-and-response services for hybrid workloads illustrates the platform trend and underscores the demand for outcome-based service-level agreements. Large buyers favor multiyear, co-managed models that embed vendor engineers within corporate SOCs.  
+
+Strategic alliances between hyperscalers and telcos deepen vendor footprints; Telefónica Tech’s tie-up with Microsoft is expanding cloud-security posture management among Peru’s top 200 enterprises. Despite consolidation pressure, niche players focusing on penetration testing, digital-forensics, and SME bundles can still carve out share, reflecting a healthy competitive dynamic within the Peru cybersecurity market.
+
+Source: https://www.mordorintelligence.com/industry-reports/perucybersecuritymarket
