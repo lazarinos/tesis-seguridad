@@ -21,7 +21,7 @@ Muchas PyMES de Juliaca carecen de mecanismos de monitoreo que adviertan oportun
 
 Las herramientas tradicionales de detección de intrusiones (IDS), como Snort o Suricata, comparan el tráfico de red con una base de reglas conocidas. Este enfoque es útil para amenazas previamente catalogadas, pero pierde eficacia frente a ataques nuevos, variantes no registradas o comportamientos anómalos no cubiertos por reglas [@xai_review2025]. Además, exige personal técnico especializado para configurar, ajustar y mantener dichas reglas, un recurso que la mayoría de las PyMES no puede costear [@latam_csec2024].
 
-En el contexto académico local y regional, Coyla Jarita [@coyla2019juliaca_ids] implementó un IDS/IPS con Snort e ISO 27001 para el monitoreo perimetral de la red de la Universidad Peruana Unión -- Filial Juliaca. De forma complementaria, Jiménez Alegria [@jimenez2016puno_raspberry_ids] propuso un IDS/IPS open source basado en Raspberry para la red del Ministerio Público sede Puno. Estos antecedentes muestran que la detección de intrusiones ya ha sido considerada una necesidad técnica en la región, aunque desde enfoques tradicionales basados en reglas, herramientas open source y monitoreo perimetral.
+En el contexto académico local y regional de la región Puno, Zanabria Ticona y Tito Lipa [@zanabria2019seguridad_unap] evaluaron la seguridad informática y el nivel de riesgo bajo el estándar ISO 17799 en la plataforma virtual del Vicerrectorado de Investigación de la Universidad Nacional del Altiplano de Puno. De forma complementaria, Jiménez Alegria [@jimenez2016puno_raspberry_ids] propuso un IDS/IPS open source basado en Raspberry para la red del Ministerio Público sede Puno. Estos antecedentes muestran que la ciberseguridad y la evaluación de vulnerabilidades ya han sido consideradas una necesidad técnica en la región, aunque desde enfoques de auditoría tradicional o seguridad perimetral.
 
 Los enfoques modernos basados en aprendizaje automático, una rama de la inteligencia artificial, pueden mejorar la detección de ataques. No obstante, con frecuencia producen alertas opacas para usuarios no especializados: indican "ataque detectado", pero no explican qué variable del tráfico influyó en la decisión ni qué acción inicial conviene tomar. Esta falta de interpretabilidad limita su adopción en entornos reales [@xai_ids2024].
 
@@ -35,9 +35,9 @@ La literatura reciente sobre sistemas de detección de intrusiones con aprendiza
 
 En ese marco, el dataset GeNIS [@genis2025; @genis_zenodo2025], publicado en 2025 y construido sobre escenarios de simulación avanzada en CyberRange, es uno de los conjuntos de datos más recientes y pertinentes para entrenar modelos de detección de intrusiones orientados a escenarios empresariales. Sin embargo, en investigación de IDS no es metodológicamente suficiente depender de un solo dataset, porque ello limita la comparación del desempeño y la discusión sobre la generalización del enfoque.
 
-Por esa razón, además de GeNIS, resulta necesario considerar al menos un dataset de referencia ampliamente usado en la literatura. En esta investigación se adopta **UNSW-NB15** [@moustafa2015unswnb15; @unswnb15_dataset] como benchmark complementario para contrastar el comportamiento de los algoritmos y la estrategia de explicabilidad en un escenario clásico de IDS. Esta comparación se plantea a nivel de enfoque y familias de modelos, no como una validación directa del mismo modelo entrenado en GeNIS sobre UNSW-NB15, debido a las diferencias de estructura y características entre datasets.
+Por esa razón, además de GeNIS, resulta necesario considerar al menos un dataset de referencia ampliamente usado en la literatura. En esta investigación se adopta **CICIDS2017** [@sharafaldin2018cicids2017; @cicids2017_dataset] como benchmark complementario para contrastar el comportamiento de los algoritmos y la estrategia de explicabilidad en un escenario clásico de IDS. Esta comparación se plantea a nivel de enfoque y familias de modelos, no como una validación directa del mismo modelo entrenado en GeNIS sobre CICIDS2017, debido a las diferencias de estructura y características entre datasets.
 
-A nivel peruano existen trabajos cercanos sobre IDS tradicional en PyMES, como la implementación de Snort open source para PyMES del Perú [@huamani2020snort_pymes] y el uso de Suricata como mecanismo de seguridad corporativa [@tineo2020suricata]. También se identificó una tesis reciente en Lima que desarrolla detección de intrusiones con aprendizaje automático usando CICIDS2017 [@figueroa2024ml_ids_lima]. Sin embargo, no se encontró una investigación en la región Puno que aborde de manera conjunta:
+A nivel peruano existen trabajos que abordan la seguridad perimetral de red en instituciones y sectores clave, como el modelo de ciberseguridad basado en Zero Trust y prevención de fuga de datos (DLP) de Hernandez Legua [@hernandez2025zerotrust_unmsm] en la Universidad Nacional Mayor de San Marcos y el desarrollo del sistema de alertas móviles SnorUNI de Yauri Lozano [@yauri2017snort_uni] en la Universidad Nacional de Ingeniería. También se identificó una tesis en Lima que desarrolla detección de intrusiones con aprendizaje automático usando CICIDS2017 [@figueroa2024ml_ids_lima]. Sin embargo, no se encontró una investigación en la región Puno que aborde de manera conjunta:
 
 - aprendizaje automático aplicado a IDS;
 - un dataset principal reciente como GeNIS;
@@ -64,9 +64,13 @@ Esto es importante porque:
 
 ---
 
-## 5. Delimitación
+## 5. Delimitación y Alcance Experimental
 
-La investigación se delimita al diseño y evaluación de un prototipo de detección de intrusiones orientado a pequeñas y medianas empresas de Juliaca, Puno, principalmente de los rubros de comercio, transporte y servicios, que utilicen infraestructura digital básica para sus operaciones, como acceso a internet, red local, sistemas de caja, correo electrónico o intercambio de archivos. El estudio se enfoca en eventos de tráfico de red representados en el dataset **GeNIS 2025** y contrastados con **UNSW-NB15** como benchmark complementario. Asimismo, la evaluación de comprensibilidad se realizará con una muestra intencional de entre **8 y 12 administradores o responsables operativos de PyMES**, con uso habitual de herramientas digitales y sin formación especializada en ciberseguridad. Los resultados de esta evaluación tendrán alcance exploratorio y no pretenden generalizar estadísticamente a todas las PyMES de Juliaca.
+La investigación se delimita bajo los siguientes criterios de viabilidad:
+
+*   **Delimitación Espacial y Operacional (Entorno de Simulación Local):** El estudio se ejecuta exclusivamente en un **entorno de laboratorio local controlado (estación de trabajo del investigador en su equipo personal)**. La inyección, procesamiento de tráfico de red y la evaluación técnica del modelo de machine learning con explicabilidad (SHAP) se realizan de manera offline utilizando los flujos pregrabados de los conjuntos de datos **GeNIS 2025** y **CICIDS2017**. El alcance **excluye el despliegue físico de hardware (sensores) o la instalación directa de agentes en la infraestructura de producción activa** de las PyMES de Juliaca, eliminando cualquier riesgo de alteración del servicio o fuga de datos operacionales de los negocios participantes.
+*   **Delimitación Temática y Conceptual:** Se restringe a la clasificación de anomalías y ataques comunes de red representados en los datasets (como DoS, Port Scan y Fuerza Bruta) y al diseño de la traducción de las explicaciones matemáticas de SHAP a alertas semánticas de ciberseguridad.
+*   **Delimitación Social (Evaluación con Usuarios):** La evaluación de usabilidad y comprensibilidad Sec-UX se realizará con una muestra intencional de **8 a 12 administradores o encargados de PyMES** de Juliaca. Esta validación se desarrollará a nivel de **pruebas de usabilidad sobre escenarios de interacción simulados** (mostrando capturas de pantalla, interfaces interactivas locales o prototipos virtuales de la interfaz de alertas) y recolección de respuestas mediante cuestionarios estructurados. Los resultados tienen carácter descriptivo-exploratorio y no de generalización estadística.
 
 ---
 
@@ -77,7 +81,7 @@ La investigación se delimita al diseño y evaluación de un prototipo de detecc
 
 **Preguntas específicas:**
 
-1. ¿Qué algoritmo de aprendizaje automático detecta mejor los ataques en GeNIS y muestra un comportamiento competitivo al contrastarse con el benchmark UNSW-NB15?
+1. ¿Qué algoritmo de aprendizaje automático detecta mejor los ataques en GeNIS y muestra un comportamiento competitivo al contrastarse con el benchmark CICIDS2017?
 2. ¿Qué variables del tráfico explican con mayor peso las predicciones del modelo seleccionado mediante SHAP?
 3. ¿Es posible construir un prototipo funcional con interfaz simple que presente dichas alertas de manera clara y opere sobre hardware convencional?
 4. ¿En qué medida los administradores de PyMES pueden comprender las alertas emitidas por el prototipo y asociarlas con acciones iniciales básicas de respuesta?
@@ -92,7 +96,7 @@ Desarrollar y evaluar un sistema de detección de intrusiones de red basado en a
 **Objetivos específicos:**
 
 1. Analizar y preprocesar el dataset GeNIS para identificar las características más relevantes en la detección de ataques.
-2. Incorporar el dataset **UNSW-NB15** como referencia complementaria para contrastar el comportamiento de los algoritmos y del enfoque de explicabilidad.
+2. Incorporar el dataset **CICIDS2017** como referencia complementaria para contrastar el comportamiento de los algoritmos y del enfoque de explicabilidad.
 3. Comparar al menos tres algoritmos de aprendizaje automático y seleccionar el de mejor desempeño y mayor consistencia entre datasets.
 4. Diseñar una estrategia de traducción de las explicaciones generadas por SHAP a alertas claras, comprensibles y accionables para usuarios no técnicos.
 5. Implementar un prototipo con interfaz simple que muestre las alertas y sus explicaciones de manera clara.
@@ -126,16 +130,16 @@ Desarrollar y evaluar un sistema de detección de intrusiones de red basado en a
 
 ### Dataset complementario de validación
 
-**UNSW-NB15** [@moustafa2015unswnb15; @unswnb15_dataset]
+CICIDS2017 [@sharafaldin2018cicids2017; @cicids2017_dataset]
 
-- Se considera como benchmark de referencia por su amplia adopción en la literatura.
-- Permite contrastar el comportamiento de los algoritmos en un dataset clásico con nueve tipos de ataques y 49 características.
+- Se considera como benchmark de referencia por su amplia adopción y validación en la literatura de machine learning aplicado a IDS.
+- Contiene tráfico benigno y los ataques comunes más representativos de red, estructurados con más de 80 características de flujo de red.
 - Su inclusión fortalece la solidez metodológica de la tesis al evitar depender de un único escenario experimental.
 
 ### Estrategia de uso
 
 - **GeNIS 2025** se empleará como dataset principal de entrenamiento, selección de variables y construcción del prototipo.
-- **UNSW-NB15** se empleará como benchmark complementario para contrastar el comportamiento de los algoritmos y la estrategia de explicabilidad.
+- **CICIDS2017** se empleará como benchmark complementario para contrastar el comportamiento de los algoritmos y la estrategia de explicabilidad.
 
 ---
 
