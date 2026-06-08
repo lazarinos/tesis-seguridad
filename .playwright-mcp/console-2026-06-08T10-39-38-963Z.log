@@ -1,0 +1,2 @@
+[   16006ms] [ERROR] Access to XMLHttpRequest at 'https://embed.altmetric.com/assets/embed-78bda172fadfe0aaf567a7da5d8e73e4b324a5ff5f63c3ef3ccdb47bfd572d49.css' from origin 'https://www.mdpi.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.mdpi.com/2076-3417/14/10/4170:0
+[   16006ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://embed.altmetric.com/assets/embed-78bda172fadfe0aaf567a7da5d8e73e4b324a5ff5f63c3ef3ccdb47bfd572d49.css:0

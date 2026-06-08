@@ -1,0 +1,59 @@
+[    1862ms] [LOG] {hash: 004edda30a6a7cd4c77a2b23b32f28da7b3283812805f2473b6d804a9d683c31, nonce: 138} @ https://repositorio.utp.edu.pe/.within.website/x/cmd/anubis/static/js/main.mjs?cacheBuster=v1.25.0:30
+[   22929ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://repositorio.unap.edu.pe/favicon.ico:0
+[  254595ms] [LOG] logged_in_to_sn_profile could not be retrieved from /exposed-details @ :0
+[  254920ms] [LOG] limitedAds is  true @ :1
+[  254921ms] [WARNING] The following functions are deprecated: googletag.pubads().setTagForChildDirectedTreatment(), googletag.pubads().clearTagForChildDirectedTreatment(), googletag.pubads().setRequestNonPersonalizedAds(), and googletag.pubads().setTagForUnderAgeOfConsent(). Please use googletag.pubads().setPrivacySettings() instead. @ https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202606030101/pubads_impl.js?cb=31098955:18
+[  254923ms] [WARNING] [GPT] PubAdsService.enableSingleRequest is deprecated, use googletag.setConfig({singleRequest: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202606030101/pubads_impl.js?cb=31098955:18
+[  254933ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202606030101/pubads_impl.js?cb=31098955:18
+[  293528ms] [LOG] Environment extended with app config @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  293634ms] [INFO]  @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  293637ms] [INFO] %cdspace-angular font-weight: bold; @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  293637ms] [INFO] Version: %c7.6.1 font-weight: bold; @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  293638ms] [INFO] Environment: %cProduction color: red; font-weight: bold; @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  293638ms] [INFO]  @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  296137ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://repositorio.ucsm.edu.pe/server/api/statistics/viewevents:0
+[  296880ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://repositorio.ucsm.edu.pe/favicon.ico:0
+[  311947ms] [LOG] Environment extended with app config @ https://repositorio.pucp.edu.pe/main.172ea4edff4a33e0.js:0
+[  312003ms] [INFO]  @ https://repositorio.pucp.edu.pe/main.172ea4edff4a33e0.js:0
+[  312004ms] [INFO] %cdspace-angular font-weight: bold; @ https://repositorio.pucp.edu.pe/main.172ea4edff4a33e0.js:0
+[  312004ms] [INFO] Version: %c9.2.0 font-weight: bold; @ https://repositorio.pucp.edu.pe/main.172ea4edff4a33e0.js:0
+[  312004ms] [INFO] Environment: %cProduction color: red; font-weight: bold; @ https://repositorio.pucp.edu.pe/main.172ea4edff4a33e0.js:0
+[  312004ms] [INFO]  @ https://repositorio.pucp.edu.pe/main.172ea4edff4a33e0.js:0
+[  313472ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://repositorio.pucp.edu.pe/server/api/integration/qualityassurancesources/search/byTarget?target=bfdca259-d2fb-449a-ba69-3dfb541bfe3c:0
+[  314469ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not found) @ https://repositorio.pucp.edu.pe/favicon.ico:0
+[  335587ms] [LOG] Environment extended with app config @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  335630ms] [INFO]  @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  335631ms] [INFO] %cdspace-angular font-weight: bold; @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  335631ms] [INFO] Version: %c7.6.0 font-weight: bold; @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  335631ms] [INFO] Environment: %cProduction color: red; font-weight: bold; @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  335631ms] [INFO]  @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  335842ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://repositorioacademico.upc.edu.pe/server/api/security/csrf:0
+[  337426ms] [LOG] Environment extended with app config @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  337447ms] [INFO]  @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  337447ms] [INFO] %cdspace-angular font-weight: bold; @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  337447ms] [INFO] Version: %c7.6.0 font-weight: bold; @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  337447ms] [INFO] Environment: %cProduction color: red; font-weight: bold; @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  337447ms] [INFO]  @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  338722ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://repositorioacademico.upc.edu.pe/server/api/system/scripts/metadata-export:0
+[  338724ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://repositorioacademico.upc.edu.pe/server/api/system/scripts/metadata-import:0
+[  339031ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://repositorioacademico.upc.edu.pe/server/api/core/item/20f3d8ab-32ad-5037-ab44-888fa676c917/atmireavsconfig:0
+[  340793ms] [WARNING] The response for 'https://repositorioacademico.upc.edu.pe/server/api/core/items/20f3d8ab-32ad-5037-ab44-888fa676c917/bundles?size=9999' has the self link 'https://repositorioacademico.upc.edu.pe/server/api/core/items/20f3d8ab-32ad-5037-ab44-888fa676c917/bundles?embed=primaryBitstream&embed=bitstreams/format&embed.size=bitstreams=5&size=1000'. These don't match. This could mean there's an issue with the REST endpoint @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  341347ms] [WARNING] The response for 'https://repositorioacademico.upc.edu.pe/server/api/core/bundles/8d179607-521d-5bd2-8dde-c5a941e869dc/bitstreams?page=0&size=5' has the self link 'https://repositorioacademico.upc.edu.pe/server/api/core/bundles/8d179607-521d-5bd2-8dde-c5a941e869dc/bitstreams?page=0&embed=format&embed=thumbnail&embed=accessConditions&embed=requestAccess&size=5'. These don't match. This could mean there's an issue with the REST endpoint @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  341601ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://repositorioacademico.upc.edu.pe/server/api/core/bitstreams/f98a3752-b000-5cf5-8c9b-b60a713c7050/thumbnail:0
+[  341618ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://repositorioacademico.upc.edu.pe/server/api/core/bitstreams/39b6fdda-7746-550e-ab82-6a292ff4080e/thumbnail:0
+[  422814ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://hdl.handle.net/20.500.14076/5651:0
+[  428764ms] [LOG] Environment extended with app config @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  428860ms] [INFO]  @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  428863ms] [INFO] %cdspace-angular font-weight: bold; @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  428863ms] [INFO] Version: %c7.6.1 font-weight: bold; @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  428863ms] [INFO] Environment: %cProduction color: red; font-weight: bold; @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  428863ms] [INFO]  @ https://repositorio.ucsm.edu.pe/main.8a3e61bcb9aa943a.js:0
+[  448206ms] [LOG] Environment extended with app config @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  448306ms] [INFO]  @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  448307ms] [INFO] %cdspace-angular font-weight: bold; @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  448307ms] [INFO] Version: %c7.6.0 font-weight: bold; @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  448307ms] [INFO] Environment: %cProduction color: red; font-weight: bold; @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  448307ms] [INFO]  @ https://repositorioacademico.upc.edu.pe/main.618158271dbf63ef.js:0
+[  480930ms] [ERROR] Failed to load resource: the server responded with a status of 502 (Proxy Error) @ https://repositorio.pucp.edu.pe/items/bfdca259-d2fb-449a-ba69-3dfb541bfe3c:0

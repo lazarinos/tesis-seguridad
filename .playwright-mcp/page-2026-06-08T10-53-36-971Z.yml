@@ -1,0 +1,270 @@
+- generic [ref=e17]:
+  - banner [ref=e23]:
+    - generic [ref=e26]:
+      - generic "Buscar" [ref=e28]:
+        - link "Search" [ref=e30] [cursor=pointer]:
+          - /url: /search
+          - emphasis [ref=e32]: 
+      - button "Cambio de idioma" [ref=e35] [cursor=pointer]: Español
+      - list [ref=e38]:
+        - listitem [ref=e39]:
+          - generic [ref=e40]:
+            - link "Iniciar sesión" [ref=e41] [cursor=pointer]:
+              - /url: javascript:void(0);
+            - text:  
+    - generic:
+      - generic:
+        - generic:
+          - generic "Buscar":
+            - generic [ref=e42]:
+              - generic:
+                - generic:
+                  - generic "Buscar":
+                    - textbox "Search input" [ref=e45]:
+                      - /placeholder: ""
+                  - link "" [ref=e46] [cursor=pointer]:
+                    - /url: /search
+                    - emphasis [ref=e47]: 
+    - generic [ref=e50]:
+      - link "Logotipo del repositorio" [ref=e52] [cursor=pointer]:
+        - /url: /home
+        - img "Logotipo del repositorio" [ref=e53]
+      - navigation "Barra de navegación principal" [ref=e56]:
+        - list [ref=e60]:
+          - listitem [ref=e61]:
+            - link "Inicio" [ref=e64] [cursor=pointer]:
+              - /url: /home
+          - listitem [ref=e65]:
+            - generic [ref=e66]:
+              - generic [ref=e69] [cursor=pointer]: Todos los contenidos
+              - generic:                                          
+          - listitem [ref=e70]:
+            - generic [ref=e71]:
+              - generic [ref=e74] [cursor=pointer]: Estadísticas
+              - list:
+                - listitem [ref=e75]:
+                  - link "Documentos principales" [ref=e77] [cursor=pointer]:
+                    - /url: /atmire-cua/reports/SiteTopItemsWithDataType
+                - listitem [ref=e78]:
+                  - link "Autores principales" [ref=e80] [cursor=pointer]:
+                    - /url: /atmire-cua/reports/SiteTopMixedAuthorsGroupedByDataType
+                - listitem [ref=e81]:
+                  - link "Temas principales" [ref=e83] [cursor=pointer]:
+                    - /url: /atmire-cua/reports/TopSubjects
+                - listitem [ref=e84]:
+                  - link "Países principales" [ref=e86] [cursor=pointer]:
+                    - /url: /atmire-cua/reports/TopCountries
+                - listitem [ref=e87]:
+                  - link "Mis documentos principales" [ref=e89] [cursor=pointer]:
+                    - /url: /atmire-cua/reports/SiteTopItemsCurrentUser
+                - listitem [ref=e90]:
+                  - link "Mis países principales" [ref=e92] [cursor=pointer]:
+                    - /url: /atmire-cua/reports/SiteTopCountriesCurrentUser
+      - navigation "Barra de perfil de usuario" [ref=e93]:
+        - generic: 
+  - main [ref=e94]:
+    - navigation "breadcrumb" [ref=e97]:
+      - list [ref=e98]:
+        - listitem [ref=e99]:
+          - link "Inicio" [ref=e101] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e102]:
+          - text: •
+          - link "Tesis" [ref=e104] [cursor=pointer]:
+            - /url: /communities/783636e4-221e-55ef-ae18-de963b8c4990
+        - listitem [ref=e105]:
+          - text: •
+          - link "Trabajo de investigación" [ref=e107] [cursor=pointer]:
+            - /url: /communities/cc718686-9754-58c6-bc38-29f87a910b2f
+        - listitem [ref=e108]:
+          - text: •
+          - link "Pregrado" [ref=e110] [cursor=pointer]:
+            - /url: /communities/18adb4dd-059d-5e6d-a278-2046952796bd
+        - listitem [ref=e111]:
+          - text: •
+          - link "Facultad de Ingeniería" [ref=e113] [cursor=pointer]:
+            - /url: /communities/57a7efcc-8a9d-5ef2-865d-7898a29200c4
+        - listitem [ref=e114]:
+          - text: •
+          - link "Ingeniería de Sistemas de Información" [ref=e116] [cursor=pointer]:
+            - /url: /collections/ec069c29-0137-5a55-85bc-221e4bb68afb
+        - listitem [ref=e117]:
+          - text: •
+          - generic [ref=e119]: Sistemas de control de supervisión y adquisición de datos para la deteccion de ciberataques en la industria minera
+    - generic [ref=e127]:
+      - generic [ref=e130]:
+        - img "Miniatura" [ref=e138]
+        - generic [ref=e139]:
+          - generic [ref=e141]:
+            - generic [ref=e148]: Publicación
+            - heading "Sistemas de control de supervisión y adquisición de datos para la deteccion de ciberataques en la industria minera" [level=2] [ref=e151]
+            - heading "Ore Huacles, Jonel PeleeOrcid icon ; Donaire Arbieto, Ilyan EduardoOrcid icon" [level=5] [ref=e154]:
+              - generic [ref=e158]:
+                - link "Ore Huacles, Jonel Pelee" [ref=e159] [cursor=pointer]:
+                  - /url: /search?f.author=6b30a6d517dc5b7a121477dd5edc48af4f5139f3,authority
+                - link "Orcid icon" [ref=e162] [cursor=pointer]:
+                  - /url: https://orcid.org/0000-0002-8483-0735
+                  - img "Orcid icon" [ref=e163]
+              - text: ;
+              - generic [ref=e167]:
+                - link "Donaire Arbieto, Ilyan Eduardo" [ref=e168] [cursor=pointer]:
+                  - /url: /search?f.author=5ebb1e1f16999a405cb7ee7f5ac9df61f6b7b0e7,authority
+                - link "Orcid icon" [ref=e171] [cursor=pointer]:
+                  - /url: https://orcid.org/0000-0002-9540-1602
+                  - img "Orcid icon" [ref=e172]
+          - generic [ref=e178]:
+            - button "Share on Twitter" [ref=e179] [cursor=pointer]:
+              - generic [ref=e180]: 
+            - button "Share on Facebook" [ref=e181] [cursor=pointer]:
+              - generic [ref=e182]: 
+            - button "Share on LinkedIn" [ref=e183] [cursor=pointer]:
+              - generic [ref=e184]: 
+            - button "Share via email" [ref=e185] [cursor=pointer]:
+              - generic [ref=e186]: 
+      - generic [ref=e187]:
+        - generic [ref=e188]:
+          - generic [ref=e192]:
+            - img [ref=e198]:
+              - img [ref=e199]:
+                - img [ref=e202]:
+                  - generic [ref=e204]:
+                    - generic [ref=e206]: Vistas
+                    - generic [ref=e207]: 1,021
+            - img [ref=e213]:
+              - img [ref=e214]:
+                - img [ref=e217]:
+                  - generic [ref=e219]:
+                    - generic [ref=e221]: Descargas
+                    - generic [ref=e222]: "621"
+          - generic [ref=e227]:
+            - heading "Asesor" [level=5] [ref=e228]
+            - link "Lomparte Alvarado, Romulo Fernando" [ref=e230] [cursor=pointer]:
+              - /url: /browse/advisor?value=Lomparte%20Alvarado,%20Romulo%20Fernando
+          - generic [ref=e236]:
+            - heading "Fecha de publicación" [level=5] [ref=e237]
+            - generic [ref=e238]: 2021-05-09
+          - generic [ref=e243]:
+            - heading "Palabras clave" [level=5] [ref=e244]
+            - generic [ref=e245]:
+              - link "Ciberataque" [ref=e246] [cursor=pointer]:
+                - /url: /browse/subject?value=Ciberataque
+                - text: Ciberataque
+              - link "Control industrial" [ref=e247] [cursor=pointer]:
+                - /url: /browse/subject?value=Control%20industrial
+                - text: Control industrial
+              - link "Minería" [ref=e248] [cursor=pointer]:
+                - /url: /browse/subject?value=Miner%C3%ADa
+                - text: Minería
+              - link "Machine learning" [ref=e249] [cursor=pointer]:
+                - /url: /browse/subject?value=Machine%20learning
+                - text: Machine learning
+              - link "Cyberattack" [ref=e250] [cursor=pointer]:
+                - /url: /browse/subject?value=Cyberattack
+                - text: Cyberattack
+              - link "Mining" [ref=e251] [cursor=pointer]:
+                - /url: /browse/subject?value=Mining
+          - generic [ref=e254]:
+            - heading "Colecciones" [level=5] [ref=e255]
+            - link "Ingeniería de Sistemas de Información" [ref=e258] [cursor=pointer]:
+              - /url: /collections/ec069c29-0137-5a55-85bc-221e4bb68afb
+          - button " Mostrar el registro completo del ítem" [ref=e260] [cursor=pointer]:
+            - generic [ref=e261]: 
+            - text: Mostrar el registro completo del ítem
+        - generic [ref=e262]:
+          - generic [ref=e267]:
+            - heading "Archivos" [level=5] [ref=e268]
+            - generic [ref=e269]:
+              - generic [ref=e271]:
+                - img "Miniatura" [ref=e277]
+                - link "Ore_HJ.pdf Adobe PDF , 665.26 KB" [ref=e280] [cursor=pointer]:
+                  - /url: /bitstreams/5b809a42-2507-558e-8c50-713fb88423d2/download
+                  - generic [ref=e281]:
+                    - generic [ref=e286]:
+                      - generic [ref=e287]: Ore_HJ.pdf
+                      - text: 
+                    - generic [ref=e288]:
+                      - generic [ref=e289]: Adobe PDF
+                      - generic [ref=e290]: ","
+                      - generic [ref=e291]: 665.26 KB
+              - generic [ref=e293]:
+                - generic [ref=e297]: 
+                - link "Ore_HJ.docx Microsoft Word XML , 200.34 KB" [ref=e300] [cursor=pointer]:
+                  - /url: /bitstreams/f98a3752-b000-5cf5-8c9b-b60a713c7050/download
+                  - generic [ref=e301]:
+                    - generic [ref=e306]:
+                      - generic [ref=e307]: Ore_HJ.docx
+                      - text: 
+                    - generic [ref=e308]:
+                      - generic [ref=e309]: Microsoft Word XML
+                      - generic [ref=e310]: ","
+                      - generic [ref=e311]: 200.34 KB
+              - generic [ref=e313]:
+                - generic [ref=e317]: 
+                - link "Ore_HJ_Ficha.pdf Adobe PDF , 1.69 MB" [ref=e320] [cursor=pointer]:
+                  - /url: /bitstreams/39b6fdda-7746-550e-ab82-6a292ff4080e/download
+                  - generic [ref=e321]:
+                    - generic [ref=e326]:
+                      - generic [ref=e327]: Ore_HJ_Ficha.pdf
+                      - text: 
+                    - generic [ref=e328]:
+                      - generic [ref=e329]: Adobe PDF
+                      - generic [ref=e330]: ","
+                      - generic [ref=e331]: 1.69 MB
+          - generic [ref=e336]:
+            - heading "Editorial" [level=5] [ref=e337]
+            - link "Universidad Peruana de Ciencias Aplicadas (UPC)" [ref=e339] [cursor=pointer]:
+              - /url: /browse/publisher?value=Universidad%20Peruana%20de%20Ciencias%20Aplicadas%20(UPC)
+          - generic [ref=e344]:
+            - heading "URI" [level=5] [ref=e345]
+            - link "http://hdl.handle.net/10757/656083" [ref=e347] [cursor=pointer]:
+              - /url: http://hdl.handle.net/10757/656083
+          - generic [ref=e352]:
+            - heading "Resumen" [level=5] [ref=e353]
+            - generic [ref=e354]:
+              - text: Los sistemas de control industrial son objetivos recurrentes de ciberataques con el fin de alterar procesos, detenerlos o secuestro de información. Existen distintas soluciones para contrarrestar estas actividades ilícitas, tales como los sistemas de detección de intrusos. Sin embargo, este tipo de soluciones no contemplan escenarios de trabajo específicos como plantas de procesamiento de minerales. El presente trabajo muestra un esquema a seguir para utilizar un modelo tecnológico capaz de utilizar tecnologías como machine learning y sistemas de detección de intrusos enfocados a plantas mineras.
+              - text: Industrial control systems are recurring targets of cyberattacks in order to alter processes, stop them or hijack information. There are different solutions to counter these illegal activities, such as intrusion detection systems. However, these types of solutions do not contemplate specific work scenarios such as mineral processing plants. This work shows a scheme to follow to use a technological model capable of using technologies such as machine learning and intrusion detection systems focused on mining plants.
+          - generic [ref=e360]:
+            - heading "Tipo" [level=5] [ref=e361]
+            - generic [ref=e362]: info:eu-repo/semantics/bachelorThesis
+          - generic [ref=e368]:
+            - heading "Derechos" [level=5] [ref=e369]
+            - generic [ref=e370]: info:eu-repo/semantics/openAccess
+          - generic [ref=e376]:
+            - heading "Idioma" [level=5] [ref=e377]
+            - generic [ref=e378]: spa
+      - button "Mostrar estadísticas" [ref=e382] [cursor=pointer]
+  - contentinfo [ref=e385]:
+    - generic [ref=e388]:
+      - list [ref=e390]:
+        - listitem [ref=e391]:
+          - link "Configuración de cookies" [ref=e392] [cursor=pointer]:
+            - /url: javascript:void(0);
+        - listitem [ref=e393]:
+          - link "Enviar Sugerencias" [ref=e394] [cursor=pointer]:
+            - /url: /info/feedback
+        - listitem [ref=e395]:
+          - link "Data Protection" [ref=e396] [cursor=pointer]:
+            - /url: https://upc.edu.pe/proteccion-de-datos/
+      - generic [ref=e398]:
+        - link "WASC" [ref=e400] [cursor=pointer]:
+          - /url: https://www.wscuc.org/
+          - img "WASC" [ref=e401]
+        - link "Alicia" [ref=e403] [cursor=pointer]:
+          - /url: http://alicia.concytec.gob.pe/
+          - img "Alicia" [ref=e404]
+        - link "La Referencia" [ref=e406] [cursor=pointer]:
+          - /url: http://www.lareferencia.info/
+          - img "La Referencia" [ref=e407]
+        - link "UPC" [ref=e409] [cursor=pointer]:
+          - /url: https://upc.edu.pe/
+          - img "UPC" [ref=e410]
+      - link "Open Repository is a service operated by Atmire logo" [ref=e413] [cursor=pointer]:
+        - /url: https://www.atmire.com/
+        - text: Open Repository is a service operated by
+        - img "Atmire logo" [ref=e414]
+    - generic [ref=e416]:
+      - link "Software DSpace" [ref=e417] [cursor=pointer]:
+        - /url: http://www.dspace.org/
+      - text: copyright © 2002-2026
+      - link "LYRASIS" [ref=e418] [cursor=pointer]:
+        - /url: https://www.lyrasis.org/

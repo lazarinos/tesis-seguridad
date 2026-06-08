@@ -1,0 +1,1965 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: Loading web-font Gyre-Pagella/Normal/Regular
+  - text:  
+  - generic [ref=e3]:
+    - navigation [ref=e5]:
+      - generic [ref=e6]:
+        - link "MDPI Open Access Journals" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "MDPI Open Access Journals" [ref=e9]
+        - generic [ref=e11]:
+          - link "zoom_out_map" [ref=e12] [cursor=pointer]:
+            - /url: /toggle_desktop_layout_cookie
+            - generic [ref=e13]: zoom_out_map
+          - link:
+            - /url: "#"
+          - link "menu" [ref=e14] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e15]: menu
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e21]:
+          - generic [ref=e23]: "Search :"
+          - generic:
+            - textbox "Title / Keyword" [ref=e25]
+            - textbox "Author / Affiliation / Email" [ref=e27]
+            - generic [ref=e29]:
+              - generic [ref=e31] [cursor=pointer]: Computers
+              - generic [ref=e34]:
+                - textbox [ref=e36]
+                - list
+            - generic [ref=e38]:
+              - generic [ref=e40] [cursor=pointer]: All Article Types
+              - generic [ref=e43]:
+                - textbox [ref=e45]
+                - list
+            - button "Search" [ref=e47] [cursor=pointer]
+            - link "Advanced" [ref=e49] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - link "Journals" [ref=e53] [cursor=pointer]:
+              - /url: /about/journals
+            - text: /
+          - generic [ref=e54]:
+            - link "Computers" [ref=e55] [cursor=pointer]:
+              - /url: /journal/computers
+            - text: /
+          - generic [ref=e56]:
+            - link "Volume 14" [ref=e57] [cursor=pointer]:
+              - /url: /2073-431X/14
+            - text: /
+          - generic [ref=e58]:
+            - link "Issue 5" [ref=e59] [cursor=pointer]:
+              - /url: /2073-431X/14/5
+            - text: /
+          - generic [ref=e60]:
+            - link "10.3390/computers14050160" [ref=e61] [cursor=pointer]:
+              - /url: "#"
+            - text: /
+      - generic [ref=e63]:
+        - text: keyboard_arrow_up keyboard_arrow_down insert_link keyboard_arrow_down lens insert_link lens insert_link lens insert_link lens insert_link lens lens insert_link lens insert_link lens insert_link lens insert_link lens lens insert_link lens insert_link lens insert_link lens insert_link lens keyboard_arrow_up lens lens lens lens lens lens lens lens lens lens lens lens lens
+        - generic [ref=e64]:
+          - generic [ref=e65]:
+            - link "share Share" [ref=e66] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e67]: share
+              - generic [ref=e68]: Share
+            - link "announcement Help" [ref=e69] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e70]: announcement
+              - generic [ref=e71]: Help
+            - link "format_quote Cite" [ref=e72] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - generic [ref=e73]: format_quote
+              - generic [ref=e74]: Cite
+            - link "question_answer Discuss in SciProfiles" [ref=e75] [cursor=pointer]:
+              - /url: https://sciprofiles.com/discussion-groups/public/10.3390/computers14050160?utm_source=mpdi.com&utm_medium=publication&utm_campaign=discuss_in_sciprofiles
+              - generic [ref=e76]: question_answer
+              - generic [ref=e77]: Discuss in SciProfiles
+          - generic [ref=e81]:
+            - generic:
+              - generic [ref=e82]:
+                - generic [ref=e84] [cursor=pointer]: settings
+                - link "Order Article Reprints" [ref=e85] [cursor=pointer]:
+                  - /url: /2073-431X/14/5/160/reprints
+              - text:   
+            - article [ref=e86]:
+              - generic [ref=e87]:
+                - generic [ref=e88]:
+                  - generic [ref=e89] [cursor=pointer]: Open Access
+                  - generic [ref=e90]: Article
+                - heading "Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems" [level=1] [ref=e91]
+                - generic [ref=e92]:
+                  - text: by
+                  - generic [ref=e93]:
+                    - text: Pamela Hermosilla
+                    - superscript [ref=e94]: 1,*
+                    - link "" [ref=e95] [cursor=pointer]:
+                      - /url: mailto:pamela.hermosilla@pucv.cl
+                      - superscript [ref=e96]:
+                        - generic [ref=e97]: 
+                    - link "ORCID" [ref=e98] [cursor=pointer]:
+                      - /url: https://orcid.org/0000-0001-5775-6536
+                      - img "ORCID" [ref=e99]
+                    - text: ","
+                  - generic [ref=e100]:
+                    - text: Mauricio Díaz
+                    - superscript [ref=e101]: "1"
+                    - link "" [ref=e102] [cursor=pointer]:
+                      - /url: mailto:mauricio.diaz.e@mail.pucv.cl
+                      - superscript [ref=e103]:
+                        - generic [ref=e104]: 
+                    - text: ","
+                  - generic [ref=e105]:
+                    - text: Sebastián Berríos
+                    - superscript [ref=e106]: "1"
+                    - link "" [ref=e107] [cursor=pointer]:
+                      - /url: mailto:sebastian.berrios@pucv.cl
+                      - superscript [ref=e108]:
+                        - generic [ref=e109]: 
+                    - link "ORCID" [ref=e110] [cursor=pointer]:
+                      - /url: https://orcid.org/0009-0006-9384-2515
+                      - img "ORCID" [ref=e111]
+                    - text: and
+                  - generic [ref=e112]:
+                    - text: Héctor Allende-Cid
+                    - superscript [ref=e113]: 1,2,3,*
+                    - link "" [ref=e114] [cursor=pointer]:
+                      - /url: mailto:hector.allende@pucv.cl
+                      - superscript [ref=e115]:
+                        - generic [ref=e116]: 
+                    - link "ORCID" [ref=e117] [cursor=pointer]:
+                      - /url: https://orcid.org/0000-0002-9899-0051
+                      - img "ORCID" [ref=e118]
+                - generic [ref=e121]:
+                  - generic [ref=e122]:
+                    - superscript [ref=e124]: "1"
+                    - generic [ref=e125]: Escuela de Ingeniería Informática, Pontificia Universidad Católica de Valparaíso, Valparaíso 2362807, Chile
+                  - generic [ref=e126]:
+                    - superscript [ref=e128]: "2"
+                    - generic [ref=e129]: Knowledge Discovery, Fraunhofer-Institute of Intelligent Analysis and Information Systems (IAIS), 53757 Sankt Augustin, Germany
+                  - generic [ref=e130]:
+                    - superscript [ref=e132]: "3"
+                    - generic [ref=e133]: Lamarr Institute for Machine Learning and Artificial Intelligence, 44227 Dortmund, Germany
+                  - generic [ref=e134]:
+                    - superscript [ref=e136]: "*"
+                    - generic [ref=e137]: Authors to whom correspondence should be addressed.
+                - generic [ref=e138]:
+                  - emphasis [ref=e139]: Computers
+                  - text: 2025,
+                  - emphasis [ref=e140]: "14"
+                  - text: (5), 160;
+                  - link "https://doi.org/10.3390/computers14050160" [ref=e141] [cursor=pointer]:
+                    - /url: https://doi.org/10.3390/computers14050160
+                - generic [ref=e142]:
+                  - generic [ref=e143]: "Submission received: 10 March 2025"
+                  - text: /
+                  - generic [ref=e144]: "Revised: 17 April 2025"
+                  - text: /
+                  - generic [ref=e145]: "Accepted: 21 April 2025"
+                  - text: /
+                  - generic [ref=e146]: "Published: 25 April 2025"
+                - generic [ref=e147]:
+                  - text: (This article belongs to the Special Issue
+                  - link "Using New Technologies in Cyber Security Solutions (2nd Edition)" [ref=e148] [cursor=pointer]:
+                    - /url: "        \n    /journal/computers/special_issues/YS51QXVA2U\n"
+                  - text: )
+                - generic [ref=e150]:
+                  - generic [ref=e151] [cursor=pointer]:
+                    - text: Download
+                    - generic [ref=e152]: keyboard_arrow_down
+                  - link "Browse Figures" [ref=e154] [cursor=pointer]:
+                    - /url: "#"
+                  - generic:
+                    - link "<strong>Graphical abstract</strong><br/>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-ag.png?1745852630
+                    - link "<strong>Figure 1</strong><br/> <p>Flowchart of the LIME process for generating local explanations.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g001.png?1745852613
+                    - 'link "<strong>Figure 2</strong><br/> <p>SHAP: A model-agnostic approach for machine learning explainability.</p>"':
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g002.png?1745852614
+                    - link "<strong>Figure 3</strong><br/> <p>Diagram of the architecture from UNSW-NB15 dataset.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g003.png?1745852615
+                    - link "<strong>Figure 4</strong><br/> <p>Diagram of the model training process using the UNSW-NB15 dataset and its integration with SHAP-based explainability.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g004.png?1745852617
+                    - link "<strong>Figure 5</strong><br/> <p>Training and validation accuracy of the XGBoost model.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g005.png?1745852617
+                    - link "<strong>Figure 6</strong><br/> <p>Confusion matrices for the XGBoost models.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g006.png?1745852618
+                    - link "<strong>Figure 7</strong><br/> <p>SHAP summary plot for the XGBoost model.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g007.png?1745852619
+                    - link "<strong>Figure 8</strong><br/> <p>SHAP force plot for instance 15,482.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g008.png?1745852621
+                    - link "<strong>Figure 9</strong><br/> <p>Explanation of instance 15,482 using LIME.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g009.png?1745852622
+                    - 'link "<strong>Figure 10</strong><br/> <p>TabNet training progress: accuracy over epochs.</p>"':
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g010.png?1745852624
+                    - link "<strong>Figure 11</strong><br/> <p>Confusion matrices for the TabNet model.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g011.png?1745852625
+                    - link "<strong>Figure 12</strong><br/> <p>SHAP summary plot for the TabNet model.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g012.png?1745852626
+                    - link "<strong>Figure 13</strong><br/> <p>SHAP force plot for instance 29,972 using TabNet.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g013.png?1745852628
+                    - link "<strong>Figure 14</strong><br/> <p>Explanation of instance 29,972 using LIME for TabNet.</p>":
+                      - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-g014.png?1745852628
+                  - link "Versions Notes" [ref=e155] [cursor=pointer]:
+                    - /url: /2073-431X/14/5/160/notes
+                - generic [ref=e157]:
+                  - generic [ref=e158]:
+                    - paragraph
+                    - generic [ref=e159]:
+                      - generic [ref=e160]:
+                        - heading "Abstract" [level=2] [ref=e161]
+                        - text: The increase in malicious cyber activities has generated the need to produce effective tools for the field of digital forensics and incident response. Artificial intelligence (AI) and its fields, specifically machine learning (ML) and deep learning (DL), have shown great potential to aid the task of processing and analyzing large amounts of information. However, models generated by DL are often considered “black boxes”, a name derived due to the difficulties faced by users when trying to understand the decision-making process for obtaining results. This research seeks to address the challenges of transparency, explainability, and reliability posed by black-box models in digital forensics. To accomplish this, explainable artificial intelligence (XAI) is explored as a solution. This approach seeks to make DL models more interpretable and understandable by humans. The SHAP (SHapley Additive eXplanations) and LIME (Local Interpretable Model-agnostic Explanations) methods will be implemented and evaluated as a model-agnostic technique to explain predictions of the generated models for forensic analysis. By applying these methods to the XGBoost and TabNet models trained on the UNSW-NB15 dataset, the results indicated distinct global feature importance rankings between the model types and revealed greater consistency of local explanations for the tree-based XGBoost model compared to the deep learning-based TabNet. This study aims to make the decision-making process in these models transparent and to assess the confidence and consistency of XAI-generated explanations in a forensic context.
+                      - generic [ref=e163]:
+                        - text: "Keywords:"
+                        - link "forensic analysis" [ref=e164] [cursor=pointer]:
+                          - /url: /search?q=forensic+analysis
+                        - text: ;
+                        - link "XAI" [ref=e165] [cursor=pointer]:
+                          - /url: /search?q=XAI
+                        - text: ;
+                        - link "UNSW-NB15" [ref=e166] [cursor=pointer]:
+                          - /url: /search?q=UNSW-NB15
+                        - text: ;
+                        - link "SHAP" [ref=e167] [cursor=pointer]:
+                          - /url: /search?q=SHAP
+                        - text: ;
+                        - link "LIME" [ref=e168] [cursor=pointer]:
+                          - /url: /search?q=LIME
+                        - text: ;
+                        - link "XGBoost" [ref=e169] [cursor=pointer]:
+                          - /url: /search?q=XGBoost
+                        - text: ;
+                        - link "TabNet" [ref=e170] [cursor=pointer]:
+                          - /url: /search?q=TabNet
+                    - paragraph
+                  - generic [ref=e173]:
+                    - link [ref=e174] [cursor=pointer]:
+                      - /url: "#"
+                      - img [ref=e175]
+                    - generic:
+                      - link "<strong>Graphical Abstract</strong>":
+                        - /url: https://pub.mdpi-res.com/computers/computers-14-00160/article_deploy/html/images/computers-14-00160-ag.png?1745852630
+                    - generic [ref=e176]: Graphical Abstract
+                - generic [ref=e177]:
+                  - generic [ref=e178]:
+                    - generic [ref=e179]:
+                      - heading "1. Introduction" [level=2] [ref=e180]
+                      - generic [ref=e181]:
+                        - text: The rapid digitalization of society has led to an unprecedented surge in cybercriminal activities, with an increasing number of connected devices and users becoming potential targets [
+                        - link "1" [ref=e182] [cursor=pointer]:
+                          - /url: "#B1-computers-14-00160"
+                        - text: ","
+                        - link "2" [ref=e183] [cursor=pointer]:
+                          - /url: "#B2-computers-14-00160"
+                        - text: "]. These cyber threats encompass various malicious objectives, including unauthorized data collection from individuals and organizations, ransomware attacks on devices containing confidential information, and illicit content trading in dark markets ["
+                        - link "3" [ref=e184] [cursor=pointer]:
+                          - /url: "#B3-computers-14-00160"
+                        - text: "]."
+                      - generic [ref=e185]:
+                        - text: Digital forensics, a branch of forensic science, focuses on the recovery, preservation, and analysis of electronic data crucial for criminal investigations. This field encompasses the examination of computers, hard drives, mobile devices, and other data storage media [
+                        - link "4" [ref=e186] [cursor=pointer]:
+                          - /url: "#B4-computers-14-00160"
+                        - text: ","
+                        - link "5" [ref=e187] [cursor=pointer]:
+                          - /url: "#B5-computers-14-00160"
+                        - text: "]. The convergence of escalating cyber attacks and the growing diversity of vulnerable devices has necessitated the adaptation of forensic analysis and incident response methodologies, particularly through the integration of artificial intelligence (AI) technologies ["
+                        - link "6" [ref=e188] [cursor=pointer]:
+                          - /url: "#B6-computers-14-00160"
+                        - text: "]."
+                      - generic [ref=e189]:
+                        - text: AI, specifically machine learning (ML) algorithms, has demonstrated significant potential in forensic triage by enabling analysts to classify and categorize vast amounts of data while automating repetitive tasks [
+                        - link "7" [ref=e190] [cursor=pointer]:
+                          - /url: "#B7-computers-14-00160"
+                        - text: "]. However, this technological advancement presents unique challenges in the context of digital forensics, where practitioners are bound by strict ethical codes and legal requirements. These protocols ensure that forensic analysis is conducted fairly, objectively, and transparently while adhering to established legislation ["
+                        - link "8" [ref=e191] [cursor=pointer]:
+                          - /url: "#B8-computers-14-00160"
+                        - text: ","
+                        - link "9" [ref=e192] [cursor=pointer]:
+                          - /url: "#B9-computers-14-00160"
+                        - text: "]. Nonetheless, the increasing integration of AI in legal contexts raises additional concerns regarding accountability and due process, particularly when AI decisions cannot be clearly interpreted or challenged. Recent legal research emphasizes the urgency of establishing regulatory standards for the transparent use of AI-generated digital evidence ["
+                        - link "8" [ref=e193] [cursor=pointer]:
+                          - /url: "#B8-computers-14-00160"
+                        - text: "]."
+                      - generic [ref=e194]:
+                        - text: A critical challenge emerges from the opacity of AI systems, particularly those based on deep neural networks (DNNs). This opacity, known as the “black-box problem” [
+                        - link "10" [ref=e195] [cursor=pointer]:
+                          - /url: "#B10-computers-14-00160"
+                        - text: ","
+                        - link "11" [ref=e196] [cursor=pointer]:
+                          - /url: "#B11-computers-14-00160"
+                        - text: "], creates difficulties in interpreting and explaining the logic behind AI-generated conclusions. This limitation has significant implications for the legal admissibility of evidence and the overall integrity of forensic investigations ["
+                        - link "12" [ref=e197] [cursor=pointer]:
+                          - /url: "#B12-computers-14-00160"
+                        - text: "]. Furthermore, although empirical cases of legal challenges based solely on the opacity of AI models remain limited, recent studies highlight concerns regarding the admissibility of AI-generated evidence in court contexts ["
+                        - link "12" [ref=e198] [cursor=pointer]:
+                          - /url: "#B12-computers-14-00160"
+                        - text: "]. In this regard, the lack of transparency can undermine the trust of legal actors in AI systems, which has led to the development of legal frameworks demanding greater explainability ["
+                        - link "13" [ref=e199] [cursor=pointer]:
+                          - /url: "#B13-computers-14-00160"
+                        - text: "]."
+                      - generic [ref=e200]:
+                        - text: Explainable artificial intelligence (XAI) has emerged as a promising approach to address these challenges. XAI is a subfield of artificial intelligence focused on making ML models more interpretable and explainable to humans. It encompasses processes and methods that enable human users to understand and trust the outputs generated by ML algorithms [
+                        - link "14" [ref=e201] [cursor=pointer]:
+                          - /url: "#B14-computers-14-00160"
+                        - text: ","
+                        - link "15" [ref=e202] [cursor=pointer]:
+                          - /url: "#B15-computers-14-00160"
+                        - text: ","
+                        - link "16" [ref=e203] [cursor=pointer]:
+                          - /url: "#B16-computers-14-00160"
+                        - text: "]. XAI techniques achieve this by unveiling the decision-making process, identifying potential biases, debugging and improving models, and enhancing trust and transparency ["
+                        - link "17" [ref=e204] [cursor=pointer]:
+                          - /url: "#B17-computers-14-00160"
+                        - text: "]. Interpretability, a closely related concept, is described as the degree to which a human can understand the cause of a decision ["
+                        - link "18" [ref=e205] [cursor=pointer]:
+                          - /url: "#B18-computers-14-00160"
+                        - text: ","
+                        - link "19" [ref=e206] [cursor=pointer]:
+                          - /url: "#B19-computers-14-00160"
+                        - text: "]. It has also been defined as the ability to explain or present results in understandable terms for a human ["
+                        - link "20" [ref=e207] [cursor=pointer]:
+                          - /url: "#B20-computers-14-00160"
+                        - text: "] or as methods and models that make the behavior and predictions of ML systems comprehensible to humans ["
+                        - link "21" [ref=e208] [cursor=pointer]:
+                          - /url: "#B21-computers-14-00160"
+                        - text: "]."
+                      - generic [ref=e209]:
+                        - text: XAI techniques can be categorized into local and global explainers. Local explainers focus on elucidating the reasoning behind the model’s predictions for individual data points, analyzing how the model arrives at specific predictions based on its decision history. In contrast, global explainers aim to understand the overall behavior of the model across the entire dataset, identifying patterns in the model’s outputs and determining which input variables have the most significant influence on predictions [
+                        - link "22" [ref=e210] [cursor=pointer]:
+                          - /url: "#B22-computers-14-00160"
+                        - text: "]."
+                      - generic [ref=e211]:
+                        - text: This research aims to evaluate XAI approaches and techniques within the digital forensics context, addressing challenges related to transparency, explicability, and reliability of deep learning models. We focus on examining implementation and design methods to ensure compliance with ethical and legal requirements in forensic computing [
+                        - link "23" [ref=e212] [cursor=pointer]:
+                          - /url: "#B23-computers-14-00160"
+                        - text: "]. This is achieved through the following key contributions:"
+                      - generic [ref=e213]: "1. Critical review of XAI techniques in digital forensics: this study conducts a comprehensive analysis of current explainable artificial intelligence (XAI) techniques applied to digital forensic contexts, highlighting their advantages, limitations, and relevance to investigative processes."
+                      - generic [ref=e214]: "2. Theoretical foundation of XAI methods: it explores the conceptual and mathematical underpinnings of prominent XAI approaches, including LIME and SHAP, emphasizing their suitability for interpreting complex machine learning models used in cybersecurity and forensic analysis."
+                      - generic [ref=e215]: "3. Identification of current challenges: this work analyzes pressing issues in digital forensics related to the opacity of AI models, particularly in contexts where transparency and accountability are critical for the admissibility and reliability of digital evidence."
+                      - generic [ref=e216]: "4. Implementation and evaluation of XAI in case studies: multiple XAI techniques are applied and assessed within practical forensic scenarios using the UNSW-NB15 dataset, comparing their interpretability, consistency, and contribution to the traceability of decisions made by ML models."
+                      - generic [ref=e217]: "5. Definition of future research directions: this study outlines prospective avenues for advancing the integration of XAI in forensic analysis, including hybrid explanation models, regulatory compliance frameworks, and application to real-time threat detection systems."
+                      - generic [ref=e218]:
+                        - text: "The remainder of this paper is organized as follows:"
+                        - link "Section 2" [ref=e219] [cursor=pointer]:
+                          - /url: "#sec2-computers-14-00160"
+                        - text: introduces the XAI methods LIME and SHAP, describing their theoretical foundations and implementation details. It also presents the UNSW-NB15 dataset and outlines the preprocessing steps applied and details the configuration and training processes for the XGBoost and TabNet models.
+                        - link "Section 3" [ref=e220] [cursor=pointer]:
+                          - /url: "#sec3-computers-14-00160"
+                        - text: reports the experimental results, including accuracy metrics and explainability analyses based on local and global perspectives.
+                        - link "Section 4" [ref=e221] [cursor=pointer]:
+                          - /url: "#sec4-computers-14-00160"
+                        - text: discusses the implications of the findings, emphasizing the comparative interpretability of the models and the utility of XAI methods in forensic contexts. Finally,
+                        - link "Section 5" [ref=e222] [cursor=pointer]:
+                          - /url: "#sec5-computers-14-00160"
+                        - text: concludes this paper by summarizing the main contributions and outlining future research directions aimed at enhancing transparency, accountability, and operational applicability in explainable forensic intelligence.
+                    - generic [ref=e223]:
+                      - heading "2. Explainability and Interpretability Methods and Datasets" [level=2] [ref=e224]
+                      - generic [ref=e225]: This section presents LIME (Local Interpretable Model-Agnostic Explanations) and SHAP (SHapley Additive Explanations), two widely used methods for interpreting the behavior of complex models, enabling the understanding of each variable’s contribution to the model’s decisions. Additionally, the UNSW-NB15 dataset is described, a database commonly used for evaluating intrusion detection systems, providing a suitable environment for validating the analyzed models.
+                      - generic [ref=e226]:
+                        - 'heading "2.1. LIME: Local Interpretable Model-Agnostic Explanations" [level=3] [ref=e227]'
+                        - generic [ref=e228]:
+                          - text: LIME is a widely used technique for interpreting the results of black-box models. Its approach is based on generating a new dataset composed of permuted samples and their corresponding predictions from the original model [
+                          - link "23" [ref=e229] [cursor=pointer]:
+                            - /url: "#B23-computers-14-00160"
+                          - text: "]. From this dataset, LIME trains an interpretable model, weighting each instance based on its proximity to the instance of interest being explained. Recent studies highlight its effectiveness in providing meaningful explanations for complex machine learning models, particularly in domains such as healthcare and cybersecurity ["
+                          - link "24" [ref=e230] [cursor=pointer]:
+                            - /url: "#B24-computers-14-00160"
+                          - text: ","
+                          - link "25" [ref=e231] [cursor=pointer]:
+                            - /url: "#B25-computers-14-00160"
+                          - text: "]. The primary goal of LIME is to construct an interpretable model that is locally faithful to the classifier’s behavior around the instance of interest ["
+                          - link "23" [ref=e232] [cursor=pointer]:
+                            - /url: "#B23-computers-14-00160"
+                          - text: "]. This enables the analysis of feature contributions to the final prediction. LIME perturbs the original input and evaluates changes in the output to identify the most relevant features. Recent advancements have improved the scalability of LIME for large datasets and increased its adoption in real-world applications ["
+                          - link "26" [ref=e233] [cursor=pointer]:
+                            - /url: "#B26-computers-14-00160"
+                          - text: ","
+                          - link "27" [ref=e234] [cursor=pointer]:
+                            - /url: "#B27-computers-14-00160"
+                          - text: "]. Its flexibility lies in the ability to employ different interpretable models, such as Lasso or decision trees, further broadening its usability ["
+                          - link "22" [ref=e235] [cursor=pointer]:
+                            - /url: "#B22-computers-14-00160"
+                          - text: "]."
+                        - generic [ref=e236]:
+                          - link "Figure 1" [ref=e237] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f001"
+                          - text: illustrates the flowchart of the LIME (Local Interpretable Model-Agnostic Explanations) process, which is used to generate local explanations for complex machine learning models. The diagram outlines the key steps involved, including sampling perturbed instances, training an interpretable surrogate model, and generating feature importance scores to explain the model’s predictions in a localized manner.
+                        - generic [ref=e238]:
+                          - generic [ref=e240] [cursor=pointer]:
+                            - img "Computers 14 00160 g001" [ref=e241]
+                            - link [ref=e242]:
+                              - /url: "#fig_body_display_computers-14-00160-f001"
+                          - generic [ref=e243]: Figure 1. Flowchart of the LIME process for generating local explanations.
+                        - generic [ref=e244]:
+                          - text: "The formal definition of LIME can be expressed as follows:"
+                          - generic [ref=e245]:
+                            - math [ref=e248]:
+                              - generic [ref=e250]:
+                                - generic [ref=e251]: explanation
+                                - generic [ref=e252]:
+                                  - generic [ref=e253]: (
+                                  - generic [ref=e254]: x
+                                  - generic [ref=e255]: )
+                                - generic [ref=e256]: =
+                                - generic [ref=e257]: arg
+                                - generic [ref=e258]: _
+                                - generic [ref=e259]:
+                                  - generic [ref=e260]: min
+                                  - generic [ref=e261]:
+                                    - generic [ref=e262]: g
+                                    - generic [ref=e263]: ∈
+                                    - generic [ref=e264]: G
+                                - generic [ref=e265]: L
+                                - generic [ref=e266]:
+                                  - generic [ref=e267]: (
+                                  - generic [ref=e268]: f
+                                  - generic [ref=e269]: ","
+                                  - generic [ref=e270]: g
+                                  - generic [ref=e271]: ","
+                                  - generic [ref=e272]:
+                                    - generic [ref=e273]: π
+                                    - generic [ref=e274]: x
+                                  - generic [ref=e275]: )
+                                - generic [ref=e276]: +
+                                - generic [ref=e277]: Ω
+                                - generic [ref=e278]:
+                                  - generic [ref=e279]: (
+                                  - generic [ref=e280]: g
+                                  - generic [ref=e281]: )
+                            - generic [ref=e283]: (1)
+                          - text: Here,
+                        - list [ref=e284]:
+                          - listitem [ref=e285]:
+                            - generic [ref=e286]: g represents the interpretable model.
+                          - listitem [ref=e287]:
+                            - generic [ref=e288]: L measures the closeness between g and the original model’s prediction f.
+                          - listitem [ref=e289]:
+                            - generic [ref=e290]:
+                              - math [ref=e292]:
+                                - generic [ref=e294]:
+                                  - generic [ref=e295]: π
+                                  - generic [ref=e296]: x
+                              - text: defines the proximity between the generated samples and the instance x.
+                          - listitem [ref=e297]:
+                            - generic [ref=e298]:
+                              - math [ref=e300]:
+                                - generic [ref=e302]:
+                                  - generic [ref=e303]: Ω
+                                  - generic [ref=e304]: (
+                                  - generic [ref=e305]: g
+                                  - generic [ref=e306]: )
+                              - text: controls the complexity of g.
+                        - generic [ref=e307]: The objective is to minimize L while ensuring the simplicity of g. The set G represents the family of all possible explanations.
+                        - generic [ref=e308]:
+                          - text: One of LIME’s key advantages is its model-agnostic nature, allowing for independent interpretation of outputs regardless of the original model. Additionally, the complexity of the interpretable model g can be adjusted by the user to meet specific analytical requirements [
+                          - link "21" [ref=e309] [cursor=pointer]:
+                            - /url: "#B21-computers-14-00160"
+                          - text: "]. This adaptability makes LIME a powerful tool for explaining individual predictions in artificial intelligence models."
+                      - generic [ref=e310]:
+                        - 'heading "2.2. SHAP: SHapley Additive Explanations" [level=3] [ref=e311]'
+                        - generic [ref=e312]:
+                          - text: SHAP is a model-agnostic technique designed to explain the prediction of a specific instance x by calculating the contribution of each individual feature to the final prediction. This approach is grounded in Shapley values, derived from game theory [
+                          - link "28" [ref=e313] [cursor=pointer]:
+                            - /url: "#B28-computers-14-00160"
+                          - text: "]. Within this framework, data features are considered “players” in a coalition, while Shapley values equitably distribute the prediction, treated as the “payout”, among the relevant features ["
+                          - link "21" [ref=e314] [cursor=pointer]:
+                            - /url: "#B21-computers-14-00160"
+                          - text: "]. Notably, a single player may represent a group of related features. A conceptual diagram of SHAP is presented in"
+                          - link "Figure 2" [ref=e315] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f002"
+                          - text: ", a technique based on Shapley value theory to explain predictions in black-box machine learning models. It is divided into three sections: definition, highlighting its capability for both local and global explainability; objectives, which include interpretability, equitable feature contribution, and transparency in identifying influential variables; and process, which encompasses instance selection, baseline prediction, feature coalition formation, marginal contribution calculation, and the generation of local and global explanations. This approach enhances the interpretability and transparency of complex machine learning models."
+                        - generic [ref=e316]:
+                          - generic [ref=e318] [cursor=pointer]:
+                            - img "Computers 14 00160 g002" [ref=e319]
+                            - link [ref=e320]:
+                              - /url: "#fig_body_display_computers-14-00160-f002"
+                          - generic [ref=e321]: "Figure 2. SHAP: A model-agnostic approach for machine learning explainability."
+                        - generic [ref=e322]:
+                          - text: From a mathematical perspective, SHAP employs an additive feature attribution model, directly linking Shapley values to methods such as LIME. According to Lundberg and Lee [
+                          - link "29" [ref=e323] [cursor=pointer]:
+                            - /url: "#B29-computers-14-00160"
+                          - text: "], the explanation of a prediction is formulated as follows:"
+                          - generic [ref=e324]:
+                            - math [ref=e327]:
+                              - generic [ref=e329]:
+                                - generic [ref=e330]: g
+                                - generic [ref=e331]:
+                                  - generic [ref=e332]: (
+                                  - generic [ref=e333]:
+                                    - generic [ref=e334]: z
+                                    - generic [ref=e335]: ′
+                                  - generic [ref=e336]: )
+                                - generic [ref=e337]: =
+                                - generic [ref=e338]:
+                                  - generic [ref=e339]: ϕ
+                                  - generic [ref=e340]: "0"
+                                - generic [ref=e341]: +
+                                - generic [ref=e342]:
+                                  - generic [ref=e343]: ∑
+                                  - generic [ref=e344]:
+                                    - generic [ref=e345]: j
+                                    - generic [ref=e346]: =
+                                    - generic [ref=e347]: "1"
+                                  - generic [ref=e348]: M
+                                - generic [ref=e349]:
+                                  - generic [ref=e350]: (
+                                  - generic [ref=e351]:
+                                    - generic [ref=e352]: ϕ
+                                    - generic [ref=e353]: j
+                                  - generic [ref=e354]:
+                                    - generic [ref=e355]: z
+                                    - generic [ref=e356]: j
+                                    - generic [ref=e357]: ′
+                                  - generic [ref=e358]: )
+                            - generic [ref=e360]: (2)
+                          - text: where g is the explanatory model,
+                          - math [ref=e362]:
+                            - generic [ref=e364]:
+                              - generic [ref=e365]:
+                                - generic [ref=e366]: z
+                                - generic [ref=e367]: ′
+                              - generic [ref=e368]: ∈
+                              - generic [ref=e369]:
+                                - generic [ref=e370]:
+                                  - generic [ref=e371]: "{"
+                                  - generic [ref=e372]: "0"
+                                  - generic [ref=e373]: ","
+                                  - generic [ref=e374]: "1"
+                                  - generic [ref=e375]: "}"
+                                - generic [ref=e376]: M
+                          - text: represents the coalition vector, M denotes the maximum coalition size, and
+                          - math [ref=e378]:
+                            - generic [ref=e380]:
+                              - generic [ref=e381]:
+                                - generic [ref=e382]: ϕ
+                                - generic [ref=e383]: j
+                              - generic [ref=e384]: ∈
+                              - generic [ref=e385]: R
+                          - text: corresponds to the Shapley value assigned to feature j. For example, when processing an image, SHAP visualizes the contributions of each feature, highlighting relevant features in red and irrelevant ones in blue, thereby providing a clear, interpretable explanation of the AI’s decision-making process.
+                        - generic [ref=e386]:
+                          - text: SHAP stands out due to its adherence to three key properties, which align with Shapley values and ensure fair and consistent feature attribution [
+                          - link "21" [ref=e387] [cursor=pointer]:
+                            - /url: "#B21-computers-14-00160"
+                          - text: "]:"
+                        - generic [ref=e389]:
+                          - term [ref=e390]: "1."
+                          - definition [ref=e391]:
+                            - generic [ref=e392]: "Local Accuracy:"
+                            - generic [ref=e393]:
+                              - text: "The contributions of all features must sum to the difference between the prediction for x and the average prediction:"
+                              - generic [ref=e394]:
+                                - math [ref=e397]:
+                                  - generic [ref=e399]:
+                                    - generic [ref=e400]:
+                                      - generic [ref=e401]: f
+                                      - generic [ref=e402]: ^
+                                    - generic [ref=e403]:
+                                      - generic [ref=e404]: (
+                                      - generic [ref=e405]: x
+                                      - generic [ref=e406]: )
+                                    - generic [ref=e407]: =
+                                    - generic [ref=e408]: g
+                                    - generic [ref=e409]:
+                                      - generic [ref=e410]: (
+                                      - generic [ref=e411]:
+                                        - generic [ref=e412]: z
+                                        - generic [ref=e413]: ′
+                                      - generic [ref=e414]: )
+                                    - generic [ref=e415]: =
+                                    - generic [ref=e416]:
+                                      - generic [ref=e417]: ϕ
+                                      - generic [ref=e418]: "0"
+                                    - generic [ref=e419]: +
+                                    - generic [ref=e420]:
+                                      - generic [ref=e421]: ∑
+                                      - generic [ref=e422]:
+                                        - generic [ref=e423]: j
+                                        - generic [ref=e424]: =
+                                        - generic [ref=e425]: "1"
+                                      - generic [ref=e426]: M
+                                    - generic [ref=e427]:
+                                      - generic [ref=e428]: (
+                                      - generic [ref=e429]:
+                                        - generic [ref=e430]: ϕ
+                                        - generic [ref=e431]: j
+                                      - generic [ref=e432]:
+                                        - generic [ref=e433]: z
+                                        - generic [ref=e434]: j
+                                        - generic [ref=e435]: ′
+                                      - generic [ref=e436]: )
+                                - generic [ref=e438]: (3)
+                              - text: where
+                              - math [ref=e440]:
+                                - generic [ref=e442]:
+                                  - generic [ref=e443]: ϕ
+                                  - generic [ref=e444]: "0"
+                              - text: is the base value representing the average prediction. If all
+                              - math [ref=e446]:
+                                - generic [ref=e448]:
+                                  - generic [ref=e449]: z
+                                  - generic [ref=e450]: j
+                                  - generic [ref=e451]: ′
+                              - text: "are set to 1, this corresponds to the efficiency property of Shapley values, distributing the difference fairly across all features:"
+                              - generic [ref=e452]:
+                                - math [ref=e455]:
+                                  - generic [ref=e457]:
+                                    - generic [ref=e458]:
+                                      - generic [ref=e459]: f
+                                      - generic [ref=e460]: ^
+                                    - generic [ref=e461]:
+                                      - generic [ref=e462]: (
+                                      - generic [ref=e463]: x
+                                      - generic [ref=e464]: )
+                                    - generic [ref=e465]: =
+                                    - generic [ref=e466]:
+                                      - generic [ref=e467]: ϕ
+                                      - generic [ref=e468]: "0"
+                                    - generic [ref=e469]: +
+                                    - generic [ref=e470]:
+                                      - generic [ref=e471]: ∑
+                                      - generic [ref=e472]:
+                                        - generic [ref=e473]: j
+                                        - generic [ref=e474]: =
+                                        - generic [ref=e475]: "1"
+                                      - generic [ref=e476]: M
+                                    - generic [ref=e477]:
+                                      - generic [ref=e478]: ϕ
+                                      - generic [ref=e479]: j
+                                    - generic [ref=e480]: =
+                                    - generic [ref=e481]:
+                                      - generic [ref=e482]: E
+                                      - generic [ref=e483]: X
+                                    - generic [ref=e484]:
+                                      - generic [ref=e485]: "["
+                                      - generic [ref=e486]:
+                                        - generic [ref=e487]: f
+                                        - generic [ref=e488]: ^
+                                      - generic [ref=e489]:
+                                        - generic [ref=e490]: (
+                                        - generic [ref=e491]: X
+                                        - generic [ref=e492]: )
+                                      - generic [ref=e493]: "]"
+                                    - generic [ref=e494]: +
+                                    - generic [ref=e495]:
+                                      - generic [ref=e496]: ∑
+                                      - generic [ref=e497]:
+                                        - generic [ref=e498]: j
+                                        - generic [ref=e499]: =
+                                        - generic [ref=e500]: "1"
+                                      - generic [ref=e501]: M
+                                    - generic [ref=e502]:
+                                      - generic [ref=e503]: ϕ
+                                      - generic [ref=e504]: j
+                                - generic [ref=e506]: (4)
+                          - term [ref=e507]: "2."
+                          - definition [ref=e508]:
+                            - generic [ref=e509]:
+                              - text: "Missingness: Features not present in the coalition ("
+                              - math [ref=e511]:
+                                - generic [ref=e513]:
+                                  - generic [ref=e514]:
+                                    - generic [ref=e515]: z
+                                    - generic [ref=e516]: j
+                                    - generic [ref=e517]: ′
+                                  - generic [ref=e518]: =
+                                  - generic [ref=e519]: "0"
+                              - text: ") receive an attribution value of zero:"
+                              - generic [ref=e520]:
+                                - math [ref=e523]:
+                                  - generic [ref=e525]:
+                                    - generic [ref=e526]:
+                                      - generic [ref=e527]: z
+                                      - generic [ref=e528]: j
+                                      - generic [ref=e529]: ′
+                                    - generic [ref=e530]: =
+                                    - generic [ref=e531]: "0"
+                                    - generic [ref=e532]: ⇒
+                                    - generic [ref=e533]:
+                                      - generic [ref=e534]: ϕ
+                                      - generic [ref=e535]: j
+                                    - generic [ref=e536]: =
+                                    - generic [ref=e537]: "0"
+                                - generic [ref=e539]: (5)
+                            - generic [ref=e540]:
+                              - text: Conversely, features included in the explanation (
+                              - math [ref=e542]:
+                                - generic [ref=e544]:
+                                  - generic [ref=e545]:
+                                    - generic [ref=e546]: z
+                                    - generic [ref=e547]: j
+                                    - generic [ref=e548]: ′
+                                  - generic [ref=e549]: =
+                                  - generic [ref=e550]: "1"
+                              - text: ) are assigned their respective Shapley values.
+                          - term [ref=e551]: "3."
+                          - definition [ref=e552]:
+                            - generic [ref=e553]:
+                              - text: "Consistency: If a model changes such that the marginal contribution of a feature increases or remains the same (regardless of other features), the Shapley value for that feature must also increase or remain unchanged. Formally, for any models f and"
+                              - math [ref=e555]:
+                                - generic [ref=e557]:
+                                  - generic [ref=e558]: f
+                                  - generic [ref=e559]: ′
+                              - text: ", and"
+                              - math [ref=e561]:
+                                - generic [ref=e563]:
+                                  - generic [ref=e564]:
+                                    - generic [ref=e565]: z
+                                    - generic [ref=e566]: ′
+                                  - generic [ref=e567]: ∈
+                                  - generic [ref=e568]:
+                                    - generic [ref=e569]:
+                                      - generic [ref=e570]: "{"
+                                      - generic [ref=e571]: "0"
+                                      - generic [ref=e572]: ","
+                                      - generic [ref=e573]: "1"
+                                      - generic [ref=e574]: "}"
+                                    - generic [ref=e575]: M
+                              - text: ","
+                              - generic [ref=e576]:
+                                - math [ref=e579]:
+                                  - generic [ref=e581]:
+                                    - generic [ref=e582]:
+                                      - generic [ref=e583]: f
+                                      - generic [ref=e584]: x
+                                      - generic [ref=e585]: ′
+                                    - generic [ref=e586]:
+                                      - generic [ref=e587]: (
+                                      - generic [ref=e588]:
+                                        - generic [ref=e589]: z
+                                        - generic [ref=e590]: ′
+                                      - generic [ref=e591]: )
+                                    - generic [ref=e592]: −
+                                    - generic [ref=e593]:
+                                      - generic [ref=e594]: f
+                                      - generic [ref=e595]: x
+                                      - generic [ref=e596]: ′
+                                    - generic [ref=e597]:
+                                      - generic [ref=e598]: (
+                                      - generic [ref=e599]:
+                                        - generic [ref=e600]: z
+                                        - generic [ref=e601]: ′
+                                      - generic [ref=e602]: ∖
+                                      - generic [ref=e603]: i
+                                      - generic [ref=e604]: )
+                                    - generic [ref=e605]: ≥
+                                    - generic [ref=e606]:
+                                      - generic [ref=e607]: f
+                                      - generic [ref=e608]: x
+                                    - generic [ref=e609]:
+                                      - generic [ref=e610]: (
+                                      - generic [ref=e611]:
+                                        - generic [ref=e612]: z
+                                        - generic [ref=e613]: ′
+                                      - generic [ref=e614]: )
+                                    - generic [ref=e615]: −
+                                    - generic [ref=e616]:
+                                      - generic [ref=e617]: f
+                                      - generic [ref=e618]: x
+                                    - generic [ref=e619]:
+                                      - generic [ref=e620]: (
+                                      - generic [ref=e621]:
+                                        - generic [ref=e622]: z
+                                        - generic [ref=e623]: ′
+                                      - generic [ref=e624]: ∖
+                                      - generic [ref=e625]: i
+                                      - generic [ref=e626]: )
+                                    - generic [ref=e627]: ⇒
+                                    - generic [ref=e628]:
+                                      - generic [ref=e629]: ϕ
+                                      - generic [ref=e630]: i
+                                    - generic [ref=e631]:
+                                      - generic [ref=e632]: (
+                                      - generic [ref=e633]:
+                                        - generic [ref=e634]: f
+                                        - generic [ref=e635]: ′
+                                      - generic [ref=e636]: ","
+                                      - generic [ref=e637]: x
+                                      - generic [ref=e638]: )
+                                    - generic [ref=e639]: ≥
+                                    - generic [ref=e640]:
+                                      - generic [ref=e641]: ϕ
+                                      - generic [ref=e642]: i
+                                    - generic [ref=e643]:
+                                      - generic [ref=e644]: (
+                                      - generic [ref=e645]: f
+                                      - generic [ref=e646]: ","
+                                      - generic [ref=e647]: x
+                                      - generic [ref=e648]: )
+                                - generic [ref=e650]: (6)
+                        - generic [ref=e651]:
+                          - text: These properties, along with efficiency, ensure that SHAP provides the most theoretically grounded method for feature attribution [
+                          - link "29" [ref=e652] [cursor=pointer]:
+                            - /url: "#B29-computers-14-00160"
+                          - text: "]. Unlike alternative techniques such as LIME, which assumes local linearity of the machine learning model, SHAP is built upon solid theoretical foundations that guarantee completeness and consistency ["
+                          - link "30" [ref=e653] [cursor=pointer]:
+                            - /url: "#B30-computers-14-00160"
+                          - text: ","
+                          - link "31" [ref=e654] [cursor=pointer]:
+                            - /url: "#B31-computers-14-00160"
+                          - text: "]. Recent advancements have further validated SHAP’s effectiveness in high-stakes applications like finance and healthcare, where trust in AI systems is paramount ["
+                          - link "32" [ref=e655] [cursor=pointer]:
+                            - /url: "#B32-computers-14-00160"
+                          - text: ","
+                          - link "33" [ref=e656] [cursor=pointer]:
+                            - /url: "#B33-computers-14-00160"
+                          - text: "]."
+                        - generic [ref=e657]:
+                          - text: The efficiency property, unique to Shapley values and SHAP, ensures the fair distribution of the prediction among the features of the instance. This makes SHAP the only method capable of providing a complete explanation, which is particularly crucial in scenarios where legal requirements mandate explainability [
+                          - link "29" [ref=e658] [cursor=pointer]:
+                            - /url: "#B29-computers-14-00160"
+                          - text: "]. By satisfying these conditions, SHAP can meet stringent regulatory standards for transparency in AI models. This advantage positions SHAP as an essential tool in the development of ethical AI systems ["
+                          - link "13" [ref=e659] [cursor=pointer]:
+                            - /url: "#B13-computers-14-00160"
+                          - text: ","
+                          - link "34" [ref=e660] [cursor=pointer]:
+                            - /url: "#B34-computers-14-00160"
+                          - text: "]."
+                        - generic [ref=e661]:
+                          - text: LIME and SHAP are techniques aimed at interpreting complex machine learning models. LIME provides quick local explanations using linear approximations, whereas SHAP delivers global and comprehensive interpretations based on Shapley values, albeit with higher computational cost. Both methods significantly enhance model transparency and understanding; a detailed comparison is presented in
+                          - link "Table 1" [ref=e662] [cursor=pointer]:
+                            - /url: "#table_body_display_computers-14-00160-t001"
+                          - text: . The SHAP/LIME analysis phase provides interpretability by calculating feature contributions and visualizing both local and global explanations. Finally, the insights phase identifies key features, optimizes performance, and justifies model decisions for end users. This structured workflow highlights the importance of explainability techniques in understanding machine learning model behavior.
+                        - generic [ref=e663]:
+                          - generic [ref=e664]: Table 1. Comparative summary of LIME and SHAP explanation techniques.
+                          - generic [ref=e666] [cursor=pointer]:
+                            - img [ref=e667]
+                            - link [ref=e668]:
+                              - /url: "#table_body_display_computers-14-00160-t001"
+                      - generic [ref=e669]:
+                        - 'heading "2.3. Dataset: UNSW-NB15" [level=3] [ref=e670]'
+                        - generic [ref=e671]:
+                          - text: For model training, the UNSW-NB15 dataset is used. Generated in 2015 [
+                          - link "35" [ref=e672] [cursor=pointer]:
+                            - /url: "#B35-computers-14-00160"
+                          - text: ","
+                          - link "36" [ref=e673] [cursor=pointer]:
+                            - /url: "#B36-computers-14-00160"
+                          - text: "], it aims to train updated Network-based Intrusion Detection Systems (NIDSs), considering modern attacks with low and slow activity. The dataset contains 100 GB of network traffic, with each pcap file split into 1000 MB using the tcpdump tool. The data are provided in CSV files UNSW_NB15_1, UNSW_NB15_2, UNSW_NB15_3, and UNSW_NB15_4, in addition to two CSV files, UNSW_NB15_training-set for model training and UNSW_NB15_testing-set for model testing ["
+                          - link "37" [ref=e674] [cursor=pointer]:
+                            - /url: "#B37-computers-14-00160"
+                          - text: ","
+                          - link "38" [ref=e675] [cursor=pointer]:
+                            - /url: "#B38-computers-14-00160"
+                          - text: "]. In"
+                          - link "Figure 3" [ref=e676] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f003"
+                          - text: ", the architecture of the UNSW-NB15 dataset is summarized, outlining the main stages from raw traffic capture to labeled data export. This process, which includes filtering, feature generation, and flow labeling, ensures data quality and supports effective model training for intrusion detection."
+                        - generic [ref=e677]:
+                          - generic [ref=e679] [cursor=pointer]:
+                            - img "Computers 14 00160 g003" [ref=e680]
+                            - link [ref=e681]:
+                              - /url: "#fig_body_display_computers-14-00160-f003"
+                          - generic [ref=e682]: Figure 3. Diagram of the architecture from UNSW-NB15 dataset.
+                        - generic [ref=e683]:
+                          - text: Following the presentation of the dataset architecture in
+                          - link "Figure 3" [ref=e684] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f003"
+                          - text: ", which establishes the foundation for structured data collection and preprocessing,"
+                          - link "Figure 4" [ref=e685] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f004"
+                          - text: delineates the subsequent stages of the machine learning pipeline adopted in this study. This includes data preparation, feature engineering, model training, and post hoc interpretability analysis using SHAP and LIME. The diagram provides a comprehensive overview of the methodological framework, highlighting the integration of explainability techniques within the intrusion detection workflow.
+                        - generic [ref=e686]:
+                          - generic [ref=e688] [cursor=pointer]:
+                            - img "Computers 14 00160 g004" [ref=e689]
+                            - link [ref=e690]:
+                              - /url: "#fig_body_display_computers-14-00160-f004"
+                          - generic [ref=e691]: Figure 4. Diagram of the model training process using the UNSW-NB15 dataset and its integration with SHAP-based explainability.
+                        - generic [ref=e692]:
+                          - text: "The dataset is first partitioned into three subsets to support the model development workflow: 70% of the data are used for training, 20% for validation, and the remaining 10% for testing. The training and validation sets are employed to select the appropriate algorithm and optimize hyperparameters, while the test set is reserved exclusively for final performance evaluation. Model performance is primarily assessed using accuracy as the main evaluation metric. Additionally, confusion matrices are employed to visualize and analyze the distribution of predictions, offering a detailed understanding of the model’s ability to distinguish between normal and attack traffic. To complement this evaluation, post hoc explainability techniques such as SHAP and LIME are applied to interpret the model’s predictions, identify the most influential features, and ensure transparency in decision-making, particularly in the context of intrusion detection. To address overfitting, the model configurations implemented in this study incorporate architectural mechanisms specifically designed to enhance generalization. XGBoost integrates validation-based early stopping and regularization strategies that constrain model complexity and prevent overtraining. TabNet, in turn, relies on a sparse and attentive architecture that selectively emphasizes the most relevant features, inherently reducing the risk of overfitting while preserving interpretability. In both cases, the combination of adaptive learning dynamics and regularization contributes to stable and efficient training. The integration of these architectural strategies supports the validity of the resulting models by promoting robust generalization to unseen data, without relying on additional or computationally intensive overfitting control procedures. The complete architecture, which is obtained by generating the final form of UNSW-NB15 from the pcap files, is presented in a CSV file with 49 features ["
+                          - link "39" [ref=e693] [cursor=pointer]:
+                            - /url: "#B39-computers-14-00160"
+                          - text: ","
+                          - link "40" [ref=e694] [cursor=pointer]:
+                            - /url: "#B40-computers-14-00160"
+                          - text: "]. These features are detailed in"
+                          - link "Table 2" [ref=e695] [cursor=pointer]:
+                            - /url: "#table_body_display_computers-14-00160-t002"
+                          - text: .
+                        - generic [ref=e696]:
+                          - generic [ref=e697]: Table 2. Consolidated feature description grouped by feature type.
+                          - generic [ref=e699] [cursor=pointer]:
+                            - img [ref=e700]
+                            - link [ref=e701]:
+                              - /url: "#table_body_display_computers-14-00160-t002"
+                      - generic [ref=e702]:
+                        - heading "2.4. Model Training" [level=3] [ref=e703]
+                        - generic [ref=e704]:
+                          - text: The model training was conducted using the UNSW_NB15_training-set file, which consists of 175,341 distinct traffic entries. Each of these rows is categorized based on the type of traffic (Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode, and Worms) as shown in
+                          - link "Table 2" [ref=e705] [cursor=pointer]:
+                            - /url: "#table_body_display_computers-14-00160-t002"
+                          - text: . The UNSW-NB15 dataset is widely recognized for its capability to simulate modern network traffic and attacks, making it a critical resource for evaluating intrusion detection systems [
+                          - link "41" [ref=e706] [cursor=pointer]:
+                            - /url: "#B41-computers-14-00160"
+                          - text: "]. Recent studies emphasize its use for benchmarking machine learning models in cybersecurity ["
+                          - link "42" [ref=e707] [cursor=pointer]:
+                            - /url: "#B42-computers-14-00160"
+                          - text: "]."
+                        - generic [ref=e708]:
+                          - text: This dataset splitting strategy aligns with standard practices in the field, ensuring adequate model generalization and reliable evaluation of its performance [
+                          - link "43" [ref=e709] [cursor=pointer]:
+                            - /url: "#B43-computers-14-00160"
+                          - text: "]. Ensuring a balanced split between training and validation subsets is particularly important to maintain the statistical relevance of the dataset ["
+                          - link "44" [ref=e710] [cursor=pointer]:
+                            - /url: "#B44-computers-14-00160"
+                          - text: "]."
+                        - generic [ref=e711]:
+                          - text: To ensure a focused and robust analysis while adhering to best practices aimed at preventing model overfitting and enhancing interpretability [
+                          - link "45" [ref=e712] [cursor=pointer]:
+                            - /url: "#B45-computers-14-00160"
+                          - text: "], a total of 39 features were selected from the original set of 49 variables available in the UNSW-NB15 dataset, presented in"
+                          - link "Table 2" [ref=e713] [cursor=pointer]:
+                            - /url: "#table_body_display_computers-14-00160-t002"
+                          - text: ". The 10 excluded features fall into the following categories:"
+                        - list [ref=e715]:
+                          - listitem [ref=e716]:
+                            - generic [ref=e717]: "Nominal Identifiers and High-Cardinality Categoricals: Features such as srcip (source), dstip (destination IP addresses), sport, dsport (port numbers), proto (protocol type, such as TCP or UDP), state (state and protocol indicator, such as ACC or CLON), and service (e.g., HTTP, FTP, SSH, DNS) were excluded. These features often act as unique identifiers or have very high cardinality, making them challenging for direct model input without specific encoding strategies (like hashing or embedding) that could potentially obscure interpretability or lead to overfitting. The attack_cat feature was also excluded as it represents the specific attack category name derived from the target label itself."
+                          - listitem [ref=e718]:
+                            - generic [ref=e719]: "Temporal Features: stime and ltime (start and end timestamps) were omitted as raw timestamps are typically not directly suitable for non-sequential models like the ones used here and could introduce data leakage if not handled carefully."
+                        - generic [ref=e720]:
+                          - text: The exclusion of 10 features was based on strategic criteria, prioritizing variables with higher predictive relevance and removing those that introduced noise or redundancy into the model. Specifically, nominal attributes such as source and destination IP addresses, port numbers, and service categories, as well as connection time records, were excluded. Although these features provide descriptive context, they do not offer significant explanatory value for the detection of malicious cyber activities [
+                          - link "46" [ref=e721] [cursor=pointer]:
+                            - /url: "#B46-computers-14-00160"
+                          - text: "]. This feature selection process not only simplified the model architecture, improving its interpretability through explainable AI methods such as SHAP and LIME, but also enhanced the transparency of the findings, an essential factor for ensuring the forensic applicability of the results and meeting the ethical and legal standards required for the digital forensic analysis of cyber threats ["
+                          - link "47" [ref=e722] [cursor=pointer]:
+                            - /url: "#B47-computers-14-00160"
+                          - text: "]."
+                        - generic [ref=e723]:
+                          - text: Following this feature selection and data refinement stage, two models were trained to evaluate the performance of explainable AI techniques. The first model employed XGBoost, an ensemble learning algorithm based on decision trees, which has demonstrated robust performance in cybersecurity applications, particularly for anomaly detection tasks (Algorithm 1). The second model was developed using TabNet (Algorithm 2), a novel deep learning architecture that integrates feature selection within its structure while maintaining high interpretability for tabular data modeling. The objective of training these models was to compare the machine reasoning explanations generated by SHAP and LIME, leveraging models with different levels of inherent interpretability. These models and their respective results will be discussed in detail in the following sections. To support model training, a set of preprocessing operations was applied to the input features, including encoding of categorical variables, normalization of numerical attributes, and exclusion of non-informative identifiers.
+                          - link "Table 3" [ref=e724] [cursor=pointer]:
+                            - /url: "#table_body_display_computers-14-00160-t003"
+                          - text: summarizes the key preprocessing techniques and their role in preparing the data for both XGBoost and TabNet.
+                        - generic [ref=e725]:
+                          - generic [ref=e726]: Table 3. Preprocessing techniques applied to input features.
+                          - generic [ref=e728] [cursor=pointer]:
+                            - img [ref=e729]
+                            - link [ref=e730]:
+                              - /url: "#table_body_display_computers-14-00160-t003"
+                        - generic [ref=e731]:
+                          - heading "2.4.1. XGBoost" [level=4] [ref=e732]
+                          - generic [ref=e733]:
+                            - text: The XGBoost algorithm was selected for its proven effectiveness in classification tasks, particularly in cybersecurity and anomaly detection contexts [
+                            - link "48" [ref=e734] [cursor=pointer]:
+                              - /url: "#B48-computers-14-00160"
+                            - text: "]. As a scalable gradient boosting framework, it handles structured data efficiently and captures complex feature interactions. Its built-in regularization and optimization strategies improve generalization and reduce overfitting. Additionally, its compatibility with explainability methods like SHAP and LIME makes it a suitable choice for intrusion detection modeling in this study. The parameters used for training the classifier are as follows:"
+                            - table [ref=e735]:
+                              - rowgroup [ref=e736]:
+                                - row "Algorithm 1 XGBoost classifier configuration" [ref=e737]:
+                                  - cell "Algorithm 1 XGBoost classifier configuration" [ref=e738]
+                                - row "xgb_model = xgb.XGBClassifier( n_estimators=100, learning_rate=0.1, early_stopping_rounds=10, max_depth=6, min_child_weight=1, subsample=0.8, colsample_bytree=0.8, objective=’binary:logistic’, random_state=42, use_label_encoder=False, eval_metric=’logloss’ )" [ref=e739]:
+                                  - cell "xgb_model = xgb.XGBClassifier( n_estimators=100, learning_rate=0.1, early_stopping_rounds=10, max_depth=6, min_child_weight=1, subsample=0.8, colsample_bytree=0.8, objective=’binary:logistic’, random_state=42, use_label_encoder=False, eval_metric=’logloss’ )" [ref=e740]:
+                                    - generic [ref=e741]: xgb_model = xgb.XGBClassifier(
+                                    - generic [ref=e742]: n_estimators=100,
+                                    - generic [ref=e743]: learning_rate=0.1,
+                                    - generic [ref=e744]: early_stopping_rounds=10,
+                                    - generic [ref=e745]: max_depth=6,
+                                    - generic [ref=e746]: min_child_weight=1,
+                                    - generic [ref=e747]: subsample=0.8,
+                                    - generic [ref=e748]: colsample_bytree=0.8,
+                                    - generic [ref=e749]: objective=’binary:logistic’,
+                                    - generic [ref=e750]: random_state=42,
+                                    - generic [ref=e751]: use_label_encoder=False,
+                                    - generic [ref=e752]: eval_metric=’logloss’
+                                    - generic [ref=e753]: )
+                        - generic [ref=e754]:
+                          - heading "2.4.2. TabNet" [level=4] [ref=e755]
+                          - generic [ref=e756]:
+                            - text: TabNet is a deep learning architecture optimized for tabular data, integrating attention mechanisms and embedded feature selection to dynamically prioritize relevant attributes [
+                            - link "49" [ref=e757] [cursor=pointer]:
+                              - /url: "#B49-computers-14-00160"
+                            - text: "]. Its design balances high performance with native interpretability, providing clear insight into the importance of features, which represents a crucial advantage in cybersecurity and intrusion detection. Unlike traditional “black-box” neural networks, TabNet offers inherent explainability, complementing tools like SHAP and LIME. In this study, TabNet is employed to detect complex attack patterns in network traffic, leveraging its sequential decision-making capabilities to enhance both accuracy and model transparency. The parameters used for training are as follows:"
+                            - table [ref=e758]:
+                              - rowgroup [ref=e759]:
+                                - row "Algorithm 2 TabNet classifier configuration" [ref=e760]:
+                                  - cell "Algorithm 2 TabNet classifier configuration" [ref=e761]
+                                - row "tabnet_model = TabNetClassifier( n_d=8, n_a=8, n_steps=3, gamma=1.3, lambda_sparse=1e-4, cat_emb_dim=1, cat_idxs=[], optimizer_fn=torch.optim.Adam, optimizer_params=dict(lr=2e-2), scheduler_fn=torch.optim.lr_scheduler.StepLR, scheduler_params=dict( step_size=10, gamma=0.1 ), device_name=str(device) )" [ref=e762]:
+                                  - cell "tabnet_model = TabNetClassifier( n_d=8, n_a=8, n_steps=3, gamma=1.3, lambda_sparse=1e-4, cat_emb_dim=1, cat_idxs=[], optimizer_fn=torch.optim.Adam, optimizer_params=dict(lr=2e-2), scheduler_fn=torch.optim.lr_scheduler.StepLR, scheduler_params=dict( step_size=10, gamma=0.1 ), device_name=str(device) )" [ref=e763]:
+                                    - generic [ref=e764]: tabnet_model = TabNetClassifier(
+                                    - generic [ref=e765]: n_d=8,
+                                    - generic [ref=e766]: n_a=8,
+                                    - generic [ref=e767]: n_steps=3,
+                                    - generic [ref=e768]: gamma=1.3,
+                                    - generic [ref=e769]: lambda_sparse=1e-4,
+                                    - generic [ref=e770]: cat_emb_dim=1,
+                                    - generic [ref=e771]: cat_idxs=[],
+                                    - generic [ref=e772]: optimizer_fn=torch.optim.Adam,
+                                    - generic [ref=e773]: optimizer_params=dict(lr=2e-2),
+                                    - generic [ref=e774]: scheduler_fn=torch.optim.lr_scheduler.StepLR,
+                                    - generic [ref=e775]: scheduler_params=dict(
+                                    - generic [ref=e776]: step_size=10,
+                                    - generic [ref=e777]: gamma=0.1
+                                    - generic [ref=e778]: ),
+                                    - generic [ref=e779]: device_name=str(device)
+                                    - generic [ref=e780]: )
+                          - generic [ref=e781]:
+                            - text: The
+                            - math [ref=e783]:
+                              - generic [ref=e785]:
+                                - generic [ref=e786]: "2"
+                                - generic [ref=e787]: ×
+                                - generic [ref=e788]:
+                                  - generic [ref=e789]: "10"
+                                  - generic [ref=e790]: "2"
+                            - text: learning rate used in TabNet was defined through an exploratory process aimed at accelerating model convergence in the early stages of training. This value, although relatively high, is acceptable in architectures such as TabNet, which integrate internal attention and feature selection mechanisms, allowing for more targeted learning that is tolerant of aggressive rates.
+                          - generic [ref=e791]: Additionally, a learning rate planner (StepLR) was incorporated, which reduces the learning rate at regular intervals during the training epochs. This strategy allows for a rapid initial learning phase, followed by fine-tuning of the weights, thus reducing the risk of overfitting. This combination has proven effective in recent studies applied to complex tabular data.
+                    - generic [ref=e792]:
+                      - heading "3. Results" [level=2] [ref=e793]
+                      - generic [ref=e794]: The results obtained from applying LIME and SHAP explainers to the XGBoost and TabNet models provide valuable insights into the interpretability and reasoning of these machine learning algorithms. By analyzing feature contributions at both local and global levels, these explainers reveal the decision-making processes of each model, highlighting critical variables that influence predictions. This analysis facilitates a comparative understanding of how different model architectures, with varying levels of complexity, handle the same dataset, offering a robust evaluation of their transparency and explicability.
+                      - generic [ref=e795]:
+                        - heading "3.1. XGBoost" [level=3] [ref=e796]
+                        - generic [ref=e797]:
+                          - text: Analyzing the accuracy progression across boosting iterations helps contextualize the model’s learning behavior, enabling a clearer understanding of its predictive performance and supporting the interpretation of the subsequent confusion matrices and explainability outputs. As shown in
+                          - link "Figure 5" [ref=e798] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f005"
+                          - text: ", the XGBoost model demonstrates a steady improvement in accuracy across boosting iterations, reaching approximately 90% on the training set and 85% on the validation set. Both curves follow a consistent upward trend, indicating effective learning and stable generalization. Although the performance gap suggests mild overfitting, the model exhibits strong capacity to capture complex patterns in network traffic and maintain robustness even under class imbalance conditions typical of intrusion detection scenarios. These results contextualize the subsequent evaluation through confusion matrices and SHAP/LIME explainability analyses."
+                        - generic [ref=e799]:
+                          - generic [ref=e801] [cursor=pointer]:
+                            - img "Computers 14 00160 g005" [ref=e802]
+                            - link [ref=e803]:
+                              - /url: "#fig_body_display_computers-14-00160-f005"
+                          - generic [ref=e804]: Figure 5. Training and validation accuracy of the XGBoost model.
+                        - generic [ref=e805]:
+                          - text: Following this evaluation of learning performance, the model’s classification capability is examined through confusion matrices applied to both validation and test sets. This analysis enables a detailed assessment of predictive reliability across distinct data partitions, revealing how well XGBoost distinguishes between normal and attack traffic. As shown in
+                          - link "Figure 6" [ref=e806] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f006"
+                          - text: ", the model achieved a validation accuracy of 97.29%, while the test accuracy obtained using the UNSW_NB15_testing-set dataset, consisting of 82,332 uncategorized rows, was 89.78%. This drop in performance suggests the presence of overfitting and highlights the importance of evaluating generalization beyond the training environment. The class-specific results displayed in the confusion matrices further illustrate the model’s behavior under real-world testing conditions."
+                        - generic [ref=e807]:
+                          - generic [ref=e809] [cursor=pointer]:
+                            - img "Computers 14 00160 g006" [ref=e810]
+                            - link [ref=e811]:
+                              - /url: "#fig_body_display_computers-14-00160-f006"
+                          - generic [ref=e812]: Figure 6. Confusion matrices for the XGBoost models.
+                        - generic [ref=e813]: The confusion matrices reveal class-specific performance patterns. While the model maintains strong accuracy in detecting normal traffic in both validation (97.5%) and test (97.9%) sets, a significant drop is observed in the detection of attack traffic—from 97.1% in validation to 86.0% in testing. This decline suggests that the model may be more sensitive to normal patterns and less robust in identifying malicious behaviors under real-world conditions. These findings highlight the need to further analyze model stability, particularly in the presence of class imbalance and complex attack signatures, which may challenge the model’s generalization capacity.
+                        - generic [ref=e814]:
+                          - text: The model is globally explained using the KernelSHAP method, a generic algorithm for calculating SHAP values applicable to any type of predictive model, including neural networks and non-tree-based models. KernelSHAP estimates SHAP values through a weighted sampling approach, making it versatile but computationally more intensive than TreeSHAP [
+                          - link "50" [ref=e815] [cursor=pointer]:
+                            - /url: "#B50-computers-14-00160"
+                          - text: "]."
+                          - link "Figure 7" [ref=e816] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f007"
+                          - text: presents a summary of the impact of each feature on the model. Each point on the graph represents a SHAP value calculated for an instance in the dataset. The horizontal dispersion of the points for each feature reflects the variation in importance between different instances. The data are ordered along the Y-axis by decreasing feature importance, while the X-axis represents each feature’s contribution to the model’s prediction.
+                        - generic [ref=e817]:
+                          - generic [ref=e819] [cursor=pointer]:
+                            - img "Computers 14 00160 g007" [ref=e820]
+                            - link [ref=e821]:
+                              - /url: "#fig_body_display_computers-14-00160-f007"
+                          - generic [ref=e822]: Figure 7. SHAP summary plot for the XGBoost model.
+                        - generic [ref=e823]: The mean (average) SHAP values indicate the contribution of each feature to the magnitude of the model’s output. Features are ranked according to their importance, as measured by the mean absolute SHAP value. The most significant feature, sttl, has the highest average impact, followed by ct_dst_sport_ltm and dbytes. The X-axis quantifies the mean magnitude of feature contributions, illustrating their relevance to the predictions.
+                        - generic [ref=e824]:
+                          - text: Samples of specific prediction instances generated by the models were also explained using both LIME and KernelSHAP explainers. This approach aimed to compare the classifications provided for the given instance, as well as to identify the most influential features in the decision-making process according to each explainer.
+                          - link "Figure 8" [ref=e825] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f008"
+                          - text: presents the explanation of a randomly selected instance (15,482) using KernelSHAP. The visualization highlights the contribution of each feature to the model’s prediction, allowing for an analysis of the underlying decision-making process.
+                        - generic [ref=e826]:
+                          - generic [ref=e828] [cursor=pointer]:
+                            - img "Computers 14 00160 g008" [ref=e829]
+                            - link [ref=e830]:
+                              - /url: "#fig_body_display_computers-14-00160-f008"
+                          - generic [ref=e831]: Figure 8. SHAP force plot for instance 15,482.
+                        - generic [ref=e832]: "The interpretation of this plot is as follows:"
+                        - list [ref=e834]:
+                          - listitem [ref=e835]:
+                            - generic [ref=e836]: The base value (labeled on the plot) represents the average prediction score across the dataset—the starting point before considering this instance’s specific features.
+                          - listitem [ref=e837]:
+                            - generic [ref=e838]: "Features act as forces pushing the prediction: features shown in red increase the score (pushing towards the Attack class, typically 1), while features shown in blue decrease the score (pushing towards the “Normal” class, typically 0)."
+                          - listitem [ref=e839]:
+                            - generic [ref=e840]: The width of each feature’s block is proportional to the magnitude of its impact (its SHAP value) on the prediction score; wider blocks have a larger influence.
+                          - listitem [ref=e841]:
+                            - generic [ref=e842]:
+                              - text: These forces accumulate from the base value to reach the final output value (
+                              - math [ref=e844]:
+                                - generic [ref=e846]:
+                                  - generic [ref=e847]: f
+                                  - generic [ref=e848]: (
+                                  - generic [ref=e849]: x
+                                  - generic [ref=e850]: )
+                              - text: ). In this specific case for XGBoost, the combined effect of the blue forces (predominantly sttl) heavily outweighs the red forces. This indicates a high-confidence prediction by the XGBoost model that instance 15,482 is Normal.
+                        - generic [ref=e851]:
+                          - link "Figure 9" [ref=e852] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f009"
+                          - text: similarly presents the local explanation for instance 15,482, but this time generated using LIME for the XGBoost model. LIME explains individual predictions by approximating the complex model’s behavior locally with a simpler, interpretable model (often linear). This plot visualizes the feature contributions as determined by that local approximation.
+                        - generic [ref=e853]:
+                          - generic [ref=e855] [cursor=pointer]:
+                            - img "Computers 14 00160 g009" [ref=e856]
+                            - link [ref=e857]:
+                              - /url: "#fig_body_display_computers-14-00160-f009"
+                          - generic [ref=e858]: Figure 9. Explanation of instance 15,482 using LIME.
+                        - generic [ref=e859]: "The plot displays the feature conditions found by LIME’s local model to be most influential for this specific prediction, listed on the Y-axis. The X-axis (Prediction impact) quantifies the weight or contribution of each feature towards the final prediction score. Specifically, for this plot, note the following:"
+                        - list [ref=e861]:
+                          - listitem [ref=e862]:
+                            - generic [ref=e863]: Blue bars represent contributions supporting the predicted class (Normal). Longer bars indicate stronger support.
+                          - listitem [ref=e864]:
+                            - generic [ref=e865]: The direction (left for negative impact, right for positive) shows how the feature pushes the prediction relative to an average or baseline. Here, strong negative impacts push towards the Normal class (typically class 0).
+                          - listitem [ref=e866]:
+                            - generic [ref=e867]: Features near the zero line had little impact on this specific prediction according to LIME’s local view.
+                        - generic [ref=e868]:
+                          - text: For instance 15,482, LIME clearly identifies the condition sttl
+                          - math [ref=e870]:
+                            - generic [ref=e872]:
+                              - generic [ref=e873]: ≤
+                              - generic [ref=e874]: −
+                              - generic [ref=e875]: "1.18"
+                          - text: was having the most substantial negative impact, making it the strongest single piece of evidence supporting the Normal classification. Other conditions like ct_dst_sport_ltm
+                          - math [ref=e877]:
+                            - generic [ref=e879]:
+                              - generic [ref=e880]: ≤
+                              - generic [ref=e881]: −
+                              - generic [ref=e882]: "0.45"
+                          - text: and dttl
+                          - math [ref=e884]:
+                            - generic [ref=e886]:
+                              - generic [ref=e887]: ≤
+                              - generic [ref=e888]: −
+                              - generic [ref=e889]: "0.57"
+                          - text: "also provide considerable support. The collective weight of these feature contributions leads to the XGBoost model’s confident prediction of Normal (Probability: 1.00) for this instance."
+                      - generic [ref=e890]:
+                        - heading "3.2. TabNet" [level=3] [ref=e891]
+                        - generic [ref=e892]:
+                          - text: The analysis of TabNet’s training dynamics provides insight into its learning behavior and generalization performance. As shown in
+                          - link "Figure 10" [ref=e893] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f010"
+                          - text: ", the model exhibits a steady increase in accuracy across 50 training epochs, reaching approximately 94.7% on the training set and 90.1% on the validation set. Both curves show a smooth upward trend, although the widening gap after epoch 20 indicates the onset of overfitting. Despite this, the validation performance stabilizes at high levels, suggesting that the model effectively captures relevant patterns in the data."
+                        - generic [ref=e894]:
+                          - generic [ref=e896] [cursor=pointer]:
+                            - img "Computers 14 00160 g010" [ref=e897]
+                            - link [ref=e898]:
+                              - /url: "#fig_body_display_computers-14-00160-f010"
+                          - generic [ref=e899]: "Figure 10. TabNet training progress: accuracy over epochs."
+                        - generic [ref=e900]:
+                          - text: Despite this, the validation performance stabilizes at high levels, suggesting that the model effectively captures relevant patterns in the data. This training behavior establishes the foundation for interpreting TabNet’s classification performance in subsequent evaluations using confusion matrices and explainability analyses. To further analyze the model’s behavior at the class level, confusion matrices for both validation and test sets are presented in
+                          - link "Figure 11" [ref=e901] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f011"
+                          - text: . Using TabNet, the model achieved a validation accuracy of 99%. During the testing phase—conducted with the UNSW_NB15 testing set comprising 82,332 instances—the model attained an accuracy of 89.26%, demonstrating solid performance in classification tasks. This class-specific evaluation provides a detailed understanding of TabNet’s capacity to distinguish between normal and attack traffic, while also revealing its generalization behavior under realistic conditions.
+                        - generic [ref=e902]:
+                          - generic [ref=e904] [cursor=pointer]:
+                            - img "Computers 14 00160 g011" [ref=e905]
+                            - link [ref=e906]:
+                              - /url: "#fig_body_display_computers-14-00160-f011"
+                          - generic [ref=e907]: Figure 11. Confusion matrices for the TabNet model.
+                        - generic [ref=e908]:
+                          - text: To complement this, KernelSHAP was employed to generate a global explanation of the decision-making process.
+                          - link "Figure 12" [ref=e909] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f012"
+                          - text: presents the average contribution of each feature, ranked by mean absolute SHAP values. The horizontal dispersion reflects the variability in feature impact across different instances, offering insight into the consistency and relevance of each feature in the model’s predictions.
+                        - generic [ref=e910]:
+                          - generic [ref=e912] [cursor=pointer]:
+                            - img "Computers 14 00160 g012" [ref=e913]
+                            - link [ref=e914]:
+                              - /url: "#fig_body_display_computers-14-00160-f012"
+                          - generic [ref=e915]: Figure 12. SHAP summary plot for the TabNet model.
+                        - generic [ref=e916]:
+                          - text: The graphic presents the mean (average) SHAP values for each feature, ordered by their importance. In TabNet, the most influential feature is ct_state_ttl, followed by dttl and dwin. Comparing this ranking with that of the XGBoost model (shown previously in
+                          - link "Figure 7" [ref=e917] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f007"
+                          - text: "), a significant change is observed: ct_state_ttl now has more importance than sttl (which was the most important feature for XGBoost). Furthermore, while the importance of other features remains relatively constant between the models, dmean shows a greater influence on TabNet decisions, while dbytes, which was prominent for XGBoost, shows considerably less importance here. The X-axis represents the mean magnitude of each feature’s contribution."
+                        - generic [ref=e918]: Similarly to XGBoost, the TabNet model was analyzed using both KernelSHAP and LIME explainers to understand the contributions of individual features to specific predictions. This allows for a comparative analysis of the most influential features and the classifications provided for the given instance.
+                        - generic [ref=e919]:
+                          - link "Figure 13" [ref=e920] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f013"
+                          - text: provides a similar SHAP force plot explanation, this time illustrating the TabNet model’s prediction on instance 29,972. The visualization highlights the contributions of the features to the model’s decision, showcasing their impact on the predicted probability.
+                        - generic [ref=e921]:
+                          - generic [ref=e923] [cursor=pointer]:
+                            - img "Computers 14 00160 g013" [ref=e924]
+                            - link [ref=e925]:
+                              - /url: "#fig_body_display_computers-14-00160-f013"
+                          - generic [ref=e926]: Figure 13. SHAP force plot for instance 29,972 using TabNet.
+                        - generic [ref=e927]: It is observed that the combined size of the blue blocks (forces pushing towards Normal) is considerably larger than that of the red blocks. This predominance of the blue forces moves the final prediction from the base value (the average prediction) to a much lower value, reaching the output value of 0.00. The final value means that the predicted probability for the Attack class is 0.00; therefore, the model predicts with high confidence that Sample 29,972 belongs to the Normal class with a probability of 1.00.
+                        - generic [ref=e928]:
+                          - text: Comparing these explanations for the TabNet model with those generated for the XGBoost model (
+                          - link "Figure 8" [ref=e929] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f008"
+                          - text: ), larger discrepancies between the explainers (SHAP versus LIME) seem to emerge for TabNet. This could be attributed to the greater complexity of the deep learning-based TabNet model compared to the decision tree-based XGBoost model, which tends to generate more coherent explanations. Furthermore, focusing on TabNet case 29,972, a notable difference appears between the SHAP and LIME explanations. Although the model confidently predicts that traffic is Normal (100% probability), the predominant feature identified by the KernelSHAP explainer in
+                          - link "Figure 13" [ref=e930] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f013"
+                          - text: is ct_state_ttl, unlike sttl, which the LIME explainer takes as the most indicative feature by far.
+                        - generic [ref=e931]:
+                          - text: Additionally,
+                          - link "Figure 14" [ref=e932] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f014"
+                          - text: provides an explanation for the same instance using LIME, offering a complementary perspective on the most relevant features as identified by this explainer.
+                        - generic [ref=e933]:
+                          - generic [ref=e935] [cursor=pointer]:
+                            - img "Computers 14 00160 g014" [ref=e936]
+                            - link [ref=e937]:
+                              - /url: "#fig_body_display_computers-14-00160-f014"
+                          - generic [ref=e938]: Figure 14. Explanation of instance 29,972 using LIME for TabNet.
+                        - generic [ref=e939]:
+                          - text: The graph displays the feature impacts on the prediction, with the Y-axis showing the feature names and the X-axis indicating the impact on the prediction. As noted previously when comparing with
+                          - link "Figure 13" [ref=e940] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f013"
+                          - text: (SHAP explanation), LIME identifies sttl as the feature with the largest impact, strongly pushing the prediction towards Normal (Class 0, Probability 1.00).
+                        - generic [ref=e941]:
+                          - text: Interestingly, this matches the LIME explanation for the XGBoost model example shown in
+                          - link "Figure 9" [ref=e942] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f009"
+                          - text: (instance 15,482). In both
+                          - link "Figure 9" [ref=e943] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f009"
+                          - text: and
+                          - link "Figure 14" [ref=e944] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f014"
+                          - text: ", despite the different underlying models (tree-based XGBoost versus deep learning-based TabNet) and the potentially different instances explained, the LIME explainer consistently highlights sttl as the most influential feature for Normal classification. This suggests that LIME perceives sttl as a crucial indicator for Normal traffic in these cases, regardless of model architecture, even when other explainers such as SHAP might prioritize different features for the more complex TabNet model."
+                      - generic [ref=e945]:
+                        - heading "3.3. Comparative Analysis of SHAP and LIME Explanations" [level=3] [ref=e946]
+                        - generic [ref=e947]:
+                          - text: Considering the need for an objective evaluation of the applied explainability methods, this section presents a systematic quantitative analysis comparing SHAP and LIME. The five most relevant features identified by each method are compared across ten representative instances from the UNSW-NB15 dataset, using the Jaccard similarity index to assess their degree of overlap. Additionally, divergent features are identified to explore differences in relevance attribution. This analysis strengthens the interpretative validity of the model and highlights the complementary value of both approaches in cybersecurity forensic analysis contexts. As shown in
+                          - link "Table 4" [ref=e948] [cursor=pointer]:
+                            - /url: "#table_body_display_computers-14-00160-t004"
+                          - text: ", SHAP and LIME exhibit high consistency in several instances, with perfect agreement (Jaccard = 1.00) in four out of ten cases. However, instances with lower similarity scores reveal subtle divergences in feature prioritization, underscoring the importance of a complementary use of both explainers for robust forensic interpretations."
+                        - generic [ref=e949]:
+                          - generic [ref=e950]: Table 4. Quantitative comparison of SHAP and LIME explanations across sample instances.
+                          - generic [ref=e952] [cursor=pointer]:
+                            - img [ref=e953]
+                            - link [ref=e954]:
+                              - /url: "#table_body_display_computers-14-00160-t004"
+                        - generic [ref=e955]: To enhance the interpretability analysis, a detailed comparison of the top-five features identified by SHAP and LIME was conducted across ten representative instances from the dataset. For each case, the number of overlapping features and the Jaccard similarity index, expressed as a percentage, were calculated to quantify the degree of agreement between the two explainability methods. Additionally, the specific features exclusively identified by each method are reported to highlight divergences in relevance attribution.
+                        - generic [ref=e956]:
+                          - text: These results are summarized in
+                          - link "Table 5" [ref=e957] [cursor=pointer]:
+                            - /url: "#table_body_display_computers-14-00160-t005"
+                          - text: ", which presents the feature sets selected by each method, the overlap count, and the corresponding Jaccard index for each instance, along with the divergent attributes identified exclusively by SHAP or LIME. This analysis provides a granular perspective on the consistency and complementarity of SHAP and LIME, facilitating a deeper understanding of how each method captures feature importance. By referencing the original feature indices, the results also maintain alignment with the dataset’s structure, reinforcing the transparency and traceability of the explainability framework."
+                        - generic [ref=e958]:
+                          - generic [ref=e959]: Table 5. Comparative analysis of SHAP and LIME explanations using original feature numbering.
+                          - generic [ref=e961] [cursor=pointer]:
+                            - img [ref=e962]
+                            - link [ref=e963]:
+                              - /url: "#table_body_display_computers-14-00160-t005"
+                        - generic [ref=e964]:
+                          - link "Table 5" [ref=e965] [cursor=pointer]:
+                            - /url: "#table_body_display_computers-14-00160-t005"
+                          - text: presents a quantitative comparison between SHAP and LIME explanations across ten representative instances, balanced between normal and attack scenarios. For each instance, the top-five ranked features identified by both methods are listed according to their original numbering, ensuring consistency with the dataset’s structure. The degree of overlap between the methods is measured using the Jaccard Similarity Index, providing a clear metric of explanatory alignment. The table highlights cases of full agreement, where both methods achieved a 100% similarity, as well as instances of partial divergence due to variations in feature prioritization. Additionally, divergent features are explicitly indicated to enhance the interpretability of the results. This analysis underscores not only the consistency of both explainability approaches in identifying core predictive features but also their complementarity, as subtle differences in feature emphasis offer valuable insights into the model’s decision-making process. Overall, this quantitative assessment reinforces the robustness of the explainability framework adopted in this study, providing a comprehensive understanding of the model behavior across varying data instances.
+                        - generic [ref=e966]: Although both methods generally converge on key features, divergences are observed in borderline cases and complex attack scenarios. These discrepancies highlight the methodological complementarity of SHAP and LIME, offering a more comprehensive understanding of feature relevance. Divergent features are marked in the table to support interpretability and guide future forensic analyses.
+                    - generic [ref=e967]:
+                      - heading "4. Discussion" [level=2] [ref=e968]
+                      - generic [ref=e969]: This section analyzes the results obtained from both performance and explainability perspectives, considering the behavior of the XGBoost and TabNet models across validation and test scenarios. Emphasis is placed on understanding the differences in predictive accuracy, the consistency of explanations generated by LIME and SHAP, and the implications of these findings for their application in forensic analysis.
+                      - generic [ref=e970]:
+                        - heading "4.1. Model Performance and Generalization" [level=3] [ref=e971]
+                        - generic [ref=e972]:
+                          - text: The experimental results revealed a clear performance drop when moving from the validation to the test phase. While both models—XGBoost and TabNet—achieved high accuracy during validation, 97.80% and 97.68%, respectively, as shown in
+                          - link "Figure 6" [ref=e973] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f006"
+                          - text: and
+                          - link "Figure 11" [ref=e974] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f011"
+                          - text: ", their performance decreased significantly on the test set (85.91% and 84.41%, respectively). This decline is likely attributable to overfitting during training, where the models became overly specialized in the training data and thus less capable of generalizing to previously unseen examples."
+                      - generic [ref=e975]:
+                        - 'heading "4.2. Global Interpretability: SHAP Summary Insights" [level=3] [ref=e976]'
+                        - generic [ref=e977]:
+                          - text: Global explanations generated with KernelSHAP provided relevant insights into feature importance for both models. In the case of XGBoost, the feature sttl emerged as the most influential, followed by ct_state_ttl, ct_dst_sport_ltm, dbytes, and ct_dst_src_ltm, as shown in
+                          - link "Figure 7" [ref=e978] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f007"
+                          - text: . In contrast, the TabNet model assigned higher importance to ct_state_ttl, reducing the relative influence of sttl. Notably, the feature dmean gained relevance in TabNet, while dbytes lost significance. These differences reflect the architectural and representational divergences between XGBoost’s tree-based structure and TabNet’s deep learning framework.
+                      - generic [ref=e979]:
+                        - 'heading "4.3. Local Interpretability: Agreement and Divergence Between LIME and SHAP" [level=3] [ref=e980]'
+                        - generic [ref=e981]:
+                          - text: The instance-level analyses using LIME and KernelSHAP revealed varying degrees of consistency between the explainers. For XGBoost, both methods classified the analyzed traffic instance as normal with approximately 99% confidence and agreed on the dominant role of sttl. Minor differences were observed in the ranking of less influential features such as ct_state_ttl and dttl, but these remained within acceptable similarity margins (
+                          - link "Figure 8" [ref=e982] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f008"
+                          - text: and
+                          - link "Figure 9" [ref=e983] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f009"
+                          - text: ).
+                        - generic [ref=e984]:
+                          - text: Conversely, for TabNet, greater discrepancies emerged between the LIME and KernelSHAP outputs (
+                          - link "Figure 13" [ref=e985] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f013"
+                          - text: and
+                          - link "Figure 14" [ref=e986] [cursor=pointer]:
+                            - /url: "#fig_body_display_computers-14-00160-f014"
+                          - text: "). Although both explainers classified the instance as normal with 100% certainty, they diverged on the most influential features: KernelSHAP highlighted ct_state_ttl, whereas LIME identified sttl as most impactful. These differences may result from the increased representational complexity and non-linearity in TabNet, which introduces more intricate feature interactions that are harder to consistently approximate with model-agnostic methods."
+                      - generic [ref=e987]:
+                        - heading "4.4. Comparative Interpretability and Forensic Applicability" [level=3] [ref=e988]
+                        - generic [ref=e989]: The comparative evaluation of XGBoost and TabNet, using a reduced feature set of 39 variables from the UNSW-NB15 dataset, allowed for a nuanced assessment of performance and interpretability in forensic scenarios. While XGBoost demonstrated greater stability across explainability methods and consistent behavior with structured data, TabNet’s deep architecture offered advantages in capturing higher-order interactions, albeit at the cost of increased interpretive variability.
+                        - generic [ref=e990]: Despite these differences, both models provided valuable insights for forensic analysis, particularly by enabling the traceability of decisions and reinforcing trust in automated intrusion detection systems. The use of SHAP and LIME not only supports model transparency but also enhances practical forensic capabilities. These techniques facilitate the identification of key features underlying predictions, supporting the validation of alerts, reconstruction of attack paths, and verification of evidence reliability. In operational settings, such explainability can ultimately improve responsiveness, decision accuracy, and the transparency of forensic intelligence procedures.
+                    - generic [ref=e991]:
+                      - heading "5. Conclusions" [level=2] [ref=e992]
+                      - generic [ref=e993]: This study has demonstrated the importance of integrating explainable artificial intelligence (XAI) techniques into the field of computer forensics, particularly in the analysis and interpretation of network-based intrusion detection systems (NIDSs). By implementing SHAP and LIME methods on two representative models, XGBoost and TabNet, the effectiveness of these explanatory techniques in revealing the internal logic of predictions made by complex machine learning models was evaluated.
+                      - generic [ref=e994]: The results obtained indicate that both XAI approaches offer useful and understandable interpretations of the decisions made by the models, allowing the identification of the most influential features in the classification process. This interpretive capability contributes to strengthening trust in AI systems, supports their legal admissibility in forensic contexts, and promotes more transparent and accountable investigations.
+                      - generic [ref=e995]: Regarding the performance of the evaluated models, XGBoost stands out for its rapid convergence and high accuracy in the early stages of training, making it an efficient solution for environments that require expeditious model deployment and updating. However, its tendency to quickly plateau in the validation phase suggests a limited ability to capture complex relationships in the data.
+                      - generic [ref=e996]: In contrast, TabNet, with its architecture based on attention mechanisms and integrated feature selection, showed continuous improvement during training, achieving greater alignment between training and validation performance. This indicates improved generalization capabilities, positioning it as a particularly useful model in cybersecurity scenarios requiring interpretability and operational robustness.
+                      - generic [ref=e997]: "The main contributions of this work are as follows: (i) the practical evaluation of two widely used XAI techniques, (ii) the comparative analysis of their results in forensic contexts applied to models with different architectures, and (iii) the discussion of their ethical and operational implications in real-world scenarios. Furthermore, it is highlighted that this approach contributes to compliance with regulatory and ethical requirements by promoting transparency and accountability in the use of AI-based systems."
+                      - generic [ref=e998]: Despite its contributions, this study has certain limitations, notably the high computational cost of applying SHAP to deep learning models and the use of a single dataset, which may constrain the generalizability of the findings. Future work will consider evaluating the proposed XAI methodologies on additional forensic datasets, such as CICIDS2017 or data from real-world incidents, to assess the robustness and external validity of the results.
+                      - generic [ref=e999]: Further directions include the incorporation of alternative explainability frameworks, such as Anchors and DeepLIFT, to broaden the comparative analysis of interpretability methods. Additionally, the integration of XAI outputs into the operational workflows of forensic analysts is proposed to enhance the practical relevance of these tools and support decision-making based on interpretable and verifiable evidence. Finally, hybrid approaches combining the computational efficiency of XGBoost with TabNet’s representational capabilities will be explored to optimize intrusion detection performance in complex and dynamic environments.
+                      - generic [ref=e1000]: Finally, future research could lead to a deeper understanding of the interplay between algorithmic explanation and expert analysis, thereby fostering the development of detection systems that are more transparent, reliable, and suited to the requirements of complex operational contexts.
+                  - generic [ref=e1001]:
+                    - generic [ref=e1002]:
+                      - heading "Author Contributions" [level=2] [ref=e1003]
+                      - generic [ref=e1004]: Conceptualization, P.H. and M.D.; methodology, P.H. and M.D.; formal analysis, P.H., M.D. and S.B.; investigation, P.H., M.D. and S.B.; data curation, P.H. and M.D.; writing—original draft preparation, P.H., M.D., S.B. and H.A.-C.; writing—review and editing, P.H., S.B. and H.A.-C.; visualization, P.H., M.D. and S.B.; supervision, P.H., S.B. and H.A.-C.; project administration, P.H. All authors have read and agreed to the published version of the manuscript.
+                    - generic [ref=e1005]:
+                      - heading "Funding" [level=2] [ref=e1006]
+                      - generic [ref=e1007]: This research received no external funding.
+                    - generic [ref=e1008]:
+                      - heading "Data Availability Statement" [level=2] [ref=e1009]
+                      - generic [ref=e1010]: Data is contained within the article.
+                    - generic [ref=e1011]:
+                      - heading "Acknowledgments" [level=2] [ref=e1012]
+                      - generic [ref=e1013]: The authors extend their appreciation to the Doctorate Program in Intelligent Industry and Doctorate Program in Informatics Engineering at the Pontifical Catholic University of Valparaiso for supporting this work. Sebastián Berríos Vásquez is supported by the National Agency for research and development (ANID)/Scholarship Program/Doctorado Nacional/2024-21240489 and Beca INF-PUCV.
+                    - generic [ref=e1014]:
+                      - heading "Conflicts of Interest" [level=2] [ref=e1015]
+                      - generic [ref=e1016]: The authors declare no conflict of interest.
+                    - generic [ref=e1017]:
+                      - heading "Abbreviations" [level=2] [ref=e1018]
+                      - generic [ref=e1019]:
+                        - text: "The following abbreviations are used in this manuscript:"
+                        - table [ref=e1020]:
+                          - rowgroup [ref=e1021]:
+                            - row "NIDS Network-based Intrusion Detection System" [ref=e1022]:
+                              - cell "NIDS" [ref=e1023]
+                              - cell "Network-based Intrusion Detection System" [ref=e1024]
+                            - row "AI Artificial Intelligence" [ref=e1025]:
+                              - cell "AI" [ref=e1026]
+                              - cell "Artificial Intelligence" [ref=e1027]
+                            - row "ML Machine Learning" [ref=e1028]:
+                              - cell "ML" [ref=e1029]
+                              - cell "Machine Learning" [ref=e1030]
+                            - row "DL Deep Learning" [ref=e1031]:
+                              - cell "DL" [ref=e1032]
+                              - cell "Deep Learning" [ref=e1033]
+                            - row "XAI EXplainable Artificial Intelligence" [ref=e1034]:
+                              - cell "XAI" [ref=e1035]
+                              - cell "EXplainable Artificial Intelligence" [ref=e1036]
+                            - row "LIME Local Interpretable Model-Agnostic Explanations" [ref=e1037]:
+                              - cell "LIME" [ref=e1038]
+                              - cell "Local Interpretable Model-Agnostic Explanations" [ref=e1039]
+                            - row "SHAP SHapley Additive exPlanations" [ref=e1040]:
+                              - cell "SHAP" [ref=e1041]
+                              - cell "SHapley Additive exPlanations" [ref=e1042]
+                    - generic [ref=e1043]:
+                      - heading "References" [level=2] [ref=e1044]
+                      - list [ref=e1045]:
+                        - listitem [ref=e1046]:
+                          - text: "1.Fleck, A. Infographic: Cybercrime Expected To Skyrocket in Coming Years. 2024. Available online:"
+                          - link "https://www.statista.com/chart/28878/expected-cost-of-cybercrime-until-2027/" [ref=e1047] [cursor=pointer]:
+                            - /url: https://www.statista.com/chart/28878/expected-cost-of-cybercrime-until-2027/
+                          - text: (accessed on 2 March 2025).
+                        - listitem [ref=e1048]:
+                          - text: 2.Sharma, R. Emerging trends in cybercrime and their impact on digital security. Cybersecur. Rev. 2022, 15, 78–90. [
+                          - link "Google Scholar" [ref=e1049] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Emerging+trends+in+cybercrime+and+their+impact+on+digital+security&author=Sharma,+R.&publication_year=2022&journal=Cybersecur.+Rev.&volume=15&pages=78%E2%80%9390
+                          - text: "]"
+                        - listitem [ref=e1050]:
+                          - text: "3.Stallings, W. Cyber Attacks and Countermeasures; Pearson: London, UK, 2023. ["
+                          - link "Google Scholar" [ref=e1051] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Cyber+Attacks+and+Countermeasures&author=Stallings,+W.&publication_year=2023
+                          - text: "]"
+                        - listitem [ref=e1052]:
+                          - text: "4.National Institute of Standards and Technology. Digital Evidence; NIST: Gaithersburg, MD, USA, 2016. ["
+                          - link "Google Scholar" [ref=e1053] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Digital+Evidence&author=National+Institute+of+Standards+and+Technology&publication_year=2016
+                          - text: "]"
+                        - listitem [ref=e1054]:
+                          - text: "5.Casey, E. Digital forensics: Science and technology of the 21st century. J. Digit. Investig. 2018, 15, 1–10. ["
+                          - link "Google Scholar" [ref=e1055] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Digital+forensics:+Science+and+technology+of+the+21st+century&author=Casey,+E.&publication_year=2018&journal=J.+Digit.+Investig.&volume=15&pages=1%E2%80%9310
+                          - text: "]"
+                        - listitem [ref=e1056]:
+                          - text: "6.Lin, J. Artificial Intelligence in digital forensics: Opportunities and challenges. Forensic Sci. Int. 2020, 310, 110235. ["
+                          - link "Google Scholar" [ref=e1057] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Artificial+Intelligence+in+digital+forensics:+Opportunities+and+challenges&author=Lin,+J.&publication_year=2020&journal=Forensic+Sci.+Int.&volume=310&pages=110235
+                          - text: "]"
+                        - listitem [ref=e1058]:
+                          - text: "7.Taylor, M. Machine learning for digital forensics: A systematic review. Digit. Investig. 2021, 38, 201–215. ["
+                          - link "Google Scholar" [ref=e1059] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Machine+learning+for+digital+forensics:+A+systematic+review&author=Taylor,+M.&publication_year=2021&journal=Digit.+Investig.&volume=38&pages=201%E2%80%93215
+                          - text: "]"
+                        - listitem [ref=e1060]:
+                          - text: "8.Maratsi, M.I.; Popov, O.; Alexopoulos, C.; Charalabidis, Y. Ethical and Legal Aspects of Digital Forensics Algorithms: The Case of Digital Evidence Acquisition. In Proceedings of the 15th International Conference on Theory and Practice of Electronic Governance, Guimarães, Portugal, 4–7 October 2022. ["
+                          - link "Google Scholar" [ref=e1061] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Ethical+and+Legal+Aspects+of+Digital+Forensics+Algorithms:+The+Case+of+Digital+Evidence+Acquisition&conference=Proceedings+of+the+15th+International+Conference+on+Theory+and+Practice+of+Electronic+Governance&author=Maratsi,+M.I.&author=Popov,+O.&author=Alexopoulos,+C.&author=Charalabidis,+Y.&publication_year=2022&doi=10.1145/3560107.3560114
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1062] [cursor=pointer]:
+                            - /url: https://doi.org/10.1145/3560107.3560114
+                          - text: "]"
+                        - listitem [ref=e1063]:
+                          - text: 9.Association of Chief Police Officers (ACPO). Principles for digital evidence in criminal investigations. Digit. Crime J. 2021, 12, 45–50. [
+                          - link "Google Scholar" [ref=e1064] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Principles+for+digital+evidence+in+criminal+investigations&author=Association+of+Chief+Police+Officers+(ACPO)&publication_year=2021&journal=Digit.+Crime+J.&volume=12&pages=45%E2%80%9350
+                          - text: "]"
+                        - listitem [ref=e1065]:
+                          - text: 10.Bathaee, Y. The Artificial Intelligence Black Box and the Failure of Intent and Causation. Harv. J. Law Technol. 2018, 31, 889. [
+                          - link "Google Scholar" [ref=e1066] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=The+Artificial+Intelligence+Black+Box+and+the+Failure+of+Intent+and+Causation&author=Bathaee,+Y.&publication_year=2018&journal=Harv.+J.+Law+Technol.&volume=31&pages=889
+                          - text: "]"
+                        - listitem [ref=e1067]:
+                          - text: 11.Defense Advanced Research Projects Agency (DARPA). Addressing the black-box problem in AI systems. AI Rev. 2023, 34, 12–20. [
+                          - link "Google Scholar" [ref=e1068] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Addressing+the+black-box+problem+in+AI+systems&author=Defense+Advanced+Research+Projects+Agency+(DARPA)&publication_year=2023&journal=AI+Rev.&volume=34&pages=12%E2%80%9320
+                          - text: "]"
+                        - listitem [ref=e1069]:
+                          - text: 12.Calderon, M. Legal challenges in using AI-generated evidence in courts. Leg. Stud. J. 2022, 29, 112–129. [
+                          - link "Google Scholar" [ref=e1070] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Legal+challenges+in+using+AI-generated+evidence+in+courts&author=Calderon,+M.&publication_year=2022&journal=Leg.+Stud.+J.&volume=29&pages=112%E2%80%93129
+                          - text: "]"
+                        - listitem [ref=e1071]:
+                          - text: "13.Adadi, A.; Berrada, M. AI explainability: Legal requirements and SHAP’s role in meeting them. AI Ethics 2021, 2, 215–231. ["
+                          - link "Google Scholar" [ref=e1072] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=AI+explainability:+Legal+requirements+and+SHAP%E2%80%99s+role+in+meeting+them&author=Adadi,+A.&author=Berrada,+M.&publication_year=2021&journal=AI+Ethics&volume=2&pages=215%E2%80%93231
+                          - text: "]"
+                        - listitem [ref=e1073]:
+                          - text: "14.IBM. What Is Explainable AI; IBM: Armonk, NY, USA, 2024; Available online:"
+                          - link "https://www.ibm.com/topics/explainable-ai" [ref=e1074] [cursor=pointer]:
+                            - /url: https://www.ibm.com/topics/explainable-ai
+                          - text: (accessed on 6 November 2024).
+                        - listitem [ref=e1075]:
+                          - text: "15.Carvalho, D.V.; Pereira, E.M.; Cardoso, J.S. Machine Learning Interpretability: A Survey on Methods and Metrics. Electronics 2019, 8, 832. ["
+                          - link "Google Scholar" [ref=e1076] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Machine+Learning+Interpretability:+A+Survey+on+Methods+and+Metrics&author=Carvalho,+D.V.&author=Pereira,+E.M.&author=Cardoso,+J.S.&publication_year=2019&journal=Electronics&volume=8&pages=832&doi=10.3390/electronics8080832
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1077] [cursor=pointer]:
+                            - /url: https://doi.org/10.3390/electronics8080832
+                          - text: "]"
+                        - listitem [ref=e1078]:
+                          - text: "16.Adadi, A.; Berrada, M. Peeking inside the black-box: A survey on Explainable Artificial Intelligence (XAI). IEEE Access 2018, 6, 52138–52160. ["
+                          - link "Google Scholar" [ref=e1079] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Peeking+inside+the+black-box:+A+survey+on+Explainable+Artificial+Intelligence+(XAI)&author=Adadi,+A.&author=Berrada,+M.&publication_year=2018&journal=IEEE+Access&volume=6&pages=52138%E2%80%9352160&doi=10.1109/ACCESS.2018.2870052
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1080] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/ACCESS.2018.2870052
+                          - text: "]"
+                        - listitem [ref=e1081]:
+                          - text: 17.Guidotti, R. The role of explainability in artificial intelligence research. AI Ethics 2019, 8, 1–15. [
+                          - link "Google Scholar" [ref=e1082] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=The+role+of+explainability+in+artificial+intelligence+research&author=Guidotti,+R.&publication_year=2019&journal=AI+Ethics&volume=8&pages=1%E2%80%9315
+                          - text: "]"
+                        - listitem [ref=e1083]:
+                          - text: "18.Miller, T. Explanation in artificial intelligence: Insights from the social sciences. Artif. Intell. 2019, 267, 1–38. ["
+                          - link "Google Scholar" [ref=e1084] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Explanation+in+artificial+intelligence:+Insights+from+the+social+sciences&author=Miller,+T.&publication_year=2019&journal=Artif.+Intell.&volume=267&pages=1%E2%80%9338&doi=10.1016/j.artint.2018.07.007
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1085] [cursor=pointer]:
+                            - /url: https://doi.org/10.1016/j.artint.2018.07.007
+                          - text: "]"
+                        - listitem [ref=e1086]:
+                          - text: "19.Arrieta, A.B.; Díaz-Rodríguez, N.; Del Ser, J.; Bennetot, A.; Tabik, S.; Barbado, A.; García, S.; Gil-López, S.; Molina, D.; Benjamins, R.; et al. Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI. Inf. Fusion 2020, 58, 82–115. ["
+                          - link "Google Scholar" [ref=e1087] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Explainable+Artificial+Intelligence+(XAI):+Concepts,+taxonomies,+opportunities+and+challenges+toward+responsible+AI&author=Arrieta,+A.B.&author=D%C3%ADaz-Rodr%C3%ADguez,+N.&author=Del+Ser,+J.&author=Bennetot,+A.&author=Tabik,+S.&author=Barbado,+A.&author=Garc%C3%ADa,+S.&author=Gil-L%C3%B3pez,+S.&author=Molina,+D.&author=Benjamins,+R.&author=et+al.&publication_year=2020&journal=Inf.+Fusion&volume=58&pages=82%E2%80%93115&doi=10.1016/j.inffus.2019.12.012
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1088] [cursor=pointer]:
+                            - /url: https://doi.org/10.1016/j.inffus.2019.12.012
+                          - text: "]"
+                        - listitem [ref=e1089]:
+                          - text: 20.Doshi-Velez, F.; Kim, B. Towards A Rigorous Science of Interpretable Machine Learning. arXiv 2017. [
+                          - link "Google Scholar" [ref=e1090] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Towards+A+Rigorous+Science+of+Interpretable+Machine+Learning&author=Doshi-Velez,+F.&author=Kim,+B.&publication_year=2017&journal=arXiv&doi=10.48550/arxiv.1702.08608
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1091] [cursor=pointer]:
+                            - /url: https://doi.org/10.48550/arxiv.1702.08608
+                          - text: "]"
+                        - listitem [ref=e1092]:
+                          - text: "21.Molnar, C. Interpretable Machine Learning; Github: San Francisco, CA, USA, 2019. ["
+                          - link "Google Scholar" [ref=e1093] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Interpretable+Machine+Learning&author=Molnar,+C.&publication_year=2019
+                          - text: "]"
+                        - listitem [ref=e1094]:
+                          - text: "22.Mishra, R.; Singh, K. Scalable LIME: Enhancing interpretability for massive datasets. Big Data Cogn. Comput. 2023, 7, 99–120. ["
+                          - link "Google Scholar" [ref=e1095] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Scalable+LIME:+Enhancing+interpretability+for+massive+datasets&author=Mishra,+R.&author=Singh,+K.&publication_year=2023&journal=Big+Data+Cogn.+Comput.&volume=7&pages=99%E2%80%93120
+                          - text: "]"
+                        - listitem [ref=e1096]:
+                          - text: "23.Ribeiro, M.T.; Singh, S.; Guestrin, C. “Why Should I Trust You?”: Explaining the Predictions of Any Classifier. arXiv 2016. ["
+                          - link "Google Scholar" [ref=e1097] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=%E2%80%9CWhy+Should+I+Trust+You?%E2%80%9D:+Explaining+the+Predictions+of+Any+Classifier&author=Ribeiro,+M.T.&author=Singh,+S.&author=Guestrin,+C.&publication_year=2016&journal=arXiv&doi=10.48550/arxiv.1602.04938
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1098] [cursor=pointer]:
+                            - /url: https://doi.org/10.48550/arxiv.1602.04938
+                          - text: "]"
+                        - listitem [ref=e1099]:
+                          - text: "24.Lundberg, S.M.; Lee, S.I. Explainable AI for tree-based models with SHAP and LIME: A comprehensive review. J. Mach. Learn. Res. 2020, 21, 210–245. ["
+                          - link "Google Scholar" [ref=e1100] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Explainable+AI+for+tree-based+models+with+SHAP+and+LIME:+A+comprehensive+review&author=Lundberg,+S.M.&author=Lee,+S.I.&publication_year=2020&journal=J.+Mach.+Learn.+Res.&volume=21&pages=210%E2%80%93245
+                          - text: "]"
+                        - listitem [ref=e1101]:
+                          - text: "25.Zhou, C.; Wang, L. Model-agnostic interpretability techniques: A survey on LIME and SHAP applications. Artif. Intell. Rev. 2022, 55, 2151–2180. ["
+                          - link "Google Scholar" [ref=e1102] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Model-agnostic+interpretability+techniques:+A+survey+on+LIME+and+SHAP+applications&author=Zhou,+C.&author=Wang,+L.&publication_year=2022&journal=Artif.+Intell.+Rev.&volume=55&pages=2151%E2%80%932180
+                          - text: "]"
+                        - listitem [ref=e1103]:
+                          - text: "26.Guidotti, R.; Monreale, A. Explainable AI: Interpretable models and beyond. Inf. Fusion 2021, 77, 4–19. ["
+                          - link "Google Scholar" [ref=e1104] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Explainable+AI:+Interpretable+models+and+beyond&author=Guidotti,+R.&author=Monreale,+A.&publication_year=2021&journal=Inf.+Fusion&volume=77&pages=4%E2%80%9319
+                          - text: "]"
+                        - listitem [ref=e1105]:
+                          - text: "27.Yang, H.; Patel, N. Interpretable machine learning: Advances in LIME for high-dimensional data. J. Comput. Intell. 2023, 39, 356–371. ["
+                          - link "Google Scholar" [ref=e1106] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Interpretable+machine+learning:+Advances+in+LIME+for+high-dimensional+data&author=Yang,+H.&author=Patel,+N.&publication_year=2023&journal=J.+Comput.+Intell.&volume=39&pages=356%E2%80%93371
+                          - text: "]"
+                        - listitem [ref=e1107]:
+                          - text: 28.Kalai, E.; Samet, D. Monotonic Solutions to General Cooperative Games. Econometrica 1985, 53, 307. [
+                          - link "Google Scholar" [ref=e1108] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Monotonic+Solutions+to+General+Cooperative+Games&author=Kalai,+E.&author=Samet,+D.&publication_year=1985&journal=Econometrica&volume=53&pages=307&doi=10.2307/1911238
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1109] [cursor=pointer]:
+                            - /url: https://doi.org/10.2307/1911238
+                          - text: "]"
+                        - listitem [ref=e1110]:
+                          - text: 29.Lundberg, S.; Lee, S.I. A Unified Approach to Interpreting Model Predictions. arXiv 2017. [
+                          - link "Google Scholar" [ref=e1111] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=A+Unified+Approach+to+Interpreting+Model+Predictions&author=Lundberg,+S.&author=Lee,+S.I.&publication_year=2017&journal=arXiv&doi=10.48550/arXiv.1705.07874
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1112] [cursor=pointer]:
+                            - /url: https://doi.org/10.48550/arXiv.1705.07874
+                          - text: "]"
+                        - listitem [ref=e1113]:
+                          - text: "30.Sundararajan, M.; Najmi, A. Many Shapley value methods: A unified perspective and comparison. Adv. Neural Inf. Process. Syst. 2020, 33, 18702–18714. ["
+                          - link "Google Scholar" [ref=e1114] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Many+Shapley+value+methods:+A+unified+perspective+and+comparison&author=Sundararajan,+M.&author=Najmi,+A.&publication_year=2020&journal=Adv.+Neural+Inf.+Process.+Syst.&volume=33&pages=18702%E2%80%9318714
+                          - text: "]"
+                        - listitem [ref=e1115]:
+                          - text: "31.Molnar, C. Interpretable Machine Learning: A Guide for Making Black Box Models Explainable; Leanpub: Victoria, BC, Canada, 2022. ["
+                          - link "Google Scholar" [ref=e1116] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Interpretable+Machine+Learning:+A+Guide+for+Making+Black+Box+Models+Explainable&author=Molnar,+C.&publication_year=2022
+                          - text: "]"
+                        - listitem [ref=e1117]:
+                          - text: "32.Zhang, W.; Li, R. SHAP explanations in financial AI: A review of applications and challenges. J. Financ. Data Sci. 2021, 3, 65–78. ["
+                          - link "Google Scholar" [ref=e1118] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=SHAP+explanations+in+financial+AI:+A+review+of+applications+and+challenges&author=Zhang,+W.&author=Li,+R.&publication_year=2021&journal=J.+Financ.+Data+Sci.&volume=3&pages=65%E2%80%9378
+                          - text: "]"
+                        - listitem [ref=e1119]:
+                          - text: "33.Chen, Y.; Zhao, L. AI explainability in healthcare: Integrating SHAP for enhanced trust and usability. Healthc. Anal. 2023, 5, 22–35. ["
+                          - link "Google Scholar" [ref=e1120] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=AI+explainability+in+healthcare:+Integrating+SHAP+for+enhanced+trust+and+usability&author=Chen,+Y.&author=Zhao,+L.&publication_year=2023&journal=Healthc.+Anal.&volume=5&pages=22%E2%80%9335
+                          - text: "]"
+                        - listitem [ref=e1121]:
+                          - text: "34.Yang, H.; Liu, M. SHAP compliance in regulatory AI systems: A case study. J. Artif. Intell. Regul. 2023, 12, 112–134. ["
+                          - link "Google Scholar" [ref=e1122] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=SHAP+compliance+in+regulatory+AI+systems:+A+case+study&author=Yang,+H.&author=Liu,+M.&publication_year=2023&journal=J.+Artif.+Intell.+Regul.&volume=12&pages=112%E2%80%93134
+                          - text: "]"
+                        - listitem [ref=e1123]:
+                          - text: "35.Moustafa, N.; Slay, J. The evaluation of Network Anomaly Detection Systems: Statistical analysis of the UNSW-NB15 data set and the comparison with the KDD99 data set. Inf. Secur. J. Glob. Perspect. 2016, 25, 18–31. ["
+                          - link "Google Scholar" [ref=e1124] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=The+evaluation+of+Network+Anomaly+Detection+Systems:+Statistical+analysis+of+the+UNSW-NB15+data+set+and+the+comparison+with+the+KDD99+data+set&author=Moustafa,+N.&author=Slay,+J.&publication_year=2016&journal=Inf.+Secur.+J.+Glob.+Perspect.&volume=25&pages=18%E2%80%9331&doi=10.1080/19393555.2015.1125974
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1125] [cursor=pointer]:
+                            - /url: https://doi.org/10.1080/19393555.2015.1125974
+                          - text: "]"
+                        - listitem [ref=e1126]:
+                          - text: "36.Moustafa, N.; Slay, J. UNSW-NB15: A comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set). In Proceedings of the 2015 Military Communications and Information Systems Conference (MilCIS), Canberra, ACT, Australia, 10–12 November 2015. ["
+                          - link "Google Scholar" [ref=e1127] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=UNSW-NB15:+A+comprehensive+data+set+for+network+intrusion+detection+systems+(UNSW-NB15+network+data+set)&conference=Proceedings+of+the+2015+Military+Communications+and+Information+Systems+Conference+(MilCIS)&author=Moustafa,+N.&author=Slay,+J.&publication_year=2015&doi=10.1109/MilCIS.2015.7348942
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1128] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/MilCIS.2015.7348942
+                          - text: "]"
+                        - listitem [ref=e1129]:
+                          - text: 37.Moustafa, N.; Creech, G.; Sitnikova, E. A new framework for evaluating cybersecurity solutions in smart cities. Future Gener. Comput. Syst. 2021, 123, 148–162. [
+                          - link "Google Scholar" [ref=e1130] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=A+new+framework+for+evaluating+cybersecurity+solutions+in+smart+cities&author=Moustafa,+N.&author=Creech,+G.&author=Sitnikova,+E.&publication_year=2021&journal=Future+Gener.+Comput.+Syst.&volume=123&pages=148%E2%80%93162
+                          - text: "]"
+                        - listitem [ref=e1131]:
+                          - text: 38.National Center for Biotechnology Information. Optimizing IoT Intrusion Detection Using Balanced Class Distribution. Sensors 2025, 24, 4293. [
+                          - link "Google Scholar" [ref=e1132] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Optimizing+IoT+Intrusion+Detection+Using+Balanced+Class+Distribution&author=National+Center+for+Biotechnology+Information&publication_year=2025&journal=Sensors&volume=24&pages=4293
+                          - text: "]"
+                        - listitem [ref=e1133]:
+                          - text: 39.Sharma, N.; Yadav, N.S.; Sharma, S. Classification of UNSW-NB15 dataset using Exploratory Data Analysis and Ensemble Learning. EAI Endorsed Trans. Ind. Netw. Intell. Syst. 2021, 8, e3. [
+                          - link "Google Scholar" [ref=e1134] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Classification+of+UNSW-NB15+dataset+using+Exploratory+Data+Analysis+and+Ensemble+Learning&author=Sharma,+N.&author=Yadav,+N.S.&author=Sharma,+S.&publication_year=2021&journal=EAI+Endorsed+Trans.+Ind.+Netw.+Intell.+Syst.&volume=8&pages=e3&doi=10.4108/eai.13-10-2021.171319
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1135] [cursor=pointer]:
+                            - /url: https://doi.org/10.4108/eai.13-10-2021.171319
+                          - text: "]"
+                        - listitem [ref=e1136]:
+                          - text: "40.Zoghi, Z.; Serpen, G. UNSW-NB15 Computer Security Dataset: Analysis through Visualization. arXiv 2021, arXiv:2101.05067. ["
+                          - link "Google Scholar" [ref=e1137] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=UNSW-NB15+Computer+Security+Dataset:+Analysis+through+Visualization&author=Zoghi,+Z.&author=Serpen,+G.&publication_year=2021&journal=arXiv&doi=10.1002/spy2.331
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1138] [cursor=pointer]:
+                            - /url: https://doi.org/10.1002/spy2.331
+                          - text: "]"
+                        - listitem [ref=e1139]:
+                          - text: "41.Moustafa, N. UNSW-NB15 dataset: Modernized network traffic benchmark for intrusion detection systems. Comput. Secur. 2021, 104, 102195. ["
+                          - link "Google Scholar" [ref=e1140] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=UNSW-NB15+dataset:+Modernized+network+traffic+benchmark+for+intrusion+detection+systems&author=Moustafa,+N.&publication_year=2021&journal=Comput.+Secur.&volume=104&pages=102195
+                          - text: "]"
+                        - listitem [ref=e1141]:
+                          - text: 42.Zaman, T.; Ahmed, S. Analyzing UNSW-NB15 for Intrusion Detection in Modern Networks. Cybersecur. Netw. 2023, 5, 210–225. [
+                          - link "Google Scholar" [ref=e1142] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Analyzing+UNSW-NB15+for+Intrusion+Detection+in+Modern+Networks&author=Zaman,+T.&author=Ahmed,+S.&publication_year=2023&journal=Cybersecur.+Netw.&volume=5&pages=210%E2%80%93225
+                          - text: "]"
+                        - listitem [ref=e1143]:
+                          - text: "43.Wang, F.; Zhao, M. Evaluation of machine learning models using data splits: A practical approach. J. Inf. Secur. Appl. 2022, 67, 103123. ["
+                          - link "Google Scholar" [ref=e1144] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Evaluation+of+machine+learning+models+using+data+splits:+A+practical+approach&author=Wang,+F.&author=Zhao,+M.&publication_year=2022&journal=J.+Inf.+Secur.+Appl.&volume=67&pages=103123
+                          - text: "]"
+                        - listitem [ref=e1145]:
+                          - text: "44.Elrawy, M. Benchmarking datasets and methods for cybersecurity applications: An overview. Cyber Threat Intell. Rev. 2021, 3, 58–72. ["
+                          - link "Google Scholar" [ref=e1146] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Benchmarking+datasets+and+methods+for+cybersecurity+applications:+An+overview&author=Elrawy,+M.&publication_year=2021&journal=Cyber+Threat+Intell.+Rev.&volume=3&pages=58%E2%80%9372
+                          - text: "]"
+                        - listitem [ref=e1147]:
+                          - text: 45.Mohamed, A. Feature selection techniques for improving machine learning models in cybersecurity. Cybersecur. Strateg. 2022, 8, 88–101. [
+                          - link "Google Scholar" [ref=e1148] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Feature+selection+techniques+for+improving+machine+learning+models+in+cybersecurity&author=Mohamed,+A.&publication_year=2022&journal=Cybersecur.+Strateg.&volume=8&pages=88%E2%80%93101
+                          - text: "]"
+                        - listitem [ref=e1149]:
+                          - text: "46.Singh, R. Robust feature selection methods for modern ML systems: A comparative study. Adv. Comput. Res. 2023, 12, 44–63. ["
+                          - link "Google Scholar" [ref=e1150] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Robust+feature+selection+methods+for+modern+ML+systems:+A+comparative+study&author=Singh,+R.&publication_year=2023&journal=Adv.+Comput.+Res.&volume=12&pages=44%E2%80%9363
+                          - text: "]"
+                        - listitem [ref=e1151]:
+                          - text: 47.Gupta, R.; Kumar, A. Machine learning approaches for anomaly detection in network security. Cybersecur. Adv. 2023, 4, 199–213. [
+                          - link "Google Scholar" [ref=e1152] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Machine+learning+approaches+for+anomaly+detection+in+network+security&author=Gupta,+R.&author=Kumar,+A.&publication_year=2023&journal=Cybersecur.+Adv.&volume=4&pages=199%E2%80%93213
+                          - text: "]"
+                        - listitem [ref=e1153]:
+                          - text: 48.Husain, A.; Salem, A.; Jim, C.; Dimitoglou, G. Development of an Efficient Network Intrusion Detection Model Using Extreme Gradient Boosting (XGBoost) on the UNSW-NB15 Dataset. In Proceedings of the 2019 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT), Ajman, United Arab Emirates, 10–12 December 2019. [
+                          - link "Google Scholar" [ref=e1154] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Development+of+an+Efficient+Network+Intrusion+Detection+Model+Using+Extreme+Gradient+Boosting+(XGBoost)+on+the+UNSW-NB15+Dataset&conference=Proceedings+of+the+2019+IEEE+International+Symposium+on+Signal+Processing+and+Information+Technology+(ISSPIT)&author=Husain,+A.&author=Salem,+A.&author=Jim,+C.&author=Dimitoglou,+G.&publication_year=2019&doi=10.1109/ISSPIT47144.2019.9001867
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1155] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/ISSPIT47144.2019.9001867
+                          - text: "]"
+                        - listitem [ref=e1156]:
+                          - text: "49.Arik, S.O.; Pfister, T. TabNet: Attentive Interpretable Tabular Learning. arXiv 2019. ["
+                          - link "Google Scholar" [ref=e1157] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=TabNet:+Attentive+Interpretable+Tabular+Learning&author=Arik,+S.O.&author=Pfister,+T.&publication_year=2019&journal=arXiv&doi=10.1609/aaai.v35i8.16826
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1158] [cursor=pointer]:
+                            - /url: https://doi.org/10.1609/aaai.v35i8.16826
+                          - text: "]"
+                        - listitem [ref=e1159]:
+                          - text: 50.Lundberg, S.M.; Erion, G.; Chen, H.; DeGrave, A.; Prutkin, J.M.; Nair, B.; Katz, R.; Himmelfarb, J.; Bansal, N.; Lee, S.I. From local explanations to global understanding with explainable AI for trees. Nat. Mach. Intell. 2020, 2, 56–67. [
+                          - link "Google Scholar" [ref=e1160] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=From+local+explanations+to+global+understanding+with+explainable+AI+for+trees&author=Lundberg,+S.M.&author=Erion,+G.&author=Chen,+H.&author=DeGrave,+A.&author=Prutkin,+J.M.&author=Nair,+B.&author=Katz,+R.&author=Himmelfarb,+J.&author=Bansal,+N.&author=Lee,+S.I.&publication_year=2020&journal=Nat.+Mach.+Intell.&volume=2&pages=56%E2%80%9367&doi=10.1038/s42256-019-0138-9
+                          - text: "] ["
+                          - link "CrossRef" [ref=e1161] [cursor=pointer]:
+                            - /url: https://doi.org/10.1038/s42256-019-0138-9
+                          - text: "]"
+                    - table [ref=e1163]:
+                      - rowgroup [ref=e1164]:
+                        - 'row "Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content." [ref=e1165]':
+                          - cell [ref=e1166]
+                          - 'cell "Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content." [ref=e1167]':
+                            - generic [ref=e1168]: "Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content."
+                    - generic [ref=e1169]:
+                      - text: © 2025 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (
+                      - link "https://creativecommons.org/licenses/by/4.0/" [ref=e1170] [cursor=pointer]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ).
+                - generic [ref=e1171]:
+                  - heading "Share and Cite" [level=2] [ref=e1172]: Share and Cite
+                  - generic [ref=e1173]:
+                    - link "" [ref=e1174] [cursor=pointer]:
+                      - /url: mailto:?&subject=From%20MDPI%3A%20%22Use%20of%20Explainable%20Artificial%20Intelligence%20for%20Analyzing%20and%20Explaining%20Intrusion%20Detection%20Systems"&body=https://www.mdpi.com/3285198%3A%0A%0AUse%20of%20Explainable%20Artificial%20Intelligence%20for%20Analyzing%20and%20Explaining%20Intrusion%20Detection%20Systems%0A%0AAbstract%3A%20The%20increase%20in%20malicious%20cyber%20activities%20has%20generated%20the%20need%20to%20produce%20effective%20tools%20for%20the%20field%20of%20digital%20forensics%20and%20incident%20response.%20Artificial%20intelligence%20%28AI%29%20and%20its%20fields%2C%20specifically%20machine%20learning%20%28ML%29%20and%20deep%20learning%20%28DL%29%2C%20have%20shown%20great%20potential%20to%20aid%20the%20task%20of%20processing%20and%20analyzing%20large%20amounts%20of%20information.%20However%2C%20models%20generated%20by%20DL%20are%20often%20considered%20%26ldquo%3Bblack%20boxes%26rdquo%3B%2C%20a%20name%20derived%20due%20to%20the%20difficulties%20faced%20by%20users%20when%20trying%20to%20understand%20the%20decision-making%20process%20for%20obtaining%20results.%20This%20research%20seeks%20to%20address%20the%20challenges%20of%20transparency%2C%20explainability%2C%20and%20reliability%20posed%20by%20black-box%20models%20in%20digital%20forensics.%20To%20accomplish%20this%2C%20explainable%20artificial%20intelligence%20%28XAI%29%20is%20explored%20as%20a%20solution.%20This%20approach%20seeks%20to%20make%20DL%20models%20more%20interpretable%20and%20understandable%20by%20humans.%20The%20SHAP%20%28SHapley%20Additive%20eXplanations%29%20and%20LIME%20%28Local%20Interpretable%20Model-agnostic%20Explanations%29%20methods%20will%20be%20implemented%20and%20evaluated%20as%20a%20model-agnostic%20technique%20to%20explain%20predictions%20of%20the%20generated%20models%20for%20forensic%20analysis.%20By%20applying%20these%20methods%20to%20the%20XGBoost%20and%20TabNet%20models%20trained%20on%20the%20UNSW-NB15[...]
+                      - generic [ref=e1175]: 
+                    - link [ref=e1176] [cursor=pointer]:
+                      - /url: https://x.com/intent/tweet?text=Use+of+Explainable+Artificial+Intelligence+for+Analyzing+and+Explaining+Intrusion+Detection+Systems&hashtags=mdpicomputers&url=https%3A%2F%2Fwww.mdpi.com%2F3285198&via=Computers_MDPI
+                    - link "" [ref=e1178] [cursor=pointer]:
+                      - /url: "\t                    http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.mdpi.com%2F3285198&title=Use%20of%20Explainable%20Artificial%20Intelligence%20for%20Analyzing%20and%20Explaining%20Intrusion%20Detection%20Systems%26source%3Dhttps%3A%2F%2Fwww.mdpi.com%26summary%3DThe%20increase%20in%20malicious%20cyber%20activities%20has%20generated%20the%20need%20to%20produce%20effective%20tools%20for%20the%20field%20of%20digital%20forensics%20and%20incident%20response.%20Artificial%20intelligence%20%28AI%29%20and%20its%20fields%2C%20specifically%20machine%20learning%20%28ML%29%20and%20deep%20learning%20%5B...%5D"
+                      - generic [ref=e1179]: 
+                    - link "" [ref=e1180] [cursor=pointer]:
+                      - /url: http://www.facebook.com/sharer.php?u=https://www.mdpi.com/3285198
+                      - generic [ref=e1181]: 
+                    - link "Wechat" [ref=e1182] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                    - link "" [ref=e1184] [cursor=pointer]:
+                      - /url: http://www.reddit.com/submit?url=https://www.mdpi.com/3285198
+                      - generic [ref=e1185]: 
+                    - link "Mendeley" [ref=e1186] [cursor=pointer]:
+                      - /url: http://www.mendeley.com/import/?url=https://www.mdpi.com/3285198
+                  - generic [ref=e1188]:
+                    - generic [ref=e1189]: MDPI and ACS Style
+                    - paragraph [ref=e1190]:
+                      - text: Hermosilla, P.; Díaz, M.; Berríos, S.; Allende-Cid, H. Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems.
+                      - emphasis [ref=e1191]: Computers
+                      - text: 2025,
+                      - emphasis [ref=e1192]: "14"
+                      - text: ", 160. https://doi.org/10.3390/computers14050160"
+                    - generic [ref=e1193]:
+                      - text: AMA Style
+                      - paragraph [ref=e1194]:
+                        - text: Hermosilla P, Díaz M, Berríos S, Allende-Cid H. Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems.
+                        - emphasis [ref=e1195]: Computers
+                        - text: . 2025; 14(5):160. https://doi.org/10.3390/computers14050160
+                      - text: Chicago/Turabian Style
+                      - paragraph [ref=e1196]:
+                        - text: Hermosilla, Pamela, Mauricio Díaz, Sebastián Berríos, and Héctor Allende-Cid. 2025. "Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems"
+                        - emphasis [ref=e1197]: Computers
+                        - text: "14, no. 5: 160. https://doi.org/10.3390/computers14050160"
+                      - text: APA Style
+                      - paragraph [ref=e1198]:
+                        - text: Hermosilla, P., Díaz, M., Berríos, S., & Allende-Cid, H. (2025). Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems.
+                        - emphasis [ref=e1199]: Computers
+                        - text: ","
+                        - emphasis [ref=e1200]: "14"
+                        - text: (5), 160. https://doi.org/10.3390/computers14050160
+                  - generic [ref=e1201]:
+                    - text: error_outline Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details
+                    - link "here" [ref=e1202] [cursor=pointer]:
+                      - /url: https://www.mdpi.com/about/announcements/784
+                    - text: .
+                  - heading "Article Metrics" [level=2] [ref=e1203]: Article Metrics
+                  - generic [ref=e1204]:
+                    - generic [ref=e1206]:
+                      - heading "Citations" [level=3] [ref=e1207]
+                      - generic [ref=e1209]:
+                        - generic [ref=e1210]: Scopus
+                        - link "7" [ref=e1214] [cursor=pointer]:
+                          - /url: https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105006643982&origin=inward
+                      - generic [ref=e1216]:
+                        - generic [ref=e1217]: Crossref
+                        - link "9" [ref=e1221] [cursor=pointer]:
+                          - /url: "#"
+                      - generic [ref=e1223]:
+                        - generic [ref=e1224]: Web of Science
+                        - link "3" [ref=e1228] [cursor=pointer]:
+                          - /url: https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&KeyUT=WOS:001495529800001&DestLinkType=FullRecord&DestApp=ALL_WOS&UsrCustomerID=7e717b028bc90856e7c55c7029afc773
+                      - generic [ref=e1230]:
+                        - generic [ref=e1231]: Google Scholar
+                        - link "[click to view]" [ref=e1234] [cursor=pointer]:
+                          - /url: https://scholar.google.com/scholar_lookup?title=Use+of+Explainable+Artificial+Intelligence+for+Analyzing+and+Explaining+Intrusion+Detection+Systems&volume=14&doi=10.3390%2Fcomputers14050160&journal=Computers&publication_year=2025&author=Pamela+Hermosilla&author=Mauricio+D%C3%ADaz&author=Sebasti%C3%A1n+Berr%C3%ADos&author=H%C3%A9ctor+Allende-Cid
+                    - generic [ref=e1236]:
+                      - heading "Article Access Statistics" [level=3] [ref=e1237]
+                      - img [ref=e1240]:
+                        - generic "Chart context menu" [ref=e1242]
+                        - generic [ref=e1251]: Article access statistics
+                        - generic [ref=e1257] [cursor=pointer]: Article Views
+                        - generic [ref=e1258]:
+                          - generic [ref=e1259]: 11. Mar
+                          - generic [ref=e1260]: 12. Mar
+                          - generic [ref=e1261]: 13. Mar
+                          - generic [ref=e1262]: 14. Mar
+                          - generic [ref=e1263]: 15. Mar
+                          - generic [ref=e1264]: 16. Mar
+                          - generic [ref=e1265]: 17. Mar
+                          - generic [ref=e1266]: 18. Mar
+                          - generic [ref=e1267]: 19. Mar
+                          - generic [ref=e1268]: 20. Mar
+                          - generic [ref=e1269]: 21. Mar
+                          - generic [ref=e1270]: 22. Mar
+                          - generic [ref=e1271]: 23. Mar
+                          - generic [ref=e1272]: 24. Mar
+                          - generic [ref=e1273]: 25. Mar
+                          - generic [ref=e1274]: 26. Mar
+                          - generic [ref=e1275]: 27. Mar
+                          - generic [ref=e1276]: 28. Mar
+                          - generic [ref=e1277]: 29. Mar
+                          - generic [ref=e1278]: 30. Mar
+                          - generic [ref=e1279]: 31. Mar
+                          - generic [ref=e1280]: 1. Apr
+                          - generic [ref=e1281]: 2. Apr
+                          - generic [ref=e1282]: 3. Apr
+                          - generic [ref=e1283]: 4. Apr
+                          - generic [ref=e1284]: 5. Apr
+                          - generic [ref=e1285]: 6. Apr
+                          - generic [ref=e1286]: 7. Apr
+                          - generic [ref=e1287]: 8. Apr
+                          - generic [ref=e1288]: 9. Apr
+                          - generic [ref=e1289]: 10. Apr
+                          - generic [ref=e1290]: 11. Apr
+                          - generic [ref=e1291]: 12. Apr
+                          - generic [ref=e1292]: 13. Apr
+                          - generic [ref=e1293]: 14. Apr
+                          - generic [ref=e1294]: 15. Apr
+                          - generic [ref=e1295]: 16. Apr
+                          - generic [ref=e1296]: 17. Apr
+                          - generic [ref=e1297]: 18. Apr
+                          - generic [ref=e1298]: 19. Apr
+                          - generic [ref=e1299]: 20. Apr
+                          - generic [ref=e1300]: 21. Apr
+                          - generic [ref=e1301]: 22. Apr
+                          - generic [ref=e1302]: 23. Apr
+                          - generic [ref=e1303]: 24. Apr
+                          - generic [ref=e1304]: 25. Apr
+                          - generic [ref=e1305]: 26. Apr
+                          - generic [ref=e1306]: 27. Apr
+                          - generic [ref=e1307]: 28. Apr
+                          - generic [ref=e1308]: 29. Apr
+                          - generic [ref=e1309]: 30. Apr
+                          - generic [ref=e1310]: 1. May
+                          - generic [ref=e1311]: 2. May
+                          - generic [ref=e1312]: 3. May
+                          - generic [ref=e1313]: 4. May
+                          - generic [ref=e1314]: 5. May
+                          - generic [ref=e1315]: 6. May
+                          - generic [ref=e1316]: 7. May
+                          - generic [ref=e1317]: 8. May
+                          - generic [ref=e1318]: 9. May
+                          - generic [ref=e1319]: 10. May
+                          - generic [ref=e1320]: 11. May
+                          - generic [ref=e1321]: 12. May
+                          - generic [ref=e1322]: 13. May
+                          - generic [ref=e1323]: 14. May
+                          - generic [ref=e1324]: 15. May
+                          - generic [ref=e1325]: 16. May
+                          - generic [ref=e1326]: 17. May
+                          - generic [ref=e1327]: 18. May
+                          - generic [ref=e1328]: 19. May
+                          - generic [ref=e1329]: 20. May
+                          - generic [ref=e1330]: 21. May
+                          - generic [ref=e1331]: 22. May
+                          - generic [ref=e1332]: 23. May
+                          - generic [ref=e1333]: 24. May
+                          - generic [ref=e1334]: 25. May
+                          - generic [ref=e1335]: 26. May
+                          - generic [ref=e1336]: 27. May
+                          - generic [ref=e1337]: 28. May
+                          - generic [ref=e1338]: 29. May
+                          - generic [ref=e1339]: 30. May
+                          - generic [ref=e1340]: 31. May
+                          - generic [ref=e1341]: 1. Jun
+                          - generic [ref=e1342]: 2. Jun
+                          - generic [ref=e1343]: 3. Jun
+                          - generic [ref=e1344]: 4. Jun
+                          - generic [ref=e1345]: 5. Jun
+                          - generic [ref=e1346]: 6. Jun
+                          - generic [ref=e1347]: 7. Jun
+                          - generic [ref=e1348]: 8. Jun
+                        - generic [ref=e1349]:
+                          - generic [ref=e1350]: 0k
+                          - generic [ref=e1351]: 2k
+                          - generic [ref=e1352]: 4k
+                          - generic [ref=e1353]: 6k
+                      - text: For more information on the journal statistics, click
+                      - link "here" [ref=e1359] [cursor=pointer]:
+                        - /url: /journal/computers/stats
+                      - text: .
+                      - generic [ref=e1360]: error_outline Multiple requests from the same IP address are counted as one view.
+    - generic [ref=e1361]:
+      - generic [ref=e1362]:
+        - generic [ref=e1363]:
+          - emphasis [ref=e1364]:
+            - link "Computers" [ref=e1365] [cursor=pointer]:
+              - /url: /journal/computers
+          - text: ", EISSN 2073-431X, Published by MDPI"
+        - generic [ref=e1366]:
+          - link "RSS" [ref=e1368] [cursor=pointer]:
+            - /url: /rss/journal/computers
+          - link "Content Alert" [ref=e1370] [cursor=pointer]:
+            - /url: /journal/computers/toc-alert
+      - generic [ref=e1371]:
+        - generic [ref=e1372]:
+          - heading "Further Information" [level=3] [ref=e1373]
+          - link "Article Processing Charges" [ref=e1374] [cursor=pointer]:
+            - /url: /apc
+          - link "Pay an Invoice" [ref=e1375] [cursor=pointer]:
+            - /url: /about/payment
+          - link "Open Access Policy" [ref=e1376] [cursor=pointer]:
+            - /url: /openaccess
+          - link "Contact MDPI" [ref=e1377] [cursor=pointer]:
+            - /url: /about/contact
+          - link "Jobs at MDPI" [ref=e1378] [cursor=pointer]:
+            - /url: https://careers.mdpi.com
+        - generic [ref=e1379]:
+          - heading "Guidelines" [level=3] [ref=e1380]
+          - link "For Authors" [ref=e1381] [cursor=pointer]:
+            - /url: /authors
+          - link "For Reviewers" [ref=e1382] [cursor=pointer]:
+            - /url: /reviewers
+          - link "For Editors" [ref=e1383] [cursor=pointer]:
+            - /url: /editors
+          - link "For Librarians" [ref=e1384] [cursor=pointer]:
+            - /url: /librarians
+          - link "For Publishers" [ref=e1385] [cursor=pointer]:
+            - /url: /publishing_services
+          - link "For Societies" [ref=e1386] [cursor=pointer]:
+            - /url: /societies
+          - link "For Conference Organizers" [ref=e1387] [cursor=pointer]:
+            - /url: /conference_organizers
+        - generic [ref=e1388]:
+          - heading "MDPI Initiatives" [level=3] [ref=e1389]
+          - link "Sciforum" [ref=e1390] [cursor=pointer]:
+            - /url: https://sciforum.net
+          - link "MDPI Books" [ref=e1391] [cursor=pointer]:
+            - /url: https://www.mdpi.com/books
+          - link "Preprints.org" [ref=e1392] [cursor=pointer]:
+            - /url: https://www.preprints.org
+          - link "Scilit" [ref=e1393] [cursor=pointer]:
+            - /url: https://www.scilit.com
+          - link "SciProfiles" [ref=e1394] [cursor=pointer]:
+            - /url: https://sciprofiles.com?utm_source=mpdi.com&utm_medium=bottom_menu&utm_campaign=initiative
+          - link "Encyclopedia" [ref=e1395] [cursor=pointer]:
+            - /url: https://encyclopedia.pub
+          - link "JAMS" [ref=e1396] [cursor=pointer]:
+            - /url: https://jams.pub
+          - link "Proceedings Series" [ref=e1397] [cursor=pointer]:
+            - /url: /about/proceedings
+        - generic [ref=e1398]:
+          - heading "Follow MDPI" [level=3] [ref=e1399]
+          - link "LinkedIn" [ref=e1400] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/mdpi
+          - link "Facebook" [ref=e1401] [cursor=pointer]:
+            - /url: https://www.facebook.com/MDPIOpenAccessPublishing
+          - link "X" [ref=e1402] [cursor=pointer]:
+            - /url: https://x.com/MDPIOpenAccess
+        - generic [ref=e1405]:
+          - paragraph [ref=e1406]: Subscribe to receive issue release notifications and newsletters from MDPI journals
+          - button "Select options" [ref=e1408] [cursor=pointer]
+          - textbox "Enter your email address..." [ref=e1409]
+          - button "Subscribe" [ref=e1410] [cursor=pointer]
+      - generic [ref=e1412]:
+        - generic [ref=e1413]: © 1996-2026 MDPI (Basel, Switzerland) unless otherwise stated
+        - generic [ref=e1414]:
+          - generic [ref=e1415]: Disclaimer
+          - link "Legal Notice" [ref=e1416] [cursor=pointer]:
+            - /url: /about/legal-notice
+          - link "Terms and Conditions" [ref=e1417] [cursor=pointer]:
+            - /url: /about/terms-and-conditions
+          - link "Privacy Policy" [ref=e1418] [cursor=pointer]:
+            - /url: /about/privacy
+          - link "Privacy Settings" [ref=e1419] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - link "Accessibility" [ref=e1420] [cursor=pointer]:
+            - /url: /accessibility
+  - log [ref=e1421]
+  - log [ref=e1422]
+  - log [ref=e1423]
+  - log [ref=e1424]
+  - log [ref=e1425]
+  - log [ref=e1426]
+  - log [ref=e1427]
+  - log [ref=e1428]
+  - log [ref=e1429]
+  - log [ref=e1430]
+  - log [ref=e1431]
+  - log [ref=e1432]
+  - log [ref=e1433]
+  - log [ref=e1434]
+  - log [ref=e1435]
+  - log [ref=e1436]
+  - log [ref=e1437]
+  - log [ref=e1438]
+  - log [ref=e1439]
+  - log [ref=e1440]
+  - log [ref=e1441]
+  - log [ref=e1442]
+  - log [ref=e1443]
+  - log [ref=e1444]
+  - log [ref=e1445]
+  - log [ref=e1446]
+  - log [ref=e1447]
+  - log [ref=e1448]
+  - log [ref=e1449]
+  - log [ref=e1450]
+  - log [ref=e1451]
+  - log [ref=e1452]
+  - log [ref=e1453]
+  - log [ref=e1454]
+  - log [ref=e1455]
+  - log [ref=e1456]
+  - log [ref=e1457]
+  - log [ref=e1458]
+  - log [ref=e1459]
+  - log [ref=e1460]
+  - log [ref=e1461]
+  - log [ref=e1462]
+  - log [ref=e1463]
+  - log [ref=e1464]
+  - log [ref=e1465]
+  - log [ref=e1466]
+  - log [ref=e1467]
+  - log [ref=e1468]
+  - log [ref=e1469]
+  - log [ref=e1470]
+  - log [ref=e1471]
+  - log [ref=e1472]
+  - log [ref=e1473]
+  - log [ref=e1474]
+  - log [ref=e1475]
+  - log [ref=e1476]
+  - log [ref=e1477]
+  - log [ref=e1478]
+  - log [ref=e1479]
+  - log [ref=e1480]
+  - log [ref=e1481]

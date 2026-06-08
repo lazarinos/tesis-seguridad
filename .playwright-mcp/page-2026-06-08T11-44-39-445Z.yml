@@ -1,0 +1,375 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir al contenido principal" [ref=e2] [cursor=pointer]
+      - link "Ayuda sobre la accesibilidad" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=es-419
+  - generic [ref=e8]:
+    - search [ref=e9]:
+      - generic [ref=e12]:
+        - link "Ir a la página principal de Google" [ref=e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=es-419&ictx=0&sa=X&ved=0ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQpYkNCAo
+          - img "Ir a la página principal de Google" [ref=e14]
+        - generic [ref=e19]:
+          - combobox "Buscar" [ref=e22]: "\"Propuesta de arquitectura de red segura bajo el estándar ISA/IEC 62443 para redes SCADA en el sector minero\" ALICIA \"Propuesta de arquitectura de red segura bajo el estándar ISA/IEC 62443 para redes SCADA en el sector minero\" ALICIA"
+          - generic [ref=e23]:
+            - button "Borrar" [ref=e25] [cursor=pointer]:
+              - img [ref=e27]
+            - generic [ref=e30]:
+              - button "Búsqueda por voz" [ref=e31] [cursor=pointer]:
+                - img [ref=e32]
+              - button "Búsqueda por imagen" [ref=e34] [cursor=pointer]:
+                - img [ref=e35]
+        - button "Buscar" [ref=e37] [cursor=pointer]:
+          - img [ref=e40]
+    - generic [ref=e42]:
+      - button "Configuración" [ref=e44] [cursor=pointer]:
+        - img [ref=e47]
+      - generic [ref=e50]:
+        - button "Apps de Google" [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+        - link "Acceder" [ref=e57] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=es-419&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Propuesta%2Bde%2Barquitectura%2Bde%2Bred%2Bsegura%2Bbajo%2Bel%2Best%25C3%25A1ndar%2BISA%252FIEC%2B62443%2Bpara%2Bredes%2BSCADA%2Ben%2Bel%2Bsector%2Bminero%2522%2BALICIA&ec=futura_srp_og_si_72236_p
+  - generic [ref=e59]:
+    - navigation [ref=e65]:
+      - generic [ref=e71]:
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - link "Modo IA" [ref=e76] [cursor=pointer]:
+              - /url: /search?q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sca_esv=44a089a1939db368&udm=50&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&aep=1&ntc=1&sa=X&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQ2J8OegQIERAD
+              - generic [ref=e79]: Modo IA
+          - listitem [ref=e80]:
+            - link "Todo" [disabled] [ref=e81]:
+              - generic [ref=e83]: Todo
+          - listitem [ref=e84]:
+            - link "Imágenes" [ref=e85] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sa=X&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQtKgLegQIFxAB
+              - generic [ref=e87]: Imágenes
+          - listitem [ref=e88]:
+            - link "Videos" [ref=e89] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=7&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sa=X&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQtKgLegQIFhAB
+              - generic [ref=e91]: Videos
+          - listitem [ref=e92]:
+            - link "Videos cortos" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=39&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sa=X&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQs6gLegQIFBAB
+              - generic [ref=e95]: Videos cortos
+          - listitem [ref=e96]:
+            - link "Noticias" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&tbm=nws&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&sa=X&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQ0pQJegQIFRAB
+              - generic [ref=e99]: Noticias
+          - listitem [ref=e100]:
+            - link "Libros" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&udm=36&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&sa=X&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQ0pQJegQIExAB
+              - generic [ref=e103]: Libros
+          - listitem [ref=e104]:
+            - button "Más filtros" [ref=e105] [cursor=pointer]:
+              - generic "Más filtros" [ref=e106]:
+                - generic [ref=e107]:
+                  - generic [ref=e108]: Más
+                  - img [ref=e110]
+        - button "Herramientas" [ref=e113] [cursor=pointer]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Herramientas
+            - img [ref=e118]
+    - heading "Resultados de búsqueda" [level=1] [ref=e120]
+    - generic [ref=e128]:
+      - generic [ref=e144]:
+        - heading "Buscando Pensando un poco más" [level=2] [ref=e148]:
+          - generic [ref=e149]:
+            - generic [ref=e156]: Buscando
+            - generic [ref=e166]: Pensando un poco más
+        - progressbar [ref=e168]
+      - main [ref=e210]:
+        - generic [ref=e211]:
+          - generic [ref=e215]:
+            - heading "No se han encontrado resultados para \"Propuesta de arquitectura de red segura bajo el estándar ISA/IEC 62443 para redes SCADA en el sector minero\" ALICIA." [level=2] [ref=e216]
+            - text: Resultados de
+            - link "Propuesta de arquitectura de red segura bajo el estándar ISA/IEC 62443 para redes SCADA en el sector minero ALICIA" [ref=e217] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sa=X&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQgwN6BAgMEAE
+            - text: "(sin comillas):"
+          - generic [ref=e220]:
+            - region "Anuncios" [ref=e224]:
+              - generic [ref=e225]:
+                - heading "Resultado patrocinado" [level=2] [ref=e232]
+                - generic [ref=e233]:
+                  - generic [ref=e245]:
+                    - generic [ref=e246]:
+                      - link "Guía de Redes TI Empresarial - Menos latencia, Más velocidad equinix.com https://www.equinix.com" [ref=e247] [cursor=pointer]:
+                        - /url: https://www.equinix.com/mx/es/resources/solution-briefs/multicloud-networking-solution-guide
+                        - heading "Guía de Redes TI Empresarial - Menos latencia, Más velocidad" [level=3] [ref=e248]
+                        - generic [ref=e254]:
+                          - generic [ref=e256]: equinix.com
+                          - generic [ref=e257]: https://www.equinix.com
+                      - button "¿Por qué este anuncio?" [ref=e260] [cursor=pointer]:
+                        - img [ref=e262]
+                    - generic [ref=e266]: Simplifique los desafíos de multinube híbrida con mejor conectividad. Obtenga la guía. Conecte nubes e infraestructura WAN sin interrupciones con Equinix. Descargue la guía. Cloud Infrastructure.
+                    - generic [ref=e271]: Más de 100,000 visitas en el último mes
+                  - button "Ocultar resultado patrocinado" [ref=e273] [cursor=pointer]:
+                    - separator [ref=e274]
+                    - generic [ref=e275]:
+                      - generic [ref=e276]: Ocultar resultado patrocinado
+                      - img [ref=e278]
+            - generic [ref=e282]:
+              - heading "Resultados web" [level=2] [ref=e283]
+              - generic [ref=e284]:
+                - generic [ref=e287]:
+                  - link "Diseño de un sistema Scada para el mantenimiento de ... - Alicia ALICIA (Concytec) https://alicia.concytec.gob.pe › vufind › Record" [ref=e289] [cursor=pointer]:
+                    - /url: https://alicia.concytec.gob.pe/vufind/Record/UUNI_47f01708b2a8552341fe5e1fa754dd2f
+                    - heading "Diseño de un sistema Scada para el mantenimiento de ... - Alicia" [level=3] [ref=e290]
+                    - generic [ref=e295]:
+                      - generic [ref=e297]: ALICIA (Concytec)
+                      - generic [ref=e299]: https://alicia.concytec.gob.pe › vufind › Record
+                  - button "Acerca de este resultado" [ref=e300] [cursor=pointer]:
+                    - img [ref=e303]
+                - generic [ref=e306]:
+                  - generic [ref=e307]: por CD Sotelo Pinto —
+                  - generic [ref=e308]:
+                    - text: La presente tesis realiza el análisis de los pasos a seguir
+                    - emphasis [ref=e309]: para
+                    - text: diseñar un sistema
+                    - emphasis [ref=e310]: Scada
+                    - text: . Tomándose como caso particular el
+                    - emphasis [ref=e311]: Scada
+                    - text: de un taller
+                    - emphasis [ref=e312]: minero para
+                    - text: ...
+                - generic [ref=e314]: "Falta(n): red ‎bajo ‎IEC ‎62443 ‎redes ‎sector"
+            - generic [ref=e318]:
+              - generic [ref=e321]:
+                - link "Aplicando el estándar IEC62443 en un proyecto de ... Centro de Ciberseguridad Industrial https://www.cci-es.org › wp-content › uploads › A..." [ref=e323] [cursor=pointer]:
+                  - /url: https://www.cci-es.org/wp-content/uploads/Aplicando-el-estandar-IEC62443-en-un-proyecto-de-digitalizacion-industrial-v3.pptx.pdf
+                  - heading "Aplicando el estándar IEC62443 en un proyecto de ..." [level=3] [ref=e324]
+                  - generic [ref=e329]:
+                    - generic [ref=e331]: Centro de Ciberseguridad Industrial
+                    - generic [ref=e333]: https://www.cci-es.org › wp-content › uploads › A...
+                - generic [ref=e334]:
+                  - generic:
+                    - generic: PDF
+                - button "Acerca de este resultado" [ref=e335] [cursor=pointer]:
+                  - img [ref=e338]
+              - generic [ref=e340]:
+                - generic [ref=e342]:
+                  - text: •
+                  - emphasis [ref=e343]: Arquitectura de red
+                  - text: recomendada (basada en
+                  - emphasis [ref=e344]: IEC 62443
+                  - text: "-3-3). • Selección de proveedores (Emplear canales y requisitos de selección que contemple la seguridad)."
+                - generic [ref=e345]: 24 páginas
+              - generic [ref=e347]: "Falta(n): bajo ‎minero ‎ALICIA"
+            - generic [ref=e351]:
+              - generic [ref=e354]:
+                - link "Diseño de una Arquitectura de Red Segura utilizando la ... Repositorio Academico UPC https://repositorioacademico.upc.edu.pe › handle" [ref=e356] [cursor=pointer]:
+                  - /url: https://repositorioacademico.upc.edu.pe/handle/10757/684968?locale-attribute=es
+                  - heading "Diseño de una Arquitectura de Red Segura utilizando la ..." [level=3] [ref=e357]
+                  - generic [ref=e362]:
+                    - generic [ref=e364]: Repositorio Academico UPC
+                    - generic [ref=e366]: https://repositorioacademico.upc.edu.pe › handle
+                - button "Acerca de este resultado" [ref=e367] [cursor=pointer]:
+                  - img [ref=e370]
+              - generic [ref=e373]:
+                - generic [ref=e374]: 21 may 2025 —
+                - generic [ref=e375]:
+                  - emphasis [ref=e376]: Diseño de una Arquitectura de Red Segura utilizando la Norma ISO/IEC 27033
+                  - text: para mejorar la protección de datos para una Entidad del Estado ...
+              - generic [ref=e378]: "Falta(n): bajo ‎estándar ‎ISA/ ‎62443 ‎SCADA ‎sector ‎minero"
+            - generic [ref=e382]:
+              - generic [ref=e385]:
+                - link "Diseño de un sistema scada a través de una red wireless ... Repositorio UNPRG https://repositorio.unprg.edu.pe › handle" [ref=e387] [cursor=pointer]:
+                  - /url: https://repositorio.unprg.edu.pe/handle/20.500.12893/2846
+                  - heading "Diseño de un sistema scada a través de una red wireless ..." [level=3] [ref=e388]
+                  - generic [ref=e393]:
+                    - generic [ref=e395]: Repositorio UNPRG
+                    - generic [ref=e397]: https://repositorio.unprg.edu.pe › handle
+                - button "Acerca de este resultado" [ref=e398] [cursor=pointer]:
+                  - img [ref=e401]
+              - generic [ref=e404]:
+                - generic [ref=e405]: por PG Antinori Regalado · 2018 —
+                - generic [ref=e406]:
+                  - text: Este capítulo describe a detalle los pasos seguidos
+                  - emphasis [ref=e407]: para
+                  - text: "diseñar e implementar el sistema: empezando por el dimensionamiento de los tableros de fuerza y control ..."
+              - generic [ref=e409]: "Falta(n): arquitectura ‎estándar ‎ISA/ ‎IEC ‎62443 ‎sector ‎ALICIA"
+            - generic [ref=e413]:
+              - generic [ref=e416]:
+                - link "Cumplimiento de la norma ISA/IEC 62443 y su impacto en ... Procetradi https://procetradi.com › Blog" [ref=e418] [cursor=pointer]:
+                  - /url: https://procetradi.com/blog/norma-isa-iec-62443-y-su-impacto-en-la-ciberseguridad-ot/
+                  - heading "Cumplimiento de la norma ISA/IEC 62443 y su impacto en ..." [level=3] [ref=e419]
+                  - generic [ref=e424]:
+                    - generic [ref=e426]: Procetradi
+                    - generic [ref=e428]: https://procetradi.com › Blog
+                - button "Acerca de este resultado" [ref=e429] [cursor=pointer]:
+                  - img [ref=e432]
+              - generic [ref=e435]:
+                - generic [ref=e436]: 13 mar 2025 —
+                - generic [ref=e437]:
+                  - text: La norma
+                  - emphasis [ref=e438]: ISA
+                  - text: /
+                  - emphasis [ref=e439]: IEC 62443
+                  - text: – Parte 2-1 establece los requisitos
+                  - emphasis [ref=e440]: para
+                  - text: la creación e implementación de un programa de seguridad industrial en sistemas ...
+              - generic [ref=e442]: "Falta(n): Propuesta ‎arquitectura ‎bajo ‎redes ‎ALICIA"
+            - generic [ref=e446]:
+              - generic [ref=e449]:
+                - link "Arquitectura de SCADA Nacional para la Industria Petrolera Dialnet https://dialnet.unirioja.es › descarga › articulo" [ref=e451] [cursor=pointer]:
+                  - /url: https://dialnet.unirioja.es/descarga/articulo/10453057.pdf
+                  - heading "Arquitectura de SCADA Nacional para la Industria Petrolera" [level=3] [ref=e452]
+                  - generic [ref=e457]:
+                    - generic [ref=e459]: Dialnet
+                    - generic [ref=e461]: https://dialnet.unirioja.es › descarga › articulo
+                - generic [ref=e462]:
+                  - generic:
+                    - generic: PDF
+                - button "Acerca de este resultado" [ref=e463] [cursor=pointer]:
+                  - img [ref=e466]
+              - generic [ref=e468]:
+                - generic [ref=e469]:
+                  - generic [ref=e470]: por MIC Cifuente · 2025 —
+                  - generic [ref=e471]:
+                    - text: Por tanto, se propone el desarrollo de una
+                    - emphasis [ref=e472]: arquitectura
+                    - text: abierta, de fácil acceso, y fuerte cohesión entre sus módulos que garantice la permanencia y seguridad ...
+                - generic [ref=e473]: 8 páginas
+              - generic [ref=e475]: "Falta(n): ISA/ ‎IEC ‎62443 ‎minero ‎ALICIA"
+            - generic [ref=e479]:
+              - generic [ref=e482]:
+                - link "Diseño de redes OT (ISA/IEC 62443) Mytra Control https://www.mytra.es › ciberseguridad › diseno-de-rede..." [ref=e484] [cursor=pointer]:
+                  - /url: https://www.mytra.es/ciberseguridad/diseno-de-redes-ot-isa-iec-62443
+                  - heading "Diseño de redes OT (ISA/IEC 62443)" [level=3] [ref=e485]
+                  - generic [ref=e490]:
+                    - generic [ref=e492]: Mytra Control
+                    - generic [ref=e494]: https://www.mytra.es › ciberseguridad › diseno-de-rede...
+                - button "Acerca de este resultado" [ref=e495] [cursor=pointer]:
+                  - img [ref=e498]
+              - generic [ref=e502]:
+                - text: Potencia la seguridad de tu infraestructura OT con el cumplimiento del
+                - emphasis [ref=e503]: estándar
+                - text: de seguridad
+                - emphasis [ref=e504]: ISA
+                - text: /
+                - emphasis [ref=e505]: IEC 62443
+                - text: y una segmentación de
+                - emphasis [ref=e506]: red
+                - text: efectiva.
+              - generic [ref=e508]: "Falta(n): arquitectura ‎bajo ‎estándar ‎minero ‎ALICIA"
+            - generic [ref=e513]:
+              - heading "Más preguntas" [level=2] [ref=e515]
+              - button "¿Qué es la arquitectura de red SCADA?" [ref=e522] [cursor=pointer]:
+                - generic [ref=e524]: ¿Qué es la arquitectura de red SCADA?
+                - img [ref=e527]
+            - generic [ref=e532]:
+              - heading "Resultados web" [level=2] [ref=e533]
+              - generic [ref=e534]:
+                - generic [ref=e537]:
+                  - link "Implementación de un sistema SCADA para la gestión remota ... ALICIA (Concytec) https://alicia.concytec.gob.pe › vufind › Record" [ref=e539] [cursor=pointer]:
+                    - /url: https://alicia.concytec.gob.pe/vufind/Record/UTEC_37cf684e1bde0ae924753fadedebb36a
+                    - heading "Implementación de un sistema SCADA para la gestión remota ..." [level=3] [ref=e540]
+                    - generic [ref=e545]:
+                      - generic [ref=e547]: ALICIA (Concytec)
+                      - generic [ref=e549]: https://alicia.concytec.gob.pe › vufind › Record
+                  - button "Acerca de este resultado" [ref=e550] [cursor=pointer]:
+                    - img [ref=e553]
+                - generic [ref=e556]:
+                  - generic [ref=e557]: por AA Garay Nuñez —
+                  - generic [ref=e558]:
+                    - text: Se diseñó la
+                    - emphasis [ref=e559]: arquitectura
+                    - text: general del sistema, se revisaron los gabinetes de control y se implementaron los protocolos DNP3, RSTP, SNMP y NTP. Asimismo, se ...
+                - generic [ref=e561]: "Falta(n): Propuesta ‎segura ‎bajo ‎estándar ‎ISA/ ‎62443 ‎redes ‎sector ‎minero"
+            - generic [ref=e565]:
+              - generic [ref=e568]:
+                - link "DISEÑO DE ZONAS, CONDUCTOS Y CANALES, SEGÚN ... ISA Sección Española https://isa-spain.org › ..." [ref=e570] [cursor=pointer]:
+                  - /url: https://isa-spain.org/diseno-de-zonas-conductos-y-canales-segun-la-normativa-iec-62443-isa99-en-una-industria-4-0-3a-parte/
+                  - heading "DISEÑO DE ZONAS, CONDUCTOS Y CANALES, SEGÚN ..." [level=3] [ref=e571]
+                  - generic [ref=e576]:
+                    - generic [ref=e578]: ISA Sección Española
+                    - generic [ref=e580]: https://isa-spain.org › ...
+                - button "Acerca de este resultado" [ref=e581] [cursor=pointer]:
+                  - img [ref=e584]
+              - generic [ref=e587]:
+                - generic [ref=e588]: 27 oct 2016 —
+                - text: En este artículo se proponen unas recomendaciones y guías que permiten definir las zonas, conductos y canales, siguiendo las recomendaciones de ...
+              - generic [ref=e590]: "Falta(n): bajo ‎estándar ‎minero ‎ALICIA"
+            - region "Anuncios" [ref=e594]:
+              - generic [ref=e595]:
+                - heading "Resultados patrocinados" [level=2] [ref=e602]
+                - generic [ref=e603]:
+                  - generic [ref=e610]:
+                    - generic [ref=e615]:
+                      - generic [ref=e616]:
+                        - link "IEC 61850 para expertos - Protocolo IEC - IEC 61850 sin complicación COPA-DATA USA Corp. https://go.copadata.com › iec61850 › ebook-gratuito" [ref=e617] [cursor=pointer]:
+                          - /url: https://go.copadata.com/es/iec-61850-ebook
+                          - heading "IEC 61850 para expertos - Protocolo IEC - IEC 61850 sin complicación" [level=3] [ref=e618]
+                          - generic [ref=e624]:
+                            - generic [ref=e626]: COPA-DATA USA Corp.
+                            - generic [ref=e627]: https://go.copadata.com › iec61850 › ebook-gratuito
+                        - button "¿Por qué este anuncio?" [ref=e630] [cursor=pointer]:
+                          - img [ref=e632]
+                      - generic [ref=e636]: Ebook técnico completo sobre comunicación, mensajes y drivers IEC 61850. Descargue su eBook gratuito con información general sobre la IEC 61850.
+                      - generic [ref=e641]: Más de 10,000 visitas en el último mes
+                    - generic [ref=e646]:
+                      - generic [ref=e647]:
+                        - link "Seguridad funcional - Numerosos casos de aplicación Bihl+Wiedemann https://www.bihl-wiedemann.de › es" [ref=e648] [cursor=pointer]:
+                          - /url: https://www.bihl-wiedemann.de/es/aplicaciones/seguridad-funcional-solucion-escalable-facil-instalacion
+                          - heading "Seguridad funcional - Numerosos casos de aplicación" [level=3] [ref=e649]
+                          - generic [ref=e655]:
+                            - generic [ref=e657]: Bihl+Wiedemann
+                            - generic [ref=e658]: https://www.bihl-wiedemann.de › es
+                        - button "¿Por qué este anuncio?" [ref=e661] [cursor=pointer]:
+                          - img [ref=e663]
+                      - generic [ref=e667]: "Seguridad funcional con Bihl+Wiedemann: cómoda, rentable e independiente del bus de campo. Soluciones de seguridad para cualquier tamaño..."
+                      - generic [ref=e672]: Más de 100,000 visitas en el último mes
+                  - button "Ocultar resultados patrocinados" [ref=e674] [cursor=pointer]:
+                    - separator [ref=e675]
+                    - generic [ref=e676]:
+                      - generic [ref=e677]: Ocultar resultados patrocinados
+                      - img [ref=e679]
+        - navigation [ref=e683]:
+          - heading "Navegación de páginas" [level=1] [ref=e684]
+          - text: "1"
+          - link "Page 2" [ref=e687] [cursor=pointer]:
+            - /url: /search?q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sca_esv=44a089a1939db368&ei=Jasmas6uNrfL1sQP2IyEgQs&start=10&sa=N&sstk=AU9db-C9zJyHN3SVLhKm0fnCtt649VRAvGhOiKIOy9E05LRJgK46qEKaPm_QzU55usXtrke0ZMI0ajwwHyzOR2esND-fLKYL--KiKQ&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQ8tMDegQIKRAE
+            - text: "2"
+          - link "Page 3" [ref=e689] [cursor=pointer]:
+            - /url: /search?q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sca_esv=44a089a1939db368&ei=Jasmas6uNrfL1sQP2IyEgQs&start=20&sa=N&sstk=AU9db-C9zJyHN3SVLhKm0fnCtt649VRAvGhOiKIOy9E05LRJgK46qEKaPm_QzU55usXtrke0ZMI0ajwwHyzOR2esND-fLKYL--KiKQ&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQ8tMDegQIKRAG
+            - text: "3"
+          - link "Page 4" [ref=e691] [cursor=pointer]:
+            - /url: /search?q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sca_esv=44a089a1939db368&ei=Jasmas6uNrfL1sQP2IyEgQs&start=30&sa=N&sstk=AU9db-C9zJyHN3SVLhKm0fnCtt649VRAvGhOiKIOy9E05LRJgK46qEKaPm_QzU55usXtrke0ZMI0ajwwHyzOR2esND-fLKYL--KiKQ&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQ8tMDegQIKRAI
+            - text: "4"
+          - link "Page 5" [ref=e693] [cursor=pointer]:
+            - /url: /search?q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sca_esv=44a089a1939db368&ei=Jasmas6uNrfL1sQP2IyEgQs&start=40&sa=N&sstk=AU9db-C9zJyHN3SVLhKm0fnCtt649VRAvGhOiKIOy9E05LRJgK46qEKaPm_QzU55usXtrke0ZMI0ajwwHyzOR2esND-fLKYL--KiKQ&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQ8tMDegQIKRAK
+            - text: "5"
+          - link "Page 6" [ref=e695] [cursor=pointer]:
+            - /url: /search?q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sca_esv=44a089a1939db368&ei=Jasmas6uNrfL1sQP2IyEgQs&start=50&sa=N&sstk=AU9db-C9zJyHN3SVLhKm0fnCtt649VRAvGhOiKIOy9E05LRJgK46qEKaPm_QzU55usXtrke0ZMI0ajwwHyzOR2esND-fLKYL--KiKQ&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQ8tMDegQIKRAM
+            - text: "6"
+          - link "Page 7" [ref=e697] [cursor=pointer]:
+            - /url: /search?q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sca_esv=44a089a1939db368&ei=Jasmas6uNrfL1sQP2IyEgQs&start=60&sa=N&sstk=AU9db-C9zJyHN3SVLhKm0fnCtt649VRAvGhOiKIOy9E05LRJgK46qEKaPm_QzU55usXtrke0ZMI0ajwwHyzOR2esND-fLKYL--KiKQ&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQ8tMDegQIKRAO
+            - text: "7"
+          - heading "Siguiente" [level=2] [ref=e699]:
+            - link "Siguiente" [ref=e700] [cursor=pointer]:
+              - /url: /search?q=Propuesta+de+arquitectura+de+red+segura+bajo+el+est%C3%A1ndar+ISA/IEC+62443+para+redes+SCADA+en+el+sector+minero+ALICIA&sca_esv=44a089a1939db368&ei=Jasmas6uNrfL1sQP2IyEgQs&start=10&sa=N&sstk=AU9db-C9zJyHN3SVLhKm0fnCtt649VRAvGhOiKIOy9E05LRJgK46qEKaPm_QzU55usXtrke0ZMI0ajwwHyzOR2esND-fLKYL--KiKQ&ved=2ahUKEwiO1YvIyPeUAxW3pZUCHVgGIbAQ8NMDegQIKRAQ
+              - generic [ref=e702]: Siguiente
+        - navigation
+    - contentinfo [ref=e703]:
+      - heading "Vínculos a pie de página" [level=1] [ref=e704]
+      - generic [ref=e708]:
+        - generic [ref=e710]:
+          - text: Perú
+          - generic [ref=e712]:
+            - button "21104, Juliaca - Según tu actividad anterior" [ref=e714] [cursor=pointer]:
+              - generic [ref=e715]: 21104, Juliaca
+              - generic [ref=e717]:
+                - text: "-"
+                - generic [ref=e718]: Según tu actividad anterior
+            - text: "-"
+            - button "Actualizar ubicación" [ref=e720] [cursor=pointer]: Actualizar ubicación
+        - generic [ref=e723]:
+          - link "Ayuda" [ref=e724] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=es-419&fg=1
+          - link "Enviar comentarios" [ref=e725] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacidad" [ref=e726] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=es-419&fg=1
+          - link "Condiciones" [ref=e727] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=es-419&fg=1

@@ -1,0 +1,203 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir al contenido principal" [ref=e2] [cursor=pointer]
+      - link "Ayuda sobre la accesibilidad" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=es-419
+  - generic [ref=e8]:
+    - search [ref=e9]:
+      - generic [ref=e12]:
+        - link "Ir a la página principal de Google" [ref=e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=es-419&ictx=0&sa=X&ved=0ahUKEwjm4cfsyPeUAxVNp5UCHYFuPUgQpYkNCAo
+          - img "Ir a la página principal de Google" [ref=e14]
+        - generic [ref=e19]:
+          - combobox "Buscar" [ref=e22]: "\"Sistemas de control de supervisión y adquisición de datos para la deteccion de ciberataques en la industria minera\" UPC \"Sistemas de control de supervisión y adquisición de datos para la deteccion de ciberataques en la industria minera\" UPC"
+          - generic [ref=e23]:
+            - button "Borrar" [ref=e25] [cursor=pointer]:
+              - img [ref=e27]
+            - generic [ref=e30]:
+              - button "Búsqueda por voz" [ref=e31] [cursor=pointer]:
+                - img [ref=e32]
+              - button "Búsqueda por imagen" [ref=e34] [cursor=pointer]:
+                - img [ref=e35]
+        - button "Buscar" [ref=e37] [cursor=pointer]:
+          - img [ref=e40]
+    - generic [ref=e42]:
+      - button "Configuración" [ref=e44] [cursor=pointer]:
+        - img [ref=e47]
+      - generic [ref=e50]:
+        - button "Apps de Google" [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+        - link "Acceder" [ref=e57] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=es-419&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Sistemas%2Bde%2Bcontrol%2Bde%2Bsupervisi%25C3%25B3n%2By%2Badquisici%25C3%25B3n%2Bde%2Bdatos%2Bpara%2Bla%2Bdeteccion%2Bde%2Bciberataques%2Ben%2Bla%2Bindustria%2Bminera%2522%2BUPC&ec=futura_srp_og_si_72236_p
+  - generic [ref=e59]:
+    - navigation [ref=e65]:
+      - generic [ref=e71]:
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - link "Modo IA" [ref=e76] [cursor=pointer]:
+              - /url: /search?q=%22Sistemas+de+control+de+supervisi%C3%B3n+y+adquisici%C3%B3n+de+datos+para+la+deteccion+de+ciberataques+en+la+industria+minera%22+UPC&sca_esv=44a089a1939db368&udm=50&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn7qetFwqcJU3znT8H-Xv6GQW04dP883srsJgiXMoxeK5xWyTiWqPw2DkczsMvTm-Yas0UVm5MaEmGsKRFvo6sC-oU_mM4rt87QD33wwTzkIOKLywsVGM-5CGuiD5p9f1Ob12Ce_mm-wBOZB2byJTNfoH0PSvkkgyjEaHLTAASRb1PJwKag0VW79ODUUaxmYjplmmUPA&aep=1&ntc=1&sa=X&ved=2ahUKEwjm4cfsyPeUAxVNp5UCHYFuPUgQ2J8OegQIDxAD
+              - generic [ref=e79]: Modo IA
+          - listitem [ref=e80]:
+            - link "Todo" [disabled] [ref=e81]:
+              - generic [ref=e83]: Todo
+          - listitem [ref=e84]:
+            - link "Empleos" [ref=e85] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=8&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn7qetFwqcJU3znT8H-Xv6GQW04dP883srsJgiXMoxeK5xWyTiWqPw2DkczsMvTm-Yas0UVm5MaEmGsKRFvo6sC-oU_mM4rt87QD33wwTzkIOKLywsVGM-5CGuiD5p9f1Ob12Ce_mm-wBOZB2byJTNfoH0PSvkkgyjEaHLTAASRb1PJwKag0VW79ODUUaxmYjplmmUPA&q=%22Sistemas+de+control+de+supervisi%C3%B3n+y+adquisici%C3%B3n+de+datos+para+la+deteccion+de+ciberataques+en+la+industria+minera%22+UPC&sa=X&ved=2ahUKEwjm4cfsyPeUAxVNp5UCHYFuPUgQs6gLegQIFRAB
+              - generic [ref=e87]: Empleos
+          - listitem [ref=e88]:
+            - link "Imágenes" [ref=e89] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn7qetFwqcJU3znT8H-Xv6GQW04dP883srsJgiXMoxeK5xWyTiWqPw2DkczsMvTm-Yas0UVm5MaEmGsKRFvo6sC-oU_mM4rt87QD33wwTzkIOKLywsVGM-5CGuiD5p9f1Ob12Ce_mm-wBOZB2byJTNfoH0PSvkkgyjEaHLTAASRb1PJwKag0VW79ODUUaxmYjplmmUPA&q=%22Sistemas+de+control+de+supervisi%C3%B3n+y+adquisici%C3%B3n+de+datos+para+la+deteccion+de+ciberataques+en+la+industria+minera%22+UPC&sa=X&ved=2ahUKEwjm4cfsyPeUAxVNp5UCHYFuPUgQtKgLegQIFBAB
+              - generic [ref=e91]: Imágenes
+          - listitem [ref=e92]:
+            - link "Videos" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=7&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn7qetFwqcJU3znT8H-Xv6GQW04dP883srsJgiXMoxeK5xWyTiWqPw2DkczsMvTm-Yas0UVm5MaEmGsKRFvo6sC-oU_mM4rt87QD33wwTzkIOKLywsVGM-5CGuiD5p9f1Ob12Ce_mm-wBOZB2byJTNfoH0PSvkkgyjEaHLTAASRb1PJwKag0VW79ODUUaxmYjplmmUPA&q=%22Sistemas+de+control+de+supervisi%C3%B3n+y+adquisici%C3%B3n+de+datos+para+la+deteccion+de+ciberataques+en+la+industria+minera%22+UPC&sa=X&ved=2ahUKEwjm4cfsyPeUAxVNp5UCHYFuPUgQtKgLegQIExAB
+              - generic [ref=e95]: Videos
+          - listitem [ref=e96]:
+            - link "Noticias" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&q=%22Sistemas+de+control+de+supervisi%C3%B3n+y+adquisici%C3%B3n+de+datos+para+la+deteccion+de+ciberataques+en+la+industria+minera%22+UPC&tbm=nws&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn7qetFwqcJU3znT8H-Xv6GQW04dP883srsJgiXMoxeK5xWyTiWqPw2DkczsMvTm-Yas0UVm5MaEmGsKRFvo6sC-oU_mM4rt87QD33wwTzkIOKLywsVGM-5CGuiD5p9f1Ob12Ce_mm-wBOZB2byJTNfoH0PSvkkgyjEaHLTAASRb1PJwKag0VW79ODUUaxmYjplmmUPA&sa=X&ved=2ahUKEwjm4cfsyPeUAxVNp5UCHYFuPUgQ0pQJegQIERAB
+              - generic [ref=e99]: Noticias
+          - listitem [ref=e100]:
+            - link "Videos cortos" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=39&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn7qetFwqcJU3znT8H-Xv6GQW04dP883srsJgiXMoxeK5xWyTiWqPw2DkczsMvTm-Yas0UVm5MaEmGsKRFvo6sC-oU_mM4rt87QD33wwTzkIOKLywsVGM-5CGuiD5p9f1Ob12Ce_mm-wBOZB2byJTNfoH0PSvkkgyjEaHLTAASRb1PJwKag0VW79ODUUaxmYjplmmUPA&q=%22Sistemas+de+control+de+supervisi%C3%B3n+y+adquisici%C3%B3n+de+datos+para+la+deteccion+de+ciberataques+en+la+industria+minera%22+UPC&sa=X&ved=2ahUKEwjm4cfsyPeUAxVNp5UCHYFuPUgQs6gLegQIEhAB
+              - generic [ref=e103]: Videos cortos
+          - listitem [ref=e104]:
+            - button "Más filtros" [ref=e105] [cursor=pointer]:
+              - generic "Más filtros" [ref=e106]:
+                - generic [ref=e107]:
+                  - generic [ref=e108]: Más
+                  - img [ref=e110]
+        - button "Herramientas" [ref=e113] [cursor=pointer]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Herramientas
+            - img [ref=e118]
+    - heading "Resultados de búsqueda" [level=1] [ref=e120]
+    - main [ref=e126]:
+      - generic [ref=e130]:
+        - generic [ref=e133]:
+          - heading "Resultados web" [level=2] [ref=e134]
+          - generic [ref=e135]:
+            - generic [ref=e138]:
+              - link "Sistemas de control de supervisión y adquisición de datos ... Repositorio Academico UPC https://repositorioacademico.upc.edu.pe › handle" [ref=e140] [cursor=pointer]:
+                - /url: https://repositorioacademico.upc.edu.pe/handle/10757/656083
+                - heading "Sistemas de control de supervisión y adquisición de datos ..." [level=3] [ref=e141]
+                - generic [ref=e146]:
+                  - generic [ref=e148]: Repositorio Academico UPC
+                  - generic [ref=e150]: https://repositorioacademico.upc.edu.pe › handle
+              - button "Acerca de este resultado" [ref=e151] [cursor=pointer]:
+                - img [ref=e154]
+            - generic [ref=e157]:
+              - generic [ref=e158]: por JP Ore Huacles —
+              - generic [ref=e159]:
+                - emphasis [ref=e160]: Sistemas de control de supervisión y adquisición de datos para la deteccion de ciberataques en la industria minera
+                - text: ... (
+                - emphasis [ref=e161]: UPC
+                - text: ). URI. http://hdl ...
+        - generic [ref=e165]:
+          - generic [ref=e168]:
+            - 'link "Facultad de Ingeniería: Envíos recientes Repositorio Académico UPC https://repositorioacademico.upc.edu.pe › handle › rece..." [ref=e170] [cursor=pointer]':
+              - /url: https://repositorioacademico.upc.edu.pe/handle/10757/626057/recent-submissions?offset=20&locale-attribute=es
+              - 'heading "Facultad de Ingeniería: Envíos recientes" [level=3] [ref=e171]'
+              - generic [ref=e176]:
+                - generic [ref=e178]: Repositorio Académico UPC
+                - generic [ref=e180]: https://repositorioacademico.upc.edu.pe › handle › rece...
+            - button "Acerca de este resultado" [ref=e181] [cursor=pointer]:
+              - img [ref=e184]
+          - generic [ref=e188]:
+            - text: Thumbnail.
+            - emphasis [ref=e189]: Sistemas de control de supervisión y adquisición de datos para la deteccion de ciberataques en la industria minera
+            - text: . Lomparte Alvarado, Romulo ...
+        - generic [ref=e193]:
+          - generic [ref=e196]:
+            - link "Ingeniería de Sistemas de Información Repositorio Académico UPC https://repositorioacademico.upc.edu.pe › handle" [ref=e198] [cursor=pointer]:
+              - /url: https://repositorioacademico.upc.edu.pe/handle/10757/653649
+              - heading "Ingeniería de Sistemas de Información" [level=3] [ref=e199]
+              - generic [ref=e204]:
+                - generic [ref=e206]: Repositorio Académico UPC
+                - generic [ref=e208]: https://repositorioacademico.upc.edu.pe › handle
+            - button "Acerca de este resultado" [ref=e209] [cursor=pointer]:
+              - img [ref=e212]
+          - generic [ref=e216]:
+            - text: ...
+            - emphasis [ref=e217]: Sistemas de control de supervisión y adquisición de datos para la deteccion de ciberataques en la industria minera
+            - text: . Lomparte Alvarado, Romulo Fernando; Ore ...
+        - generic [ref=e221]:
+          - generic [ref=e224]:
+            - 'link "Bibliographies: ''Ciberataques'' Grafiati https://www.grafiati.com › literature-selections › ciberat..." [ref=e226] [cursor=pointer]':
+              - /url: https://www.grafiati.com/en/literature-selections/ciberataques/
+              - 'heading "Bibliographies: ''Ciberataques''" [level=3] [ref=e227]'
+              - generic [ref=e232]:
+                - generic [ref=e234]: Grafiati
+                - generic [ref=e236]: https://www.grafiati.com › literature-selections › ciberat...
+            - button "Acerca de este resultado" [ref=e237] [cursor=pointer]:
+              - img [ref=e240]
+          - generic [ref=e244]:
+            - text: "\""
+            - emphasis [ref=e245]: Sistemas de control de supervisión y adquisición de datos para la deteccion de ciberataques en la industria minera
+            - text: ." Bachelor's thesis, Universidad Peruana ...
+        - generic [ref=e249]:
+          - generic [ref=e252]:
+            - link "Recent submissions Repositorio Académico UPC https://repositorioacademico.upc.edu.pe › recent-submis..." [ref=e254] [cursor=pointer]:
+              - /url: https://repositorioacademico.upc.edu.pe/recent-submissions?offset=32220
+              - heading "Recent submissions" [level=3] [ref=e255]
+              - generic [ref=e260]:
+                - generic [ref=e262]: Repositorio Académico UPC
+                - generic [ref=e264]: https://repositorioacademico.upc.edu.pe › recent-submis...
+            - button "Acerca de este resultado" [ref=e265] [cursor=pointer]:
+              - img [ref=e268]
+          - generic [ref=e272]:
+            - text: ...
+            - emphasis [ref=e273]: Sistemas de control de supervisión y adquisición de datos para la deteccion de ciberataques en la industria minera
+            - text: . Lomparte Alvarado, Romulo Fernando; Ore ...
+        - generic [ref=e277]:
+          - generic [ref=e280]:
+            - 'link "Tesis: \"Cyberattack\" Grafiati https://www.grafiati.com › disser..." [ref=e282] [cursor=pointer]':
+              - /url: https://www.grafiati.com/es/literature-selections/cyberattack/dissertation/
+              - 'heading "Tesis: \"Cyberattack\"" [level=3] [ref=e283]'
+              - generic [ref=e288]:
+                - generic [ref=e290]: Grafiati
+                - generic [ref=e292]: https://www.grafiati.com › disser...
+            - generic [ref=e293]:
+              - generic [ref=e294]: ·
+              - link "Traducir esta página" [ref=e295] [cursor=pointer]:
+                - /url: https://www.grafiati.com/es/literature-selections/cyberattack/dissertation/
+            - button "Acerca de este resultado" [ref=e296] [cursor=pointer]:
+              - img [ref=e299]
+          - generic [ref=e303]:
+            - text: "\""
+            - emphasis [ref=e304]: Sistemas de control de supervisión y adquisición de datos para la deteccion de ciberataques en la industria minera
+            - text: ." Bachelor's thesis, Universidad Peruana ...
+      - generic [ref=e306]:
+        - generic [ref=e307]:
+          - heading "Avisos sobre resultados filtrados" [level=2] [ref=e308]
+          - paragraph [ref=e310]:
+            - generic [ref=e311]:
+              - text: Para que veas los resultados más relevantes, omitimos ciertas entradas muy similares a las 6 que ya te mostramos.
+              - text: Si lo deseas, puedes
+              - link "repetir la búsqueda e incluir los resultados omitidos" [ref=e312] [cursor=pointer]:
+                - /url: /search?q=%22Sistemas+de+control+de+supervisi%C3%B3n+y+adquisici%C3%B3n+de+datos+para+la+deteccion+de+ciberataques+en+la+industria+minera%22+UPC&sca_esv=44a089a1939db368&filter=0
+              - text: .
+        - navigation
+      - navigation
+    - contentinfo [ref=e313]:
+      - heading "Vínculos a pie de página" [level=1] [ref=e314]
+      - generic [ref=e318]:
+        - generic [ref=e320]:
+          - text: Perú
+          - generic [ref=e322]:
+            - button "21104, Juliaca - Según tu actividad anterior" [ref=e324] [cursor=pointer]:
+              - generic [ref=e325]: 21104, Juliaca
+              - generic [ref=e327]:
+                - text: "-"
+                - generic [ref=e328]: Según tu actividad anterior
+            - text: "-"
+            - button "Actualizar ubicación" [ref=e330] [cursor=pointer]: Actualizar ubicación
+        - generic [ref=e333]:
+          - link "Ayuda" [ref=e334] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=es-419&fg=1
+          - link "Enviar comentarios" [ref=e335] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacidad" [ref=e336] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=es-419&fg=1
+          - link "Condiciones" [ref=e337] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=es-419&fg=1

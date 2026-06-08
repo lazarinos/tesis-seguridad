@@ -1,0 +1,294 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir al contenido principal" [ref=e2] [cursor=pointer]
+      - link "Ayuda sobre la accesibilidad" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=es-419
+  - generic [ref=e8]:
+    - search [ref=e9]:
+      - generic [ref=e12]:
+        - link "Ir a la página principal de Google" [ref=e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=es-419&ictx=0&sa=X&ved=0ahUKEwiTzqPUwfeUAxV8DLkGHTwNMUAQpYkNCAo
+          - img "Ir a la página principal de Google" [ref=e14]
+        - generic [ref=e19]:
+          - combobox "Buscar" [ref=e22]: "\"Post-Hoc Categorization Based on Explainable AI and Reinforcement Learning for Improved Intrusion Detection\" Larriva-Novo MDPI Applied Sciences 2024 pdf \"Post-Hoc Categorization Based on Explainable AI and Reinforcement Learning for Improved Intrusion Detection\" Larriva-Novo MDPI Applied Sciences 2024 pdf"
+          - generic [ref=e23]:
+            - button "Borrar" [ref=e25] [cursor=pointer]:
+              - img [ref=e27]
+            - generic [ref=e30]:
+              - button "Búsqueda por voz" [ref=e31] [cursor=pointer]:
+                - img [ref=e32]
+              - button "Búsqueda por imagen" [ref=e34] [cursor=pointer]:
+                - img [ref=e35]
+        - button "Buscar" [ref=e37] [cursor=pointer]:
+          - img [ref=e40]
+    - generic [ref=e42]:
+      - button "Configuración" [ref=e44] [cursor=pointer]:
+        - img [ref=e47]
+      - generic [ref=e50]:
+        - button "Apps de Google" [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+        - link "Acceder" [ref=e57] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=es-419&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Post-Hoc%2BCategorization%2BBased%2Bon%2BExplainable%2BAI%2Band%2BReinforcement%2BLearning%2Bfor%2BImproved%2BIntrusion%2BDetection%2522%2BLarriva-Novo%2BMDPI%2BApplied%2BSciences%2B2024%2Bpdf&ec=futura_srp_og_si_72236_p
+  - generic [ref=e59]:
+    - navigation [ref=e65]:
+      - generic [ref=e71]:
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - link "Modo IA" [ref=e76] [cursor=pointer]:
+              - /url: /search?q=%22Post-Hoc+Categorization+Based+on+Explainable+AI+and+Reinforcement+Learning+for+Improved+Intrusion+Detection%22+Larriva-Novo+MDPI+Applied+Sciences+2024+pdf&sca_esv=37c618bae3233f88&udm=50&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&aep=1&ntc=1&sa=X&ved=2ahUKEwiTzqPUwfeUAxV8DLkGHTwNMUAQ2J8OegQIDxAD
+              - generic [ref=e79]: Modo IA
+          - listitem [ref=e80]:
+            - link "Todo" [disabled] [ref=e81]:
+              - generic [ref=e83]: Todo
+          - listitem [ref=e84]:
+            - link "Imágenes" [ref=e85] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=%22Post-Hoc+Categorization+Based+on+Explainable+AI+and+Reinforcement+Learning+for+Improved+Intrusion+Detection%22+Larriva-Novo+MDPI+Applied+Sciences+2024+pdf&sa=X&ved=2ahUKEwiTzqPUwfeUAxV8DLkGHTwNMUAQtKgLegQIFBAB
+              - generic [ref=e87]: Imágenes
+          - listitem [ref=e88]:
+            - link "Videos" [ref=e89] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&udm=7&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=%22Post-Hoc+Categorization+Based+on+Explainable+AI+and+Reinforcement+Learning+for+Improved+Intrusion+Detection%22+Larriva-Novo+MDPI+Applied+Sciences+2024+pdf&sa=X&ved=2ahUKEwiTzqPUwfeUAxV8DLkGHTwNMUAQtKgLegQIFRAB
+              - generic [ref=e91]: Videos
+          - listitem [ref=e92]:
+            - link "Videos cortos" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&udm=39&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=%22Post-Hoc+Categorization+Based+on+Explainable+AI+and+Reinforcement+Learning+for+Improved+Intrusion+Detection%22+Larriva-Novo+MDPI+Applied+Sciences+2024+pdf&sa=X&ved=2ahUKEwiTzqPUwfeUAxV8DLkGHTwNMUAQs6gLegQIExAB
+              - generic [ref=e95]: Videos cortos
+          - listitem [ref=e96]:
+            - link "Noticias" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&q=%22Post-Hoc+Categorization+Based+on+Explainable+AI+and+Reinforcement+Learning+for+Improved+Intrusion+Detection%22+Larriva-Novo+MDPI+Applied+Sciences+2024+pdf&tbm=nws&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&sa=X&ved=2ahUKEwiTzqPUwfeUAxV8DLkGHTwNMUAQ0pQJegQIEhAB
+              - generic [ref=e99]: Noticias
+          - listitem [ref=e100]:
+            - link "Libros" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&q=%22Post-Hoc+Categorization+Based+on+Explainable+AI+and+Reinforcement+Learning+for+Improved+Intrusion+Detection%22+Larriva-Novo+MDPI+Applied+Sciences+2024+pdf&udm=36&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&sa=X&ved=2ahUKEwiTzqPUwfeUAxV8DLkGHTwNMUAQ0pQJegQIERAB
+              - generic [ref=e103]: Libros
+          - listitem [ref=e104]:
+            - button "Más filtros" [ref=e105] [cursor=pointer]:
+              - generic "Más filtros" [ref=e106]:
+                - generic [ref=e107]:
+                  - generic [ref=e108]: Más
+                  - img [ref=e110]
+        - button "Herramientas" [ref=e113] [cursor=pointer]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Herramientas
+            - img [ref=e118]
+    - heading "Resultados de búsqueda" [level=1] [ref=e120]
+    - main [ref=e126]:
+      - generic [ref=e130]:
+        - generic [ref=e133]:
+          - heading "Web results" [level=2] [ref=e134]
+          - generic [ref=e135]:
+            - generic [ref=e138]:
+              - link "Post-Hoc Categorization Based on Explainable AI and ... MDPI https://www.mdpi.com › ..." [ref=e140] [cursor=pointer]:
+                - /url: https://www.mdpi.com/2076-3417/14/24/11511
+                - heading "Post-Hoc Categorization Based on Explainable AI and ..." [level=3] [ref=e141]
+                - generic [ref=e146]:
+                  - generic [ref=e148]: MDPI
+                  - generic [ref=e150]: https://www.mdpi.com › ...
+              - generic [ref=e151]:
+                - generic [ref=e152]: ·
+                - link "Traducir esta página" [ref=e153] [cursor=pointer]:
+                  - /url: https://www.mdpi.com/2076-3417/14/24/11511
+              - button "Acerca de este resultado" [ref=e154] [cursor=pointer]:
+                - img [ref=e157]
+            - generic [ref=e160]:
+              - generic [ref=e161]: por X Larriva-Novo · 2024 · Mencionado por 8 —
+              - generic [ref=e162]:
+                - emphasis [ref=e163]: Post-Hoc Categorization Based on Explainable AI and Reinforcement Learning for Improved Intrusion Detection
+                - text: . by. Xavier
+                - emphasis [ref=e164]: Larriva
+                - text: "-"
+                - emphasis [ref=e165]: Novo
+                - text: . Xavier
+                - emphasis [ref=e166]: Larriva
+                - text: "-"
+                - emphasis [ref=e167]: Novo
+                - text: .
+        - generic [ref=e171]:
+          - generic [ref=e174]:
+            - link "(PDF) Post-Hoc Categorization Based on Explainable AI and ... ResearchGate https://www.researchgate.net › 3..." [ref=e176] [cursor=pointer]:
+              - /url: https://www.researchgate.net/publication/386745153_Post-Hoc_Categorization_Based_on_Explainable_AI_and_Reinforcement_Learning_for_Improved_Intrusion_Detection
+              - heading "(PDF) Post-Hoc Categorization Based on Explainable AI and ..." [level=3] [ref=e177]
+              - generic [ref=e182]:
+                - generic [ref=e184]: ResearchGate
+                - generic [ref=e186]: https://www.researchgate.net › 3...
+            - generic [ref=e187]:
+              - generic [ref=e188]: ·
+              - link "Traducir esta página" [ref=e189] [cursor=pointer]:
+                - /url: https://www.researchgate.net/publication/386745153_Post-Hoc_Categorization_Based_on_Explainable_AI_and_Reinforcement_Learning_for_Improved_Intrusion_Detection
+            - button "Acerca de este resultado" [ref=e190] [cursor=pointer]:
+              - img [ref=e193]
+          - generic [ref=e197]:
+            - text: ...
+            - emphasis [ref=e198]: Post-Hoc Categorization Based on Explainable AI and Reinforcement Learning for Improved Intrusion Detection
+            - text: .
+            - emphasis [ref=e199]: MDPI
+            - text: .
+            - emphasis [ref=e200]: Applied Sciences
+            - text: . December
+            - emphasis [ref=e201]: "2024"
+            - text: ; 14(24):11511.
+        - generic [ref=e205]:
+          - generic [ref=e208]:
+            - link "Post-hoc categorization based on explainable AI and reinforcement ... Archivo Digital UPM https://oa.upm.es › ..." [ref=e210] [cursor=pointer]:
+              - /url: https://oa.upm.es/89074/
+              - heading "Post-hoc categorization based on explainable AI and reinforcement ..." [level=3] [ref=e211]
+              - generic [ref=e216]:
+                - generic [ref=e218]: Archivo Digital UPM
+                - generic [ref=e220]: https://oa.upm.es › ...
+            - button "Acerca de este resultado" [ref=e221] [cursor=pointer]:
+              - img [ref=e224]
+          - generic [ref=e228]:
+            - emphasis [ref=e229]: Post-hoc categorization based on explainable AI and reinforcement learning for improved intrusion detection
+            - text: . "
+            - emphasis [ref=e230]: Applied Sciences
+            - text: "\", v. 14 (n. 24); p. 11511. ISSN ..."
+        - generic [ref=e234]:
+          - generic [ref=e237]:
+            - link "Article Versions Notes MDPI https://www.mdpi.com › notes" [ref=e239] [cursor=pointer]:
+              - /url: https://www.mdpi.com/2076-3417/14/24/11511/notes
+              - heading "Article Versions Notes" [level=3] [ref=e240]
+              - generic [ref=e245]:
+                - generic [ref=e247]: MDPI
+                - generic [ref=e249]: https://www.mdpi.com › notes
+            - generic [ref=e250]:
+              - generic [ref=e251]: ·
+              - link "Traducir esta página" [ref=e252] [cursor=pointer]:
+                - /url: https://www.mdpi.com/2076-3417/14/24/11511/notes
+            - button "Acerca de este resultado" [ref=e253] [cursor=pointer]:
+              - img [ref=e256]
+          - generic [ref=e260]:
+            - emphasis [ref=e261]: Post-Hoc Categorization Based on Explainable AI and Reinforcement Learning for Improved Intrusion Detection
+            - text: .
+            - emphasis [ref=e262]: Applied Sciences
+            - text: .
+            - emphasis [ref=e263]: "2024"
+            - text: ; 14(24):11511. https ...
+        - generic [ref=e267]:
+          - generic [ref=e270]:
+            - link "Mrs. Carmen Sanchez-Zas | Author SciProfiles https://sciprofiles.com › profile" [ref=e272] [cursor=pointer]:
+              - /url: https://sciprofiles.com/profile/1269764?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name
+              - heading "Mrs. Carmen Sanchez-Zas | Author" [level=3] [ref=e273]
+              - generic [ref=e278]:
+                - generic [ref=e280]: SciProfiles
+                - generic [ref=e282]: https://sciprofiles.com › profile
+            - generic [ref=e283]:
+              - generic [ref=e284]: ·
+              - link "Traducir esta página" [ref=e285] [cursor=pointer]:
+                - /url: https://sciprofiles.com/profile/1269764?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name
+            - button "Acerca de este resultado" [ref=e286] [cursor=pointer]:
+              - img [ref=e289]
+          - generic [ref=e293]:
+            - emphasis [ref=e294]: Post-Hoc Categorization Based on Explainable AI and Reinforcement Learning for Improved Intrusion Detection
+            - text: .
+            - emphasis [ref=e295]: Applied Sciences 2024
+            - text: ", 14, 11511 . AMA Style."
+        - generic [ref=e299]:
+          - generic [ref=e302]:
+            - link "A Hybrid Deep Learning-Based Architecture for Network ... MDPI https://www.mdpi.com › ..." [ref=e304] [cursor=pointer]:
+              - /url: https://www.mdpi.com/2076-3417/15/20/10889
+              - heading "A Hybrid Deep Learning-Based Architecture for Network ..." [level=3] [ref=e305]
+              - generic [ref=e310]:
+                - generic [ref=e312]: MDPI
+                - generic [ref=e314]: https://www.mdpi.com › ...
+            - generic [ref=e315]:
+              - generic [ref=e316]: ·
+              - link "Traducir esta página" [ref=e317] [cursor=pointer]:
+                - /url: https://www.mdpi.com/2076-3417/15/20/10889
+            - button "Acerca de este resultado" [ref=e318] [cursor=pointer]:
+              - img [ref=e321]
+          - generic [ref=e324]:
+            - generic [ref=e325]: por D Quirumbay Yagual · 2025 · Mencionado por 2 —
+            - generic [ref=e326]:
+              - emphasis [ref=e327]: Post-Hoc Categorization Based on Explainable AI and Reinforcement Learning for Improved Intrusion Detection
+              - text: . Appl. Sci.
+              - emphasis [ref=e328]: "2024"
+              - text: ", 14, 11511. [Google Scholar] ..."
+        - generic [ref=e332]:
+          - generic [ref=e335]:
+            - link "(PDF) An Efficient Hyperparameter Control Method for a ... ResearchGate https://www.researchgate.net › 3..." [ref=e337] [cursor=pointer]:
+              - /url: https://www.researchgate.net/publication/357835147_An_Efficient_Hyperparameter_Control_Method_for_a_Network_Intrusion_Detection_System_Based_on_Proximal_Policy_Optimization
+              - heading "(PDF) An Efficient Hyperparameter Control Method for a ..." [level=3] [ref=e338]
+              - generic [ref=e343]:
+                - generic [ref=e345]: ResearchGate
+                - generic [ref=e347]: https://www.researchgate.net › 3...
+            - generic [ref=e348]:
+              - generic [ref=e349]: ·
+              - link "Traducir esta página" [ref=e350] [cursor=pointer]:
+                - /url: https://www.researchgate.net/publication/357835147_An_Efficient_Hyperparameter_Control_Method_for_a_Network_Intrusion_Detection_System_Based_on_Proximal_Policy_Optimization
+            - button "Acerca de este resultado" [ref=e351] [cursor=pointer]:
+              - img [ref=e354]
+          - generic [ref=e357]:
+            - generic [ref=e358]: 17 oct 2025 —
+            - generic [ref=e359]:
+              - text: ...
+              - emphasis [ref=e360]: PDF
+              - text: Available. An Efficient ...
+              - emphasis [ref=e361]: Post-Hoc Categorization Based on Explainable AI and Reinforcement Learning for Improved Intrusion Detection
+              - text: .
+        - generic [ref=e365]:
+          - heading "Imágenes" [level=2] [ref=e369]
+          - generic [ref=e373]:
+            - generic [ref=e377] [cursor=pointer]:
+              - link "Post-Hoc Categorization Based on Explainable AI and ... MDPI":
+                - /url: https://www.mdpi.com/2076-3417/14/24/11511
+              - button "Post-Hoc Categorization Based on Explainable AI and ..." [ref=e379]:
+                - img "Post-Hoc Categorization Based on Explainable AI and ..." [ref=e381]
+              - generic [ref=e383]:
+                - generic [ref=e385]: Post-Hoc Categorization Based on Explainable AI and ...
+                - generic [ref=e386]:
+                  - generic [ref=e393]: MDPI
+                  - button "Acerca de este resultado" [ref=e396]:
+                    - img [ref=e399]
+            - generic [ref=e404] [cursor=pointer]:
+              - link "Post-Hoc Categorization Based on Explainable AI and ... MDPI":
+                - /url: https://www.mdpi.com/2076-3417/14/24/11511
+              - button "Post-Hoc Categorization Based on Explainable AI and ..." [ref=e406]:
+                - img "Post-Hoc Categorization Based on Explainable AI and ..." [ref=e408]
+              - generic [ref=e410]:
+                - generic [ref=e412]: Post-Hoc Categorization Based on Explainable AI and ...
+                - generic [ref=e413]:
+                  - generic [ref=e420]: MDPI
+                  - button "Acerca de este resultado" [ref=e423]:
+                    - img [ref=e426]
+            - generic [ref=e431] [cursor=pointer]:
+              - link "Post-Hoc Categorization Based on Explainable AI and ... MDPI":
+                - /url: https://www.mdpi.com/2076-3417/14/24/11511
+              - button "Post-Hoc Categorization Based on Explainable AI and ..." [ref=e433]:
+                - img "Post-Hoc Categorization Based on Explainable AI and ..." [ref=e435]
+              - generic [ref=e437]:
+                - generic [ref=e439]: Post-Hoc Categorization Based on Explainable AI and ...
+                - generic [ref=e440]:
+                  - generic [ref=e447]: MDPI
+                  - button "Acerca de este resultado" [ref=e450]:
+                    - img [ref=e453]
+          - button "Mostrar más imágenes" [ref=e456] [cursor=pointer]:
+            - separator [ref=e457]
+            - generic [ref=e458]:
+              - generic [ref=e459]: Mostrar más imágenes
+              - img [ref=e461]
+      - generic:
+        - generic:
+          - navigation
+      - navigation
+    - contentinfo [ref=e463]:
+      - heading "Vínculos a pie de página" [level=1] [ref=e464]
+      - generic [ref=e468]:
+        - generic [ref=e470]:
+          - text: Perú
+          - generic [ref=e472]:
+            - button "21104, Juliaca - Según tu actividad anterior" [ref=e474] [cursor=pointer]:
+              - generic [ref=e475]: 21104, Juliaca
+              - generic [ref=e477]:
+                - text: "-"
+                - generic [ref=e478]: Según tu actividad anterior
+            - text: "-"
+            - button "Actualizar ubicación" [ref=e480] [cursor=pointer]: Actualizar ubicación
+        - generic [ref=e483]:
+          - link "Ayuda" [ref=e484] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=es-419&fg=1
+          - link "Enviar comentarios" [ref=e485] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacidad" [ref=e486] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=es-419&fg=1
+          - link "Condiciones" [ref=e487] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=es-419&fg=1

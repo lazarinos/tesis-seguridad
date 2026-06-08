@@ -1,0 +1,194 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir al contenido principal" [ref=e2] [cursor=pointer]
+      - link "Ayuda sobre la accesibilidad" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=es-419
+  - generic [ref=e8]:
+    - search [ref=e9]:
+      - generic [ref=e12]:
+        - link "Ir a la página principal de Google" [ref=e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=es-419&ictx=0&sa=X&ved=0ahUKEwjdlKacxveUAxWhHLkGHdAtCe0QpYkNCAo
+          - img "Ir a la página principal de Google" [ref=e14]
+        - generic [ref=e19]:
+          - combobox "Buscar" [ref=e22]: "\"Estudio del rendimiento de sistemas de detección de intrusos (IDS) en redes SDN\" Manrique PUCP pdf \"Estudio del rendimiento de sistemas de detección de intrusos (IDS) en redes SDN\" Manrique PUCP pdf"
+          - generic [ref=e23]:
+            - button "Borrar" [ref=e25] [cursor=pointer]:
+              - img [ref=e27]
+            - generic [ref=e30]:
+              - button "Búsqueda por voz" [ref=e31] [cursor=pointer]:
+                - img [ref=e32]
+              - button "Búsqueda por imagen" [ref=e34] [cursor=pointer]:
+                - img [ref=e35]
+        - button "Buscar" [ref=e37] [cursor=pointer]:
+          - img [ref=e40]
+    - generic [ref=e42]:
+      - button "Configuración" [ref=e44] [cursor=pointer]:
+        - img [ref=e47]
+      - generic [ref=e50]:
+        - button "Apps de Google" [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+        - link "Acceder" [ref=e57] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=es-419&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Estudio%2Bdel%2Brendimiento%2Bde%2Bsistemas%2Bde%2Bdetecci%25C3%25B3n%2Bde%2Bintrusos%2B%2528IDS%2529%2Ben%2Bredes%2BSDN%2522%2BManrique%2BPUCP%2Bpdf&ec=futura_srp_og_si_72236_p
+  - generic [ref=e59]:
+    - navigation [ref=e65]:
+      - generic [ref=e71]:
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - link "Modo IA" [ref=e76] [cursor=pointer]:
+              - /url: /search?q=%22Estudio+del+rendimiento+de+sistemas+de+detecci%C3%B3n+de+intrusos+(IDS)+en+redes+SDN%22+Manrique+PUCP+pdf&sca_esv=44a089a1939db368&udm=50&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZCM8H777boT7XC-VE6FByRliGvGDy9_yi-EJxbQ_ihNqgPTPQsaM4Xaappa9N1ZoleLL69JMChEA1Cm1JzGzloJvo8shq_zHpUQjKTGTSJ2Zg5ZN8sabKnQD1lnVp3bh4TtNtBA&aep=1&ntc=1&sa=X&ved=2ahUKEwjdlKacxveUAxWhHLkGHdAtCe0Q2J8OegQIDBAD
+              - generic [ref=e79]: Modo IA
+          - listitem [ref=e80]:
+            - link "Todo" [disabled] [ref=e81]:
+              - generic [ref=e83]: Todo
+          - listitem [ref=e84]:
+            - link "Imágenes" [ref=e85] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZCM8H777boT7XC-VE6FByRliGvGDy9_yi-EJxbQ_ihNqgPTPQsaM4Xaappa9N1ZoleLL69JMChEA1Cm1JzGzloJvo8shq_zHpUQjKTGTSJ2Zg5ZN8sabKnQD1lnVp3bh4TtNtBA&q=%22Estudio+del+rendimiento+de+sistemas+de+detecci%C3%B3n+de+intrusos+(IDS)+en+redes+SDN%22+Manrique+PUCP+pdf&sa=X&ved=2ahUKEwjdlKacxveUAxWhHLkGHdAtCe0QtKgLegQIDxAB
+              - generic [ref=e87]: Imágenes
+          - listitem [ref=e88]:
+            - link "Videos" [ref=e89] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=7&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZCM8H777boT7XC-VE6FByRliGvGDy9_yi-EJxbQ_ihNqgPTPQsaM4Xaappa9N1ZoleLL69JMChEA1Cm1JzGzloJvo8shq_zHpUQjKTGTSJ2Zg5ZN8sabKnQD1lnVp3bh4TtNtBA&q=%22Estudio+del+rendimiento+de+sistemas+de+detecci%C3%B3n+de+intrusos+(IDS)+en+redes+SDN%22+Manrique+PUCP+pdf&sa=X&ved=2ahUKEwjdlKacxveUAxWhHLkGHdAtCe0QtKgLegQIEBAB
+              - generic [ref=e91]: Videos
+          - listitem [ref=e92]:
+            - link "Videos cortos" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=39&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZCM8H777boT7XC-VE6FByRliGvGDy9_yi-EJxbQ_ihNqgPTPQsaM4Xaappa9N1ZoleLL69JMChEA1Cm1JzGzloJvo8shq_zHpUQjKTGTSJ2Zg5ZN8sabKnQD1lnVp3bh4TtNtBA&q=%22Estudio+del+rendimiento+de+sistemas+de+detecci%C3%B3n+de+intrusos+(IDS)+en+redes+SDN%22+Manrique+PUCP+pdf&sa=X&ved=2ahUKEwjdlKacxveUAxWhHLkGHdAtCe0Qs6gLegQIERAB
+              - generic [ref=e95]: Videos cortos
+          - listitem [ref=e96]:
+            - link "Libros" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&q=%22Estudio+del+rendimiento+de+sistemas+de+detecci%C3%B3n+de+intrusos+(IDS)+en+redes+SDN%22+Manrique+PUCP+pdf&udm=36&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZCM8H777boT7XC-VE6FByRliGvGDy9_yi-EJxbQ_ihNqgPTPQsaM4Xaappa9N1ZoleLL69JMChEA1Cm1JzGzloJvo8shq_zHpUQjKTGTSJ2Zg5ZN8sabKnQD1lnVp3bh4TtNtBA&sa=X&ved=2ahUKEwjdlKacxveUAxWhHLkGHdAtCe0Q0pQJegQIEhAB
+              - generic [ref=e99]: Libros
+          - listitem [ref=e100]:
+            - link "Noticias" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&q=%22Estudio+del+rendimiento+de+sistemas+de+detecci%C3%B3n+de+intrusos+(IDS)+en+redes+SDN%22+Manrique+PUCP+pdf&tbm=nws&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZCM8H777boT7XC-VE6FByRliGvGDy9_yi-EJxbQ_ihNqgPTPQsaM4Xaappa9N1ZoleLL69JMChEA1Cm1JzGzloJvo8shq_zHpUQjKTGTSJ2Zg5ZN8sabKnQD1lnVp3bh4TtNtBA&sa=X&ved=2ahUKEwjdlKacxveUAxWhHLkGHdAtCe0Q0pQJegQIExAB
+              - generic [ref=e103]: Noticias
+          - listitem [ref=e104]:
+            - button "Más filtros" [ref=e105] [cursor=pointer]:
+              - generic "Más filtros" [ref=e106]:
+                - generic [ref=e107]:
+                  - generic [ref=e108]: Más
+                  - img [ref=e110]
+        - button "Herramientas" [ref=e113] [cursor=pointer]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Herramientas
+            - img [ref=e118]
+    - heading "Resultados de búsqueda" [level=1] [ref=e120]
+    - main [ref=e126]:
+      - generic [ref=e130]:
+        - generic [ref=e133]:
+          - heading "Resultados web" [level=2] [ref=e134]
+          - generic [ref=e135]:
+            - generic [ref=e138]:
+              - link "Estudio del rendimiento de sistemas de detección de intrusos ... ALICIA (Concytec) https://alicia.concytec.gob.pe › vufind › Record › Details" [ref=e140] [cursor=pointer]:
+                - /url: https://alicia.concytec.gob.pe/vufind/Record/PUCP_a516e3005b24356c600e5524ff3f6ff0/Details
+                - heading "Estudio del rendimiento de sistemas de detección de intrusos ..." [level=3] [ref=e141]
+                - generic [ref=e146]:
+                  - generic [ref=e148]: ALICIA (Concytec)
+                  - generic [ref=e150]: https://alicia.concytec.gob.pe › vufind › Record › Details
+              - button "Acerca de este resultado" [ref=e151] [cursor=pointer]:
+                - img [ref=e154]
+            - generic [ref=e158]:
+              - emphasis [ref=e159]: Estudio del rendimiento de sistemas de detección de intrusos (IDS) en redes SDN
+              - text: ...
+              - emphasis [ref=e160]: pucp
+              - text: .edu.peRepositorio de Tesis PUCPraul.sifuentes@
+              - emphasis [ref=e161]: pucp
+              - text: .= score ...
+        - generic [ref=e165]:
+          - generic [ref=e168]:
+            - link "https://tesis.pucp.edu.pe/bitstreams/84691ed5-ebaf... Pontificia Universidad Católica del Perú https://tesis.pucp.edu.pe › bitstreams › download" [ref=e170] [cursor=pointer]:
+              - /url: https://tesis.pucp.edu.pe/bitstreams/84691ed5-ebaf-4bb7-9c76-ab5093d31c34/download
+              - heading "https://tesis.pucp.edu.pe/bitstreams/84691ed5-ebaf..." [level=3] [ref=e171]
+              - generic [ref=e176]:
+                - generic [ref=e178]: Pontificia Universidad Católica del Perú
+                - generic [ref=e180]: https://tesis.pucp.edu.pe › bitstreams › download
+            - button "Acerca de este resultado" [ref=e181] [cursor=pointer]:
+              - img [ref=e184]
+          - generic [ref=e188]:
+            - text: ...
+            - emphasis [ref=e189]: ESTUDIO DEL RENDIMIENTO DE SISTEMAS DE DETECCIÓN DE INTRUSOS (IDS) EN REDES SDN
+            - text: Trabajo de investigación para obtener el grado académico de BACHILLER EN ...
+        - generic [ref=e193]:
+          - generic [ref=e196]:
+            - link "Estudio de algoritmos de enrutamiento en redes SDN - Alicia ALICIA (Concytec) https://alicia.concytec.gob.pe › vufind › Record › Details" [ref=e198] [cursor=pointer]:
+              - /url: https://alicia.concytec.gob.pe/vufind/Record/PUCP_2a7b69c4cced514d7ac97ebe4406be52/Details
+              - heading "Estudio de algoritmos de enrutamiento en redes SDN - Alicia" [level=3] [ref=e199]
+              - generic [ref=e204]:
+                - generic [ref=e206]: ALICIA (Concytec)
+                - generic [ref=e208]: https://alicia.concytec.gob.pe › vufind › Record › Details
+            - button "Acerca de este resultado" [ref=e209] [cursor=pointer]:
+              - img [ref=e212]
+          - generic [ref=e216]:
+            - emphasis [ref=e217]: Estudio del rendimiento de sistemas de detección de intrusos (IDS) en redes SDN
+            - text: ". por:"
+            - emphasis [ref=e218]: Manrique
+            - text: "Huamaní, Renzo Edú. Publicado: (2020)."
+            - emphasis [ref=e219]: Estudio del rendimiento
+            - text: ...
+        - generic [ref=e224]:
+          - heading "Más preguntas" [level=2] [ref=e226]
+          - generic [ref=e227]:
+            - button "¿Qué hace un sistema de detección de intrusiones IDS?" [ref=e233] [cursor=pointer]:
+              - generic [ref=e235]: ¿Qué hace un sistema de detección de intrusiones IDS?
+              - img [ref=e238]
+            - button "¿Qué tipo de detección utiliza un IDS para comparar el tráfico con una base de datos de patrones de ataques previamente identificados?" [ref=e247] [cursor=pointer]:
+              - generic [ref=e249]: ¿Qué tipo de detección utiliza un IDS para comparar el tráfico con una base de datos de patrones de ataques previamente identificados?
+              - img [ref=e252]
+            - button "¿Qué es un sistema de detección de intrusos en redes corporativas?" [ref=e261] [cursor=pointer]:
+              - generic [ref=e263]: ¿Qué es un sistema de detección de intrusos en redes corporativas?
+              - img [ref=e266]
+            - button "¿Qué papel desempeñan los sistemas de detección y prevención de intrusiones (IDS IPS) al monitorear el tráfico de la capa de aplicación?" [ref=e275] [cursor=pointer]:
+              - generic [ref=e277]: ¿Qué papel desempeñan los sistemas de detección y prevención de intrusiones (IDS IPS) al monitorear el tráfico de la capa de aplicación?
+              - img [ref=e280]
+        - generic [ref=e285]:
+          - heading "Resultados web" [level=2] [ref=e286]
+          - generic [ref=e287]:
+            - generic [ref=e290]:
+              - link "Diseño e implementación de un balanceador de carga para la ... ALICIA (Concytec) https://alicia.concytec.gob.pe › vufind › Record › Details" [ref=e292] [cursor=pointer]:
+                - /url: https://alicia.concytec.gob.pe/vufind/Record/PUCP_1cf43962df527625420bc1c1450a701e/Details
+                - heading "Diseño e implementación de un balanceador de carga para la ..." [level=3] [ref=e293]
+                - generic [ref=e298]:
+                  - generic [ref=e300]: ALICIA (Concytec)
+                  - generic [ref=e302]: https://alicia.concytec.gob.pe › vufind › Record › Details
+              - button "Acerca de este resultado" [ref=e303] [cursor=pointer]:
+                - img [ref=e306]
+            - generic [ref=e310]:
+              - emphasis [ref=e311]: Estudio del rendimiento de sistemas de detección de intrusos (IDS) en redes SDN
+              - text: ". por:"
+              - emphasis [ref=e312]: Manrique
+              - text: "Huamaní, Renzo Edú. Publicado: (2020)."
+              - emphasis [ref=e313]: Estudio del rendimiento
+              - text: ...
+      - generic [ref=e315]:
+        - generic [ref=e316]:
+          - heading "Avisos sobre resultados filtrados" [level=2] [ref=e317]
+          - paragraph [ref=e319]:
+            - generic [ref=e320]:
+              - text: Para que veas los resultados más relevantes, omitimos ciertas entradas muy similares a las 4 que ya te mostramos.
+              - text: Si lo deseas, puedes
+              - link "repetir la búsqueda e incluir los resultados omitidos" [ref=e321] [cursor=pointer]:
+                - /url: /search?q=%22Estudio+del+rendimiento+de+sistemas+de+detecci%C3%B3n+de+intrusos+(IDS)+en+redes+SDN%22+Manrique+PUCP+pdf&sca_esv=44a089a1939db368&filter=0
+              - text: .
+        - navigation
+      - navigation
+    - contentinfo [ref=e322]:
+      - heading "Vínculos a pie de página" [level=1] [ref=e323]
+      - generic [ref=e327]:
+        - generic [ref=e329]:
+          - text: Perú
+          - generic [ref=e331]:
+            - button "21104, Juliaca - Según tu actividad anterior" [ref=e333] [cursor=pointer]:
+              - generic [ref=e334]: 21104, Juliaca
+              - generic [ref=e336]:
+                - text: "-"
+                - generic [ref=e337]: Según tu actividad anterior
+            - text: "-"
+            - button "Actualizar ubicación" [ref=e339] [cursor=pointer]: Actualizar ubicación
+        - generic [ref=e342]:
+          - link "Ayuda" [ref=e343] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=es-419&fg=1
+          - link "Enviar comentarios" [ref=e344] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacidad" [ref=e345] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=es-419&fg=1
+          - link "Condiciones" [ref=e346] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=es-419&fg=1

@@ -1,0 +1,3 @@
+[    1029ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://kit.fontawesome.com/faac8d60cd.js:0
+[    2490ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://kit.fontawesome.com/faac8d60cd.js:0
+[    2676ms] [LOG] {widget_div_id: usage-stats, identifier: oai:cybertesis.uni.edu.pe:20.500.14076/5651, event_labels: Object, scope_labels: Object, country: PE} @ https://cdn.jsdelivr.net/gh/lareferencia/lrw@1.1.2/dist/lrw.js:0

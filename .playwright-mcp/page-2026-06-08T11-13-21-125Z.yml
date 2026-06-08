@@ -1,0 +1,267 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir al contenido principal" [ref=e2] [cursor=pointer]
+      - link "Ayuda sobre la accesibilidad" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=es-419
+  - generic [ref=e8]:
+    - search [ref=e9]:
+      - generic [ref=e12]:
+        - link "Ir a la página principal de Google" [ref=e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=es-419&ictx=0&sa=X&ved=0ahUKEwjCja3IwfeUAxUUJrkGHZ0ZKzkQpYkNCAo
+          - img "Ir a la página principal de Google" [ref=e14]
+        - generic [ref=e19]:
+          - combobox "Buscar" [ref=e22]: "\"Evaluating the Generalization Gaps of Intrusion Detection Systems Across DoS Attack Variants\" Jameel MDPI JCP 2025 pdf \"Evaluating the Generalization Gaps of Intrusion Detection Systems Across DoS Attack Variants\" Jameel MDPI JCP 2025 pdf"
+          - generic [ref=e23]:
+            - button "Borrar" [ref=e25] [cursor=pointer]:
+              - img [ref=e27]
+            - generic [ref=e30]:
+              - button "Búsqueda por voz" [ref=e31] [cursor=pointer]:
+                - img [ref=e32]
+              - button "Búsqueda por imagen" [ref=e34] [cursor=pointer]:
+                - img [ref=e35]
+        - button "Buscar" [ref=e37] [cursor=pointer]:
+          - img [ref=e40]
+    - generic [ref=e42]:
+      - button "Configuración" [ref=e44] [cursor=pointer]:
+        - img [ref=e47]
+      - generic [ref=e50]:
+        - button "Apps de Google" [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+        - link "Acceder" [ref=e57] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=es-419&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Evaluating%2Bthe%2BGeneralization%2BGaps%2Bof%2BIntrusion%2BDetection%2BSystems%2BAcross%2BDoS%2BAttack%2BVariants%2522%2BJameel%2BMDPI%2BJCP%2B2025%2Bpdf&ec=futura_srp_og_si_72236_p
+  - generic [ref=e59]:
+    - navigation [ref=e65]:
+      - generic [ref=e71]:
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - link "Modo IA" [ref=e76] [cursor=pointer]:
+              - /url: /search?q=%22Evaluating+the+Generalization+Gaps+of+Intrusion+Detection+Systems+Across+DoS+Attack+Variants%22+Jameel+MDPI+JCP+2025+pdf&sca_esv=37c618bae3233f88&udm=50&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&aep=1&ntc=1&sa=X&ved=2ahUKEwjCja3IwfeUAxUUJrkGHZ0ZKzkQ2J8OegQIChAD
+              - generic [ref=e79]: Modo IA
+          - listitem [ref=e80]:
+            - link "Todo" [disabled] [ref=e81]:
+              - generic [ref=e83]: Todo
+          - listitem [ref=e84]:
+            - link "Imágenes" [ref=e85] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=%22Evaluating+the+Generalization+Gaps+of+Intrusion+Detection+Systems+Across+DoS+Attack+Variants%22+Jameel+MDPI+JCP+2025+pdf&sa=X&ved=2ahUKEwjCja3IwfeUAxUUJrkGHZ0ZKzkQtKgLegQIDxAB
+              - generic [ref=e87]: Imágenes
+          - listitem [ref=e88]:
+            - link "Videos" [ref=e89] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&udm=7&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=%22Evaluating+the+Generalization+Gaps+of+Intrusion+Detection+Systems+Across+DoS+Attack+Variants%22+Jameel+MDPI+JCP+2025+pdf&sa=X&ved=2ahUKEwjCja3IwfeUAxUUJrkGHZ0ZKzkQtKgLegQIERAB
+              - generic [ref=e91]: Videos
+          - listitem [ref=e92]:
+            - link "Videos cortos" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&udm=39&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=%22Evaluating+the+Generalization+Gaps+of+Intrusion+Detection+Systems+Across+DoS+Attack+Variants%22+Jameel+MDPI+JCP+2025+pdf&sa=X&ved=2ahUKEwjCja3IwfeUAxUUJrkGHZ0ZKzkQs6gLegQIEBAB
+              - generic [ref=e95]: Videos cortos
+          - listitem [ref=e96]:
+            - link "Noticias" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&q=%22Evaluating+the+Generalization+Gaps+of+Intrusion+Detection+Systems+Across+DoS+Attack+Variants%22+Jameel+MDPI+JCP+2025+pdf&tbm=nws&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&sa=X&ved=2ahUKEwjCja3IwfeUAxUUJrkGHZ0ZKzkQ0pQJegQIEhAB
+              - generic [ref=e99]: Noticias
+          - listitem [ref=e100]:
+            - link "Libros" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&q=%22Evaluating+the+Generalization+Gaps+of+Intrusion+Detection+Systems+Across+DoS+Attack+Variants%22+Jameel+MDPI+JCP+2025+pdf&udm=36&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&sa=X&ved=2ahUKEwjCja3IwfeUAxUUJrkGHZ0ZKzkQ0pQJegQIFBAB
+              - generic [ref=e103]: Libros
+          - listitem [ref=e104]:
+            - button "Más filtros" [ref=e105] [cursor=pointer]:
+              - generic "Más filtros" [ref=e106]:
+                - generic [ref=e107]:
+                  - generic [ref=e108]: Más
+                  - img [ref=e110]
+        - button "Herramientas" [ref=e113] [cursor=pointer]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Herramientas
+            - img [ref=e118]
+    - heading "Resultados de búsqueda" [level=1] [ref=e120]
+    - main [ref=e126]:
+      - region "Anuncios" [ref=e129]:
+        - generic [ref=e130]:
+          - heading "Resultados patrocinados" [level=2] [ref=e137]
+          - generic [ref=e138]:
+            - generic [ref=e145]:
+              - generic [ref=e151]:
+                - generic [ref=e152]:
+                  - link "Download The Guide | Download ZTS For Dummies Guide Illumio https://www.illumio.com › illumio › zero-trust" [ref=e153] [cursor=pointer]:
+                    - /url: https://www.illumio.com/resource-center/zero-trust-segmentation-for-dummies
+                    - heading "Download The Guide | Download ZTS For Dummies Guide" [level=3] [ref=e154]
+                    - generic [ref=e160]:
+                      - generic [ref=e162]: Illumio
+                      - generic [ref=e163]: https://www.illumio.com › illumio › zero-trust
+                  - button "¿Por qué este anuncio?" [ref=e166] [cursor=pointer]:
+                    - img [ref=e168]
+                - generic [ref=e172]: Zero Trust Segmentation Is The Fundamental Building Block of Any Security Strategy. When Breaches Happen, You Need Zero Trust...
+                - generic [ref=e174]:
+                  - text: ‎
+                  - link "ZTS For Dummies" [ref=e175] [cursor=pointer]:
+                    - /url: /aclk?sa=L&pf=1&ai=DChsSEwjcsLTIwfeUAxVvQEgAHUSuGakYACICCAEQCRoCY2U&co=1&ase=2&gclid=EAIaIQobChMI3LC0yMH3lAMVb0BIAB1ErhmpEAAYASAEEgI4a_D_BwE&cid=CAASuwHkaJxzlocRKhSMjGHyBwavqlKOeqZVd5x8IyD79LUZAGFatxS0EQPRHxJ_Pof6L9vb5ck_qMS_FPmulZuwggs_d8ckbwygOv4-Wn8J1qu2vQB28esHCdm9jjhAYOunMygcQn3waWpaO300WkCNJt0ZhNbPCXsh-yGG7ai0C9cYvS65tYjTRBaUK-UmqrdMCnD8_vMVGxs6ZI7NetXUn8N73Zihj6PZqgczoDcsDNlHVXTEM7x6KrUDNwTL&cce=2&category=acrcp_v1_32&sig=AOD64_020HUpRBLwaUGaciiz0WYf0LHirQ&adurl=https://www.illumio.com/resource-center/zero-trust-segmentation-for-dummies%3Futm_source%3Dgoogle%26utm_medium%3Dpaid_search%26utm_campaign%3DSearch-NB-ZeroTrustForDummies-LATAM_21541119804%26utm_term%3Dzero%2520trust%2520segmentation%2520for%2520dummies%26utm_creative%3D688811177904%26utm_adgroup%3D168406376769%26utm_device%3Dc%26gad_source%3D1%26gad_campaignid%3D21541119804%26gbraid%3D0AAAAADniACFd3teB_QZAm5hPBrHxpHoCu%26gclid%3DEAIaIQobChMI3LC0yMH3lAMVb0BIAB1ErhmpEAAYASAEEgI4a_D_BwE&q=
+                  - text: · ‎
+                  - link "Try Illumio" [ref=e176] [cursor=pointer]:
+                    - /url: https://www.illumio.com/try-illumio-segmentation
+                  - text: · ‎
+                  - link "ZTS Helps You See Cyber Risk" [ref=e177] [cursor=pointer]:
+                    - /url: /aclk?sa=L&pf=1&ai=DChsSEwjcsLTIwfeUAxVvQEgAHUSuGakYACICCAEQChoCY2U&co=1&ase=2&gclid=EAIaIQobChMI3LC0yMH3lAMVb0BIAB1ErhmpEAAYASAFEgIJqfD_BwE&cid=CAASuwHkaJxzlocRKhSMjGHyBwavqlKOeqZVd5x8IyD79LUZAGFatxS0EQPRHxJ_Pof6L9vb5ck_qMS_FPmulZuwggs_d8ckbwygOv4-Wn8J1qu2vQB28esHCdm9jjhAYOunMygcQn3waWpaO300WkCNJt0ZhNbPCXsh-yGG7ai0C9cYvS65tYjTRBaUK-UmqrdMCnD8_vMVGxs6ZI7NetXUn8N73Zihj6PZqgczoDcsDNlHVXTEM7x6KrUDNwTL&cce=2&category=acrcp_v1_32&sig=AOD64_0pbOMVXQmTGoCrqqefJmaV8MbW8g&adurl=https://www.illumio.com/resource-center/zero-trust-segmentation-for-dummies%3Futm_source%3Dgoogle%26utm_medium%3Dpaid_search%26utm_campaign%3DSearch-NB-ZeroTrustForDummies-LATAM_21541119804%26utm_term%3Dzero%2520trust%2520segmentation%2520for%2520dummies%26utm_creative%3D688811177904%26utm_adgroup%3D168406376769%26utm_device%3Dc%26gad_source%3D1%26gad_campaignid%3D21541119804%26gbraid%3D0AAAAADniACFd3teB_QZAm5hPBrHxpHoCu%26gclid%3DEAIaIQobChMI3LC0yMH3lAMVb0BIAB1ErhmpEAAYASAFEgIJqfD_BwE&q=
+                  - text: · ‎
+                  - link "Illumio Endpoint" [ref=e178] [cursor=pointer]:
+                    - /url: https://www.illumio.com/products/illumio-endpoint
+                  - text: · ‎
+                  - link "What We Do" [ref=e179] [cursor=pointer]:
+                    - /url: https://www.illumio.com/company/what-we-do
+                - generic [ref=e184]: Más de 100,000 visitas en el último mes
+              - generic [ref=e190]:
+                - generic [ref=e191]:
+                  - link "Vulnerability Management Tool - Continuous Monitoring ManageEngine https://www.manageengine.com › vulnerability" [ref=e192] [cursor=pointer]:
+                    - /url: https://www.manageengine.com/vulnerability-management/integrated-vulnerability-and-patch-management.html
+                    - heading "Vulnerability Management Tool - Continuous Monitoring" [level=3] [ref=e193]
+                    - generic [ref=e199]:
+                      - generic [ref=e201]: ManageEngine
+                      - generic [ref=e202]: https://www.manageengine.com › vulnerability
+                  - button "¿Por qué este anuncio?" [ref=e205] [cursor=pointer]:
+                    - img [ref=e207]
+                - generic [ref=e211]: Continuously scan, assess, & remediate vulnerabilities no matter where your assets are. Single console to manage threats and vulnerabilities...
+                - generic [ref=e213]:
+                  - text: ‎
+                  - link "Vulnerability Scanner" [ref=e214] [cursor=pointer]:
+                    - /url: /aclk?sa=L&pf=1&ai=DChsSEwjcsLTIwfeUAxVvQEgAHUSuGakYACICCAEQBhoCY2U&co=1&ase=2&gclid=EAIaIQobChMI3LC0yMH3lAMVb0BIAB1ErhmpEAAYAiADEgLDjPD_BwE&cid=CAASuwHkaJxzlocRKhSMjGHyBwavqlKOeqZVd5x8IyD79LUZAGFatxS0EQPRHxJ_Pof6L9vb5ck_qMS_FPmulZuwggs_d8ckbwygOv4-Wn8J1qu2vQB28esHCdm9jjhAYOunMygcQn3waWpaO300WkCNJt0ZhNbPCXsh-yGG7ai0C9cYvS65tYjTRBaUK-UmqrdMCnD8_vMVGxs6ZI7NetXUn8N73Zihj6PZqgczoDcsDNlHVXTEM7x6KrUDNwTL&cce=2&category=acrcp_v1_32&sig=AOD64_0zs9meqLuqgaWjSQtMQUvuWJFg1A&adurl=https://www.manageengine.com/vulnerability-management/integrated-vulnerability-and-patch-management.html%3Fnetwork%3Dg%26device%3Dc%26keyword%3Dvulnerability%2520management%26campaignid%3D18894656764%26creative%3D634442455565%26matchtype%3Dp%26adposition%3D%26placement%3D%26adgroup%3D144524370378%26targetid%3Dkwd-110482344%26location%3D1011141%26target%3D%26gad_source%3D1%26gad_campaignid%3D18894656764%26gbraid%3D0AAAAAChA1UgNKGVafHQPCWqfdYO_lxi_f%26gclid%3DEAIaIQobChMI3LC0yMH3lAMVb0BIAB1ErhmpEAAYAiADEgLDjPD_BwE&q=
+                  - text: · ‎
+                  - link "Vulnerability Assessment" [ref=e215] [cursor=pointer]:
+                    - /url: https://www.manageengine.com/vulnerability-management/vulnerability-assessment.html?Ext=VulnerabilityAssessment
+                  - text: · ‎
+                  - link "Manage Vulnerabilities" [ref=e216] [cursor=pointer]:
+                    - /url: https://www.manageengine.com/vulnerability-management/
+                  - text: · ‎
+                  - link "Risk-based prioritization" [ref=e217] [cursor=pointer]:
+                    - /url: /aclk?sa=L&pf=1&ai=DChsSEwjcsLTIwfeUAxVvQEgAHUSuGakYACICCAEQCBoCY2U&co=1&ase=2&gclid=EAIaIQobChMI3LC0yMH3lAMVb0BIAB1ErhmpEAAYAiAEEgInk_D_BwE&cid=CAASuwHkaJxzlocRKhSMjGHyBwavqlKOeqZVd5x8IyD79LUZAGFatxS0EQPRHxJ_Pof6L9vb5ck_qMS_FPmulZuwggs_d8ckbwygOv4-Wn8J1qu2vQB28esHCdm9jjhAYOunMygcQn3waWpaO300WkCNJt0ZhNbPCXsh-yGG7ai0C9cYvS65tYjTRBaUK-UmqrdMCnD8_vMVGxs6ZI7NetXUn8N73Zihj6PZqgczoDcsDNlHVXTEM7x6KrUDNwTL&cce=2&category=acrcp_v1_32&sig=AOD64_2ZroS79oAAj6Kbow1SUG2oK_7oMA&adurl=https://www.manageengine.com/vulnerability-management/integrated-vulnerability-and-patch-management.html%3Fnetwork%3Dg%26device%3Dc%26keyword%3Dvulnerability%2520management%26campaignid%3D18894656764%26creative%3D634442455565%26matchtype%3Dp%26adposition%3D%26placement%3D%26adgroup%3D144524370378%26targetid%3Dkwd-110482344%26location%3D1011141%26target%3D%26gad_source%3D1%26gad_campaignid%3D18894656764%26gbraid%3D0AAAAAChA1UgNKGVafHQPCWqfdYO_lxi_f%26gclid%3DEAIaIQobChMI3LC0yMH3lAMVb0BIAB1ErhmpEAAYAiAEEgInk_D_BwE&q=
+            - button "Ocultar resultados patrocinados" [ref=e219] [cursor=pointer]:
+              - separator [ref=e220]
+              - generic [ref=e221]:
+                - generic [ref=e222]: Ocultar resultados patrocinados
+                - img [ref=e224]
+      - generic [ref=e229]:
+        - generic [ref=e232]:
+          - heading "Web results" [level=2] [ref=e233]
+          - generic [ref=e234]:
+            - generic [ref=e237]:
+              - link "Evaluating the Generalization Gaps of Intrusion Detection ... MDPI https://www.mdpi.com › ..." [ref=e239] [cursor=pointer]:
+                - /url: https://www.mdpi.com/2624-800X/5/4/85
+                - heading "Evaluating the Generalization Gaps of Intrusion Detection ..." [level=3] [ref=e240]
+                - generic [ref=e245]:
+                  - generic [ref=e247]: MDPI
+                  - generic [ref=e249]: https://www.mdpi.com › ...
+              - generic [ref=e250]:
+                - generic [ref=e251]: ·
+                - link "Traducir esta página" [ref=e252] [cursor=pointer]:
+                  - /url: https://www.mdpi.com/2624-800X/5/4/85
+              - button "Acerca de este resultado" [ref=e253] [cursor=pointer]:
+                - img [ref=e256]
+            - generic [ref=e259]:
+              - generic [ref=e260]: por R Jameel · 2025 —
+              - generic [ref=e261]:
+                - emphasis [ref=e262]: Evaluating the Generalization Gaps of Intrusion Detection Systems Across DoS Attack Variants
+                - text: . by. Roshan
+                - emphasis [ref=e263]: Jameel
+                - text: ...
+                - emphasis [ref=e264]: pdf
+                - text: (accessed on 2 July
+                - emphasis [ref=e265]: "2025"
+                - text: ). Aijaz, I ...
+        - generic [ref=e269]:
+          - generic [ref=e272]:
+            - link "J. Cybersecur. Priv., Volume 5, Issue 4 (December 2025) MDPI https://www.mdpi.com › ..." [ref=e274] [cursor=pointer]:
+              - /url: https://www.mdpi.com/2624-800X/5/4
+              - heading "J. Cybersecur. Priv., Volume 5, Issue 4 (December 2025)" [level=3] [ref=e275]
+              - generic [ref=e280]:
+                - generic [ref=e282]: MDPI
+                - generic [ref=e284]: https://www.mdpi.com › ...
+            - generic [ref=e285]:
+              - generic [ref=e286]: ·
+              - link "Traducir esta página" [ref=e287] [cursor=pointer]:
+                - /url: https://www.mdpi.com/2624-800X/5/4
+            - button "Acerca de este resultado" [ref=e288] [cursor=pointer]:
+              - img [ref=e291]
+          - generic [ref=e295]:
+            - emphasis [ref=e296]: Evaluating the Generalization Gaps of Intrusion Detection Systems Across DoS Attack Variants
+            - text: . by Roshan
+            - emphasis [ref=e297]: Jameel
+            - text: ", Khyati Marwah, Sheikh Mohammad Idrees and ..."
+        - generic [ref=e302]:
+          - heading "Más preguntas" [level=2] [ref=e304]
+          - generic [ref=e305]:
+            - button "What are the 4 types of intrusion detection systems?" [ref=e311] [cursor=pointer]:
+              - generic [ref=e313]: What are the 4 types of intrusion detection systems?
+              - img [ref=e316]
+            - button "What are the limitations of an intrusion detection system?" [ref=e325] [cursor=pointer]:
+              - generic [ref=e327]: What are the limitations of an intrusion detection system?
+              - img [ref=e330]
+            - button "What is an intrusion detection system (intruder prevention system) IDS ips that uses patterns of known malicious activity similar to how antivirus ap?" [ref=e339] [cursor=pointer]:
+              - generic [ref=e341]: What is an intrusion detection system (intruder prevention system) IDS ips that uses patterns of known malicious activity similar to how antivirus ap?
+              - img [ref=e344]
+            - button "What is an intrusion detection system using AI and machine learning algorithm?" [ref=e353] [cursor=pointer]:
+              - generic [ref=e355]: What is an intrusion detection system using AI and machine learning algorithm?
+              - img [ref=e358]
+        - generic [ref=e364]:
+          - heading "Imágenes" [level=2] [ref=e368]
+          - generic [ref=e372]:
+            - generic [ref=e376] [cursor=pointer]:
+              - link "Evaluating the Generalization Gaps of Intrusion Detection ... MDPI":
+                - /url: https://www.mdpi.com/2624-800X/5/4/85
+              - button "Evaluating the Generalization Gaps of Intrusion Detection ..." [ref=e378]:
+                - img "Evaluating the Generalization Gaps of Intrusion Detection ..." [ref=e380]
+              - generic [ref=e382]:
+                - generic [ref=e384]: Evaluating the Generalization Gaps of Intrusion Detection ...
+                - generic [ref=e385]:
+                  - generic [ref=e392]: MDPI
+                  - button "Acerca de este resultado" [ref=e395]:
+                    - img [ref=e398]
+            - generic [ref=e403] [cursor=pointer]:
+              - link "Evaluating the Generalization Gaps of Intrusion Detection ... MDPI":
+                - /url: https://www.mdpi.com/2624-800X/5/4/85
+              - button "Evaluating the Generalization Gaps of Intrusion Detection ..." [ref=e405]:
+                - img "Evaluating the Generalization Gaps of Intrusion Detection ..." [ref=e407]
+              - generic [ref=e409]:
+                - generic [ref=e411]: Evaluating the Generalization Gaps of Intrusion Detection ...
+                - generic [ref=e412]:
+                  - generic [ref=e419]: MDPI
+                  - button "Acerca de este resultado" [ref=e422]:
+                    - img [ref=e425]
+            - generic [ref=e430] [cursor=pointer]:
+              - link "Evaluating the Generalization Gaps of Intrusion Detection ... MDPI":
+                - /url: https://www.mdpi.com/2624-800X/5/4/85
+              - button "Evaluating the Generalization Gaps of Intrusion Detection ..." [ref=e432]:
+                - img "Evaluating the Generalization Gaps of Intrusion Detection ..." [ref=e434]
+              - generic [ref=e436]:
+                - generic [ref=e438]: Evaluating the Generalization Gaps of Intrusion Detection ...
+                - generic [ref=e439]:
+                  - generic [ref=e446]: MDPI
+                  - button "Acerca de este resultado" [ref=e449]:
+                    - img [ref=e452]
+          - link "Todas las imágenes" [ref=e455] [cursor=pointer]:
+            - /url: /search?sca_esv=37c618bae3233f88&q=%22Evaluating+the+Generalization+Gaps+of+Intrusion+Detection+Systems+Across+DoS+Attack+Variants%22+Jameel+MDPI+JCP+2025+pdf&udm=2&source=univ&fir=aDexkx-trRlqEM%252CV1pGmm8zbXESgM%252C_%253Birlyjm50T3nYOM%252CV1pGmm8zbXESgM%252C_%253BMajDfnIsHZGcaM%252CV1pGmm8zbXESgM%252C_&usg=AI4_-kSyE-0Avtn5qYR4idE-AuByomocEA&sa=X&ved=2ahUKEwjCja3IwfeUAxUUJrkGHZ0ZKzkQ7Al6BAgWEAU
+            - separator [ref=e456]
+            - generic [ref=e457]:
+              - generic [ref=e458]: Todas las imágenes
+              - img [ref=e460]
+      - generic:
+        - generic:
+          - navigation
+      - navigation
+    - contentinfo [ref=e462]:
+      - heading "Vínculos a pie de página" [level=1] [ref=e463]
+      - generic [ref=e467]:
+        - generic [ref=e469]:
+          - text: Perú
+          - generic [ref=e471]:
+            - button "21104, Juliaca - A través de tu dirección IP" [ref=e473] [cursor=pointer]:
+              - generic [ref=e474]: 21104, Juliaca
+              - generic [ref=e476]:
+                - text: "-"
+                - generic [ref=e477]: A través de tu dirección IP
+            - text: "-"
+            - button "Actualizar ubicación" [ref=e479] [cursor=pointer]: Actualizar ubicación
+        - generic [ref=e482]:
+          - link "Ayuda" [ref=e483] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=es-419&fg=1
+          - link "Enviar comentarios" [ref=e484] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacidad" [ref=e485] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=es-419&fg=1
+          - link "Condiciones" [ref=e486] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=es-419&fg=1

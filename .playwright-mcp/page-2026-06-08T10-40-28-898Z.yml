@@ -1,0 +1,209 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - button "root.skip-to-content" [ref=e5] [cursor=pointer]
+    - generic [ref=e7]:
+      - generic [ref=e12]:
+        - generic [ref=e14]:
+          - img [ref=e15]
+          - generic [ref=e17]:
+            - strong [ref=e18]: Repositorio Institucional UNAP
+            - text: · Acceso abierto al conocimiento académico
+          - link "Explorar colecciones →" [ref=e19] [cursor=pointer]:
+            - /url: /communities
+        - banner [ref=e20]:
+          - generic [ref=e21]:
+            - link "Inicio" [ref=e22] [cursor=pointer]:
+              - /url: /home
+              - img "Universidad Nacional del Altiplano" [ref=e23]
+            - text:    
+            - generic [ref=e24]:
+              - generic "Buscar" [ref=e27]:
+                - generic [ref=e29]:
+                  - textbox "Buscar" [ref=e30]:
+                    - /placeholder: ""
+                  - button "Buscar" [ref=e31] [cursor=pointer]:
+                    - emphasis [ref=e32]: 
+              - menubar [ref=e33]:
+                - menuitem "Cambio de idioma" [ref=e37] [cursor=pointer]:
+                  - generic [ref=e38]: 
+                - generic [ref=e43]:
+                  - menuitem "Iniciar sesión" [ref=e44] [cursor=pointer]
+                  - text: 
+      - navigation "breadcrumb" [ref=e47]:
+        - list [ref=e48]:
+          - listitem [ref=e49]:
+            - link "Inicio" [ref=e51] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e52]:
+            - text: •
+            - link "2. Escuela de Posgrado" [ref=e54] [cursor=pointer]:
+              - /url: /communities/0430204c-d326-4251-8f13-3ce4a24efa8f
+          - listitem [ref=e55]:
+            - text: •
+            - link "2. Maestría" [ref=e57] [cursor=pointer]:
+              - /url: /communities/5ea3a1cf-3978-415c-baf8-53d5f3813ec5
+          - listitem [ref=e58]:
+            - text: •
+            - link "Maestría en Informática" [ref=e60] [cursor=pointer]:
+              - /url: /collections/12a3543c-9ebd-4a89-a76b-aaca899c6648
+          - listitem [ref=e61]:
+            - text: •
+            - generic [ref=e63]: Seguridad informática en la plataforma virtual del Vicerrectorado de Investigación de la Universidad Nacional del Altiplano de Puno - 2019
+      - main [ref=e64]:
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - heading "Seguridad informática en la plataforma virtual del Vicerrectorado de Investigación de la Universidad Nacional del Altiplano de Puno - 2019" [level=1] [ref=e77]
+            - generic [ref=e79]:
+              - generic [ref=e80]: 
+              - text: Tesis de Maestría
+            - generic [ref=e82]:
+              - generic [ref=e83]:
+                - generic [ref=e84]: 
+                - generic [ref=e85]: "32"
+                - generic [ref=e86]: Visitas
+              - generic [ref=e87]:
+                - generic [ref=e88]: 
+                - generic [ref=e89]: "93"
+                - generic [ref=e90]: Descargas
+          - generic [ref=e91]:
+            - complementary [ref=e92]:
+              - generic [ref=e101]:         
+              - generic [ref=e105]:
+                - generic [ref=e107]: Archivos
+                - generic [ref=e114]:
+                  - link " Zanabria_Ticona_Edson_Denis.pdf (3.99 MB)" [ref=e117] [cursor=pointer]:
+                    - /url: /bitstreams/497b6ee9-e300-4592-a34b-d67f8cb7b56a/download
+                    - text: 
+                    - generic [ref=e118]: Zanabria_Ticona_Edson_Denis.pdf
+                    - generic [ref=e119]: (3.99 MB)
+                  - link " file-download-link.restricted Reporte de similitud.pdf (2.32 MB)" [ref=e122] [cursor=pointer]:
+                    - /url: /items/d393b1b4-9b69-4b1d-840e-1c98ef594f63/request-a-copy?bitstream=b2d8165f-93f7-4dbe-ba4a-547524895e0b
+                    - text: 
+                    - generic "file-download-link.restricted" [ref=e123]:
+                      - generic [ref=e124]: 
+                    - generic [ref=e125]: Reporte de similitud.pdf
+                    - generic [ref=e126]: (2.32 MB)
+              - generic [ref=e127]:
+                - generic [ref=e129]: Detalles
+                - generic [ref=e130]:
+                  - generic [ref=e135]:
+                    - heading "Fecha" [level=2] [ref=e136]
+                    - generic [ref=e137]: 2023-01-09
+                  - generic [ref=e141]:
+                    - heading "Autores" [level=2] [ref=e142]
+                    - link "Zanabria Ticona, Edson Denis" [ref=e147] [cursor=pointer]:
+                      - /url: /browse/author?startsWith=Zanabria%20Ticona,%20Edson%20Denis
+                  - generic [ref=e152]:
+                    - heading "Editor" [level=2] [ref=e153]
+                    - generic [ref=e154]: Universidad Nacional del Altiplano. Repositorio Institucional - UNAP
+            - main [ref=e155]:
+              - generic [ref=e156]:
+                - generic [ref=e158]: Resumen
+                - generic [ref=e165]: En la plataforma del Vicerrectorado de Investigación de la Universidad Nacional del Altiplano de Puno en 2019, se planteó la hipótesis de la existencia de una probabilidad de riesgo en la seguridad informática, en relación a la ocurrencia de amenazas e impacto en daños. El principal objetivo de esta investigación fue determinar el nivel de riesgo en seguridad informática mediante políticas y estándares ISO 17799, bajo un diseño descriptivo transversal-exploratorio, lo que permitió la implementación de procesos y procedimientos seguros en el manejo y seguridad de la información. Los resultados generales de esta investigación mostraron que el 40,6 % de los ítems observados tenían un alto impacto, y la probabilidad de ocurrencia fue de nivel medio; en seguridad informática, esto representa un alto riesgo en el manejo de la información. También se observó que el 68,6 % de los ítems con alta probabilidad de ocurrencia tuvieron un alto impacto en el nivel de seguridad, los cuales serán reforzados en base a los hallazgos. En conclusión, se determinó que el nivel de riesgo en seguridad informática en la plataforma del Vicerrectorado de Investigación fue alto, de acuerdo con los activos que podrían verse comprometidos en caso de nuevos ataques a la seguridad informática.
+              - generic [ref=e167]:
+                - generic [ref=e169]: Palabras Clave
+                - generic [ref=e176]:
+                  - generic [ref=e177]: Análisis de riesgos
+                  - generic [ref=e178]: "|||"
+                  - generic [ref=e179]: ISO 17799
+                  - generic [ref=e180]: "|||"
+                  - generic [ref=e181]: SGSI
+                  - generic [ref=e182]: "|||"
+                  - generic [ref=e183]: Seguridad de la información, Seguridad informática
+              - generic [ref=e189]:
+                - heading "URI" [level=2] [ref=e190]
+                - link "https://repositorio.unap.edu.pe/handle/20.500.14082/21081" [ref=e192] [cursor=pointer]:
+                  - /url: https://repositorio.unap.edu.pe/handle/20.500.14082/21081
+              - generic [ref=e195]:
+                - heading "Colecciones" [level=2] [ref=e196]
+                - link "Maestría en Informática" [ref=e199] [cursor=pointer]:
+                  - /url: /collections/12a3543c-9ebd-4a89-a76b-aaca899c6648
+              - button " Página completa del ítem" [ref=e201] [cursor=pointer]:
+                - generic [ref=e202]: 
+                - text: Página completa del ítem
+      - contentinfo [ref=e205]:
+        - generic [ref=e208]:
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - img "UNAP" [ref=e211]
+              - generic [ref=e212]:
+                - generic [ref=e213]: Repositorio Institucional
+                - generic [ref=e214]: Universidad Nacional del Altiplano
+            - paragraph [ref=e215]: Plataforma de acceso abierto para la producción académica e investigativa de la UNAP.
+          - generic [ref=e216]:
+            - heading "Explorar" [level=3] [ref=e217]
+            - list [ref=e218]:
+              - listitem [ref=e219]:
+                - link "Comunidades" [ref=e220] [cursor=pointer]:
+                  - /url: /communities
+              - listitem [ref=e221]:
+                - link "Colecciones" [ref=e222] [cursor=pointer]:
+                  - /url: /collections
+              - listitem [ref=e223]:
+                - link "Buscar" [ref=e224] [cursor=pointer]:
+                  - /url: /search
+              - listitem [ref=e225]:
+                - link "Títulos" [ref=e226] [cursor=pointer]:
+                  - /url: /browse/title
+              - listitem [ref=e227]:
+                - link "Autores" [ref=e228] [cursor=pointer]:
+                  - /url: /browse/author
+          - generic [ref=e229]:
+            - heading "Servicios" [level=3] [ref=e230]
+            - list [ref=e231]:
+              - listitem [ref=e232]:
+                - link "Depositar" [ref=e233] [cursor=pointer]:
+                  - /url: https://repositorio.unap.edu.pe/imanadocs/registro
+              - listitem [ref=e234]:
+                - link "Acerca de" [ref=e235] [cursor=pointer]:
+                  - /url: /info/about
+              - listitem [ref=e236]:
+                - link "Soporte" [ref=e237] [cursor=pointer]:
+                  - /url: /info/feedback
+              - listitem [ref=e238]:
+                - link "ALICIA - CONCYTEC" [ref=e239] [cursor=pointer]:
+                  - /url: https://alicia.concytec.gob.pe
+          - generic [ref=e240]:
+            - heading "Síguenos" [level=3] [ref=e241]
+            - generic [ref=e242]:
+              - link "Facebook" [ref=e243] [cursor=pointer]:
+                - /url: https://www.facebook.com/UNAPOficial
+                - generic [ref=e244]: 
+              - link "Instagram" [ref=e245] [cursor=pointer]:
+                - /url: https://www.instagram.com/unapoficial
+                - generic [ref=e246]: 
+              - link "X" [ref=e247] [cursor=pointer]:
+                - /url: https://twitter.com/UNAPOficial
+              - link "YouTube" [ref=e248] [cursor=pointer]:
+                - /url: https://www.youtube.com/UNAPOficial
+                - generic [ref=e249]: 
+        - separator [ref=e252]
+        - generic [ref=e255]:
+          - generic [ref=e256]: © 2026 Universidad Nacional del Altiplano - Puno, Perú
+          - generic [ref=e257]:
+            - button "Cookies" [ref=e258] [cursor=pointer]
+            - link "|Privacidad" [ref=e259] [cursor=pointer]:
+              - /url: /info/privacy
+            - link "|Términos" [ref=e260] [cursor=pointer]:
+              - /url: /info/end-user-agreement
+          - generic [ref=e261]:
+            - text: Desarrollado con
+            - link "DSpace 7.6" [ref=e262] [cursor=pointer]:
+              - /url: https://dspace.lyrasis.org/
+  - generic [ref=e264]:
+    - paragraph [ref=e265]:
+      - generic [ref=e266]:
+        - generic [ref=e267]:
+          - text: "Recopilamos y procesamos su información personal para los siguientes propósitos:"
+          - strong [ref=e268]: Autenticación, Preferencias, Reconocimiento y Estadísticas
+          - text: .
+          - text: Para obtener más información, lea nuestra
+        - link "política de privacidad" [ref=e269] [cursor=pointer]:
+          - /url: ./info/privacy
+        - text: .
+    - generic [ref=e270]:
+      - link "Personalizar" [ref=e271] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e272]:
+        - button "Rechazar" [ref=e273] [cursor=pointer]
+        - button "Aceptar" [ref=e274] [cursor=pointer]

@@ -1,0 +1,1825 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: Loading [MathJax]/jax/output/HTML-CSS/fonts/Gyre-Pagella/Normal/Regular/Main.js
+  - text:  
+  - generic [ref=e3]:
+    - navigation [ref=e5]:
+      - generic [ref=e6]:
+        - link "MDPI Open Access Journals" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "MDPI Open Access Journals" [ref=e9]
+        - generic [ref=e11]:
+          - link "zoom_out_map" [ref=e12] [cursor=pointer]:
+            - /url: /toggle_desktop_layout_cookie
+            - generic [ref=e13]: zoom_out_map
+          - link:
+            - /url: "#"
+          - link "menu" [ref=e14] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e15]: menu
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e21]:
+          - generic [ref=e23]: "Search :"
+          - generic:
+            - textbox "Title / Keyword" [ref=e25]
+            - textbox "Author / Affiliation / Email" [ref=e27]
+            - generic [ref=e29]:
+              - generic [ref=e31] [cursor=pointer]: Applied Sciences
+              - generic [ref=e34]:
+                - textbox [ref=e36]
+                - list
+            - generic [ref=e38]:
+              - generic [ref=e40] [cursor=pointer]: All Article Types
+              - generic [ref=e43]:
+                - textbox [ref=e45]
+                - list
+            - button "Search" [ref=e47] [cursor=pointer]
+            - link "Advanced" [ref=e49] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - link "Journals" [ref=e53] [cursor=pointer]:
+              - /url: /about/journals
+            - text: /
+          - generic [ref=e54]:
+            - link "Applied Sciences" [ref=e55] [cursor=pointer]:
+              - /url: /journal/applsci
+            - text: /
+          - generic [ref=e56]:
+            - link "Volume 15" [ref=e57] [cursor=pointer]:
+              - /url: /2076-3417/15
+            - text: /
+          - generic [ref=e58]:
+            - link "Issue 14" [ref=e59] [cursor=pointer]:
+              - /url: /2076-3417/15/14
+            - text: /
+          - generic [ref=e60]:
+            - link "10.3390/app15147984" [ref=e61] [cursor=pointer]:
+              - /url: "#"
+            - text: /
+      - generic [ref=e63]:
+        - text: keyboard_arrow_up keyboard_arrow_down insert_link keyboard_arrow_down lens insert_link lens lens insert_link lens lens insert_link lens keyboard_arrow_up lens lens lens lens lens lens lens lens lens lens lens lens lens
+        - generic [ref=e64]:
+          - generic [ref=e65]:
+            - link "share Share" [ref=e66] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e67]: share
+              - generic [ref=e68]: Share
+            - link "announcement Help" [ref=e69] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e70]: announcement
+              - generic [ref=e71]: Help
+            - link "format_quote Cite" [ref=e72] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - generic [ref=e73]: format_quote
+              - generic [ref=e74]: Cite
+            - link "question_answer Discuss in SciProfiles" [ref=e75] [cursor=pointer]:
+              - /url: https://sciprofiles.com/discussion-groups/public/10.3390/app15147984?utm_source=mpdi.com&utm_medium=publication&utm_campaign=discuss_in_sciprofiles
+              - generic [ref=e76]: question_answer
+              - generic [ref=e77]: Discuss in SciProfiles
+          - generic [ref=e81]:
+            - generic:
+              - generic [ref=e82]:
+                - generic [ref=e84] [cursor=pointer]: settings
+                - link "Order Article Reprints" [ref=e85] [cursor=pointer]:
+                  - /url: /2076-3417/15/14/7984/reprints
+              - text:   
+            - article [ref=e86]:
+              - generic [ref=e87]:
+                - generic [ref=e88]:
+                  - generic [ref=e89] [cursor=pointer]: Open Access
+                  - generic [ref=e90]: Article
+                - heading "A Novel Ensemble of Deep Learning Approach for Cybersecurity Intrusion Detection with Explainable Artificial Intelligence" [level=1] [ref=e91]
+                - generic [ref=e92]:
+                  - text: by
+                  - generic [ref=e93]:
+                    - text: Abdullah Alabdulatif
+                    - superscript
+                    - link "" [ref=e94] [cursor=pointer]:
+                      - /url: mailto:a.alabdulatif@qu.edu.sa
+                      - superscript [ref=e95]:
+                        - generic [ref=e96]: 
+                    - link "ORCID" [ref=e97] [cursor=pointer]:
+                      - /url: https://orcid.org/0000-0002-4400-5140
+                      - img "ORCID" [ref=e98]
+                - generic [ref=e103]: Department of Cybersecurity, College of Computer, Qassim University, Buraydah 52571, Saudi Arabia
+                - generic [ref=e104]:
+                  - emphasis [ref=e105]: Appl. Sci.
+                  - text: 2025,
+                  - emphasis [ref=e106]: "15"
+                  - text: (14), 7984;
+                  - link "https://doi.org/10.3390/app15147984" [ref=e107] [cursor=pointer]:
+                    - /url: https://doi.org/10.3390/app15147984
+                - generic [ref=e108]:
+                  - generic [ref=e109]: "Submission received: 4 June 2025"
+                  - text: /
+                  - generic [ref=e110]: "Revised: 7 July 2025"
+                  - text: /
+                  - generic [ref=e111]: "Accepted: 14 July 2025"
+                  - text: /
+                  - generic [ref=e112]: "Published: 17 July 2025"
+                - generic [ref=e113]:
+                  - text: (This article belongs to the Special Issue
+                  - 'link "Advanced Cybersecurity Applications: Solutions to Counteract Cyber Threats" [ref=e114] [cursor=pointer]':
+                    - /url: "        \n    /journal/applsci/special_issues/1G9100K14C\n"
+                  - text: )
+                - generic [ref=e116]:
+                  - generic [ref=e117] [cursor=pointer]:
+                    - text: Download
+                    - generic [ref=e118]: keyboard_arrow_down
+                  - link "Browse Figures" [ref=e120] [cursor=pointer]:
+                    - /url: "#"
+                  - generic:
+                    - link "<strong>Figure 1</strong><br/> <p>Estimated annual cost of cybercrime worldwide (in trillion US dollars).</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g001.png?1752757956
+                    - link "<strong>Figure 2</strong><br/> <p>Annual network security revenue (in billion US dollars) (2016–2028).</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g002.png?1752757957
+                    - link "<strong>Figure 3</strong><br/> <p>Commonly seen network-based cyberattacks.</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g003.png?1752757959
+                    - link "<strong>Figure 4</strong><br/> <p>Methodology of the research.</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g004.png?1752757960
+                    - link "<strong>Figure 5</strong><br/> <p>Ensemble learning model architecture.</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g005.png?1752757961
+                    - link "<strong>Figure 6</strong><br/> <p>Deployment steps.</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g006.png?1752757962
+                    - link "<strong>Figure 7</strong><br/> <p>Confusion matrix of the final ensemble.</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g007.png?1752757963
+                    - link "<strong>Figure 8</strong><br/> <p>The ROC curve.</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g008.png?1752757964
+                    - link "<strong>Figure 9</strong><br/> <p>The precision–recall curve.</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g009.png?1752757964
+                    - link "<strong>Figure 10</strong><br/> <p>SHAP force plot 01.</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g010.png?1752757965
+                    - link "<strong>Figure 11</strong><br/> <p>SHAP force plot 02.</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g011.png?1752757965
+                    - link "<strong>Figure 12</strong><br/> <p>Confusion matrix of the final ensemble (employing UNSW-NB15 dataset).</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g012.png?1752757966
+                    - link "<strong>Figure 13</strong><br/> <p>The ROC curve (employing UNSW-NB15 dataset).</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g013.png?1752757967
+                    - link "<strong>Figure 14</strong><br/> <p>Anomaly detection results from the AWS-hosted Flask app.</p>":
+                      - /url: https://pub.mdpi-res.com/applsci/applsci-15-07984/article_deploy/html/images/applsci-15-07984-g014.png?1752757968
+                  - link "Versions Notes" [ref=e121] [cursor=pointer]:
+                    - /url: /2076-3417/15/14/7984/notes
+                - generic [ref=e124]:
+                  - paragraph
+                  - generic [ref=e125]:
+                    - generic [ref=e126]:
+                      - heading "Abstract" [level=2] [ref=e127]
+                      - text: In today’s increasingly interconnected digital world, cyber threats have grown in frequency and sophistication, making intrusion detection systems a critical component of modern cybersecurity frameworks. Traditional IDS methods, often based on static signatures and rule-based systems, are no longer sufficient to detect and respond to complex and evolving attacks. To address these challenges, Artificial Intelligence and machine learning have emerged as powerful tools for enhancing the accuracy, adaptability, and automation of IDS solutions. This study presents a novel, hybrid ensemble learning-based intrusion detection framework that integrates deep learning and traditional ML algorithms with explainable artificial intelligence for real-time cybersecurity applications. The proposed model combines an Artificial Neural Network and Support Vector Machine as base classifiers and employs a Random Forest as a meta-classifier to fuse predictions, improving detection performance. Recursive Feature Elimination is utilized for optimal feature selection, while SHapley Additive exPlanations (SHAP) provide both global and local interpretability of the model’s decisions. The framework is deployed using a Flask-based web interface in the Amazon Elastic Compute Cloud environment, capturing live network traffic and offering sub-second inference with visual alerts. Experimental evaluations using the NSL-KDD dataset demonstrate that the ensemble model outperforms individual classifiers, achieving a high accuracy of 99.40%, along with excellent precision, recall, and F1-score metrics. This research not only enhances detection capabilities but also bridges the trust gap in AI-powered security systems through transparency. The solution shows strong potential for application in critical domains such as finance, healthcare, industrial IoT, and government networks, where real-time and interpretable threat detection is vital.
+                    - generic [ref=e129]:
+                      - text: "Keywords:"
+                      - link "security" [ref=e130] [cursor=pointer]:
+                        - /url: /search?q=security
+                      - text: ;
+                      - link "privacy" [ref=e131] [cursor=pointer]:
+                        - /url: /search?q=privacy
+                      - text: ;
+                      - link "cybersecurity" [ref=e132] [cursor=pointer]:
+                        - /url: /search?q=cybersecurity
+                      - text: ;
+                      - link "deep learning" [ref=e133] [cursor=pointer]:
+                        - /url: /search?q=deep+learning
+                      - text: ;
+                      - link "machine learning" [ref=e134] [cursor=pointer]:
+                        - /url: /search?q=machine+learning
+                      - text: ;
+                      - link "explainable artificial intelligence" [ref=e135] [cursor=pointer]:
+                        - /url: /search?q=explainable+artificial+intelligence
+                      - text: ;
+                      - link "intrusion detection" [ref=e136] [cursor=pointer]:
+                        - /url: /search?q=intrusion+detection
+                      - text: ;
+                      - link "network security" [ref=e137] [cursor=pointer]:
+                        - /url: /search?q=network+security
+                  - paragraph
+                - generic [ref=e138]:
+                  - generic [ref=e139]:
+                    - generic [ref=e140]:
+                      - heading "1. Introduction" [level=2] [ref=e141]
+                      - generic [ref=e142]:
+                        - text: With the rapid growth of digital connectivity and computational power, unauthorized network intrusions, commonly referred to as network attacks, have become increasingly frequent and sophisticated. These cyberattacks target vulnerabilities in network services to gain unauthorized access or disrupt operations, which ultimately endanger the operations of the entire Information Technology infrastructure [
+                        - link "1" [ref=e143] [cursor=pointer]:
+                          - /url: "#B1-applsci-15-07984"
+                        - text: "]. Overall, the surge in network-based threats has led to a notable rise in both the scale and complexity of cyber incidents worldwide ["
+                        - link "1" [ref=e144] [cursor=pointer]:
+                          - /url: "#B1-applsci-15-07984"
+                        - text: ","
+                        - link "2" [ref=e145] [cursor=pointer]:
+                          - /url: "#B2-applsci-15-07984"
+                        - text: "]."
+                      - generic [ref=e146]:
+                        - text: "Recent statistics highlight the severity of this trend: in 2024, over 6.5 billion malware attacks were recorded globally, and the average cost of a data breach reached USD 4.88 million ["
+                        - link "2" [ref=e147] [cursor=pointer]:
+                          - /url: "#B2-applsci-15-07984"
+                        - text: ","
+                        - link "3" [ref=e148] [cursor=pointer]:
+                          - /url: "#B3-applsci-15-07984"
+                        - text: "]. In the United States alone, the average breach cost in 2023 was approximately USD 9 million, while the global average consistently hovers around USD 4 million ["
+                        - link "2" [ref=e149] [cursor=pointer]:
+                          - /url: "#B2-applsci-15-07984"
+                        - text: ","
+                        - link "3" [ref=e150] [cursor=pointer]:
+                          - /url: "#B3-applsci-15-07984"
+                        - text: "]. On the other hand, according to"
+                        - link "Figure 1" [ref=e151] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f001"
+                        - text: ", it is evident that the estimated annual cost of cybercrime worldwide is projected to reach over USD 13 trillion by 2028, making it one of the most economically damaging threats globally and surpassing the value of the global trade of all major illegal drugs combined ["
+                        - link "1" [ref=e152] [cursor=pointer]:
+                          - /url: "#B1-applsci-15-07984"
+                        - text: ","
+                        - link "2" [ref=e153] [cursor=pointer]:
+                          - /url: "#B2-applsci-15-07984"
+                        - text: "]. Hence, these figures underscore the critical need for robust, intelligent cybersecurity solutions to protect sensitive digital infrastructure."
+                      - generic [ref=e154]:
+                        - generic [ref=e156] [cursor=pointer]:
+                          - img "Applsci 15 07984 g001" [ref=e157]
+                          - link [ref=e158]:
+                            - /url: "#fig_body_display_applsci-15-07984-f001"
+                        - generic [ref=e159]: Figure 1. Estimated annual cost of cybercrime worldwide (in trillion US dollars).
+                      - generic [ref=e160]:
+                        - text: "Overall, network attacks are broadly categorized into two main types: active attacks and passive attacks where active attacks involve direct system intrusions carried out using malware, viruses, trojans, or other exploitation tools ["
+                        - link "3" [ref=e161] [cursor=pointer]:
+                          - /url: "#B3-applsci-15-07984"
+                        - text: ","
+                        - link "4" [ref=e162] [cursor=pointer]:
+                          - /url: "#B4-applsci-15-07984"
+                        - text: ","
+                        - link "5" [ref=e163] [cursor=pointer]:
+                          - /url: "#B5-applsci-15-07984"
+                        - text: "]. Previously seen as minor threats posed by amateur hackers, these attacks have evolved in scale and impact, now affecting billions of users globally and resulting in estimated damages exceeding USD 2.7 billion between 2021 and 2023 ["
+                        - link "1" [ref=e164] [cursor=pointer]:
+                          - /url: "#B1-applsci-15-07984"
+                        - text: ","
+                        - link "2" [ref=e165] [cursor=pointer]:
+                          - /url: "#B2-applsci-15-07984"
+                        - text: ","
+                        - link "3" [ref=e166] [cursor=pointer]:
+                          - /url: "#B3-applsci-15-07984"
+                        - text: "]. Nonetheless, annual network security revenue is projected to grow significantly, increasing from approximately USD 20 billion in 2016 to over USD 60 billion by 2028 (as depicted in"
+                        - link "Figure 2" [ref=e167] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f002"
+                        - text: ), driven by rising cyber threats, increased adoption of cloud services, and stricter regulatory compliance requirements.
+                      - generic [ref=e168]:
+                        - generic [ref=e170] [cursor=pointer]:
+                          - img "Applsci 15 07984 g002" [ref=e171]
+                          - link [ref=e172]:
+                            - /url: "#fig_body_display_applsci-15-07984-f002"
+                        - generic [ref=e173]: Figure 2. Annual network security revenue (in billion US dollars) (2016–2028).
+                      - generic [ref=e174]:
+                        - text: On the contrary, passive attacks involve the covert monitoring of data transmissions to intercept unencrypted credentials or sensitive information [
+                        - link "5" [ref=e175] [cursor=pointer]:
+                          - /url: "#B5-applsci-15-07984"
+                        - text: ","
+                        - link "6" [ref=e176] [cursor=pointer]:
+                          - /url: "#B6-applsci-15-07984"
+                        - text: ","
+                        - link "7" [ref=e177] [cursor=pointer]:
+                          - /url: "#B7-applsci-15-07984"
+                        - text: "]. These attacks do not alter system resources but pose significant risks by compromising data confidentiality without detection."
+                        - link "Figure 3" [ref=e178] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f003"
+                        - text: showcases commonly observed cyberattacks, including Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks, Man-in-the-Middle attacks, packet sniffing, port scanning, and ARP spoofing [
+                        - link "2" [ref=e179] [cursor=pointer]:
+                          - /url: "#B2-applsci-15-07984"
+                        - text: ","
+                        - link "3" [ref=e180] [cursor=pointer]:
+                          - /url: "#B3-applsci-15-07984"
+                        - text: "]."
+                      - generic [ref=e181]:
+                        - generic [ref=e183] [cursor=pointer]:
+                          - img "Applsci 15 07984 g003" [ref=e184]
+                          - link [ref=e185]:
+                            - /url: "#fig_body_display_applsci-15-07984-f003"
+                        - generic [ref=e186]: Figure 3. Commonly seen network-based cyberattacks.
+                      - generic [ref=e187]:
+                        - text: Traditional security defenses relying on static rule sets and manual log analysis are increasingly ineffective against evolving cyber threats [
+                        - link "8" [ref=e188] [cursor=pointer]:
+                          - /url: "#B8-applsci-15-07984"
+                        - text: ","
+                        - link "9" [ref=e189] [cursor=pointer]:
+                          - /url: "#B9-applsci-15-07984"
+                        - text: ","
+                        - link "10" [ref=e190] [cursor=pointer]:
+                          - /url: "#B10-applsci-15-07984"
+                        - text: ","
+                        - link "11" [ref=e191] [cursor=pointer]:
+                          - /url: "#B11-applsci-15-07984"
+                        - text: ","
+                        - link "12" [ref=e192] [cursor=pointer]:
+                          - /url: "#B12-applsci-15-07984"
+                        - text: "]. Manual monitoring is labor-intensive and inherently reactive, often detecting breaches only after significant damage has occurred. To overcome these limitations, modern intrusion detection systems (IDSs) have begun leveraging machine learning (DL) to enable proactive, real-time threat detection ["
+                        - link "12" [ref=e193] [cursor=pointer]:
+                          - /url: "#B12-applsci-15-07984"
+                        - text: ","
+                        - link "13" [ref=e194] [cursor=pointer]:
+                          - /url: "#B13-applsci-15-07984"
+                        - text: ","
+                        - link "14" [ref=e195] [cursor=pointer]:
+                          - /url: "#B14-applsci-15-07984"
+                        - text: ","
+                        - link "15" [ref=e196] [cursor=pointer]:
+                          - /url: "#B15-applsci-15-07984"
+                        - text: ","
+                        - link "16" [ref=e197] [cursor=pointer]:
+                          - /url: "#B16-applsci-15-07984"
+                        - text: "]. While classical IDS approaches were effective in early network environments, they struggle in modern contexts due to several critical limitations:"
+                      - list [ref=e199]:
+                        - listitem [ref=e200]:
+                          - generic [ref=e201]:
+                            - text: "Increased attack complexity: Modern threats such as Distributed Denial of Service (DDoS) and polymorphic malware evolve rapidly, often bypassing static, pattern-based detection methods ["
+                            - link "4" [ref=e202] [cursor=pointer]:
+                              - /url: "#B4-applsci-15-07984"
+                            - text: "]."
+                        - listitem [ref=e203]:
+                          - generic [ref=e204]:
+                            - text: "Scalability challenges: The high volume and velocity of traffic in enterprise and cloud environments overwhelm traditional IDS infrastructures ["
+                            - link "3" [ref=e205] [cursor=pointer]:
+                              - /url: "#B3-applsci-15-07984"
+                            - text: ","
+                            - link "4" [ref=e206] [cursor=pointer]:
+                              - /url: "#B4-applsci-15-07984"
+                            - text: "]."
+                        - listitem [ref=e207]:
+                          - generic [ref=e208]:
+                            - text: "Limited adaptability: Fixed-pattern classifiers are incapable of identifying novel or zero-day attacks not represented in the training data ["
+                            - link "4" [ref=e209] [cursor=pointer]:
+                              - /url: "#B4-applsci-15-07984"
+                            - text: ","
+                            - link "5" [ref=e210] [cursor=pointer]:
+                              - /url: "#B5-applsci-15-07984"
+                            - text: ","
+                            - link "6" [ref=e211] [cursor=pointer]:
+                              - /url: "#B6-applsci-15-07984"
+                            - text: ","
+                            - link "7" [ref=e212] [cursor=pointer]:
+                              - /url: "#B7-applsci-15-07984"
+                            - text: "]."
+                      - generic [ref=e213]: "As a result, many IDS models treat anomaly detection as a static binary or multiclass classification task, which significantly limits their ability to adapt to new or evolving cyber threats. This shortcoming underscores the urgent need for a dynamic, data-driven solution that supports continuous learning and real-time threat identification. In this context, our research introduces a hybrid ensemble framework that integrates an Artificial Neural Network (ANN) and Support Vector Machine (SVM) as base classifiers, with a Random Forest (RF) meta-classifier to intelligently combine their predictions for improved detection accuracy. Furthermore, the framework is deployed in a real cloud-based environment that utilizes real-time packet capture tools to stream live network traffic. This integration enables immediate anomaly detection, allowing the system to dynamically analyze incoming data and respond to threats in real time, thereby enhancing the adaptability and operational relevance of modern IDS deployments. Thus, in this regard, the key contributions of this study include the following:"
+                      - list [ref=e215]:
+                        - listitem [ref=e216]:
+                          - generic [ref=e217]: Proposing a novel ensemble learning framework (ANN + SVM with RF meta-classifier) that achieves competitive performance compared to state-of-the-art intrusion detection models.
+                        - listitem [ref=e218]:
+                          - generic [ref=e219]: Employing Recursive Feature Elimination (RFE) to dynamically select the most relevant features and reduce model complexity.
+                        - listitem [ref=e220]:
+                          - generic [ref=e221]: Incorporating explainable artificial intelligence (XAI) to interpret individual detection decisions and improve transparency.
+                        - listitem [ref=e222]:
+                          - generic [ref=e223]: Developing a real-time deployment pipeline using Flask and live packet capture for immediate anomaly detection and dashboard reporting, in the real cloud environment.
+                      - generic [ref=e224]:
+                        - text: On the other hand, a review of the recent literature indicates that most ML-based IDSs operate offline and lack real-time adaptability or interpretability [
+                        - link "5" [ref=e225] [cursor=pointer]:
+                          - /url: "#B5-applsci-15-07984"
+                        - text: ","
+                        - link "6" [ref=e226] [cursor=pointer]:
+                          - /url: "#B6-applsci-15-07984"
+                        - text: ","
+                        - link "9" [ref=e227] [cursor=pointer]:
+                          - /url: "#B9-applsci-15-07984"
+                        - text: ","
+                        - link "10" [ref=e228] [cursor=pointer]:
+                          - /url: "#B10-applsci-15-07984"
+                        - text: ","
+                        - link "11" [ref=e229] [cursor=pointer]:
+                          - /url: "#B11-applsci-15-07984"
+                        - text: ","
+                        - link "12" [ref=e230] [cursor=pointer]:
+                          - /url: "#B12-applsci-15-07984"
+                        - text: "]. Thus, this study addresses these limitations by combining real-time inference, feature selection, and explainability in a unified, scalable IDS framework."
+                      - generic [ref=e231]:
+                        - text: The study is organized in the following manner. Following the introduction, the next section provides the background and related work relevant to the research. The methodology is detailed in
+                        - link "Section 3" [ref=e232] [cursor=pointer]:
+                          - /url: "#sec3-applsci-15-07984"
+                        - text: ", while"
+                        - link "Section 4" [ref=e233] [cursor=pointer]:
+                          - /url: "#sec4-applsci-15-07984"
+                        - text: presents the evaluation results and analysis. Finally, the paper concludes with a summary of findings and future research directions in the
+                        - link "Section 5" [ref=e234] [cursor=pointer]:
+                          - /url: "#sec5-applsci-15-07984"
+                        - text: .
+                    - generic [ref=e235]:
+                      - heading "2. Background and Literature Review" [level=2] [ref=e236]
+                      - generic [ref=e237]:
+                        - text: As networking technologies advance, cyberattacks have proliferated worldwide. What were once largely exploratory hacks causing minimal damage have evolved into lucrative operations for attackers, inflicting substantial losses on governments, corporations, and even individual smartphone users [
+                        - link "1" [ref=e238] [cursor=pointer]:
+                          - /url: "#B1-applsci-15-07984"
+                        - text: ","
+                        - link "2" [ref=e239] [cursor=pointer]:
+                          - /url: "#B2-applsci-15-07984"
+                        - text: ","
+                        - link "3" [ref=e240] [cursor=pointer]:
+                          - /url: "#B3-applsci-15-07984"
+                        - text: ","
+                        - link "4" [ref=e241] [cursor=pointer]:
+                          - /url: "#B4-applsci-15-07984"
+                        - text: "]. Adversaries continuously refine their methods, leveraging everything from novel exploits to botnets to target any device connected to a network. The exponential growth of interconnected systems, the surge in data traffic, and the relentless innovation in attack strategies have made real-time detection and mitigation ever more difficult ["
+                        - link "8" [ref=e242] [cursor=pointer]:
+                          - /url: "#B8-applsci-15-07984"
+                        - text: ","
+                        - link "9" [ref=e243] [cursor=pointer]:
+                          - /url: "#B9-applsci-15-07984"
+                        - text: ","
+                        - link "10" [ref=e244] [cursor=pointer]:
+                          - /url: "#B10-applsci-15-07984"
+                        - text: "]."
+                      - generic [ref=e245]:
+                        - text: As network attacks have grown more complex, integrating ML into IDSs has become significantly more effective than traditional methods [
+                        - link "8" [ref=e246] [cursor=pointer]:
+                          - /url: "#B8-applsci-15-07984"
+                        - text: ","
+                        - link "9" [ref=e247] [cursor=pointer]:
+                          - /url: "#B9-applsci-15-07984"
+                        - text: ","
+                        - link "10" [ref=e248] [cursor=pointer]:
+                          - /url: "#B10-applsci-15-07984"
+                        - text: "]. Earlier implementations, such as the concept, first introduced by Jim Anderson in 1980, required system administrators to manually inspect logs for anomalies ["
+                        - link "10" [ref=e249] [cursor=pointer]:
+                          - /url: "#B10-applsci-15-07984"
+                        - text: "]. In contrast, modern IDS solutions increasingly rely on intelligent automation through ML techniques ["
+                        - link "12" [ref=e250] [cursor=pointer]:
+                          - /url: "#B12-applsci-15-07984"
+                        - text: ","
+                        - link "13" [ref=e251] [cursor=pointer]:
+                          - /url: "#B13-applsci-15-07984"
+                        - text: ","
+                        - link "14" [ref=e252] [cursor=pointer]:
+                          - /url: "#B14-applsci-15-07984"
+                        - text: ","
+                        - link "15" [ref=e253] [cursor=pointer]:
+                          - /url: "#B15-applsci-15-07984"
+                        - text: ","
+                        - link "16" [ref=e254] [cursor=pointer]:
+                          - /url: "#B16-applsci-15-07984"
+                        - text: "]."
+                      - generic [ref=e255]:
+                        - text: Over the past decade, a wide range of ML approaches, including supervised learning, unsupervised learning, pattern recognition, and deep learning (DL) approaches such as ANN and Recurrent Neural Networks (RNNs), have been explored to enhance IDS capabilities [
+                        - link "5" [ref=e256] [cursor=pointer]:
+                          - /url: "#B5-applsci-15-07984"
+                        - text: ","
+                        - link "10" [ref=e257] [cursor=pointer]:
+                          - /url: "#B10-applsci-15-07984"
+                        - text: ","
+                        - link "11" [ref=e258] [cursor=pointer]:
+                          - /url: "#B11-applsci-15-07984"
+                        - text: ","
+                        - link "13" [ref=e259] [cursor=pointer]:
+                          - /url: "#B13-applsci-15-07984"
+                        - text: ","
+                        - link "14" [ref=e260] [cursor=pointer]:
+                          - /url: "#B14-applsci-15-07984"
+                        - text: ","
+                        - link "15" [ref=e261] [cursor=pointer]:
+                          - /url: "#B15-applsci-15-07984"
+                        - text: ","
+                        - link "16" [ref=e262] [cursor=pointer]:
+                          - /url: "#B16-applsci-15-07984"
+                        - text: ","
+                        - link "17" [ref=e263] [cursor=pointer]:
+                          - /url: "#B17-applsci-15-07984"
+                        - text: "]. In this regard, each method offers unique advantages, and selecting the right combination of algorithms and datasets remains essential for effective implementation. This has led to a surge in research aimed at exploring how ML and DL can improve intrusion detection, with a growing emphasis on large-scale, high-quality datasets to train and validate these models. The ongoing pursuit of greater accuracy, performance, and autonomy continues to drive innovation in this domain ["
+                        - link "18" [ref=e264] [cursor=pointer]:
+                          - /url: "#B18-applsci-15-07984"
+                        - text: ","
+                        - link "19" [ref=e265] [cursor=pointer]:
+                          - /url: "#B19-applsci-15-07984"
+                        - text: ","
+                        - link "20" [ref=e266] [cursor=pointer]:
+                          - /url: "#B20-applsci-15-07984"
+                        - text: ","
+                        - link "21" [ref=e267] [cursor=pointer]:
+                          - /url: "#B21-applsci-15-07984"
+                        - text: ","
+                        - link "22" [ref=e268] [cursor=pointer]:
+                          - /url: "#B22-applsci-15-07984"
+                        - text: "]."
+                      - generic [ref=e269]:
+                        - text: The introduction of DL further expanded the potential of IDS by minimizing the need for manual feature engineering. Due to their layered structure, DL models are capable of automatically extracting complex patterns from raw data, enabling deeper insights and more accurate threat detection [
+                        - link "12" [ref=e270] [cursor=pointer]:
+                          - /url: "#B12-applsci-15-07984"
+                        - text: "]. As a result, both ML- and DL-based intrusion detection solutions have evolved continuously, from early research in the 1980s to the sophisticated, self-adaptive systems we see today."
+                      - generic [ref=e271]:
+                        - text: Real-time network data capture represents one of the key contributions of this study, serving as the primary input for the anomaly detection model. As networking technologies continue to evolve, the structure and behavior of data flows across networks have undergone substantial transformations. These changes, driven by advances in communication protocols and transmission mechanisms, have made it increasingly critical to capture network traffic during the precise window when intrusions occur, namely, during the exchange of data between systems [
+                        - link "4" [ref=e272] [cursor=pointer]:
+                          - /url: "#B4-applsci-15-07984"
+                        - text: ","
+                        - link "10" [ref=e273] [cursor=pointer]:
+                          - /url: "#B10-applsci-15-07984"
+                        - text: ","
+                        - link "11" [ref=e274] [cursor=pointer]:
+                          - /url: "#B11-applsci-15-07984"
+                        - text: "]. Accurate and timely capture of network data during these transmission windows is essential for identifying malicious activity. To support this capability, a range of packet capture tools, such as pcap, ncap, and dashcap, have been developed ["
+                        - link "4" [ref=e275] [cursor=pointer]:
+                          - /url: "#B4-applsci-15-07984"
+                        - text: ","
+                        - link "13" [ref=e276] [cursor=pointer]:
+                          - /url: "#B13-applsci-15-07984"
+                        - text: ","
+                        - link "18" [ref=e277] [cursor=pointer]:
+                          - /url: "#B18-applsci-15-07984"
+                        - text: ","
+                        - link "19" [ref=e278] [cursor=pointer]:
+                          - /url: "#B19-applsci-15-07984"
+                        - text: ","
+                        - link "20" [ref=e279] [cursor=pointer]:
+                          - /url: "#B20-applsci-15-07984"
+                        - text: "]. These tools offer functionalities like selective packet filtering and time-specific data acquisition, enabling more precise detection and analysis of abnormal network behavior. The continuous refinement of such capture mechanisms has significantly advanced the field of network-based intrusion detection ["
+                        - link "4" [ref=e280] [cursor=pointer]:
+                          - /url: "#B4-applsci-15-07984"
+                        - text: ","
+                        - link "5" [ref=e281] [cursor=pointer]:
+                          - /url: "#B5-applsci-15-07984"
+                        - text: ","
+                        - link "6" [ref=e282] [cursor=pointer]:
+                          - /url: "#B6-applsci-15-07984"
+                        - text: ","
+                        - link "7" [ref=e283] [cursor=pointer]:
+                          - /url: "#B7-applsci-15-07984"
+                        - text: ","
+                        - link "8" [ref=e284] [cursor=pointer]:
+                          - /url: "#B8-applsci-15-07984"
+                        - text: ","
+                        - link "9" [ref=e285] [cursor=pointer]:
+                          - /url: "#B9-applsci-15-07984"
+                        - text: ","
+                        - link "10" [ref=e286] [cursor=pointer]:
+                          - /url: "#B10-applsci-15-07984"
+                        - text: ","
+                        - link "11" [ref=e287] [cursor=pointer]:
+                          - /url: "#B11-applsci-15-07984"
+                        - text: ","
+                        - link "12" [ref=e288] [cursor=pointer]:
+                          - /url: "#B12-applsci-15-07984"
+                        - text: ","
+                        - link "13" [ref=e289] [cursor=pointer]:
+                          - /url: "#B13-applsci-15-07984"
+                        - text: "]."
+                      - generic [ref=e290]:
+                        - text: In order to provide a better understanding of the recent related research and to provide a brief comparison of our research with others,
+                        - link "Table 1" [ref=e291] [cursor=pointer]:
+                          - /url: "#table_body_display_applsci-15-07984-t001"
+                        - text: provides a summary of the related research.
+                      - generic [ref=e292]:
+                        - generic [ref=e293]: Table 1. Summary of related works.
+                        - generic [ref=e295] [cursor=pointer]:
+                          - img [ref=e296]
+                          - link [ref=e297]:
+                            - /url: "#table_body_display_applsci-15-07984-t001"
+                      - generic [ref=e298]: "Overall, unlike many of the referenced studies that either focus on static offline analysis, lack explainable AI integration, or omit real-time deployment, our study introduces a unified, cloud-enabled intrusion detection system that excels in adaptability, accuracy, and transparency where it excels in the following:"
+                      - list [ref=e300]:
+                        - listitem [ref=e301]:
+                          - generic [ref=e302]: "Real-time cloud-based detection: Our framework integrates live network traffic capture within a cloud environment (e.g., AWS), enabling continuous monitoring and immediate anomaly detection, a capability often missing in previous works."
+                        - listitem [ref=e303]:
+                          - generic [ref=e304]: "Hybrid ensemble learning: By combining an ANN and SVM as base classifiers with an RF meta-classifier, our approach leverages the strengths of both DL and traditional ML. This hybrid model achieves superior performance over standalone models."
+                        - listitem [ref=e305]:
+                          - generic [ref=e306]: "Explainable AI integration (SHAP): We incorporate SHAP (SHapley Additive exPlanations) to provide both global and local interpretability, addressing the black-box nature of most DL-based IDS and increasing trust among security analysts."
+                        - listitem [ref=e307]:
+                          - generic [ref=e308]: "End-to-end system architecture: Our work goes beyond theoretical accuracy by delivering a fully functional real-time deployment pipeline using Flask, offering a web-based interface for monitoring and actionable threat alerts, closing the gap between research and real-world usability."
+                      - generic [ref=e309]: Having provided a brief background on the related research, the next section outlines the methodology of the research.
+                    - generic [ref=e310]:
+                      - heading "3. Methodology" [level=2] [ref=e311]
+                      - generic [ref=e312]:
+                        - text: The proposed system was developed using a hybrid ensemble approach integrating ANN and SVM, with an RF classifier acting as a meta-learner. The methodology of the research study encompasses data preparation, model construction, ensemble integration, real-time deployment, and explainability integration, as outlined in
+                        - link "Figure 4" [ref=e313] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f004"
+                        - text: .
+                      - generic [ref=e314]:
+                        - generic [ref=e316] [cursor=pointer]:
+                          - img "Applsci 15 07984 g004" [ref=e317]
+                          - link [ref=e318]:
+                            - /url: "#fig_body_display_applsci-15-07984-f004"
+                        - generic [ref=e319]: Figure 4. Methodology of the research.
+                      - generic [ref=e320]:
+                        - text: The following subsections detail each stage, highlighted in
+                        - link "Figure 4" [ref=e321] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f004"
+                        - text: ":"
+                      - generic [ref=e322]:
+                        - heading "3.1. Data Acquisition" [level=3] [ref=e323]
+                        - generic [ref=e324]:
+                          - text: For the experimental purpose, we have used the NSL-KDD dataset which is a refined version of the original KDD Cup dataset, which is widely used for benchmarking intrusion detection systems (IDSs) [
+                          - link "8" [ref=e325] [cursor=pointer]:
+                            - /url: "#B8-applsci-15-07984"
+                          - text: "]. The employed subset of the dataset comprised the following records:"
+                        - list [ref=e327]:
+                          - listitem [ref=e328]:
+                            - generic [ref=e329]: "Total Records: 22,544."
+                          - listitem [ref=e330]:
+                            - generic [ref=e331]: "Normal Records: 9711."
+                          - listitem [ref=e332]:
+                            - generic [ref=e333]: "Attack Records: 12,833 (including both known and unknown attack types)."
+                          - listitem [ref=e334]:
+                            - generic [ref=e335]: "Each record in the dataset represents a single network connection and includes 41 features grouped into three categories:"
+                          - listitem [ref=e336]:
+                            - generic [ref=e337]: Basic features (e.g., duration, protocol type, service).
+                          - listitem [ref=e338]:
+                            - generic [ref=e339]: Content features (e.g., number of failed logins, root shell).
+                          - listitem [ref=e340]:
+                            - generic [ref=e341]: Traffic features (e.g., same host connections, packet rates).
+                        - generic [ref=e342]:
+                          - text: On the other hand, an additional label column indicates whether the connection is normal or an attack, and if an attack, which specific type. The attack records in the employed dataset can be apportioned into several categories, as in
+                          - link "Table 2" [ref=e343] [cursor=pointer]:
+                            - /url: "#table_body_display_applsci-15-07984-t002"
+                          - text: .
+                        - generic [ref=e344]:
+                          - generic [ref=e345]: Table 2. Attack categories in NSL-KDD.
+                          - generic [ref=e347] [cursor=pointer]:
+                            - img [ref=e348]
+                            - link [ref=e349]:
+                              - /url: "#table_body_display_applsci-15-07984-t002"
+                      - generic [ref=e350]:
+                        - heading "3.2. Data Preprocessing, Feature Selection, and Feature Scaling" [level=3] [ref=e351]
+                        - generic [ref=e352]: Following the data acquisition, the dataset was rigorously preprocessed to optimize its structure for ML and DL tasks. Initially, categorical features such as ‘protocol_type’, ‘service’, and ‘flag’ were transformed into numerical values using label encoding. Then the redundant features with no variance, such as ‘num_outbound_cmds’, were removed, as they do not contribute to learning and may degrade model generalization.
+                        - generic [ref=e353]:
+                          - heading "3.2.1. Recursive Feature Elimination (RFE)" [level=4] [ref=e354]
+                          - generic [ref=e355]: To reduce dimensionality and retain only the most relevant predictors, RFE was applied with an RF classifier as the base estimator. RFE works by recursively training the model and removing the least important features until the desired number of features is reached (10 features retained after RFE).
+                          - generic [ref=e356]: "RFE mathematical process:"
+                          - generic [ref=e357]: "Let:"
+                          - generic [ref=e358]:
+                            - text: X ∊ ℝ
+                            - superscript [ref=e360]: n x d
+                            - text: be the feature matrix (with n samples and d features)
+                          - generic [ref=e361]:
+                            - text: y ∊ ℝ
+                            - superscript [ref=e363]: "n"
+                            - text: be the corresponding labels.
+                          - generic [ref=e364]: "RFE proceeds as follows:"
+                          - generic [ref=e365]: Fit the model on X and y.
+                          - generic [ref=e366]:
+                            - text: Compute feature importance FI
+                            - subscript [ref=e368]: j
+                            - text: "for each feature j ∊ {1,…,d}."
+                          - generic [ref=e369]:
+                            - text: "For Random Forest: FI"
+                            - subscript [ref=e371]: j
+                            - text: = ∑ Gini decrease
+                            - subscript [ref=e373]: j
+                            - text: across all trees.
+                          - generic [ref=e374]:
+                            - text: Remove the feature with the smallest FI
+                            - subscript [ref=e376]: j.
+                          - generic [ref=e377]: Repeat until only k features remain.
+                          - generic [ref=e378]: This iterative reduction selects the top k features that most significantly contribute to prediction accuracy.
+                        - generic [ref=e379]:
+                          - heading "3.2.2. Standardization with StandardScaler" [level=4] [ref=e380]
+                          - generic [ref=e381]: After feature selection, StandardScaler was applied to normalize the selected features. StandardScaler transforms each feature to have zero mean and unit variance, ensuring that features are on the same scale, which is an essential step for models like ANN and SVM, which are sensitive to input magnitudes.
+                          - generic [ref=e382]: "StandardScaler mathematical formula:"
+                          - generic [ref=e383]:
+                            - text: For each feature x
+                            - subscript [ref=e385]: j
+                            - text: ", standardization is performed as follows:"
+                            - math [ref=e389]:
+                              - generic [ref=e391]:
+                                - generic [ref=e392]:
+                                  - generic [ref=e393]: z
+                                  - generic [ref=e394]: j
+                                - generic [ref=e395]: =
+                                - generic [ref=e397]:
+                                  - generic [ref=e398]:
+                                    - generic [ref=e399]: x
+                                    - generic [ref=e400]: j
+                                    - generic [ref=e401]: −
+                                    - generic [ref=e402]: u
+                                    - generic [ref=e403]: j
+                                  - generic [ref=e404]:
+                                    - generic [ref=e405]: σ
+                                    - generic [ref=e406]: j
+                            - text: where
+                          - generic [ref=e408]:
+                            - text: u
+                            - subscript [ref=e410]: j
+                            - text: = mean of feature x
+                            - subscript [ref=e412]: j
+                            - text: ;
+                          - generic [ref=e413]:
+                            - text: σ
+                            - subscript [ref=e415]: j
+                            - text: = standard deviation of feature x
+                            - subscript [ref=e417]: j
+                            - text: ;
+                          - generic [ref=e418]:
+                            - text: z
+                            - subscript [ref=e420]: j
+                            - text: = standardized value.
+                          - generic [ref=e421]: Standardizing features improves model convergence and prevents any single feature from disproportionately influencing the model due to a larger numeric range.
+                      - generic [ref=e422]:
+                        - heading "3.3. Model Construction" [level=3] [ref=e423]
+                        - generic [ref=e424]:
+                          - text: A deep ANN model was developed using Keras, with ReLU-activated dense layers and a sigmoid output layer for binary classification. An SVM with a linear kernel was trained in parallel. Both models were trained and validated on a 70:30 split of the dataset. Hyperparameter tuning was applied to the ANN to improve learning efficiency.
+                          - link "Figure 5" [ref=e425] [cursor=pointer]:
+                            - /url: "#fig_body_display_applsci-15-07984-f005"
+                          - text: showcases the final ensemble learning model architecture.
+                        - generic [ref=e426]:
+                          - generic [ref=e428] [cursor=pointer]:
+                            - img "Applsci 15 07984 g005" [ref=e429]
+                            - link [ref=e430]:
+                              - /url: "#fig_body_display_applsci-15-07984-f005"
+                          - generic [ref=e431]: Figure 5. Ensemble learning model architecture.
+                        - generic [ref=e432]:
+                          - link "Table 3" [ref=e433] [cursor=pointer]:
+                            - /url: "#table_body_display_applsci-15-07984-t003"
+                          - text: presents the layered ensemble architecture, detailing its hierarchical composition, including the base classifiers (ANN and SVM), their respective internal layers or operations, and how their outputs are fused using an RF meta-classifier to generate the final intrusion detection decision.
+                        - generic [ref=e434]:
+                          - generic [ref=e435]: Table 3. Layered ensemble architecture.
+                          - generic [ref=e437] [cursor=pointer]:
+                            - img [ref=e438]
+                            - link [ref=e439]:
+                              - /url: "#table_body_display_applsci-15-07984-t003"
+                        - generic [ref=e440]: The choice of the number of layers and nodes in the ANN was based on empirical tuning using a grid search over multiple configurations. We evaluated models with 2 to 4 hidden layers and node sizes ranging from 16 to 128 per layer. The final architecture, with 3 hidden layers of 64, 32, and 16 nodes, was selected based on the best trade-off between accuracy and training time. A dropout rate of 0.3 and 0.2 was introduced after each layer, respectively, to minimize overfitting. The SVM used a linear kernel, and the learning process used early stopping based on validation loss to prevent overfitting and ensure convergence. Predictions from both ANN and SVM were stacked to form a 2-feature vector per instance. An RF meta-classifier was trained on this new feature space, allowing the model to leverage ANN’s nonlinear learning and SVM’s margin-based separation. This approach enhanced overall classification reliability.
+                      - generic [ref=e441]:
+                        - heading "3.4. Model Evaluation" [level=3] [ref=e442]
+                        - generic [ref=e443]:
+                          - text: "The performance of the proposed intrusion detection system was evaluated using a combination of widely accepted classification metrics: accuracy, precision, recall, F1-score, and the confusion matrix ["
+                          - link "22" [ref=e444] [cursor=pointer]:
+                            - /url: "#B22-applsci-15-07984"
+                          - text: ","
+                          - link "23" [ref=e445] [cursor=pointer]:
+                            - /url: "#B23-applsci-15-07984"
+                          - text: ","
+                          - link "24" [ref=e446] [cursor=pointer]:
+                            - /url: "#B24-applsci-15-07984"
+                          - text: ","
+                          - link "25" [ref=e447] [cursor=pointer]:
+                            - /url: "#B25-applsci-15-07984"
+                          - text: ","
+                          - link "26" [ref=e448] [cursor=pointer]:
+                            - /url: "#B26-applsci-15-07984"
+                          - text: "]. These metrics provide a comprehensive understanding of the model’s ability to correctly identify anomalous and normal network traffic ["
+                          - link "27" [ref=e449] [cursor=pointer]:
+                            - /url: "#B27-applsci-15-07984"
+                          - text: ","
+                          - link "28" [ref=e450] [cursor=pointer]:
+                            - /url: "#B28-applsci-15-07984"
+                          - text: ","
+                          - link "29" [ref=e451] [cursor=pointer]:
+                            - /url: "#B29-applsci-15-07984"
+                          - text: ","
+                          - link "30" [ref=e452] [cursor=pointer]:
+                            - /url: "#B30-applsci-15-07984"
+                          - text: "]."
+                        - generic [ref=e453]: "Let the confusion matrix be defined as follows:"
+                        - list [ref=e455]:
+                          - listitem [ref=e456]:
+                            - generic [ref=e457]: "TP (True Positives): Correctly predicted anomalies;"
+                          - listitem [ref=e458]:
+                            - generic [ref=e459]: "TN (True Negatives): Correctly predicted normal instances;"
+                          - listitem [ref=e460]:
+                            - generic [ref=e461]: "FP (False Positives): Normal instances incorrectly classified as anomalies;"
+                          - listitem [ref=e462]:
+                            - generic [ref=e463]: "FN (False Negatives): Anomalies incorrectly classified as normal."
+                        - generic [ref=e464]: "The evaluation metrics are defined as follows:"
+                        - list [ref=e466]:
+                          - listitem [ref=e467]:
+                            - generic [ref=e468]: Accuracy
+                        - generic [ref=e469]:
+                          - text: "This measures the proportion of total correct predictions:"
+                          - math [ref=e473]:
+                            - generic [ref=e475]:
+                              - generic [ref=e476]: Accuracy
+                              - generic [ref=e477]: =
+                              - generic [ref=e479]:
+                                - generic [ref=e480]:
+                                  - generic [ref=e481]: T
+                                  - generic [ref=e482]: P
+                                  - generic [ref=e483]: +
+                                  - generic [ref=e484]: T
+                                  - generic [ref=e485]: "N"
+                                - generic [ref=e486]:
+                                  - generic [ref=e487]: T
+                                  - generic [ref=e488]: P
+                                  - generic [ref=e489]: +
+                                  - generic [ref=e490]: T
+                                  - generic [ref=e491]: "N"
+                                  - generic [ref=e492]: +
+                                  - generic [ref=e493]: F
+                                  - generic [ref=e494]: P
+                                  - generic [ref=e495]: +
+                                  - generic [ref=e496]: F
+                                  - generic [ref=e497]: "N"
+                        - list [ref=e499]:
+                          - listitem [ref=e500]:
+                            - generic [ref=e501]: Precision
+                        - generic [ref=e502]:
+                          - text: "This represents the proportion of correctly predicted anomalies out of all instances predicted as anomalies:"
+                          - math [ref=e506]:
+                            - generic [ref=e508]:
+                              - generic [ref=e509]: Precision
+                              - generic [ref=e510]: =
+                              - generic [ref=e512]:
+                                - generic [ref=e513]:
+                                  - generic [ref=e514]: T
+                                  - generic [ref=e515]: P
+                                - generic [ref=e516]:
+                                  - generic [ref=e517]: T
+                                  - generic [ref=e518]: P
+                                  - generic [ref=e519]: +
+                                  - generic [ref=e520]: F
+                                  - generic [ref=e521]: P
+                        - list [ref=e523]:
+                          - listitem [ref=e524]:
+                            - generic [ref=e525]: Recall (also known as Sensitivity or True Positive Rate)
+                        - generic [ref=e526]:
+                          - text: "This measures the model’s ability to correctly detect actual anomalies:"
+                          - math [ref=e530]:
+                            - generic [ref=e532]:
+                              - generic [ref=e533]: Recall
+                              - generic [ref=e534]: =
+                              - generic [ref=e536]:
+                                - generic [ref=e537]:
+                                  - generic [ref=e538]: T
+                                  - generic [ref=e539]: P
+                                - generic [ref=e540]:
+                                  - generic [ref=e541]: T
+                                  - generic [ref=e542]: P
+                                  - generic [ref=e543]: +
+                                  - generic [ref=e544]: F
+                                  - generic [ref=e545]: "N"
+                        - list [ref=e547]:
+                          - listitem [ref=e548]:
+                            - generic [ref=e549]: F1-Score
+                        - generic [ref=e550]:
+                          - text: "The harmonic mean of precision and recall offers a balance between the two:"
+                          - math [ref=e554]:
+                            - generic [ref=e556]:
+                              - generic [ref=e557]: F
+                              - generic [ref=e558]: "1"
+                              - generic [ref=e559]: "-"
+                              - generic [ref=e560]: Score
+                              - generic [ref=e561]: =
+                              - generic [ref=e562]: "2"
+                              - generic [ref=e563]: ×
+                              - generic [ref=e565]:
+                                - generic [ref=e566]:
+                                  - generic [ref=e567]: P
+                                  - generic [ref=e568]: r
+                                  - generic [ref=e569]: e
+                                  - generic [ref=e570]: c
+                                  - generic [ref=e571]: i
+                                  - generic [ref=e572]: s
+                                  - generic [ref=e573]: i
+                                  - generic [ref=e574]: o
+                                  - generic [ref=e575]: "n"
+                                  - generic [ref=e576]: ×
+                                  - generic [ref=e577]: R
+                                  - generic [ref=e578]: e
+                                  - generic [ref=e579]: c
+                                  - generic [ref=e580]: a
+                                  - generic [ref=e581]: l
+                                  - generic [ref=e582]: l
+                                - generic [ref=e583]:
+                                  - generic [ref=e584]: P
+                                  - generic [ref=e585]: r
+                                  - generic [ref=e586]: e
+                                  - generic [ref=e587]: c
+                                  - generic [ref=e588]: i
+                                  - generic [ref=e589]: s
+                                  - generic [ref=e590]: i
+                                  - generic [ref=e591]: o
+                                  - generic [ref=e592]: "n"
+                                  - generic [ref=e593]: +
+                                  - generic [ref=e594]: R
+                                  - generic [ref=e595]: e
+                                  - generic [ref=e596]: c
+                                  - generic [ref=e597]: a
+                                  - generic [ref=e598]: l
+                                  - generic [ref=e599]: l
+                        - generic [ref=e601]: These metrics were computed from the confusion matrices generated during model evaluation on the test dataset. Together, they provide insights not only into overall correctness but also into the model’s reliability in identifying intrusions without over-flagging normal behavior.
+                      - generic [ref=e602]:
+                        - heading "3.5. Explainability Integration" [level=3] [ref=e603]
+                        - generic [ref=e604]:
+                          - text: XAI refers to a set of techniques designed to make the decisions of ML/DL models transparent, interpretable, and understandable to human users [
+                          - link "31" [ref=e605] [cursor=pointer]:
+                            - /url: "#B31-applsci-15-07984"
+                          - text: ","
+                          - link "32" [ref=e606] [cursor=pointer]:
+                            - /url: "#B32-applsci-15-07984"
+                          - text: ","
+                          - link "33" [ref=e607] [cursor=pointer]:
+                            - /url: "#B33-applsci-15-07984"
+                          - text: "]. As ML models, especially deep learning architectures, become increasingly complex, the need for interpretability grows in critical domains like cybersecurity, healthcare, and finance. Overall, XAI ensures that end-users and analysts can trust, validate, and act upon AI-generated decisions ["
+                          - link "33" [ref=e608] [cursor=pointer]:
+                            - /url: "#B33-applsci-15-07984"
+                          - text: ","
+                          - link "34" [ref=e609] [cursor=pointer]:
+                            - /url: "#B34-applsci-15-07984"
+                          - text: ","
+                          - link "35" [ref=e610] [cursor=pointer]:
+                            - /url: "#B35-applsci-15-07984"
+                          - text: ","
+                          - link "36" [ref=e611] [cursor=pointer]:
+                            - /url: "#B36-applsci-15-07984"
+                          - text: "]."
+                        - generic [ref=e612]: In this study, SHAP, a leading XAI technique grounded in cooperative game theory, was integrated to enhance the interpretability of the proposed ensemble intrusion detection system. SHAP values were computed for both global and local interpretability. The global SHAP summary plot revealed that the model relied slightly more on the ANN outputs than on SVM predictions when forming its final decisions via the Random Forest meta-classifier. For local explanations, SHAP decision plots and waterfall charts were used to visualize the contribution of each feature to individual predictions, offering transparent reasoning behind classifications. These explainability components not only demystify the internal workings of the hybrid ANN–SVM–RF architecture but also foster greater user trust, accountability, and usability in real-time security-critical environments.
+                      - generic [ref=e613]:
+                        - heading "3.6. Real-Time Integration (Deployment)" [level=3] [ref=e614]
+                        - generic [ref=e615]:
+                          - text: In the real-time integration phase, a Flask web application was developed to interface with the trained model. The app captures live traffic from the cloud environment, preprocesses it, feeds it into the ensemble model, and presents results on a web dashboard. This setup allows real-time detection of intrusions and immediate response. The deployment steps are highlighted in
+                          - link "Figure 6" [ref=e616] [cursor=pointer]:
+                            - /url: "#fig_body_display_applsci-15-07984-f006"
+                          - text: .
+                        - generic [ref=e617]:
+                          - generic [ref=e619] [cursor=pointer]:
+                            - img "Applsci 15 07984 g006" [ref=e620]
+                            - link [ref=e621]:
+                              - /url: "#fig_body_display_applsci-15-07984-f006"
+                          - generic [ref=e622]: Figure 6. Deployment steps.
+                        - generic [ref=e623]:
+                          - text: To deploy the SHAP-enabled ensemble IDS using PyShark v.0.6 for real-time network traffic analysis, the process began by setting up a cloud-based environment where we used an AWS EC2 instance running Ubuntu
+                          - generic [ref=e624]: "(for cloud deployment, an AWS EC2 T2 instance was utilized: t2.medium type, which provides 2 vCPUs, and 4 GiB of memory)."
+                        - generic [ref=e625]: Afterward, essential dependencies including Python libraries (Flask, PyShark, TensorFlow/Keras, scikit-learn, and SHAP) were installed to support model inference, real-time data capture, and explainability. Pre-trained models, ANN, SVM, and RF meta-classifiers were then loaded into the environment. PyShark was used to capture live packet data from the network interface, which was subsequently parsed and converted into structured feature vectors. These features were scaled and fed into both the ANN and SVM models to generate prediction probabilities.
+                        - generic [ref=e626]: Later, the outputs from both models were combined and passed into the RF meta-classifier, which produces the final decision on whether the network activity represents a normal or intrusive behavior. To add interpretability, SHAP was applied to explain each prediction, offering both global feature importance and local explanations through summary and decision plots. Finally, the entire system was integrated into a Flask-based web application that provides real-time intrusion alerts and SHAP visualizations via a user-friendly interface, ensuring both operational relevance and transparency.
+                        - generic [ref=e627]: "During the final testing phase, specific ports were opened on the EC2 virtual server where the IDS was deployed, and simulated DoS attacks were executed using tools like hping3 to assess the system’s detection capabilities under high-traffic conditions. To ensure that incoming external traffic would reach the IDS, the security group configuration of the EC2 instance was updated, and comprehensive testing was carried out. The inbound network rules were configured as follows: TCP port 64,295 was designated for secure SSH access (restricted to the researcher’s public IP), TCP port 64,297 was allocated for accessing the T-Pot web interface (also IP-restricted), and TCP and UDP ports 1–64,000 were opened to allow unrestricted external traffic specifically for simulation purposes. During this phase, the EC2 instance was deliberately flooded with malicious packets using hping3, enabling the validation of the IDS’s real-time detection accuracy, responsiveness, and explainability under simulated attack scenarios."
+                    - generic [ref=e628]:
+                      - heading "4. Results and Discussion" [level=2] [ref=e629]
+                      - generic [ref=e630]:
+                        - text: For the experiential evaluation, a laptop computer was used, with specifications as shown in
+                        - link "Table 4" [ref=e631] [cursor=pointer]:
+                          - /url: "#table_body_display_applsci-15-07984-t004"
+                        - text: .
+                      - generic [ref=e632]:
+                        - generic [ref=e633]: Table 4. Device specifications.
+                        - generic [ref=e635] [cursor=pointer]:
+                          - img [ref=e636]
+                          - link [ref=e637]:
+                            - /url: "#table_body_display_applsci-15-07984-t004"
+                      - generic [ref=e638]:
+                        - text: The ANN model achieved an overall accuracy of 99.20%. The detailed classification report is depicted in
+                        - link "Table 5" [ref=e639] [cursor=pointer]:
+                          - /url: "#table_body_display_applsci-15-07984-t005"
+                        - text: . Overall, the ANN was trained using a batch size of 32, which provides a good balance between computational efficiency and model convergence. The binary cross-entropy loss function was chosen as it is well-suited for binary classification tasks, especially when the output layer uses a sigmoid activation function to predict class probabilities. The model was optimized using the Adam optimizer, which adapts learning rates during training and is known for its robust performance across various deep learning applications. Although the model was initially set to train for 10 epochs, training continued until the model reached a minimum loss threshold, ensuring convergence and preventing overfitting.
+                      - generic [ref=e640]:
+                        - generic [ref=e641]: Table 5. The detailed classification report on ANN.
+                        - generic [ref=e643] [cursor=pointer]:
+                          - img [ref=e644]
+                          - link [ref=e645]:
+                            - /url: "#table_body_display_applsci-15-07984-t005"
+                      - generic [ref=e646]:
+                        - text: The SVM model achieved an overall accuracy of 96.80%. The detailed classification report is depicted in
+                        - link "Table 6" [ref=e647] [cursor=pointer]:
+                          - /url: "#table_body_display_applsci-15-07984-t006"
+                        - text: .
+                      - generic [ref=e648]:
+                        - generic [ref=e649]: Table 6. The detailed classification report on SVM.
+                        - generic [ref=e651] [cursor=pointer]:
+                          - img [ref=e652]
+                          - link [ref=e653]:
+                            - /url: "#table_body_display_applsci-15-07984-t006"
+                      - generic [ref=e654]:
+                        - text: The final ensemble model achieved an overall accuracy of 99.40%. The detailed ensemble model classification report is depicted in
+                        - link "Table 7" [ref=e655] [cursor=pointer]:
+                          - /url: "#table_body_display_applsci-15-07984-t007"
+                        - text: .
+                      - generic [ref=e656]:
+                        - generic [ref=e657]: Table 7. The detailed classification report on the final ensemble model.
+                        - generic [ref=e659] [cursor=pointer]:
+                          - img [ref=e660]
+                          - link [ref=e661]:
+                            - /url: "#table_body_display_applsci-15-07984-t007"
+                      - generic [ref=e662]:
+                        - text: The confusion matrix pertaining to the final ensemble model is depicted in
+                        - link "Figure 7" [ref=e663] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f007"
+                        - text: .
+                      - generic [ref=e664]:
+                        - generic [ref=e666] [cursor=pointer]:
+                          - img "Applsci 15 07984 g007" [ref=e667]
+                          - link [ref=e668]:
+                            - /url: "#fig_body_display_applsci-15-07984-f007"
+                        - generic [ref=e669]: Figure 7. Confusion matrix of the final ensemble.
+                      - generic [ref=e670]:
+                        - text: The ensemble model’s superior performance (99.40%) over standalone classifiers demonstrates the strength of combining complementary learning strategies. The ROC curve presented in
+                        - link "Figure 8" [ref=e671] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f008"
+                        - text: illustrates the performance of the proposed intrusion detection model by plotting the True Positive Rate (Recall) against the False Positive Rate (FPR) at various threshold levels. The orange curve rises steeply toward the top-left corner, indicating that the model effectively distinguishes between the anomaly and non-anomaly classes. A near-vertical ascent followed by a flat plateau along the top signifies high sensitivity with minimal false positives. The area under the ROC curve (AUC) is close to 1.0, suggesting excellent classification performance and a strong ability to discriminate between classes.
+                      - generic [ref=e672]:
+                        - generic [ref=e674] [cursor=pointer]:
+                          - img "Applsci 15 07984 g008" [ref=e675]
+                          - link [ref=e676]:
+                            - /url: "#fig_body_display_applsci-15-07984-f008"
+                        - generic [ref=e677]: Figure 8. The ROC curve.
+                      - generic [ref=e678]:
+                        - text: On the other hand, the precision–recall curve shown in
+                        - link "Figure 9" [ref=e679] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f009"
+                        - text: highlights the balance between precision and recall for the same classifier. The curve maintains a high precision level (close to 1.0) across nearly all recall values, except for a minor drop near the maximum recall threshold. This pattern demonstrates that the model can identify almost all actual anomalies without significantly sacrificing precision, even under imbalanced class distributions. The steep slope at the end indicates a trade-off between precision and recall at extreme thresholds, which is common in high-performing binary classifiers dealing with rare positive classes such as intrusions.
+                      - generic [ref=e680]:
+                        - generic [ref=e682] [cursor=pointer]:
+                          - img "Applsci 15 07984 g009" [ref=e683]
+                          - link [ref=e684]:
+                            - /url: "#fig_body_display_applsci-15-07984-f009"
+                        - generic [ref=e685]: Figure 9. The precision–recall curve.
+                      - generic [ref=e686]: Overall, SHAP explainability showed that ANN predictions generally contributed more to anomaly classification, but in cases where ANN was uncertain, SVM votes tipped the decision. This interpretability is critical in cybersecurity contexts where understanding each alert’s origin helps prevent alert fatigue and improve incident response.
+                      - generic [ref=e687]:
+                        - text: The SHAP force plot (
+                        - link "Figure 10" [ref=e688] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f010"
+                        - text: ) provides a local explanation for a single prediction made by the ensemble model by breaking down the model output into additive feature contributions. The predicted value f(x) = 0.537 represents the model’s estimated probability that the instance is an anomaly. This prediction is derived by starting from a base value, typically the mean model output over the training set, and adding SHAP values for each feature. For example, a SHAP value of +0.15 for a feature means that this feature increased the prediction by 0.15, moving it closer to the anomaly class. Conversely, a −0.15 value indicates a negative influence, pulling the prediction back toward the normal class. The final prediction is thus the sum of the base value and all SHAP contributions, allowing clear visualization of how each feature impacted the decision.
+                      - generic [ref=e689]:
+                        - generic [ref=e691] [cursor=pointer]:
+                          - img "Applsci 15 07984 g010" [ref=e692]
+                          - link [ref=e693]:
+                            - /url: "#fig_body_display_applsci-15-07984-f010"
+                        - generic [ref=e694]: Figure 10. SHAP force plot 01.
+                      - generic [ref=e695]:
+                        - text: The SHAP force plot shown in
+                        - link "Figure 11" [ref=e696] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f011"
+                        - text: "represents a single instance prediction made by the ensemble classifier using the outputs from both base learners: the ANN and the SVM. In this case, both ANN_pred and SVM_pred contributed values of 0.00, resulting in a final ensemble prediction of 0.01 (1%) probability for an anomaly, and 0.99 (99%) for a non-anomaly. The SHAP values indicate that the ANN output had a strong negative contribution (−0.868) to the anomaly prediction, and the SVM output contributed −0.117, both pushing the final decision toward the non-anomalous class. The force plot visually shows these contributions as blue bars pulling the prediction toward “non-anomaly,” reinforcing that the ensemble model confidently classified this instance as normal. This highlights how individual model outputs (even at 0.00) can strongly influence the final classification based on how the meta-classifier interprets them in context. While SHAP indeed provides insight into the contribution of input features (including ANN and SVM outputs) to the final decision, its purpose extends beyond feature ranking. In our framework, SHAP enables both global interpretability (e.g., understanding which features are generally most influential across predictions) and local interpretability (e.g., why a particular instance was classified as anomalous). This local transparency is valuable in cybersecurity, as it allows analysts to trace specific alerts back to input features, such as protocol type or failed login attempts, that contributed to a suspicious classification. Unlike traditional rule- or signature-based systems, which are static and often fail to detect zero-day threats, our SHAP-enabled system explains decisions made on previously unseen patterns, helping analysts understand model behavior in novel situations. Thus, it not only increases trust in AI decisions but also supports root cause analysis, alert prioritization, and compliance auditing in a real-time operational setting."
+                      - generic [ref=e697]:
+                        - generic [ref=e699] [cursor=pointer]:
+                          - img "Applsci 15 07984 g011" [ref=e700]
+                          - link [ref=e701]:
+                            - /url: "#fig_body_display_applsci-15-07984-f011"
+                        - generic [ref=e702]: Figure 11. SHAP force plot 02.
+                      - generic [ref=e703]:
+                        - link "Table 8" [ref=e704] [cursor=pointer]:
+                          - /url: "#table_body_display_applsci-15-07984-t008"
+                        - text: presents the top ten most influential features ranked by their mean absolute SHAP values, highlighting their global contribution to the ensemble model’s predictions. Notably, features related to data volume (src_bytes, dst_bytes), connection frequency (count), and service diversity (same_srv_rate, diff_srv_rate) were found to have the most significant impact. These insights align with expected patterns in network behavior, where anomalies often manifest through abnormal data transfer sizes or irregular service access rates. Combined with local SHAP force plots, this feature importance table enhances interpretability and provides transparency into how the model detects anomalous traffic.
+                      - generic [ref=e705]:
+                        - generic [ref=e706]: Table 8. Top 10 most influential features based on SHAP values.
+                        - generic [ref=e708] [cursor=pointer]:
+                          - img [ref=e709]
+                          - link [ref=e710]:
+                            - /url: "#table_body_display_applsci-15-07984-t008"
+                      - generic [ref=e711]:
+                        - text: Finally, the obtained results are benchmarked against the studies highlighted in
+                        - link "Table 9" [ref=e712] [cursor=pointer]:
+                          - /url: "#table_body_display_applsci-15-07984-t009"
+                        - text: .
+                      - generic [ref=e713]:
+                        - generic [ref=e714]: Table 9. Benchmark results of the ensemble model with similar research.
+                        - generic [ref=e716] [cursor=pointer]:
+                          - img [ref=e717]
+                          - link [ref=e718]:
+                            - /url: "#table_body_display_applsci-15-07984-t009"
+                      - generic [ref=e719]: "Nonetheless, to provide a more comprehensive evaluation, we extended our experimental analysis to include two widely recognized state-of-the-art (SOTA) ensemble learning techniques: XGBoost (Extreme Gradient Boosting) and AdaBoost (Adaptive Boosting). Both models were trained and evaluated using the same preprocessed NSL-KDD dataset and standardized feature set used in our proposed ensemble. XGBoost, known for its superior accuracy and handling of imbalanced data, achieved a classification accuracy of 98.70%, with strong precision and recall. AdaBoost, a boosting method that sequentially emphasizes misclassified instances, yielded 97.90% accuracy. Although these results are competitive, our proposed ANN + SVM + RF ensemble surpassed both, with 99.40% accuracy, while also offering real-time deployment capabilities and explainability through SHAP integration. Moreover, neither XGBoost nor AdaBoost was optimized for interpretability or real-time deployment, which limits their practical utility in operational cybersecurity environments. This highlights the robustness, transparency, and deployability of our proposed approach."
+                      - generic [ref=e720]:
+                        - text: To further validate the results using the most recent data, an additional experiment was conducted on the UNSW-NB15 dataset [
+                        - link "37" [ref=e721] [cursor=pointer]:
+                          - /url: "#B37-applsci-15-07984"
+                        - text: ","
+                        - link "38" [ref=e722] [cursor=pointer]:
+                          - /url: "#B38-applsci-15-07984"
+                        - text: "], employing a similar methodology. This dataset includes nine distinct attack categories: Fuzzers, analysis, backdoors, DoS, exploits, generic, reconnaissance, shellcode, and worms. The proposed ensemble model demonstrated strong generalization capabilities, achieving a binary classification accuracy of 99.80%, outperforming individual base learners such as ANN (98.30%) and SVM (95.60%). These results are comparable to, and, in some cases, exceed, those reported in prior studies ["
+                        - link "37" [ref=e723] [cursor=pointer]:
+                          - /url: "#B37-applsci-15-07984"
+                        - text: ","
+                        - link "38" [ref=e724] [cursor=pointer]:
+                          - /url: "#B38-applsci-15-07984"
+                        - text: "]. The corresponding confusion matrix ("
+                        - link "Figure 12" [ref=e725] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f012"
+                        - text: ) and ROC curve (
+                        - link "Figure 13" [ref=e726] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f013"
+                        - text: ) further illustrate the model’s high precision and robust discriminative performance on the UNSW-NB15 dataset.
+                      - generic [ref=e727]:
+                        - generic [ref=e729] [cursor=pointer]:
+                          - img "Applsci 15 07984 g012" [ref=e730]
+                          - link [ref=e731]:
+                            - /url: "#fig_body_display_applsci-15-07984-f012"
+                        - generic [ref=e732]: Figure 12. Confusion matrix of the final ensemble (employing UNSW-NB15 dataset).
+                      - generic [ref=e733]:
+                        - generic [ref=e735] [cursor=pointer]:
+                          - img "Applsci 15 07984 g013" [ref=e736]
+                          - link [ref=e737]:
+                            - /url: "#fig_body_display_applsci-15-07984-f013"
+                        - generic [ref=e738]: Figure 13. The ROC curve (employing UNSW-NB15 dataset).
+                      - generic [ref=e739]: "Overall, this research introduces a robust ensemble model combining ANN, SVM, and RF, optimized using Recursive Feature Elimination (RFE). The ensemble outperforms individual models, achieving 99.40% accuracy. Key contributions include enhanced feature selection, improved classification performance, and model robustness. Nonetheless compared to similar research, the study demonstrates real-world applicability in binary classification tasks, offering a reliable, scalable solution for domains such as healthcare, cybersecurity, and finance through a well-balanced and effective hybrid approach. The scalability of the proposed approach refers to both computational and architectural aspects of the system. From a computational standpoint, the ensemble model is lightweight and modular: the ANN and SVM models operate in parallel, and the RF meta-classifier only processes their outputs (two features), making inference efficient even on limited-resource instances (e.g., AWS EC2 t2.medium). From an architectural perspective, the system was designed using containerized components (Flask-based microservices), enabling horizontal scaling in cloud environments to support high-throughput scenarios. The use of SHAP for local explanations is also scalable, as it only operates on two aggregated model outputs instead of high-dimensional raw features. These design choices ensure that the system can handle larger volumes of network traffic or be extended to distributed deployments without major architectural changes."
+                      - generic [ref=e740]:
+                        - text: Following model development, the trained models were serialized and integrated into a cloud-enabled platform built using Flask and then deployed to AWS EC2 as mentioned in
+                        - link "Section 3.6" [ref=e741] [cursor=pointer]:
+                          - /url: "#sec3dot6-applsci-15-07984"
+                        - text: . A simple and user-friendly web interface was developed to display real-time anomaly detection results. The system captures live traffic data from the cloud during the testing phase, processes it continuously, and presents the anomaly percentage to users via the web interface as depicted in
+                        - link "Figure 14" [ref=e742] [cursor=pointer]:
+                          - /url: "#fig_body_display_applsci-15-07984-f014"
+                        - text: .
+                      - generic [ref=e743]:
+                        - generic [ref=e745] [cursor=pointer]:
+                          - img "Applsci 15 07984 g014" [ref=e746]
+                          - link [ref=e747]:
+                            - /url: "#fig_body_display_applsci-15-07984-f014"
+                        - generic [ref=e748]: Figure 14. Anomaly detection results from the AWS-hosted Flask app.
+                      - generic [ref=e749]: The webpage is configured to automatically refresh every 10 s, ensuring that users always see the most recent detection results. As new data is ingested, it is immediately preprocessed to match the input format required by the pre-trained anomaly detection model, an ensemble-based neural network. The model evaluates each data point to identify abnormal behavior. The proportion of anomalies detected is calculated and displayed as a percentage, offering users a clear and continuously updated insight into system health and potential security threats. This real-time monitoring framework enables timely detection and response to unusual activity patterns, enhancing the system’s effectiveness in identifying and mitigating potential risks.
+                      - generic [ref=e750]:
+                        - heading "Discussion" [level=3] [ref=e751]
+                        - generic [ref=e752]: The results of this study demonstrate the effectiveness of the proposed ensemble intrusion detection system, which combines the strengths of ANN, SVM, and RF within a real-time, explainable framework. To assess the contribution of each component in the proposed ensemble, we evaluated the individual performance of ANN and SVM classifiers independently prior to integration. The ANN model achieved an accuracy of 99.20%, while the SVM achieved 96.80%. When combined in the ensemble architecture with RF as the meta-classifier, the accuracy improved to 99.40%. This improvement illustrates that each base learner contributes complementary strengths, and the ensemble effectively captures their collective predictive power, thereby justifying the architectural design.
+                        - generic [ref=e753]: With an overall accuracy of 99.40%, the ensemble model outperformed the individual classifiers and surpassed the accuracy levels reported in several related studies using the same NSL-KDD dataset. Notably, this performance was achieved while maintaining interpretability through SHAP and real-time responsiveness via a cloud-hosted Flask interface, features that are often lacking in existing academic and commercial IDS models. Although the current system operates as a binary classifier (normal vs. anomaly), it can be extended to a multiclass intrusion detection framework by utilizing the detailed attack-type labels present in both the NSL-KDD and UNSW-NB15 datasets. Such an extension would enable the identification of specific attack types (e.g., DoS and probe), further enhancing the model’s practical applicability. However, this would involve additional challenges such as handling class imbalance and retraining the ensemble model for multi-output classification, where we have identified this as a promising direction for future work.
+                        - generic [ref=e754]: In comparison to traditional signature-based or rule-based intrusion detection systems, the proposed model offers significant advantages in adaptability, scalability, and transparency. Most commercial IDS solutions either rely on static threat intelligence or lack explainability in their detection processes, which limits their effectiveness in detecting zero-day or polymorphic attacks and reduces the trust of human analysts. In contrast, this study’s approach integrates live packet analysis and machine learning with explainable AI to provide not only accurate predictions but also clear justifications for each decision, enhancing user confidence and operational efficiency.
+                        - generic [ref=e755]: Despite its promising results, the current implementation has a few limitations. First, the system is designed primarily for binary classification (normal vs. anomalous traffic) and does not yet distinguish between different types of attacks. Second, while the deployment on a t2.medium EC2 instance was sufficient for research purposes, larger-scale or enterprise-level implementations may require higher resource configurations to handle heavier network loads and parallel user access. While the current deployment on an AWS t2.medium instance validated the system’s real-time functionality and detection accuracy, the evaluation did not include systematic stress testing under high-volume traffic conditions. In future work, we plan to conduct performance benchmarking using simulated traffic bursts and continuous high-throughput streams to measure system response times, model inference latency, and resource utilization. This will provide a more comprehensive understanding of the framework’s scalability in production-grade environments.
+                        - generic [ref=e756]: Finally, although SHAP explanations offer interpretability, there remains a need for automated prioritization of alerts and integration with security incident and event management (SIEM) tools to streamline incident response in practical environments. As mentioned above, future work will focus on extending the system to multiclass attack classification, incorporating additional datasets to improve generalization across environments, and enabling online learning capabilities to adapt to evolving threat patterns. Furthermore, integrating the IDS with cloud-based security platforms or enterprise SIEM systems will make the solution more viable for deployment in real-world infrastructures, including critical sectors such as smart agriculture, military, healthcare, and government networks. These enhancements will strengthen the model’s utility as a robust, scalable, and trustworthy tool for proactive network defense.
+                    - generic [ref=e757]:
+                      - heading "5. Conclusions" [level=2] [ref=e758]
+                      - generic [ref=e759]: "This study introduced a novel ensemble intrusion detection framework that effectively combines ANN, SVM, and RF to enhance cybersecurity threat detection in real time. Unlike traditional intrusion detection systems that rely on static rules or isolated classifiers, the proposed hybrid model leverages the strengths of both deep learning and classical machine learning within a unified architecture. The system achieved a high detection accuracy of 99.40% on the NSL-KDD dataset, outperforming individual classifiers. The integration of SHAP-based explainable AI not only enhanced transparency but also provided actionable insights into model decisions, fostering trust among security analysts. To further validate the robustness of the ensemble model, an additional experiment was conducted using the more recent UNSW-NB15 dataset. This dataset includes nine distinct attack types, and the ensemble model maintained a high performance with a binary classification accuracy of 99.80%. The results demonstrated superior generalization compared to standalone classifiers (ANN: 98.30%, SVM: 95.60%) and were consistent with prior benchmark studies. The corresponding confusion matrix and ROC curve highlighted the model’s strong discriminative ability. Beyond its strong performance, the system was then successfully deployed using a Flask-based web interface in an AWS cloud environment, demonstrating its readiness for real-time monitoring and practical deployment. By continuously analyzing live network traffic and delivering interpretable alerts, the proposed framework proves its applicability across critical real-world domains such as healthcare, finance, industrial IoT, and government networks. Each phase of the system, from data preprocessing to explainability, was designed to ensure scalability, interpretability, and operational relevance. Moving forward, expanding the model to support multiclass attack detection, integrating it with enterprise-grade SIEM platforms, and exploring continuous online learning will further enhance its robustness and adaptability in complex security environments."
+                  - generic [ref=e760]:
+                    - generic [ref=e761]:
+                      - heading "Funding" [level=2] [ref=e762]
+                      - generic [ref=e763]: This research was funded by Qassim University (QU-APC-2025).
+                    - generic [ref=e764]:
+                      - heading "Institutional Review Board Statement" [level=2] [ref=e765]
+                      - generic [ref=e766]: Not applicable.
+                    - generic [ref=e767]:
+                      - heading "Informed Consent Statement" [level=2] [ref=e768]
+                      - generic [ref=e769]: Not applicable.
+                    - generic [ref=e770]:
+                      - heading "Data Availability Statement" [level=2] [ref=e771]
+                      - generic [ref=e772]: The data presented in this study are available on request from the corresponding author.
+                    - generic [ref=e773]:
+                      - heading "Acknowledgments" [level=2] [ref=e774]
+                      - generic [ref=e775]: The researchers would like to thank the Deanship of Graduate Studies and Scientific Research at Qassim University for financial support (QU-APC-2025).
+                    - generic [ref=e776]:
+                      - heading "Conflicts of Interest" [level=2] [ref=e777]
+                      - generic [ref=e778]: The authors declare no conflicts of interest.
+                    - generic [ref=e779]:
+                      - heading "References" [level=2] [ref=e780]
+                      - list [ref=e781]:
+                        - listitem [ref=e782]:
+                          - text: 1.Perez, S.I.; Criado, R. Increasing the Effectiveness of Network Intrusion Detection Systems (NIDSs) by Using Multiplex Networks and Visibility Graphs. Mathematics 2022, 11, 107. [
+                          - link "Google Scholar" [ref=e783] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Increasing+the+Effectiveness+of+Network+Intrusion+Detection+Systems+(NIDSs)+by+Using+Multiplex+Networks+and+Visibility+Graphs&author=Perez,+S.I.&author=Criado,+R.&publication_year=2022&journal=Mathematics&volume=11&pages=107&doi=10.3390/math11010107
+                          - text: "] ["
+                          - link "CrossRef" [ref=e784] [cursor=pointer]:
+                            - /url: https://doi.org/10.3390/math11010107
+                          - text: "]"
+                        - listitem [ref=e785]:
+                          - text: "2.100+ Network Security Statistics in 2025. AIMultiple. Available online:"
+                          - link "https://research.aimultiple.com/network-security-statistics/" [ref=e786] [cursor=pointer]:
+                            - /url: https://research.aimultiple.com/network-security-statistics/
+                          - text: (accessed on 23 May 2025).
+                        - listitem [ref=e787]:
+                          - text: "3.Infographic: Cybercrime Expected to Skyrocket in Coming Years. Statista Daily Data. Available online:"
+                          - link "https://www.statista.com/chart/28878/expected-cost-of-cybercrime-until-2027" [ref=e788] [cursor=pointer]:
+                            - /url: https://www.statista.com/chart/28878/expected-cost-of-cybercrime-until-2027
+                          - text: (accessed on 23 May 2025).
+                        - listitem [ref=e789]:
+                          - text: "4.Mousavi, S.M.; St-Hilaire, M. Early detection of DDoS attacks against SDN controllers. In Proceedings of the 2015 International Conference on Computing, Networking and Communications (ICNC), Garden Grove, CA, USA, 16–19 February 2015; IEEE: Piscataway, NJ, USA, 2015; pp. 77–81. ["
+                          - link "Google Scholar" [ref=e790] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Early+detection+of+DDoS+attacks+against+SDN+controllers&conference=Proceedings+of+the+2015+International+Conference+on+Computing,+Networking+and+Communications+(ICNC)&author=Mousavi,+S.M.&author=St-Hilaire,+M.&publication_year=2015&pages=77%E2%80%9381&doi=10.1109/iccnc.2015.7069319
+                          - text: "] ["
+                          - link "CrossRef" [ref=e791] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/iccnc.2015.7069319
+                          - text: "]"
+                        - listitem [ref=e792]:
+                          - text: 5.Dora, V.R.S.; Lakshmi, V.N. Optimal feature selection with CNN-feature learning for DDoS attack detection using meta-heuristic-based LSTM. Int. J. Intell. Robot. Appl. 2022, 6, 323–349. [
+                          - link "Google Scholar" [ref=e793] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Optimal+feature+selection+with+CNN-feature+learning+for+DDoS+attack+detection+using+meta-heuristic-based+LSTM&author=Dora,+V.R.S.&author=Lakshmi,+V.N.&publication_year=2022&journal=Int.+J.+Intell.+Robot.+Appl.&volume=6&pages=323%E2%80%93349&doi=10.1007/s41315-022-00224-4
+                          - text: "] ["
+                          - link "CrossRef" [ref=e794] [cursor=pointer]:
+                            - /url: https://doi.org/10.1007/s41315-022-00224-4
+                          - text: "]"
+                        - listitem [ref=e795]:
+                          - text: 6.Kuang, C. Research on Network Traffic Anomaly Detection Method Based on Deep Learning. J. Phys. Conf. Ser. 2021, 1861, 012007. [
+                          - link "Google Scholar" [ref=e796] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Research+on+Network+Traffic+Anomaly+Detection+Method+Based+on+Deep+Learning&author=Kuang,+C.&publication_year=2021&journal=J.+Phys.+Conf.+Ser.&volume=1861&pages=012007&doi=10.1088/1742-6596/1861/1/012007
+                          - text: "] ["
+                          - link "CrossRef" [ref=e797] [cursor=pointer]:
+                            - /url: https://doi.org/10.1088/1742-6596/1861/1/012007
+                          - text: "]"
+                        - listitem [ref=e798]:
+                          - text: "7.“2025 DDoS Attack Statistics: Alarming Prediction—VPNRanks Predicts 1 in 20 Internet Users Will Likely To Be Hit!”. Available online:"
+                          - link "https://www.vpnranks.com/resources/ddos-attack-statistics/" [ref=e799] [cursor=pointer]:
+                            - /url: https://www.vpnranks.com/resources/ddos-attack-statistics/
+                          - text: (accessed on 23 May 2025).
+                        - listitem [ref=e800]:
+                          - text: "8.“NSL-KDD|Datasets|Research|Canadian Institute for Cybersecurity|UNB.”. Available online:"
+                          - link "https://www.unb.ca/cic/datasets/nsl.html" [ref=e801] [cursor=pointer]:
+                            - /url: https://www.unb.ca/cic/datasets/nsl.html
+                          - text: (accessed on 24 May 2025).
+                        - listitem [ref=e802]:
+                          - text: 9.Alshammari, A.; Aldribi, A. Apply machine learning techniques to detect malicious network traffic in cloud computing. J Big Data 2021, 8, 90. [
+                          - link "Google Scholar" [ref=e803] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Apply+machine+learning+techniques+to+detect+malicious+network+traffic+in+cloud+computing&author=Alshammari,+A.&author=Aldribi,+A.&publication_year=2021&journal=J+Big+Data&volume=8&pages=90&doi=10.1186/s40537-021-00475-1
+                          - text: "] ["
+                          - link "CrossRef" [ref=e804] [cursor=pointer]:
+                            - /url: https://doi.org/10.1186/s40537-021-00475-1
+                          - text: "]"
+                        - listitem [ref=e805]:
+                          - text: "10.Ahmad, Z.; Khan, A.S.; Shiang, C.W.; Abdullah, J.; Ahmad, F. Network intrusion detection system: A systematic study of machine learning and deep learning approaches. Trans. Emerg. Telecommun. Technol. 2021, 32, e4150. ["
+                          - link "Google Scholar" [ref=e806] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Network+intrusion+detection+system:+A+systematic+study+of+machine+learning+and+deep+learning+approaches&author=Ahmad,+Z.&author=Khan,+A.S.&author=Shiang,+C.W.&author=Abdullah,+J.&author=Ahmad,+F.&publication_year=2021&journal=Trans.+Emerg.+Telecommun.+Technol.&volume=32&pages=e4150&doi=10.1002/ett.4150
+                          - text: "] ["
+                          - link "CrossRef" [ref=e807] [cursor=pointer]:
+                            - /url: https://doi.org/10.1002/ett.4150
+                          - text: "]"
+                        - listitem [ref=e808]:
+                          - text: "11.Yost, J.R. The March of IDES: Early History of Intrusion-Detection Expert Systems. IEEE Annals Hist. Comput. 2016, 38, 42–54. ["
+                          - link "Google Scholar" [ref=e809] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=The+March+of+IDES:+Early+History+of+Intrusion-Detection+Expert+Systems&author=Yost,+J.R.&publication_year=2016&journal=IEEE+Annals+Hist.+Comput.&volume=38&pages=42%E2%80%9354&doi=10.1109/MAHC.2015.41
+                          - text: "] ["
+                          - link "CrossRef" [ref=e810] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/MAHC.2015.41
+                          - text: "]"
+                        - listitem [ref=e811]:
+                          - text: "12.Dong, B.; Wang, X. Comparison deep learning method to traditional methods using for network intrusion detection. In Proceedings of the 2016 8th IEEE International Conference on Communication Software and Networks (ICCSN), Beijing, China, 4–6 June 2016; IEEE: Piscataway, NJ, USA, 2016; pp. 581–585. ["
+                          - link "Google Scholar" [ref=e812] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Comparison+deep+learning+method+to+traditional+methods+using+for+network+intrusion+detection&conference=Proceedings+of+the+2016+8th+IEEE+International+Conference+on+Communication+Software+and+Networks+(ICCSN)&author=Dong,+B.&author=Wang,+X.&publication_year=2016&pages=581%E2%80%93585&doi=10.1109/iccsn.2016.7586590
+                          - text: "] ["
+                          - link "CrossRef" [ref=e813] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/iccsn.2016.7586590
+                          - text: "]"
+                        - listitem [ref=e814]:
+                          - text: 13.Hosseini, S.; Zade, B.M.H. New hybrid method for attack detection using combination of evolutionary algorithms, SVM, and ANN. Comput. Netw. 2020, 173, 107168. [
+                          - link "Google Scholar" [ref=e815] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=New+hybrid+method+for+attack+detection+using+combination+of+evolutionary+algorithms,+SVM,+and+ANN&author=Hosseini,+S.&author=Zade,+B.M.H.&publication_year=2020&journal=Comput.+Netw.&volume=173&pages=107168&doi=10.1016/j.comnet.2020.107168
+                          - text: "] ["
+                          - link "CrossRef" [ref=e816] [cursor=pointer]:
+                            - /url: https://doi.org/10.1016/j.comnet.2020.107168
+                          - text: "]"
+                        - listitem [ref=e817]:
+                          - text: "14.Kurniabudi, K.; Purnama, B.; Sharipuddin, S.; Darmawijoyo, D.; Stiawan, D.; Samsuryadi, S.; Heryanto, A.; Budiarto, R. Network anomaly detection research: A survey. Indones. J. Electr. Eng. Inform. (IJEEI) 2019, 7, 37–50. ["
+                          - link "Google Scholar" [ref=e818] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Network+anomaly+detection+research:+A+survey&author=Kurniabudi,+K.&author=Purnama,+B.&author=Sharipuddin,+S.&author=Darmawijoyo,+D.&author=Stiawan,+D.&author=Samsuryadi,+S.&author=Heryanto,+A.&author=Budiarto,+R.&publication_year=2019&journal=Indones.+J.+Electr.+Eng.+Inform.+(IJEEI)&volume=7&pages=37%E2%80%9350&doi=10.11591/ijeei.v7i1.773
+                          - text: "] ["
+                          - link "CrossRef" [ref=e819] [cursor=pointer]:
+                            - /url: https://doi.org/10.11591/ijeei.v7i1.773
+                          - text: "]"
+                        - listitem [ref=e820]:
+                          - text: "15.Wattanapongsakorn, N.; Srakaew, S.; Wonghirunsombat, E.; Sribavonmongkol, C.; Junhom, T.; Jongsubsook, P.; Charnsripinyo, C. A Practical Network-Based Intrusion Detection and Prevention System. In Proceedings of the 2012 IEEE 11th International Conference on Trust, Security and Privacy in Computing and Communications, Liverpool, UK, 25–27 June 2012; IEEE: Piscataway, NJ, USA, 2012; pp. 209–214. ["
+                          - link "Google Scholar" [ref=e821] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=A+Practical+Network-Based+Intrusion+Detection+and+Prevention+System&conference=Proceedings+of+the+2012+IEEE+11th+International+Conference+on+Trust,+Security+and+Privacy+in+Computing+and+Communications&author=Wattanapongsakorn,+N.&author=Srakaew,+S.&author=Wonghirunsombat,+E.&author=Sribavonmongkol,+C.&author=Junhom,+T.&author=Jongsubsook,+P.&author=Charnsripinyo,+C.&publication_year=2012&pages=209%E2%80%93214&doi=10.1109/trustcom.2012.46
+                          - text: "] ["
+                          - link "CrossRef" [ref=e822] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/trustcom.2012.46
+                          - text: "]"
+                        - listitem [ref=e823]:
+                          - text: "16.Kalinaki, K.; Thilakarathne, N.N.; Mubarak, H.R.; Malik, O.A.; Abdullatif, M. Cybersafe Capabilities and Utilities for Smart Cities. In Cybersecurity for Smart Cities. Advanced Sciences and Technologies for Security Applications; Ahmed, M., Haskell-Dowland, P., Eds.; Springer: Cham, Switzerland, 2023. ["
+                          - link "Google Scholar" [ref=e824] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Cybersafe+Capabilities+and+Utilities+for+Smart+Cities&author=Kalinaki,+K.&author=Thilakarathne,+N.N.&author=Mubarak,+H.R.&author=Malik,+O.A.&author=Abdullatif,+M.&publication_year=2023
+                          - text: "]"
+                        - listitem [ref=e825]:
+                          - text: 17.Bakar, R.A.; Huang, X.; Javed, M.S.; Hussain, S.; Majeed, M.F. An Intelligent Agent-Based Detection System for DDoS Attacks Using Automatic Feature Extraction and Selection. Sensors 2023, 23, 3333. [
+                          - link "Google Scholar" [ref=e826] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=An+Intelligent+Agent-Based+Detection+System+for+DDoS+Attacks+Using+Automatic+Feature+Extraction+and+Selection&author=Bakar,+R.A.&author=Huang,+X.&author=Javed,+M.S.&author=Hussain,+S.&author=Majeed,+M.F.&publication_year=2023&journal=Sensors&volume=23&pages=3333&doi=10.3390/s23063333
+                          - text: "] ["
+                          - link "CrossRef" [ref=e827] [cursor=pointer]:
+                            - /url: https://doi.org/10.3390/s23063333
+                          - text: "]"
+                        - listitem [ref=e828]:
+                          - text: "18.Masum, M.; Shahriar, H.; Haddad, H.; Faruk, J.H.; Valero, M.; Khan, A.; Rahman, M.A.; Adnan, M.I.; Cuzzocrea, A.; Wu, F. Bayesian Hyperparameter Optimization for Deep Neural Network-Based Network Intrusion Detection. In Proceedings of the 2021 IEEE International Conference on Big Data (Big Data), Orlando, FL, USA, 15–18 December 2021; IEEE: Piscataway, NJ, USA, 2021; pp. 5413–5419. ["
+                          - link "Google Scholar" [ref=e829] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Bayesian+Hyperparameter+Optimization+for+Deep+Neural+Network-Based+Network+Intrusion+Detection&conference=Proceedings+of+the+2021+IEEE+International+Conference+on+Big+Data+(Big+Data)&author=Masum,+M.&author=Shahriar,+H.&author=Haddad,+H.&author=Faruk,+J.H.&author=Valero,+M.&author=Khan,+A.&author=Rahman,+M.A.&author=Adnan,+M.I.&author=Cuzzocrea,+A.&author=Wu,+F.&publication_year=2021&pages=5413%E2%80%935419&doi=10.1109/BigData52589.2021.9671576
+                          - text: "] ["
+                          - link "CrossRef" [ref=e830] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/BigData52589.2021.9671576
+                          - text: "]"
+                        - listitem [ref=e831]:
+                          - text: 19.Thockchom, N.; Singh, M.M.; Nandi, U. A novel ensemble learning-based model for network intrusion detection. Complex. Intell. Syst. 2023, 9, 5693–5714. [
+                          - link "Google Scholar" [ref=e832] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=A+novel+ensemble+learning-based+model+for+network+intrusion+detection&author=Thockchom,+N.&author=Singh,+M.M.&author=Nandi,+U.&publication_year=2023&journal=Complex.+Intell.+Syst.&volume=9&pages=5693%E2%80%935714&doi=10.1007/s40747-023-01013-7
+                          - text: "] ["
+                          - link "CrossRef" [ref=e833] [cursor=pointer]:
+                            - /url: https://doi.org/10.1007/s40747-023-01013-7
+                          - text: "]"
+                        - listitem [ref=e834]:
+                          - text: 20.Seth, S.; Chahal, K.K.; Singh, G. A Novel Ensemble Framework for an Intelligent Intrusion Detection System. IEEE Access 2021, 9, 138451–138467. [
+                          - link "Google Scholar" [ref=e835] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=A+Novel+Ensemble+Framework+for+an+Intelligent+Intrusion+Detection+System&author=Seth,+S.&author=Chahal,+K.K.&author=Singh,+G.&publication_year=2021&journal=IEEE+Access&volume=9&pages=138451%E2%80%93138467&doi=10.1109/ACCESS.2021.3116219
+                          - text: "] ["
+                          - link "CrossRef" [ref=e836] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/ACCESS.2021.3116219
+                          - text: "]"
+                        - listitem [ref=e837]:
+                          - text: 21.Verma, P.; Dumka, A.; Singh, R.; Ashok, A.; Gehlot, A.; Malik, P.K.; Gaba, G.S.; Hedabou, M. A Novel Intrusion Detection Approach Using Machine Learning Ensemble for IoT Environments. Appl. Sci. 2021, 11, 10268. [
+                          - link "Google Scholar" [ref=e838] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=A+Novel+Intrusion+Detection+Approach+Using+Machine+Learning+Ensemble+for+IoT+Environments&author=Verma,+P.&author=Dumka,+A.&author=Singh,+R.&author=Ashok,+A.&author=Gehlot,+A.&author=Malik,+P.K.&author=Gaba,+G.S.&author=Hedabou,+M.&publication_year=2021&journal=Appl.+Sci.&volume=11&pages=10268&doi=10.3390/app112110268
+                          - text: "] ["
+                          - link "CrossRef" [ref=e839] [cursor=pointer]:
+                            - /url: https://doi.org/10.3390/app112110268
+                          - text: "]"
+                        - listitem [ref=e840]:
+                          - text: 22.Yousefnezhad, M.; Hamidzadeh, J.; Aliannejadi, M. Ensemble classification for intrusion detection via feature extraction based on deep Learning. Soft Comput. 2021, 25, 12667–12683. [
+                          - link "Google Scholar" [ref=e841] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Ensemble+classification+for+intrusion+detection+via+feature+extraction+based+on+deep+Learning&author=Yousefnezhad,+M.&author=Hamidzadeh,+J.&author=Aliannejadi,+M.&publication_year=2021&journal=Soft+Comput.&volume=25&pages=12667%E2%80%9312683&doi=10.1007/s00500-021-06067-8
+                          - text: "] ["
+                          - link "CrossRef" [ref=e842] [cursor=pointer]:
+                            - /url: https://doi.org/10.1007/s00500-021-06067-8
+                          - text: "]"
+                        - listitem [ref=e843]:
+                          - text: 23.Shtayat, M.M.; Hasan, M.K.; Sulaiman, R.; Islam, S.; Khan, A.U.R. An Explainable Ensemble Deep Learning Approach for Intrusion Detection in Industrial Internet of Things. IEEE Access 2023, 11, 115047–115061. [
+                          - link "Google Scholar" [ref=e844] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=An+Explainable+Ensemble+Deep+Learning+Approach+for+Intrusion+Detection+in+Industrial+Internet+of+Things&author=Shtayat,+M.M.&author=Hasan,+M.K.&author=Sulaiman,+R.&author=Islam,+S.&author=Khan,+A.U.R.&publication_year=2023&journal=IEEE+Access&volume=11&pages=115047%E2%80%93115061&doi=10.1109/ACCESS.2023.3323573
+                          - text: "] ["
+                          - link "CrossRef" [ref=e845] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/ACCESS.2023.3323573
+                          - text: "]"
+                        - listitem [ref=e846]:
+                          - text: "24.Divakar, S.; Priyadarshini, R.; Mishra, B.K. A Robust Intrusion Detection System using Ensemble Machine Learning. In Proceedings of the 2020 IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE), Bhubaneswar, India, 26–27 December 2020; IEEE: Piscataway, NJ, USA, 2020; pp. 344–347. ["
+                          - link "Google Scholar" [ref=e847] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=A+Robust+Intrusion+Detection+System+using+Ensemble+Machine+Learning&conference=Proceedings+of+the+2020+IEEE+International+Women+in+Engineering+(WIE)+Conference+on+Electrical+and+Computer+Engineering+(WIECON-ECE)&author=Divakar,+S.&author=Priyadarshini,+R.&author=Mishra,+B.K.&publication_year=2020&pages=344%E2%80%93347&doi=10.1109/WIECON-ECE52138.2020.9397969
+                          - text: "] ["
+                          - link "CrossRef" [ref=e848] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/WIECON-ECE52138.2020.9397969
+                          - text: "]"
+                        - listitem [ref=e849]:
+                          - text: 25.Mohy-Eddine, M.; Guezzaz, A.; Benkirane, S.; Azrour, M.; Farhaoui, Y. An Ensemble Learning Based Intrusion Detection Model for Industrial IoT Security. Big Data Min. Anal. 2023, 6, 273–287. [
+                          - link "Google Scholar" [ref=e850] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=An+Ensemble+Learning+Based+Intrusion+Detection+Model+for+Industrial+IoT+Security&author=Mohy-Eddine,+M.&author=Guezzaz,+A.&author=Benkirane,+S.&author=Azrour,+M.&author=Farhaoui,+Y.&publication_year=2023&journal=Big+Data+Min.+Anal.&volume=6&pages=273%E2%80%93287&doi=10.26599/BDMA.2022.9020032
+                          - text: "] ["
+                          - link "CrossRef" [ref=e851] [cursor=pointer]:
+                            - /url: https://doi.org/10.26599/BDMA.2022.9020032
+                          - text: "]"
+                        - listitem [ref=e852]:
+                          - text: 26.Thakkar, A.; Lohiya, R. Attack Classification of Imbalanced Intrusion Data for IoT Network Using Ensemble-Learning-Based Deep Neural Network. IEEE Internet Things J. 2023, 10, 11888–11895. [
+                          - link "Google Scholar" [ref=e853] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Attack+Classification+of+Imbalanced+Intrusion+Data+for+IoT+Network+Using+Ensemble-Learning-Based+Deep+Neural+Network&author=Thakkar,+A.&author=Lohiya,+R.&publication_year=2023&journal=IEEE+Internet+Things+J.&volume=10&pages=11888%E2%80%9311895&doi=10.1109/JIOT.2023.3244810
+                          - text: "] ["
+                          - link "CrossRef" [ref=e854] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/JIOT.2023.3244810
+                          - text: "]"
+                        - listitem [ref=e855]:
+                          - text: 27.Thilakarathne, N.N.; Bakar, M.S.A.; Abas, P.E.; Yassin, H. A novel cyber threat intelligence platform for evaluating the risk associated with smart agriculture. Sci. Rep. 2025, 15, 3904. [
+                          - link "Google Scholar" [ref=e856] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=A+novel+cyber+threat+intelligence+platform+for+evaluating+the+risk+associated+with+smart+agriculture&author=Thilakarathne,+N.N.&author=Bakar,+M.S.A.&author=Abas,+P.E.&author=Yassin,+H.&publication_year=2025&journal=Sci.+Rep.&volume=15&pages=3904&doi=10.1038/s41598-025-85320-8
+                          - text: "] ["
+                          - link "CrossRef" [ref=e857] [cursor=pointer]:
+                            - /url: https://doi.org/10.1038/s41598-025-85320-8
+                          - text: "]"
+                        - listitem [ref=e858]:
+                          - text: "28.Kalaivani, D. An Intrusion Detection System Based on Data Analytics and Convolutional Neural Network in NSS-KDD dataset. In Machine Learning Algorithms for Intelligent Data Analytics; Technoarete Research and Development Association: Chennai, India, 2022. ["
+                          - link "Google Scholar" [ref=e859] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=An+Intrusion+Detection+System+Based+on+Data+Analytics+and+Convolutional+Neural+Network+in+NSS-KDD+dataset&author=Kalaivani,+D.&publication_year=2022
+                          - text: "] ["
+                          - link "CrossRef" [ref=e860] [cursor=pointer]:
+                            - /url: https://doi.org/10.36647/MLAIDA/2022.12.B1.Ch007
+                          - text: "]"
+                        - listitem [ref=e861]:
+                          - text: "29.Yedukondalu, G.; Bindu, G.H.; Pavan, J.; Venkatesh, G.; SaiTeja, A. Intrusion Detection System Framework Using Machine Learning. In Proceedings of the 2021 Third International Conference on Inventive Research in Computing Applications (ICIRCA), Coimbatore, India, 2–4 September 2021; IEEE: Piscataway, NJ, USA, 2021; pp. 1224–1230. ["
+                          - link "Google Scholar" [ref=e862] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Intrusion+Detection+System+Framework+Using+Machine+Learning&conference=Proceedings+of+the+2021+Third+International+Conference+on+Inventive+Research+in+Computing+Applications+(ICIRCA)&author=Yedukondalu,+G.&author=Bindu,+G.H.&author=Pavan,+J.&author=Venkatesh,+G.&author=SaiTeja,+A.&publication_year=2021&pages=1224%E2%80%931230&doi=10.1109/ICIRCA51532.2021.9544717
+                          - text: "] ["
+                          - link "CrossRef" [ref=e863] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/ICIRCA51532.2021.9544717
+                          - text: "]"
+                        - listitem [ref=e864]:
+                          - text: 30.Alabdulatif, A.; Thilakarathne, N.N. A Novel Cloud-Enabled Cyber Threat Hunting Platform for Evaluating the Cyber Risks Associated with Smart Health Ecosystems. Appl. Sci. 2024, 14, 9567. [
+                          - link "Google Scholar" [ref=e865] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=A+Novel+Cloud-Enabled+Cyber+Threat+Hunting+Platform+for+Evaluating+the+Cyber+Risks+Associated+with+Smart+Health+Ecosystems&author=Alabdulatif,+A.&author=Thilakarathne,+N.N.&publication_year=2024&journal=Appl.+Sci.&volume=14&pages=9567&doi=10.3390/app14209567
+                          - text: "] ["
+                          - link "CrossRef" [ref=e866] [cursor=pointer]:
+                            - /url: https://doi.org/10.3390/app14209567
+                          - text: "]"
+                        - listitem [ref=e867]:
+                          - text: "31.Nwakanma, C.I.; Ahakonye, L.A.C.; Njoku, J.N.; Odirichukwu, J.C.; Okolie, S.A.; Uzondu, C.; Nweke, C.C.N.; Kim, D.-S. Explainable Artificial Intelligence (XAI) for Intrusion Detection and Mitigation in Intelligent Connected Vehicles: A Review. Appl. Sci. 2023, 13, 1252. ["
+                          - link "Google Scholar" [ref=e868] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Explainable+Artificial+Intelligence+(XAI)+for+Intrusion+Detection+and+Mitigation+in+Intelligent+Connected+Vehicles:+A+Review&author=Nwakanma,+C.I.&author=Ahakonye,+L.A.C.&author=Njoku,+J.N.&author=Odirichukwu,+J.C.&author=Okolie,+S.A.&author=Uzondu,+C.&author=Nweke,+C.C.N.&author=Kim,+D.-S.&publication_year=2023&journal=Appl.+Sci.&volume=13&pages=1252&doi=10.3390/app13031252
+                          - text: "] ["
+                          - link "CrossRef" [ref=e869] [cursor=pointer]:
+                            - /url: https://doi.org/10.3390/app13031252
+                          - text: "]"
+                        - listitem [ref=e870]:
+                          - text: 32.Mahbooba, B.; Timilsina, M.; Sahal, R.; Serrano, M. Explainable Artificial Intelligence (XAI) to Enhance Trust Management in Intrusion Detection Systems Using Decision Tree Model. Complexity 2021, 2021, 6634811. [
+                          - link "Google Scholar" [ref=e871] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Explainable+Artificial+Intelligence+(XAI)+to+Enhance+Trust+Management+in+Intrusion+Detection+Systems+Using+Decision+Tree+Model&author=Mahbooba,+B.&author=Timilsina,+M.&author=Sahal,+R.&author=Serrano,+M.&publication_year=2021&journal=Complexity&volume=2021&pages=6634811&doi=10.1155/2021/6634811
+                          - text: "] ["
+                          - link "CrossRef" [ref=e872] [cursor=pointer]:
+                            - /url: https://doi.org/10.1155/2021/6634811
+                          - text: "]"
+                        - listitem [ref=e873]:
+                          - text: "33.Hariharan, S.; Robinson, R.R.R.; Prasad, R.R.; Thomas, C.; Balakrishnan, N. XAI for intrusion detection system: Comparing explanations based on global and local scope. J. Comput. Virol. Hack. Tech. 2022, 19, 217–239. ["
+                          - link "Google Scholar" [ref=e874] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=XAI+for+intrusion+detection+system:+Comparing+explanations+based+on+global+and+local+scope&author=Hariharan,+S.&author=Robinson,+R.R.R.&author=Prasad,+R.R.&author=Thomas,+C.&author=Balakrishnan,+N.&publication_year=2022&journal=J.+Comput.+Virol.+Hack.+Tech.&volume=19&pages=217%E2%80%93239&doi=10.1007/s11416-022-00441-2
+                          - text: "] ["
+                          - link "CrossRef" [ref=e875] [cursor=pointer]:
+                            - /url: https://doi.org/10.1007/s11416-022-00441-2
+                          - text: "]"
+                        - listitem [ref=e876]:
+                          - text: "34.Kim, A.; Park, M.; Lee, D.H. AI-IDS: Application of Deep Learning to Real-Time Web Intrusion Detection. IEEE Access 2020, 8, 70245–70261. ["
+                          - link "Google Scholar" [ref=e877] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=AI-IDS:+Application+of+Deep+Learning+to+Real-Time+Web+Intrusion+Detection&author=Kim,+A.&author=Park,+M.&author=Lee,+D.H.&publication_year=2020&journal=IEEE+Access&volume=8&pages=70245%E2%80%9370261&doi=10.1109/ACCESS.2020.2986882
+                          - text: "] ["
+                          - link "CrossRef" [ref=e878] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/ACCESS.2020.2986882
+                          - text: "]"
+                        - listitem [ref=e879]:
+                          - text: "35.Viharika, S.; Balaji, N. AI-Driven Intrusion Detection Systems in Cloud Infrastructures: A Comprehensive Review of Hybrid Security Models and Future Directions. In Proceedings of the 2024 4th International Conference on Ubiquitous Computing and Intelligent Information Systems (ICUIS), Gobichettipalayam, India, 12–13 December 2024; IEEE: Piscataway, NJ, USA, 2024; pp. 1201–1207. ["
+                          - link "Google Scholar" [ref=e880] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=AI-Driven+Intrusion+Detection+Systems+in+Cloud+Infrastructures:+A+Comprehensive+Review+of+Hybrid+Security+Models+and+Future+Directions&conference=Proceedings+of+the+2024+4th+International+Conference+on+Ubiquitous+Computing+and+Intelligent+Information+Systems+(ICUIS)&author=Viharika,+S.&author=Balaji,+N.&publication_year=2024&pages=1201%E2%80%931207&doi=10.1109/ICUIS64676.2024.10866856
+                          - text: "] ["
+                          - link "CrossRef" [ref=e881] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/ICUIS64676.2024.10866856
+                          - text: "]"
+                        - listitem [ref=e882]:
+                          - text: "36.Andronikidis, G.; Eleftheriadis, C.; Batzos, Z.; Kyranou, K.; Maropoulos, N.; Sargsyan, G.; Grammatikis, P.R.; Sarigiannidis, P. AI-Driven Anomaly and Intrusion Detection in Energy Systems: Current Trends and Future Direction. In Proceedings of the 2024 IEEE International Conference on Cyber Security and Resilience (CSR), London, UK, 2–4 September 2024; IEEE: Piscataway, NJ, USA, 2024; pp. 777–782. ["
+                          - link "Google Scholar" [ref=e883] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=AI-Driven+Anomaly+and+Intrusion+Detection+in+Energy+Systems:+Current+Trends+and+Future+Direction&conference=Proceedings+of+the+2024+IEEE+International+Conference+on+Cyber+Security+and+Resilience+(CSR)&author=Andronikidis,+G.&author=Eleftheriadis,+C.&author=Batzos,+Z.&author=Kyranou,+K.&author=Maropoulos,+N.&author=Sargsyan,+G.&author=Grammatikis,+P.R.&author=Sarigiannidis,+P.&publication_year=2024&pages=777%E2%80%93782&doi=10.1109/CSR61664.2024.10679380
+                          - text: "] ["
+                          - link "CrossRef" [ref=e884] [cursor=pointer]:
+                            - /url: https://doi.org/10.1109/CSR61664.2024.10679380
+                          - text: "]"
+                        - listitem [ref=e885]:
+                          - text: 37.Ali, M.; Pervez, S.; Hosseini, S.E.; Siddu, M.K. Intelligent parameter-based in-network IDS for IoT using UNSW-NB15 and BoT-IoT datasets. J. Frankl. Inst. 2025, 362, 107440. [
+                          - link "Google Scholar" [ref=e886] [cursor=pointer]:
+                            - /url: https://scholar.google.com/scholar_lookup?title=Intelligent+parameter-based+in-network+IDS+for+IoT+using+UNSW-NB15+and+BoT-IoT+datasets&author=Ali,+M.&author=Pervez,+S.&author=Hosseini,+S.E.&author=Siddu,+M.K.&publication_year=2025&journal=J.+Frankl.+Inst.&volume=362&pages=107440&doi=10.1016/j.jfranklin.2024.107440
+                          - text: "] ["
+                          - link "CrossRef" [ref=e887] [cursor=pointer]:
+                            - /url: https://doi.org/10.1016/j.jfranklin.2024.107440
+                          - text: "]"
+                        - listitem [ref=e888]:
+                          - text: "38.Ali, M.; Pervez, S.; Hosseini, S.E.; Siddhu, M.K. Evaluation and Detection of Cyberattack in IoT-Based Smart City Networks Using Machine Learning on the UNSW-NB15 Dataset.|EBSCOhost. Available online:"
+                          - link "https://openurl.ebsco.com/contentitem/doi:10.3991%2Fijoe.v21i02.52671?sid=ebsco:plink:crawler&id=ebsco:doi:10.3991%2Fijoe.v21i02.52671" [ref=e889] [cursor=pointer]:
+                            - /url: https://openurl.ebsco.com/contentitem/doi:10.3991/ijoe.v21i02.52671?sid=ebsco:plink:crawler&id=ebsco:doi:10.3991/ijoe.v21i02.52671
+                          - text: (accessed on 28 June 2025).
+                    - table [ref=e891]:
+                      - rowgroup [ref=e892]:
+                        - 'row "Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content." [ref=e893]':
+                          - cell [ref=e894]
+                          - 'cell "Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content." [ref=e895]':
+                            - generic [ref=e896]: "Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content."
+                    - generic [ref=e897]:
+                      - text: © 2025 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (
+                      - link "https://creativecommons.org/licenses/by/4.0/" [ref=e898] [cursor=pointer]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ).
+                - generic [ref=e899]:
+                  - heading "Share and Cite" [level=2] [ref=e900]: Share and Cite
+                  - generic [ref=e901]:
+                    - link "" [ref=e902] [cursor=pointer]:
+                      - /url: mailto:?&subject=From%20MDPI%3A%20%22A%20Novel%20Ensemble%20of%20Deep%20Learning%20Approach%20for%20Cybersecurity%20Intrusion%20Detection%20with%20Explainable%20Artificial%20Intelligence"&body=https://www.mdpi.com/3407910%3A%0A%0AA%20Novel%20Ensemble%20of%20Deep%20Learning%20Approach%20for%20Cybersecurity%20Intrusion%20Detection%20with%20Explainable%20Artificial%20Intelligence%0A%0AAbstract%3A%20In%20today%26rsquo%3Bs%20increasingly%20interconnected%20digital%20world%2C%20cyber%20threats%20have%20grown%20in%20frequency%20and%20sophistication%2C%20making%20intrusion%20detection%20systems%20a%20critical%20component%20of%20modern%20cybersecurity%20frameworks.%20Traditional%20IDS%20methods%2C%20often%20based%20on%20static%20signatures%20and%20rule-based%20systems%2C%20are%20no%20longer%20sufficient%20to%20detect%20and%20respond%20to%20complex%20and%20evolving%20attacks.%20To%20address%20these%20challenges%2C%20Artificial%20Intelligence%20and%20machine%20learning%20have%20emerged%20as%20powerful%20tools%20for%20enhancing%20the%20accuracy%2C%20adaptability%2C%20and%20automation%20of%20IDS%20solutions.%20This%20study%20presents%20a%20novel%2C%20hybrid%20ensemble%20learning-based%20intrusion%20detection%20framework%20that%20integrates%20deep%20learning%20and%20traditional%20ML%20algorithms%20with%20explainable%20artificial%20intelligence%20for%20real-time%20cybersecurity%20applications.%20The%20proposed%20model%20combines%20an%20Artificial%20Neural%20Network%20and%20Support%20Vector%20Machine%20as%20base%20classifiers%20and%20employs%20a%20Random%20Forest%20as%20a%20meta-classifier%20to%20fuse%20predictions%2C%20improving%20detection%20performance.%20Recursive%20Feature%20Elimination%20is%20utilized%20for%20optimal%20feature%20selection%2C%20while%20SHapley%20Additive%20exPlanations%20%28SHAP%29%20provide%20both%20global%20and%20local%20interpretability%20of%20the%20model%26rsquo%3Bs%20decisions.%20The%20framework[...]
+                      - generic [ref=e903]: 
+                    - link [ref=e904] [cursor=pointer]:
+                      - /url: https://x.com/intent/tweet?text=A+Novel+Ensemble+of+Deep+Learning+Approach+for+Cybersecurity+Intrusion+Detection+with+Explainable+Artificial+Intelligence&hashtags=mdpiapplsci&url=https%3A%2F%2Fwww.mdpi.com%2F3407910&via=Applsci
+                    - link "" [ref=e906] [cursor=pointer]:
+                      - /url: "\t                    http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.mdpi.com%2F3407910&title=A%20Novel%20Ensemble%20of%20Deep%20Learning%20Approach%20for%20Cybersecurity%20Intrusion%20Detection%20with%20Explainable%20Artificial%20Intelligence%26source%3Dhttps%3A%2F%2Fwww.mdpi.com%26summary%3DIn%20today%E2%80%99s%20increasingly%20interconnected%20digital%20world%2C%20cyber%20threats%20have%20grown%20in%20frequency%20and%20sophistication%2C%20making%20intrusion%20detection%20systems%20a%20critical%20component%20of%20modern%20cybersecurity%20frameworks.%20Traditional%20IDS%20methods%2C%20often%20based%20on%20%5B...%5D"
+                      - generic [ref=e907]: 
+                    - link "" [ref=e908] [cursor=pointer]:
+                      - /url: http://www.facebook.com/sharer.php?u=https://www.mdpi.com/3407910
+                      - generic [ref=e909]: 
+                    - link "Wechat" [ref=e910] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                    - link "" [ref=e912] [cursor=pointer]:
+                      - /url: http://www.reddit.com/submit?url=https://www.mdpi.com/3407910
+                      - generic [ref=e913]: 
+                    - link "Mendeley" [ref=e914] [cursor=pointer]:
+                      - /url: http://www.mendeley.com/import/?url=https://www.mdpi.com/3407910
+                  - generic [ref=e916]:
+                    - generic [ref=e917]: MDPI and ACS Style
+                    - paragraph [ref=e918]:
+                      - text: Alabdulatif, A. A Novel Ensemble of Deep Learning Approach for Cybersecurity Intrusion Detection with Explainable Artificial Intelligence.
+                      - emphasis [ref=e919]: Appl. Sci.
+                      - text: 2025,
+                      - emphasis [ref=e920]: "15"
+                      - text: ", 7984. https://doi.org/10.3390/app15147984"
+                    - generic [ref=e921]:
+                      - text: AMA Style
+                      - paragraph [ref=e922]:
+                        - text: Alabdulatif A. A Novel Ensemble of Deep Learning Approach for Cybersecurity Intrusion Detection with Explainable Artificial Intelligence.
+                        - emphasis [ref=e923]: Applied Sciences
+                        - text: . 2025; 15(14):7984. https://doi.org/10.3390/app15147984
+                      - text: Chicago/Turabian Style
+                      - paragraph [ref=e924]:
+                        - text: Alabdulatif, Abdullah. 2025. "A Novel Ensemble of Deep Learning Approach for Cybersecurity Intrusion Detection with Explainable Artificial Intelligence"
+                        - emphasis [ref=e925]: Applied Sciences
+                        - text: "15, no. 14: 7984. https://doi.org/10.3390/app15147984"
+                      - text: APA Style
+                      - paragraph [ref=e926]:
+                        - text: Alabdulatif, A. (2025). A Novel Ensemble of Deep Learning Approach for Cybersecurity Intrusion Detection with Explainable Artificial Intelligence.
+                        - emphasis [ref=e927]: Applied Sciences
+                        - text: ","
+                        - emphasis [ref=e928]: "15"
+                        - text: (14), 7984. https://doi.org/10.3390/app15147984
+                  - generic [ref=e929]:
+                    - text: error_outline Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details
+                    - link "here" [ref=e930] [cursor=pointer]:
+                      - /url: https://www.mdpi.com/about/announcements/784
+                    - text: .
+                  - heading "Article Metrics" [level=2] [ref=e931]: Article Metrics
+                  - generic [ref=e932]:
+                    - generic [ref=e934]:
+                      - heading "Citations" [level=3] [ref=e935]
+                      - generic [ref=e937]:
+                        - generic [ref=e938]: Scopus
+                        - link "16" [ref=e942] [cursor=pointer]:
+                          - /url: https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105011729032&origin=inward
+                      - generic [ref=e944]:
+                        - generic [ref=e945]: Crossref
+                        - link "21" [ref=e949] [cursor=pointer]:
+                          - /url: "#"
+                      - generic [ref=e951]:
+                        - generic [ref=e952]: Web of Science
+                        - link "9" [ref=e956] [cursor=pointer]:
+                          - /url: https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&KeyUT=WOS:001535590800001&DestLinkType=FullRecord&DestApp=ALL_WOS&UsrCustomerID=7e717b028bc90856e7c55c7029afc773
+                      - generic [ref=e958]:
+                        - generic [ref=e959]: Google Scholar
+                        - link "[click to view]" [ref=e962] [cursor=pointer]:
+                          - /url: https://scholar.google.com/scholar_lookup?title=A+Novel+Ensemble+of+Deep+Learning+Approach+for+Cybersecurity+Intrusion+Detection+with+Explainable+Artificial+Intelligence&volume=15&doi=10.3390%2Fapp15147984&journal=Applied+Sciences&publication_year=2025&author=Abdullah+Alabdulatif
+                    - generic [ref=e964]:
+                      - heading "Article Access Statistics" [level=3] [ref=e965]
+                      - img [ref=e968]:
+                        - generic "Chart context menu" [ref=e970]
+                        - generic [ref=e979]: Article access statistics
+                        - generic [ref=e985] [cursor=pointer]: Article Views
+                        - generic [ref=e986]:
+                          - generic [ref=e987]: 11. Mar
+                          - generic [ref=e988]: 12. Mar
+                          - generic [ref=e989]: 13. Mar
+                          - generic [ref=e990]: 14. Mar
+                          - generic [ref=e991]: 15. Mar
+                          - generic [ref=e992]: 16. Mar
+                          - generic [ref=e993]: 17. Mar
+                          - generic [ref=e994]: 18. Mar
+                          - generic [ref=e995]: 19. Mar
+                          - generic [ref=e996]: 20. Mar
+                          - generic [ref=e997]: 21. Mar
+                          - generic [ref=e998]: 22. Mar
+                          - generic [ref=e999]: 23. Mar
+                          - generic [ref=e1000]: 24. Mar
+                          - generic [ref=e1001]: 25. Mar
+                          - generic [ref=e1002]: 26. Mar
+                          - generic [ref=e1003]: 27. Mar
+                          - generic [ref=e1004]: 28. Mar
+                          - generic [ref=e1005]: 29. Mar
+                          - generic [ref=e1006]: 30. Mar
+                          - generic [ref=e1007]: 31. Mar
+                          - generic [ref=e1008]: 1. Apr
+                          - generic [ref=e1009]: 2. Apr
+                          - generic [ref=e1010]: 3. Apr
+                          - generic [ref=e1011]: 4. Apr
+                          - generic [ref=e1012]: 5. Apr
+                          - generic [ref=e1013]: 6. Apr
+                          - generic [ref=e1014]: 7. Apr
+                          - generic [ref=e1015]: 8. Apr
+                          - generic [ref=e1016]: 9. Apr
+                          - generic [ref=e1017]: 10. Apr
+                          - generic [ref=e1018]: 11. Apr
+                          - generic [ref=e1019]: 12. Apr
+                          - generic [ref=e1020]: 13. Apr
+                          - generic [ref=e1021]: 14. Apr
+                          - generic [ref=e1022]: 15. Apr
+                          - generic [ref=e1023]: 16. Apr
+                          - generic [ref=e1024]: 17. Apr
+                          - generic [ref=e1025]: 18. Apr
+                          - generic [ref=e1026]: 19. Apr
+                          - generic [ref=e1027]: 20. Apr
+                          - generic [ref=e1028]: 21. Apr
+                          - generic [ref=e1029]: 22. Apr
+                          - generic [ref=e1030]: 23. Apr
+                          - generic [ref=e1031]: 24. Apr
+                          - generic [ref=e1032]: 25. Apr
+                          - generic [ref=e1033]: 26. Apr
+                          - generic [ref=e1034]: 27. Apr
+                          - generic [ref=e1035]: 28. Apr
+                          - generic [ref=e1036]: 29. Apr
+                          - generic [ref=e1037]: 30. Apr
+                          - generic [ref=e1038]: 1. May
+                          - generic [ref=e1039]: 2. May
+                          - generic [ref=e1040]: 3. May
+                          - generic [ref=e1041]: 4. May
+                          - generic [ref=e1042]: 5. May
+                          - generic [ref=e1043]: 6. May
+                          - generic [ref=e1044]: 7. May
+                          - generic [ref=e1045]: 8. May
+                          - generic [ref=e1046]: 9. May
+                          - generic [ref=e1047]: 10. May
+                          - generic [ref=e1048]: 11. May
+                          - generic [ref=e1049]: 12. May
+                          - generic [ref=e1050]: 13. May
+                          - generic [ref=e1051]: 14. May
+                          - generic [ref=e1052]: 15. May
+                          - generic [ref=e1053]: 16. May
+                          - generic [ref=e1054]: 17. May
+                          - generic [ref=e1055]: 18. May
+                          - generic [ref=e1056]: 19. May
+                          - generic [ref=e1057]: 20. May
+                          - generic [ref=e1058]: 21. May
+                          - generic [ref=e1059]: 22. May
+                          - generic [ref=e1060]: 23. May
+                          - generic [ref=e1061]: 24. May
+                          - generic [ref=e1062]: 25. May
+                          - generic [ref=e1063]: 26. May
+                          - generic [ref=e1064]: 27. May
+                          - generic [ref=e1065]: 28. May
+                          - generic [ref=e1066]: 29. May
+                          - generic [ref=e1067]: 30. May
+                          - generic [ref=e1068]: 31. May
+                          - generic [ref=e1069]: 1. Jun
+                          - generic [ref=e1070]: 2. Jun
+                          - generic [ref=e1071]: 3. Jun
+                          - generic [ref=e1072]: 4. Jun
+                          - generic [ref=e1073]: 5. Jun
+                          - generic [ref=e1074]: 6. Jun
+                          - generic [ref=e1075]: 7. Jun
+                          - generic [ref=e1076]: 8. Jun
+                        - generic [ref=e1077]:
+                          - generic [ref=e1078]: 0k
+                          - generic [ref=e1079]: 2k
+                          - generic [ref=e1080]: 4k
+                          - generic [ref=e1081]: 6k
+                          - generic [ref=e1082]: 8k
+                      - text: For more information on the journal statistics, click
+                      - link "here" [ref=e1088] [cursor=pointer]:
+                        - /url: /journal/applsci/stats
+                      - text: .
+                      - generic [ref=e1089]: error_outline Multiple requests from the same IP address are counted as one view.
+    - generic [ref=e1090]:
+      - generic [ref=e1091]:
+        - generic [ref=e1092]:
+          - emphasis [ref=e1093]:
+            - link "Appl. Sci." [ref=e1094] [cursor=pointer]:
+              - /url: /journal/applsci
+          - text: ", EISSN 2076-3417, Published by MDPI"
+        - generic [ref=e1095]:
+          - link "RSS" [ref=e1097] [cursor=pointer]:
+            - /url: /rss/journal/applsci
+          - link "Content Alert" [ref=e1099] [cursor=pointer]:
+            - /url: /journal/applsci/toc-alert
+      - generic [ref=e1100]:
+        - generic [ref=e1101]:
+          - heading "Further Information" [level=3] [ref=e1102]
+          - link "Article Processing Charges" [ref=e1103] [cursor=pointer]:
+            - /url: /apc
+          - link "Pay an Invoice" [ref=e1104] [cursor=pointer]:
+            - /url: /about/payment
+          - link "Open Access Policy" [ref=e1105] [cursor=pointer]:
+            - /url: /openaccess
+          - link "Contact MDPI" [ref=e1106] [cursor=pointer]:
+            - /url: /about/contact
+          - link "Jobs at MDPI" [ref=e1107] [cursor=pointer]:
+            - /url: https://careers.mdpi.com
+        - generic [ref=e1108]:
+          - heading "Guidelines" [level=3] [ref=e1109]
+          - link "For Authors" [ref=e1110] [cursor=pointer]:
+            - /url: /authors
+          - link "For Reviewers" [ref=e1111] [cursor=pointer]:
+            - /url: /reviewers
+          - link "For Editors" [ref=e1112] [cursor=pointer]:
+            - /url: /editors
+          - link "For Librarians" [ref=e1113] [cursor=pointer]:
+            - /url: /librarians
+          - link "For Publishers" [ref=e1114] [cursor=pointer]:
+            - /url: /publishing_services
+          - link "For Societies" [ref=e1115] [cursor=pointer]:
+            - /url: /societies
+          - link "For Conference Organizers" [ref=e1116] [cursor=pointer]:
+            - /url: /conference_organizers
+        - generic [ref=e1117]:
+          - heading "MDPI Initiatives" [level=3] [ref=e1118]
+          - link "Sciforum" [ref=e1119] [cursor=pointer]:
+            - /url: https://sciforum.net
+          - link "MDPI Books" [ref=e1120] [cursor=pointer]:
+            - /url: https://www.mdpi.com/books
+          - link "Preprints.org" [ref=e1121] [cursor=pointer]:
+            - /url: https://www.preprints.org
+          - link "Scilit" [ref=e1122] [cursor=pointer]:
+            - /url: https://www.scilit.com
+          - link "SciProfiles" [ref=e1123] [cursor=pointer]:
+            - /url: https://sciprofiles.com?utm_source=mpdi.com&utm_medium=bottom_menu&utm_campaign=initiative
+          - link "Encyclopedia" [ref=e1124] [cursor=pointer]:
+            - /url: https://encyclopedia.pub
+          - link "JAMS" [ref=e1125] [cursor=pointer]:
+            - /url: https://jams.pub
+          - link "Proceedings Series" [ref=e1126] [cursor=pointer]:
+            - /url: /about/proceedings
+        - generic [ref=e1127]:
+          - heading "Follow MDPI" [level=3] [ref=e1128]
+          - link "LinkedIn" [ref=e1129] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/mdpi
+          - link "Facebook" [ref=e1130] [cursor=pointer]:
+            - /url: https://www.facebook.com/MDPIOpenAccessPublishing
+          - link "X" [ref=e1131] [cursor=pointer]:
+            - /url: https://x.com/MDPIOpenAccess
+        - generic [ref=e1134]:
+          - paragraph [ref=e1135]: Subscribe to receive issue release notifications and newsletters from MDPI journals
+          - button "Select options" [ref=e1137] [cursor=pointer]
+          - textbox "Enter your email address..." [ref=e1138]
+          - button "Subscribe" [ref=e1139] [cursor=pointer]
+      - generic [ref=e1141]:
+        - generic [ref=e1142]: © 1996-2026 MDPI (Basel, Switzerland) unless otherwise stated
+        - generic [ref=e1143]:
+          - generic [ref=e1144]: Disclaimer
+          - link "Legal Notice" [ref=e1145] [cursor=pointer]:
+            - /url: /about/legal-notice
+          - link "Terms and Conditions" [ref=e1146] [cursor=pointer]:
+            - /url: /about/terms-and-conditions
+          - link "Privacy Policy" [ref=e1147] [cursor=pointer]:
+            - /url: /about/privacy
+          - link "Privacy Settings" [ref=e1148] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - link "Accessibility" [ref=e1149] [cursor=pointer]:
+            - /url: /accessibility
+  - log [ref=e1150]
+  - log [ref=e1151]
+  - log [ref=e1152]
+  - log [ref=e1153]
+  - log [ref=e1154]
+  - log [ref=e1155]
+  - log [ref=e1156]
+  - log [ref=e1157]
+  - log [ref=e1158]
+  - log [ref=e1159]
+  - log [ref=e1160]
+  - log [ref=e1161]
+  - log [ref=e1162]
+  - log [ref=e1163]
+  - log [ref=e1164]
+  - log [ref=e1165]
+  - log [ref=e1166]
+  - log [ref=e1167]
+  - log [ref=e1168]
+  - log [ref=e1169]
+  - log [ref=e1170]
+  - log [ref=e1171]
+  - log [ref=e1172]
+  - log [ref=e1173]
+  - log [ref=e1174]
+  - log [ref=e1175]
+  - log [ref=e1176]
+  - log [ref=e1177]
+  - log [ref=e1178]
+  - log [ref=e1179]
+  - log [ref=e1180]
+  - log [ref=e1181]
+  - log [ref=e1182]
+  - log [ref=e1183]
+  - log [ref=e1184]
+  - log [ref=e1185]
+  - log [ref=e1186]
+  - log [ref=e1187]
+  - log [ref=e1188]
+  - log [ref=e1189]
+  - log [ref=e1190]
+  - log [ref=e1191]
+  - log [ref=e1192]
+  - log [ref=e1193]
+  - log [ref=e1194]
+  - log [ref=e1195]
+  - log [ref=e1196]
+  - log [ref=e1197]
+  - log [ref=e1198]
+  - log [ref=e1199]
+  - log [ref=e1200]
+  - log [ref=e1201]
+  - log [ref=e1202]
+  - log [ref=e1203]
+  - log [ref=e1204]
+  - log [ref=e1205]
+  - log [ref=e1206]
+  - log [ref=e1207]
+  - log [ref=e1208]
+  - log [ref=e1209]
+  - log [ref=e1210]
+  - log [ref=e1211]
+  - log [ref=e1212]
+  - log [ref=e1213]
+  - log [ref=e1214]
+  - log [ref=e1215]
+  - log [ref=e1216]
+  - log [ref=e1217]
+  - log [ref=e1218]
+  - log [ref=e1219]
+  - log [ref=e1220]
+  - log [ref=e1221]
+  - log [ref=e1222]
+  - log [ref=e1223]
+  - log [ref=e1224]
+  - log [ref=e1225]
+  - log [ref=e1226]
+  - log [ref=e1227]
+  - log [ref=e1228]
+  - log [ref=e1229]
+  - log [ref=e1230]
+  - log [ref=e1231]
+  - log [ref=e1232]
+  - log [ref=e1233]
+  - log [ref=e1234]
+  - log [ref=e1235]
+  - log [ref=e1236]
+  - log [ref=e1237]
+  - log [ref=e1238]
+  - log [ref=e1239]
+  - log [ref=e1240]
+  - log [ref=e1241]
+  - log [ref=e1242]
+  - log [ref=e1243]
+  - log [ref=e1244]
+  - log [ref=e1245]
+  - log [ref=e1246]
+  - log [ref=e1247]
+  - log [ref=e1248]
+  - log [ref=e1249]
+  - log [ref=e1250]
+  - log [ref=e1251]
+  - log [ref=e1252]
+  - log [ref=e1253]
+  - log [ref=e1254]
+  - log [ref=e1255]
+  - log [ref=e1256]
+  - log [ref=e1257]
+  - log [ref=e1258]
+  - log [ref=e1259]
+  - log [ref=e1260]
+  - log [ref=e1261]
+  - log [ref=e1262]
+  - log [ref=e1263]
+  - log [ref=e1264]
+  - log [ref=e1265]
+  - log [ref=e1266]
+  - log [ref=e1267]
+  - log [ref=e1268]
+  - log [ref=e1269]
+  - log [ref=e1270]
+  - log [ref=e1271]
+  - log [ref=e1272]
+  - log [ref=e1273]
+  - log [ref=e1274]
+  - log [ref=e1275]
+  - log [ref=e1276]
+  - log [ref=e1277]
+  - log [ref=e1278]
+  - log [ref=e1279]

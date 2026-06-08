@@ -1,0 +1,197 @@
+- generic [active] [ref=e1]:
+  - link "Skip navigation" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "UNI logo" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "UNI logo" [ref=e7]
+      - navigation [ref=e8]:
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link " Página de inicio" [ref=e11] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e12]: 
+              - text: Página de inicio
+          - listitem [ref=e13]:
+            - link "Buscar" [ref=e14] [cursor=pointer]:
+              - /url: "#"
+              - text: Buscar
+          - listitem [ref=e16]:
+            - link "Ayuda" [ref=e17] [cursor=pointer]:
+              - /url: "#"
+        - list [ref=e19]:
+          - listitem [ref=e20]:
+            - link "Idioma" [ref=e21] [cursor=pointer]:
+              - /url: "#"
+              - text: Idioma
+        - generic [ref=e23]:
+          - list [ref=e24]:
+            - listitem [ref=e25]:
+              - link " Servicios" [ref=e26] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e27]: 
+                - text: Servicios
+          - generic [ref=e29]:
+            - textbox "Buscar en DSpace" [ref=e31]:
+              - /placeholder: "Buscar en DSpace "
+            - button "" [ref=e32] [cursor=pointer]:
+              - generic [ref=e33]: 
+  - main [ref=e34]:
+    - generic [ref=e36]:
+      - img "Portada UNI" [ref=e38]
+      - img "UNI logo" [ref=e40]
+    - list [ref=e42]:
+      - listitem [ref=e43]:
+        - link "Repositorio Institucional Universidad Nacional de Ingeniería" [ref=e44] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e45]:
+        - text: /
+        - link "Ingeniería, Arquitectura y Ciencias" [ref=e46] [cursor=pointer]:
+          - /url: /handle/20.500.14076/1
+      - listitem [ref=e47]:
+        - text: /
+        - link "Facultad de Ciencias" [ref=e48] [cursor=pointer]:
+          - /url: /handle/20.500.14076/56
+      - listitem [ref=e49]:
+        - text: /
+        - link "Ciencias de la Computación" [ref=e50] [cursor=pointer]:
+          - /url: /handle/20.500.14076/61
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - text: "Por favor, use este identificador para citar o enlazar este ítem:"
+        - code [ref=e53]: http://hdl.handle.net/20.500.14076/5651
+      - table [ref=e54]:
+        - rowgroup [ref=e55]:
+          - 'row "Título : SnorUNI: aplicación móvil para sistemas de detección y prevención de intrusiones basados en Snort" [ref=e56]':
+            - cell "Título :" [ref=e57]
+            - 'cell "SnorUNI: aplicación móvil para sistemas de detección y prevención de intrusiones basados en Snort" [ref=e58]'
+          - 'row "Autor : Yauri Lozano, Eduardo" [ref=e59]':
+            - cell "Autor :" [ref=e60]
+            - cell "Yauri Lozano, Eduardo" [ref=e61]:
+              - link "Yauri Lozano, Eduardo" [ref=e62] [cursor=pointer]:
+                - /url: /browse?type=author&value=Yauri+Lozano%2C+Eduardo
+          - 'row "Asesor : Castillo Cara, José Manuel" [ref=e63]':
+            - cell "Asesor :" [ref=e64]
+            - cell "Castillo Cara, José Manuel" [ref=e65]:
+              - link "Castillo Cara, José Manuel" [ref=e66] [cursor=pointer]:
+                - /url: /browse?type=author&value=Castillo+Cara%2C+Jos%C3%A9+Manuel
+          - 'row "Palabras clave : Sistemas de detección y prevención;Intrusiones basados en Snort" [ref=e67]':
+            - cell "Palabras clave :" [ref=e68]
+            - cell "Sistemas de detección y prevención;Intrusiones basados en Snort" [ref=e69]
+          - 'row "Fecha de publicación : 2017" [ref=e70]':
+            - cell "Fecha de publicación :" [ref=e71]
+            - cell "2017" [ref=e72]
+          - 'row "Editorial : Universidad Nacional de Ingeniería" [ref=e73]':
+            - cell "Editorial :" [ref=e74]
+            - cell "Universidad Nacional de Ingeniería" [ref=e75]
+          - row [ref=e76]:
+            - cell "Resumen :" [ref=e77]
+            - cell [ref=e78]
+          - 'row "URI : http://hdl.handle.net/20.500.14076/5651" [ref=e79]':
+            - cell "URI :" [ref=e80]
+            - cell "http://hdl.handle.net/20.500.14076/5651" [ref=e81]:
+              - link "http://hdl.handle.net/20.500.14076/5651" [ref=e82] [cursor=pointer]:
+                - /url: http://hdl.handle.net/20.500.14076/5651
+          - 'row "Derechos: info:eu-repo/semantics/openAccess" [ref=e83]':
+            - cell "Derechos:" [ref=e84]
+            - cell "info:eu-repo/semantics/openAccess" [ref=e85]
+          - 'row "Aparece en las colecciones: Ciencias de la Computación" [ref=e86]':
+            - cell "Aparece en las colecciones:" [ref=e87]
+            - cell "Ciencias de la Computación" [ref=e88]:
+              - link "Ciencias de la Computación" [ref=e89] [cursor=pointer]:
+                - /url: /handle/20.500.14076/61
+      - generic [ref=e90]:
+        - generic [ref=e91]: "Ficheros en este ítem:"
+        - table [ref=e92]:
+          - rowgroup [ref=e93]:
+            - row "Fichero Descripción Tamaño Formato" [ref=e94]:
+              - columnheader "Fichero" [ref=e95]
+              - columnheader "Descripción" [ref=e96]
+              - columnheader "Tamaño" [ref=e97]
+              - columnheader "Formato" [ref=e98]
+              - columnheader [ref=e99]
+            - row "yauri_le.pdf 4,39 MB Adobe PDF Visualizar/Abrir" [ref=e100]:
+              - cell "yauri_le.pdf" [ref=e101]:
+                - link "yauri_le.pdf" [ref=e102] [cursor=pointer]:
+                  - /url: /bitstream/20.500.14076/5651/1/yauri_le.pdf
+              - cell [ref=e103]
+              - cell "4,39 MB" [ref=e104]
+              - cell "Adobe PDF" [ref=e105]
+              - cell "Visualizar/Abrir" [ref=e106]:
+                - link "Visualizar/Abrir" [ref=e107] [cursor=pointer]:
+                  - /url: /bitstream/20.500.14076/5651/1/yauri_le.pdf
+            - row "carta_de_autorización.pdf 405,94 kB Adobe PDF Visualizar/Abrir" [ref=e108]:
+              - cell "carta_de_autorización.pdf" [ref=e109]:
+                - link "carta_de_autorización.pdf" [ref=e110] [cursor=pointer]:
+                  - /url: /bitstream/20.500.14076/5651/4/carta_de_autorizaci%c3%b3n.pdf
+              - cell [ref=e111]
+              - cell "405,94 kB" [ref=e112]
+              - cell "Adobe PDF" [ref=e113]
+              - cell "Visualizar/Abrir" [ref=e114]:
+                - link "Visualizar/Abrir" [ref=e115] [cursor=pointer]:
+                  - /url: /bitstream/20.500.14076/5651/4/carta_de_autorizaci%c3%b3n.pdf
+      - generic [ref=e116]:
+        - link "Mostrar el registro Dublin Core completo del ítem" [ref=e117] [cursor=pointer]:
+          - /url: /handle/20.500.14076/5651?mode=full
+        - link "" [ref=e118] [cursor=pointer]:
+          - /url: /handle/20.500.14076/5651/statistics
+          - generic [ref=e119]: 
+      - paragraph [ref=e120]:
+        - text: Este ítem está sujeto a una licencia Creative Commons
+        - link "Licencia Creative Commons" [ref=e121] [cursor=pointer]:
+          - /url: http://creativecommons.org/licenses/by-nc-nd/4.0/
+        - link "Creative Commons":
+          - /url: http://creativecommons.org/licenses/by-nc-nd/4.0/
+          - img "Creative Commons" [ref=e122] [cursor=pointer]
+    - generic [ref=e124]:
+      - generic [ref=e125]: "Indexado por:"
+      - generic [ref=e126]:
+        - img "Indexado por" [ref=e127]
+        - generic:
+          - link "Scholar Google":
+            - /url: http://scholar.google.com/
+          - link "LaReferencia":
+            - /url: http://www.lareferencia.info/es/
+          - link "Concytec":
+            - /url: https://portal.concytec.gob.pe/
+          - link "BASE":
+            - /url: https://www.base-search.net/Search/Results?filter%5B%5D=f_dccollection%3A%22ftunivnilima%22&lookfor=country%3Ape&type=all&sort=score+desc%2Cid+asc&oaboost=1&refid=dcdden
+          - link "renati":
+            - /url: http://renati.sunedu.gob.pe/
+          - link "ROAR":
+            - /url: http://roar.eprints.org/
+          - link "ALICIA":
+            - /url: https://alicia.concytec.gob.pe/vufind/
+          - link "RepoLatin":
+            - /url: http://repositorioslatinoamericanos.uchile.cl/
+          - link "UNI":
+            - /url: https://www.uni.edu.pe/
+  - contentinfo [ref=e128]:
+    - generic [ref=e129]:
+      - link "Logo UNI" [ref=e130] [cursor=pointer]:
+        - /url: http://www.uni.edu.pe
+        - img "Logo UNI" [ref=e131]
+      - generic [ref=e132]:
+        - text: Universidad Nacional de Ingeniería - Biblioteca Central
+        - text: Av. Túpac Amaru 210 - Rímac. Apartado 1301
+        - text: (+51) (01) 4811070
+        - text: Lima - Perú
+      - paragraph [ref=e134]:
+        - text: Theme by
+        - link "Logo CINECA" [ref=e135] [cursor=pointer]:
+          - /url: http://www.cineca.it
+          - img "Logo CINECA" [ref=e136]
+        - link "DSpace Software" [ref=e137] [cursor=pointer]:
+          - /url: http://www.dspace.org/
+        - text: Copyright © 2002-2008
+        - link "MIT" [ref=e138] [cursor=pointer]:
+          - /url: http://web.mit.edu/
+        - text: and
+        - link "Hewlett-Packard" [ref=e139] [cursor=pointer]:
+          - /url: http://www.hp.com/
+        - text: "-"
+        - link "Comentarios" [ref=e140] [cursor=pointer]:
+          - /url: /feedback
+        - link:
+          - /url: /htmlmap

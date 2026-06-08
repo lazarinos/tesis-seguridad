@@ -1,0 +1,189 @@
+- generic [active] [ref=e1]:
+  - link "Skip navigation" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "UNI logo" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "UNI logo" [ref=e7]
+      - navigation [ref=e8]:
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link " Página de inicio" [ref=e11] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e12]: 
+              - text: Página de inicio
+          - listitem [ref=e13]:
+            - link "Buscar" [ref=e14] [cursor=pointer]:
+              - /url: "#"
+              - text: Buscar
+          - listitem [ref=e16]:
+            - link "Ayuda" [ref=e17] [cursor=pointer]:
+              - /url: "#"
+        - list [ref=e19]:
+          - listitem [ref=e20]:
+            - link "Idioma" [ref=e21] [cursor=pointer]:
+              - /url: "#"
+              - text: Idioma
+        - generic [ref=e23]:
+          - list [ref=e24]:
+            - listitem [ref=e25]:
+              - link " Servicios" [ref=e26] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e27]: 
+                - text: Servicios
+          - generic [ref=e29]:
+            - textbox "Buscar en DSpace" [ref=e31]:
+              - /placeholder: "Buscar en DSpace "
+            - button "" [ref=e32] [cursor=pointer]:
+              - generic [ref=e33]: 
+  - main [ref=e34]:
+    - generic [ref=e36]:
+      - img "Portada UNI" [ref=e38]
+      - img "UNI logo" [ref=e40]
+    - list [ref=e42]:
+      - listitem [ref=e43]:
+        - link "Repositorio Institucional Universidad Nacional de Ingeniería" [ref=e44] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e45]:
+        - text: /
+        - link "Ingeniería, Arquitectura y Ciencias" [ref=e46] [cursor=pointer]:
+          - /url: /handle/20.500.14076/1
+      - listitem [ref=e47]:
+        - text: /
+        - link "Facultad de Ingenieria Civil" [ref=e48] [cursor=pointer]:
+          - /url: /handle/20.500.14076/12
+      - listitem [ref=e49]:
+        - text: /
+        - link "Unidad de Postgrado" [ref=e50] [cursor=pointer]:
+          - /url: /handle/20.500.14076/14
+      - listitem [ref=e51]:
+        - text: /
+        - link "Maestría" [ref=e52] [cursor=pointer]:
+          - /url: /handle/20.500.14076/16
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - text: "Por favor, use este identificador para citar o enlazar este ítem:"
+        - code [ref=e55]: http://hdl.handle.net/20.500.14076/12209
+      - table [ref=e56]:
+        - rowgroup [ref=e57]:
+          - 'row "Título : Modelo de gestión para mejorar la productividad en obras de pavimentación ejecutadas por entidades en la región del Cusco" [ref=e58]':
+            - cell "Título :" [ref=e59]
+            - cell "Modelo de gestión para mejorar la productividad en obras de pavimentación ejecutadas por entidades en la región del Cusco" [ref=e60]
+          - 'row "Autor : Cáceres Herencia, José Arimaldo" [ref=e61]':
+            - cell "Autor :" [ref=e62]
+            - cell "Cáceres Herencia, José Arimaldo" [ref=e63]:
+              - link "Cáceres Herencia, José Arimaldo" [ref=e64] [cursor=pointer]:
+                - /url: /browse?type=author&value=C%C3%A1ceres+Herencia%2C+Jos%C3%A9+Arimaldo
+          - 'row "Asesor : Durán Querol, Rodolfo Martín" [ref=e65]':
+            - cell "Asesor :" [ref=e66]
+            - cell "Durán Querol, Rodolfo Martín" [ref=e67]:
+              - link "Durán Querol, Rodolfo Martín" [ref=e68] [cursor=pointer]:
+                - /url: /browse?type=author&value=Dur%C3%A1n+Querol%2C+Rodolfo+Mart%C3%ADn
+          - 'row "Palabras clave : Administración de la construcción;Modelo de gestión" [ref=e69]':
+            - cell "Palabras clave :" [ref=e70]
+            - cell "Administración de la construcción;Modelo de gestión" [ref=e71]
+          - 'row "Fecha de publicación : 2017" [ref=e72]':
+            - cell "Fecha de publicación :" [ref=e73]
+            - cell "2017" [ref=e74]
+          - 'row "Editorial : Universidad Nacional de Ingeniería" [ref=e75]':
+            - cell "Editorial :" [ref=e76]
+            - cell "Universidad Nacional de Ingeniería" [ref=e77]
+          - row [ref=e78]:
+            - cell "Resumen :" [ref=e79]
+            - cell [ref=e80]:
+              - text: La presente investigación se resume en un modelo de gestión para mejorar la productividad en obras de pavimentación ejecutadas por entidades públicas en la región del Cusco, que abarca el control de productividad durante el ciclo de vida del proyecto, planificación, ejecución y control por el equipo de la residencia e implementar capacitación y motivación dirigida hacia todo el personal involucrado en la cadena de producción de toda la cartera de proyectos. Para determinar los distintos campos que abarca el modelo de gestión propuesto, se ha realizado encuestas a todos los involucrados en la cadena de producción de las obras en estudio y análisis; las encuestas han sido diseñadas y dirigidas con el objeto de determinar un diagnóstico de las variables de productividad, la organización del equipo de dirección de obras y el tipo de capacitación y motivación que se realiza en la entidad ejecutora. Así mismo se han realizado mediciones de productividad diarias de las partidas más incidentes de los tres proyectos de pavimentación en estudio, las observaciones se realizaron a las cuadrillas de mano de obra y maquinaria; posteriormente se realizó la compilación y tratamiento de información con métodos estadísticos probabilísticos para determinar las distribuciones normales de cada actividad y compararlas entre las obras estudiadas. A partir de los resultados de la productividad, diagnóstico de la situación actual de la organización, capacitación y motivación de las obras estudiadas, se plantea el modelo de gestión propuesto, con el objetivo de mejorar la productividad de las obras de pavimentación ejecutadas por entidades públicas; finalmente el modelo propuesto es validado por especialistas o expertos en la gestión y administración pública y privada, mediante un cuestionario en la que se plantean seis criterios de evaluación para que el modelo de gestión propuesto pueda ser implementado en cualquier entidad pública de la región Cusco.
+              - text: This research is summarized in a management model to improve the productivity of paving works executed by public entities in the Cusco region, which includes the control of productivity during the life cycle of the project, planning, execution and control by the team of the residence and implement training and motivation directed towards all the personnel involved in the production chain of the entire portfolio of projects. To determine the different fields covered by the proposed management model, surveys have been carried out to all those involved in the production chain of the works under study and analysis; the surveys have been designed and directed in order to determine a diagnosis of the productivity variables, the organization of the works management team and the type of training and motivation that takes place in the executing agency. Likewise, daily productivity measurements of the most incidents of the three paving projects under study have been made, the observations were made to the labor and machinery crews; Subsequently, the compilation and processing of information was carried out with statistical probabilistic methods to determine the normal distributions of each activity and compare them among the works studied. Based on the results of productivity, diagnosis of the current situation of the organization, training and motivation of the works studied, the proposed management model is proposed, with the aim of improving the productivity of paving works executed by public entities ; finally, the proposed model is validated by specialists or experts in public and private management and administration, through a questionnaire in which six evaluation criteria are proposed so that the proposed management model can be implemented in any public entity in the Cusco region.
+          - 'row "URI : http://hdl.handle.net/20.500.14076/12209" [ref=e81]':
+            - cell "URI :" [ref=e82]
+            - cell "http://hdl.handle.net/20.500.14076/12209" [ref=e83]:
+              - link "http://hdl.handle.net/20.500.14076/12209" [ref=e84] [cursor=pointer]:
+                - /url: http://hdl.handle.net/20.500.14076/12209
+          - 'row "Derechos: info:eu-repo/semantics/restrictedAccess" [ref=e85]':
+            - cell "Derechos:" [ref=e86]
+            - cell "info:eu-repo/semantics/restrictedAccess" [ref=e87]
+          - 'row "Aparece en las colecciones: Maestría" [ref=e88]':
+            - cell "Aparece en las colecciones:" [ref=e89]
+            - cell "Maestría" [ref=e90]:
+              - link "Maestría" [ref=e91] [cursor=pointer]:
+                - /url: /handle/20.500.14076/16
+      - generic [ref=e92]:
+        - generic [ref=e93]: "Ficheros en este ítem:"
+        - table [ref=e94]:
+          - rowgroup [ref=e95]:
+            - row "Fichero Descripción Tamaño Formato" [ref=e96]:
+              - columnheader "Fichero" [ref=e97]
+              - columnheader "Descripción" [ref=e98]
+              - columnheader "Tamaño" [ref=e99]
+              - columnheader "Formato" [ref=e100]
+              - columnheader [ref=e101]
+            - row "caceres_ha.pdf 3,18 MB Adobe PDF 🔒Acceso Restringido" [ref=e102]:
+              - cell "caceres_ha.pdf" [ref=e103]
+              - cell [ref=e104]
+              - cell "3,18 MB" [ref=e105]
+              - cell "Adobe PDF" [ref=e106]
+              - cell "🔒Acceso Restringido" [ref=e107]
+      - generic [ref=e108]:
+        - link "Mostrar el registro Dublin Core completo del ítem" [ref=e109] [cursor=pointer]:
+          - /url: /handle/20.500.14076/12209?mode=full
+        - link "" [ref=e110] [cursor=pointer]:
+          - /url: /handle/20.500.14076/12209/statistics
+          - generic [ref=e111]: 
+      - paragraph [ref=e112]:
+        - text: Este ítem está sujeto a una licencia Creative Commons
+        - link "Licencia Creative Commons" [ref=e113] [cursor=pointer]:
+          - /url: http://creativecommons.org/licenses/by-nc-nd/4.0/
+        - link "Creative Commons":
+          - /url: http://creativecommons.org/licenses/by-nc-nd/4.0/
+          - img "Creative Commons" [ref=e114] [cursor=pointer]
+    - generic [ref=e116]:
+      - generic [ref=e117]: "Indexado por:"
+      - generic [ref=e118]:
+        - img "Indexado por" [ref=e119]
+        - generic:
+          - link "Scholar Google":
+            - /url: http://scholar.google.com/
+          - link "LaReferencia":
+            - /url: http://www.lareferencia.info/es/
+          - link "Concytec":
+            - /url: https://portal.concytec.gob.pe/
+          - link "BASE":
+            - /url: https://www.base-search.net/Search/Results?filter%5B%5D=f_dccollection%3A%22ftunivnilima%22&lookfor=country%3Ape&type=all&sort=score+desc%2Cid+asc&oaboost=1&refid=dcdden
+          - link "renati":
+            - /url: http://renati.sunedu.gob.pe/
+          - link "ROAR":
+            - /url: http://roar.eprints.org/
+          - link "ALICIA":
+            - /url: https://alicia.concytec.gob.pe/vufind/
+          - link "RepoLatin":
+            - /url: http://repositorioslatinoamericanos.uchile.cl/
+          - link "UNI":
+            - /url: https://www.uni.edu.pe/
+  - contentinfo [ref=e120]:
+    - generic [ref=e121]:
+      - link "Logo UNI" [ref=e122] [cursor=pointer]:
+        - /url: http://www.uni.edu.pe
+        - img "Logo UNI" [ref=e123]
+      - generic [ref=e124]:
+        - text: Universidad Nacional de Ingeniería - Biblioteca Central
+        - text: Av. Túpac Amaru 210 - Rímac. Apartado 1301
+        - text: (+51) (01) 4811070
+        - text: Lima - Perú
+      - paragraph [ref=e126]:
+        - text: Theme by
+        - link "Logo CINECA" [ref=e127] [cursor=pointer]:
+          - /url: http://www.cineca.it
+          - img "Logo CINECA" [ref=e128]
+        - link "DSpace Software" [ref=e129] [cursor=pointer]:
+          - /url: http://www.dspace.org/
+        - text: Copyright © 2002-2008
+        - link "MIT" [ref=e130] [cursor=pointer]:
+          - /url: http://web.mit.edu/
+        - text: and
+        - link "Hewlett-Packard" [ref=e131] [cursor=pointer]:
+          - /url: http://www.hp.com/
+        - text: "-"
+        - link "Comentarios" [ref=e132] [cursor=pointer]:
+          - /url: /feedback
+        - link:
+          - /url: /htmlmap

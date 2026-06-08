@@ -1,0 +1,233 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "Saltar al contenido" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+    - generic [ref=e4]:
+      - generic:
+        - link "" [ref=e5] [cursor=pointer]:
+          - /url: https://twitter.com/concytecperu/
+          - generic [ref=e6]: 
+        - link "" [ref=e7] [cursor=pointer]:
+          - /url: https://www.facebook.com/concytec/
+          - generic [ref=e8]: 
+        - link "" [ref=e9] [cursor=pointer]:
+          - /url: mailto:alicia@concytec.gob.pe
+          - generic [ref=e10]: 
+        - link "" [ref=e11] [cursor=pointer]:
+          - /url: tel:005113990030
+          - generic [ref=e12]: 
+    - generic [ref=e13]:
+      - img "ALICIA" [ref=e15]
+      - img "Concytec" [ref=e17]
+    - navigation [ref=e20]:
+      - button "menú" [ref=e21] [cursor=pointer]:
+        - generic [ref=e22]: 
+        - text: menú
+      - generic [ref=e24]:
+        - button "" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26]: 
+        - list [ref=e28]:
+          - listitem [ref=e29] [cursor=pointer]:
+            - link "Inicio" [ref=e30]:
+              - /url: https://alicia.concytec.gob.pe/
+          - listitem [ref=e31] [cursor=pointer]:
+            - link "Acerca de" [ref=e32]:
+              - /url: "#"
+            - button "" [ref=e33]:
+              - generic [ref=e34]: 
+          - listitem [ref=e35] [cursor=pointer]:
+            - link "Buscar en Alicia" [ref=e36]:
+              - /url: /Search/Advanced
+          - listitem [ref=e37] [cursor=pointer]:
+            - link "Ciencia Abierta" [ref=e38]:
+              - /url: https://alicia.concytec.gob.pe/ciencia-abierta/
+          - listitem [ref=e39] [cursor=pointer]:
+            - link "Guía Alicia y Directrices" [ref=e40]:
+              - /url: "#"
+            - button "" [ref=e41]:
+              - generic [ref=e42]: 
+            - text:   
+          - listitem [ref=e43] [cursor=pointer]:
+            - link "Instituciones Integrantes" [ref=e44]:
+              - /url: "#"
+            - button "" [ref=e45]:
+              - generic [ref=e46]: 
+          - listitem [ref=e47] [cursor=pointer]:
+            - link "Actividades" [ref=e48]:
+              - /url: "#"
+            - button "" [ref=e49]:
+              - generic [ref=e50]: 
+          - listitem [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]: Soporte Técnico
+            - button "" [ref=e53]:
+              - generic [ref=e54]: 
+          - listitem [ref=e55] [cursor=pointer]:
+            - link "Colecciones" [ref=e56]:
+              - /url: "#"
+            - button "" [ref=e57]:
+              - generic [ref=e58]: 
+    - generic [ref=e59]:
+      - paragraph [ref=e60]:
+        - text: La mayor colección digital de la
+        - text: Producción científica-tecnológica del país
+      - generic [ref=e61]:
+        - textbox "Términos de búsqueda" [ref=e62]:
+          - /placeholder: Término de búsqueda / Search term
+        - generic [ref=e63]:
+          - combobox "Search type" [ref=e64]:
+            - option "Todos los Campos" [selected]
+            - option "Título"
+            - option "Autor"
+            - option "Materia"
+            - option "Número de Clasificación"
+            - option "ISBN/ISSN"
+            - option "Etiqueta"
+          - button "Buscar" [ref=e65] [cursor=pointer]:
+            - text: Buscar
+            - generic [ref=e66]: 
+          - link "Búsqueda Avanzada" [ref=e67] [cursor=pointer]:
+            - /url: /vufind/Search/Advanced
+            - text: Búsqueda Avanzada
+            - generic [ref=e68]: 
+  - navigation "Ruta de Exploración" [ref=e69]:
+    - list [ref=e71]:
+      - listitem
+      - listitem [ref=e72]:
+        - text: /
+        - 'link "SnorUNI: aplicación móvil para..." [ref=e73] [cursor=pointer]':
+          - /url: /vufind/Record/UUNI_a51439257fe31beb809f807c4d21b89d
+      - listitem [ref=e74]: / Descripción
+  - main [ref=e75]:
+    - generic [ref=e76]:
+      - generic:
+        - generic [ref=e77]:
+          - generic [ref=e79]:
+            - 'heading "SnorUNI: aplicación móvil para sistemas de detección y prevención de intrusiones basados en Snort" [level=1] [ref=e80]'
+            - heading "Descripción del Articulo" [level=2] [ref=e81]
+            - generic [ref=e82]:
+              - text: Actualmente, con el constante desarrollo de la Ciencia de la Computación, la seguridad de redes es uno de los problemas más importantes a resolver; el crecimiento de redes y equipos utilizados en casi todas las áreas de trabajo hace que sean más sensibles a ser vulnerados. Dentro del ámbito de la se...
+              - paragraph [ref=e83]:
+                - link "Descripción completa" [ref=e84] [cursor=pointer]:
+                  - /url: /vufind/Record/UUNI_a51439257fe31beb809f807c4d21b89d/Description#tabnav
+            - table "Detalles Bibliográficos" [ref=e86]:
+              - caption [ref=e87]: Detalles Bibliográficos
+              - rowgroup [ref=e88]:
+                - 'row "Autor: Yauri Lozano, Eduardo" [ref=e89]':
+                  - rowheader "Autor:" [ref=e90]
+                  - cell "Yauri Lozano, Eduardo" [ref=e91]:
+                    - link "Yauri Lozano, Eduardo" [ref=e93] [cursor=pointer]:
+                      - /url: "  /vufind/Author/Home?author=Yauri+Lozano%2C+Eduardo"
+                - 'row "Formato: tesis de grado" [ref=e94]':
+                  - rowheader "Formato:" [ref=e95]
+                  - cell "tesis de grado" [ref=e96]
+                - 'row "Fecha de Publicación: 2017" [ref=e97]':
+                  - rowheader "Fecha de Publicación:" [ref=e98]
+                  - cell "2017" [ref=e99]
+                - 'row "Institución: Universidad Nacional de Ingeniería" [ref=e100]':
+                  - rowheader "Institución:" [ref=e101]
+                  - cell "Universidad Nacional de Ingeniería" [ref=e102]
+                - 'row "Repositorio: UNI-Tesis" [ref=e103]':
+                  - rowheader "Repositorio:" [ref=e104]
+                  - cell "UNI-Tesis" [ref=e105]
+                - 'row "Lenguaje: español" [ref=e106]':
+                  - rowheader "Lenguaje:" [ref=e107]
+                  - cell "español" [ref=e108]
+                - 'row "OAI Identifier: oai:cybertesis.uni.edu.pe:20.500.14076/5651" [ref=e109]':
+                  - rowheader "OAI Identifier:" [ref=e110]
+                  - cell "oai:cybertesis.uni.edu.pe:20.500.14076/5651" [ref=e111]
+                - 'row "Enlace del recurso: http://hdl.handle.net/20.500.14076/5651" [ref=e112]':
+                  - rowheader "Enlace del recurso:" [ref=e113]
+                  - cell "http://hdl.handle.net/20.500.14076/5651" [ref=e114]:
+                    - link "http://hdl.handle.net/20.500.14076/5651" [ref=e115] [cursor=pointer]:
+                      - /url: http://hdl.handle.net/20.500.14076/5651
+                - 'row "Nivel de acceso: acceso abierto" [ref=e116]':
+                  - rowheader "Nivel de acceso:" [ref=e117]
+                  - cell "acceso abierto" [ref=e118]
+                - 'row "Materia: Sistemas de detección y prevención Intrusiones basados en Snort" [ref=e119]':
+                  - rowheader "Materia:" [ref=e120]
+                  - cell "Sistemas de detección y prevención Intrusiones basados en Snort" [ref=e121]:
+                    - text: Sistemas de detección y prevención
+                    - text: Intrusiones basados en Snort
+          - navigation [ref=e122]:
+            - list "Herramientas" [ref=e123]:
+              - link "Citar" [ref=e124] [cursor=pointer]:
+                - /url: /vufind/Record/UUNI_a51439257fe31beb809f807c4d21b89d/Cite
+              - link "Exportar Registro" [ref=e125] [cursor=pointer]:
+                - /url: /vufind/Record/UUNI_a51439257fe31beb809f807c4d21b89d/Export
+          - generic [ref=e126]:
+            - list [ref=e127]:
+              - listitem [ref=e128]:
+                - link "Descripción" [ref=e129]:
+                  - /url: /vufind/Record/UUNI_a51439257fe31beb809f807c4d21b89d/Description#tabnav
+              - listitem [ref=e130]:
+                - link "Metadatos" [ref=e131] [cursor=pointer]:
+                  - /url: /vufind/Record/UUNI_a51439257fe31beb809f807c4d21b89d/Details#tabnav
+            - table "Descripción" [ref=e134]:
+              - caption [ref=e135]: Descripción
+              - rowgroup [ref=e136]:
+                - row [ref=e137]:
+                  - rowheader "Sumario:" [ref=e138]
+                  - cell [ref=e139]: Actualmente, con el constante desarrollo de la Ciencia de la Computación, la seguridad de redes es uno de los problemas más importantes a resolver; el crecimiento de redes y equipos utilizados en casi todas las áreas de trabajo hace que sean más sensibles a ser vulnerados. Dentro del ámbito de la seguridad, un tema importante es la organización y el fácil acceso a la información sobre posibles alertas por parte de los administradores, lo cual es vital para tomar rápidamente las medidas necesarias. Por otro lado, con el considerable aumento de dispositivos móviles y otras tecnologías, es necesario crear una conexión entre estos dispositivos y los sistemas de seguridad. La presente tesis, describe la implementación de un aplicativo móvil que permitirá a los administradores de seguridad, obtener información de las alertas de forma fiable y de fácil acceso en sus celulares, tabletas o cualquier dispositivo móvil de bajo costo. El trabajo consiste en desarrollar la aplicación móvil del administrador incluyendo las vistas básicas y plugins, la implementación del Sistema de Detección de Intrusiones (IDS por sus siglas en inglés Intrusión Detection System) utilizando Snort, la implementación del servicio web para transmisión de datos y, finalmente, el sistema de notificaciones.
+          - generic "url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fvufind.svn.sourceforge.net%3Agenerator&rft.title=SnorUNI%3A+aplicaci%C3%B3n+m%C3%B3vil+para+sistemas+de+detecci%C3%B3n+y+prevenci%C3%B3n+de+intrusiones+basados+en+Snort&rft.date=2017&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rft.creator=Yauri+Lozano%2C+Eduardo&rft.format=bachelorThesis&rft.language=spa"
+          - 'link "SnorUNI: aplicación móvil para sistemas de detección y prevención de intrusiones basados en Snort" [ref=e142] [cursor=pointer]':
+            - /url: /vufind/Record/UUNI_a51439257fe31beb809f807c4d21b89d
+          - generic [ref=e144]:
+            - text: "Nota importante:"
+            - text: La información contenida en este registro es de entera responsabilidad de la institución que gestiona el repositorio institucional donde esta contenido este documento o set de datos. El CONCYTEC no se hace responsable por los contenidos (publicaciones y/o datos) accesibles a través del Repositorio Nacional Digital de Ciencia, Tecnología e Innovación de Acceso Abierto (ALICIA).
+        - generic [ref=e145]:
+          - generic [ref=e147]:
+            - button "?" [ref=e149] [cursor=pointer]
+            - button [ref=e152] [cursor=pointer]:
+              - img [ref=e153]
+          - paragraph
+          - heading "Ejemplares Similares" [level=2] [ref=e154]
+          - list [ref=e155]:
+            - listitem [ref=e156]:
+              - link "“Snort Open Source como sistema de detección de intrusos para la seguridad de la infraestructura de red en entornos libres aplicado a Pymes del Perú, 2020”" [ref=e157] [cursor=pointer]:
+                - /url: /vufind/Record/UNSJ_326ec3eb69bf40efbb3f4bf1aa545ac2
+              - generic [ref=e158]: "por: Huamaní Santiago, Hayde Luisa"
+              - generic [ref=e159]: "Publicado: (2020)"
+            - listitem [ref=e160]:
+              - 'link "Técnicas de Machine Learning para la detección de intrusiones en dispositivos IoT: Una revisión sistemática" [ref=e161] [cursor=pointer]':
+                - /url: /vufind/Record/USSS_7cace7b93f52768b23af08a005b295b2
+              - generic [ref=e162]: "por: Querevalu Leonardo, Dara Elizabeth"
+              - generic [ref=e163]: "Publicado: (2026)"
+            - listitem [ref=e164]:
+              - link "Propuesta de mejoramiento para detección avanzada de intrusiones en grandes perímetros por medio de sensado acústico distribuido con fibra óptica" [ref=e165] [cursor=pointer]:
+                - /url: /vufind/Record/UIGV_a330c6ed4a38cbfe557a0f969c44ff60
+              - generic [ref=e166]: "por: Muñoz Jara, William Wolher"
+              - generic [ref=e167]: "Publicado: (2025)"
+            - listitem [ref=e168]:
+              - link "Implementación de un sistema de detección y prevención de intrusos (IDS/IPS), basado en la norma ISO 27001, para el monitoreo perimetral de la seguridad informática, en la red de la Universidad Peruana Unión – Filial Juliaca" [ref=e169] [cursor=pointer]:
+                - /url: /vufind/Record/UEPU_1b2bf31e31e4b4c5769c852033152856
+              - generic [ref=e170]: "por: Coyla Jarita, Yony"
+              - generic [ref=e171]: "Publicado: (2019)"
+            - listitem [ref=e172]:
+              - link "Sistemas de detección de intrusos Suricata Open Source como mecanismo de seguridad corporativa en entornos libres, 2020" [ref=e173] [cursor=pointer]:
+                - /url: /vufind/Record/UNSJ_794d908b382557bd7c247709c91d318b
+              - generic [ref=e174]: "por: Tineo Morales, Danny Victor"
+              - generic [ref=e175]: "Publicado: (2020)"
+  - generic [ref=e176]:
+    - generic [ref=e177]:
+      - paragraph [ref=e178]: Contáctenos
+      - generic [ref=e179]:
+        - link "alicia@concytec.gob.pe" [ref=e181] [cursor=pointer]:
+          - /url: mailto:alicia@concytec.gob.pe
+          - generic [ref=e182]: 
+          - text: alicia@concytec.gob.pe
+        - link "0051-1-399-0030" [ref=e184] [cursor=pointer]:
+          - /url: tel:005113990030
+          - generic [ref=e185]: 
+          - text: 0051-1-399-0030
+        - link "Calle Chinchon N 867- San Isidro" [ref=e187] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e188]: 
+          - text: Calle Chinchon N 867- San Isidro
+    - generic [ref=e189]:
+      - paragraph [ref=e190]: Nuestros Socios
+      - generic [ref=e191]:
+        - img [ref=e193]
+        - img [ref=e195]
+        - img [ref=e197]
+    - paragraph [ref=e200]: Todos los derechos reservados 2020
+  - text: Cannot write session to /tmp/vufind_sessions/sess_l6ainjeor0d2je2k3jqer1ro28

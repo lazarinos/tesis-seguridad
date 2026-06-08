@@ -1,0 +1,308 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir al contenido principal" [ref=e2] [cursor=pointer]
+      - link "Ayuda sobre la accesibilidad" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=es-419
+  - generic [ref=e8]:
+    - search [ref=e9]:
+      - generic [ref=e12]:
+        - link "Ir a la página principal de Google" [ref=e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=es-419&ictx=0&sa=X&ved=0ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQpYkNCAo
+          - img "Ir a la página principal de Google" [ref=e14]
+        - generic [ref=e19]:
+          - combobox "Buscar" [ref=e22]: Alabdulatif LSTM GRU Random Forest IDS 2025 AppSci pdf Alabdulatif LSTM GRU Random Forest IDS 2025 AppSci pdf
+          - generic [ref=e23]:
+            - button "Borrar" [ref=e25] [cursor=pointer]:
+              - img [ref=e27]
+            - generic [ref=e30]:
+              - button "Búsqueda por voz" [ref=e31] [cursor=pointer]:
+                - img [ref=e32]
+              - button "Búsqueda por imagen" [ref=e34] [cursor=pointer]:
+                - img [ref=e35]
+        - button "Buscar" [ref=e37] [cursor=pointer]:
+          - img [ref=e40]
+    - generic [ref=e42]:
+      - button "Configuración" [ref=e44] [cursor=pointer]:
+        - img [ref=e47]
+      - generic [ref=e50]:
+        - button "Apps de Google" [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+        - link "Acceder" [ref=e57] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=es-419&passive=true&continue=https://www.google.com/search%3Fq%3DAlabdulatif%2BLSTM%2BGRU%2BRandom%2BForest%2BIDS%2B2025%2BAppSci%2Bpdf&ec=futura_srp_og_si_72236_p
+  - generic [ref=e59]:
+    - navigation [ref=e65]:
+      - generic [ref=e71]:
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - link "Modo IA" [ref=e76] [cursor=pointer]:
+              - /url: /search?q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&sca_esv=44a089a1939db368&udm=50&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&aep=1&ntc=1&sa=X&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQ2J8OegQIExAD
+              - generic [ref=e79]: Modo IA
+          - listitem [ref=e80]:
+            - link "Todo" [disabled] [ref=e81]:
+              - generic [ref=e83]: Todo
+          - listitem [ref=e84]:
+            - link "Imágenes" [ref=e85] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&sa=X&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQtKgLegQIHxAB
+              - generic [ref=e87]: Imágenes
+          - listitem [ref=e88]:
+            - link "Videos" [ref=e89] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=7&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&sa=X&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQtKgLegQIIBAB
+              - generic [ref=e91]: Videos
+          - listitem [ref=e92]:
+            - link "Videos cortos" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=39&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&sa=X&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQs6gLegQIIhAB
+              - generic [ref=e95]: Videos cortos
+          - listitem [ref=e96]:
+            - link "Noticias" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&tbm=nws&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&sa=X&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQ0pQJegQIFBAB
+              - generic [ref=e99]: Noticias
+          - listitem [ref=e100]:
+            - link "Libros" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&udm=36&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZKL8_jFy8C26xxQoD5BiyiI7hpP6WsU7DcJLYVXr-4oEz-c2J9x1lDJVaQrVaHf7W-6JCEw8casfYtLvM3YBoUFjXEu9TASndOBylYOMJZxtPYOGmtG0-oEHWvX21BYDczRYvSw&sa=X&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQ0pQJegQIIRAB
+              - generic [ref=e103]: Libros
+          - listitem [ref=e104]:
+            - button "Más filtros" [ref=e105] [cursor=pointer]:
+              - generic "Más filtros" [ref=e106]:
+                - generic [ref=e107]:
+                  - generic [ref=e108]: Más
+                  - img [ref=e110]
+        - button "Herramientas" [ref=e113] [cursor=pointer]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Herramientas
+            - img [ref=e118]
+    - heading "Resultados de búsqueda" [level=1] [ref=e120]
+    - generic [ref=e125]:
+      - generic [ref=e144]:
+        - heading "Buscando Pensando un poco más" [level=2] [ref=e148]:
+          - generic [ref=e149]:
+            - generic [ref=e156]: Buscando
+            - generic [ref=e166]: Pensando un poco más
+        - progressbar [ref=e168]
+      - main [ref=e210]:
+        - generic [ref=e214]:
+          - generic [ref=e217]:
+            - heading "Web results" [level=2] [ref=e218]
+            - generic [ref=e219]:
+              - generic [ref=e222]:
+                - 'link "MQAD-net: multi-modal quantum-attentive deep learning ... Archive ouverte HAL https://hal.science › file" [ref=e224] [cursor=pointer]':
+                  - /url: https://hal.science/hal-05438894v1/file/Egyptian%20Informatics%20Journal%20%281%29.pdf
+                  - 'heading "MQAD-net: multi-modal quantum-attentive deep learning ..." [level=3] [ref=e225]'
+                  - generic [ref=e230]:
+                    - generic [ref=e232]: Archive ouverte HAL
+                    - generic [ref=e234]: https://hal.science › file
+                - generic [ref=e235]:
+                  - generic:
+                    - generic: PDF
+                - button "Acerca de este resultado" [ref=e236] [cursor=pointer]:
+                  - img [ref=e239]
+              - generic [ref=e241]:
+                - generic [ref=e242]:
+                  - generic [ref=e243]: por KHA Al-Shqeerat · 2026 —
+                  - text: The present segment provides an extensive critique of the most recent advances in this field and situates the pro- posed MQAD-Net framework at ...
+                - generic [ref=e244]: 28 páginas
+          - generic [ref=e248]:
+            - generic [ref=e251]:
+              - link "A novel lightweight deep learning framework using enhanced ... Springer Nature Link https://link.springer.com › article" [ref=e253] [cursor=pointer]:
+                - /url: https://link.springer.com/article/10.1186/s44147-025-00635-7
+                - heading "A novel lightweight deep learning framework using enhanced ..." [level=3] [ref=e254]
+                - generic [ref=e259]:
+                  - generic [ref=e261]: Springer Nature Link
+                  - generic [ref=e263]: https://link.springer.com › article
+              - generic [ref=e264]:
+                - generic [ref=e265]: ·
+                - link "Traducir esta página" [ref=e266] [cursor=pointer]:
+                  - /url: https://link.springer.com/article/10.1186/s44147-025-00635-7
+              - button "Acerca de este resultado" [ref=e267] [cursor=pointer]:
+                - img [ref=e270]
+            - generic [ref=e273]:
+              - generic [ref=e274]: por Y Chen · 2025 · Mencionado por 4 —
+              - text: This study applies an enhanced pelican optimization algorithm (EPOA) for efficient and dependable cyberattack detection in an IoT system. EPOA ...
+          - generic [ref=e278]:
+            - generic [ref=e281]:
+              - link "Appl. Sci., Volume 15, Issue 14 (July-2 2025) – 497 articles MDPI https://www.mdpi.com › ..." [ref=e283] [cursor=pointer]:
+                - /url: https://www.mdpi.com/2076-3417/15/14
+                - heading "Appl. Sci., Volume 15, Issue 14 (July-2 2025) – 497 articles" [level=3] [ref=e284]
+                - generic [ref=e289]:
+                  - generic [ref=e291]: MDPI
+                  - generic [ref=e293]: https://www.mdpi.com › ...
+              - generic [ref=e294]:
+                - generic [ref=e295]: ·
+                - link "Traducir esta página" [ref=e296] [cursor=pointer]:
+                  - /url: https://www.mdpi.com/2076-3417/15/14
+              - button "Acerca de este resultado" [ref=e297] [cursor=pointer]:
+                - img [ref=e300]
+            - generic [ref=e303]:
+              - generic [ref=e304]: 2 jul 2025 —
+              - generic [ref=e305]:
+                - text: To view the papers in
+                - emphasis [ref=e306]: pdf
+                - text: format, click on the "
+                - emphasis [ref=e307]: PDF
+                - text: Full-text" link ...
+                - emphasis [ref=e308]: Alabdulatif
+                - text: . Appl. Sci.
+                - emphasis [ref=e309]: "2025"
+                - text: ", 15(14), 7984; https://doi.org ..."
+          - generic [ref=e313]:
+            - generic [ref=e316]:
+              - link "(PDF) Hybrid intrusion detection models based on GWO ... ResearchGate https://www.researchgate.net › 3..." [ref=e318] [cursor=pointer]:
+                - /url: https://www.researchgate.net/publication/384727663_Hybrid_intrusion_detection_models_based_on_GWO_optimized_deep_learning
+                - heading "(PDF) Hybrid intrusion detection models based on GWO ..." [level=3] [ref=e319]
+                - generic [ref=e324]:
+                  - generic [ref=e326]: ResearchGate
+                  - generic [ref=e328]: https://www.researchgate.net › 3...
+              - generic [ref=e329]:
+                - generic [ref=e330]: ·
+                - link "Traducir esta página" [ref=e331] [cursor=pointer]:
+                  - /url: https://www.researchgate.net/publication/384727663_Hybrid_intrusion_detection_models_based_on_GWO_optimized_deep_learning
+              - button "Acerca de este resultado" [ref=e332] [cursor=pointer]:
+                - img [ref=e335]
+            - generic [ref=e339]:
+              - text: On the NSL-KDD dataset,
+              - emphasis [ref=e340]: GRU
+              - text: "-GWO-FS improved accuracy to 94% and 92%, and"
+              - emphasis [ref=e341]: LSTM
+              - text: "-GWO-FS to 94% and 92% for anomaly and signature-based detection, respectively."
+          - generic [ref=e345]:
+            - generic [ref=e348]:
+              - link "Untitled - Scientific and practical cyber security journal - scsa.ge Scientific and practical cyber security journal https://journal.scsa.ge › spcsj_march_2026_l" [ref=e350] [cursor=pointer]:
+                - /url: https://journal.scsa.ge/wp-content/uploads/2026/04/spcsj_march_2026_l.pdf
+                - heading "Untitled - Scientific and practical cyber security journal - scsa.ge" [level=3] [ref=e351]
+                - generic [ref=e356]:
+                  - generic [ref=e358]: Scientific and practical cyber security journal
+                  - generic [ref=e360]: https://journal.scsa.ge › spcsj_march_2026_l
+              - generic [ref=e361]:
+                - generic:
+                  - generic: PDF
+              - button "Acerca de este resultado" [ref=e362] [cursor=pointer]:
+                - img [ref=e365]
+            - generic [ref=e368]: "ABSTRACT: Digital data theft poses a significant risk to an organisation's financial well- being. This situation can be addressed through dynamic encryption ..."
+          - generic [ref=e372]:
+            - generic [ref=e375]:
+              - link "Deep learning LSTM and random forest ML-aided design ... Techno-computing Journal https://technocomputing.org › article › download" [ref=e377] [cursor=pointer]:
+                - /url: https://technocomputing.org/index.php/tecoj/article/download/2/2
+                - heading "Deep learning LSTM and random forest ML-aided design ..." [level=3] [ref=e378]
+                - generic [ref=e383]:
+                  - generic [ref=e385]: Techno-computing Journal
+                  - generic [ref=e387]: https://technocomputing.org › article › download
+              - generic [ref=e388]:
+                - generic:
+                  - generic: PDF
+              - button "Acerca de este resultado" [ref=e389] [cursor=pointer]:
+                - img [ref=e392]
+            - generic [ref=e395]:
+              - generic [ref=e396]: por IA Mahmoud · 2025 · Mencionado por 5 —
+              - generic [ref=e397]:
+                - emphasis [ref=e398]: LSTM's
+                - text: ability to model long-term dependencies makes them particularly effective in Qe performance prediction, where historical data plays a ...
+            - generic [ref=e400]: "Falta(n): Alabdulatif ‎GRU ‎IDS ‎pdf"
+          - generic [ref=e404]:
+            - generic [ref=e407]:
+              - link "Multilingual Cyberbullying Detection in Low-Resource ... nii.ac.jp https://kitami-it.repo.nii.ac.jp › record › files" [ref=e409] [cursor=pointer]:
+                - /url: https://kitami-it.repo.nii.ac.jp/record/2000831/files/%E7%94%B2222_TANJIM%20MAHMUD.pdf
+                - heading "Multilingual Cyberbullying Detection in Low-Resource ..." [level=3] [ref=e410]
+                - generic [ref=e412]:
+                  - img [ref=e416]
+                  - generic [ref=e418]:
+                    - generic [ref=e420]: nii.ac.jp
+                    - generic [ref=e422]: https://kitami-it.repo.nii.ac.jp › record › files
+              - generic [ref=e423]:
+                - generic:
+                  - generic: PDF
+              - button "Acerca de este resultado" [ref=e424] [cursor=pointer]:
+                - img [ref=e427]
+            - generic [ref=e429]:
+              - generic [ref=e430]:
+                - generic [ref=e431]: por M Tanjim · 2025 · Mencionado por 2 —
+                - generic [ref=e432]:
+                  - text: the applied classifiers,
+                  - emphasis [ref=e433]: Random Forest
+                  - text: (RF) surpassed other well-known machine learning techniques in an experimental comparison with an ...
+              - generic [ref=e434]: 250 páginas
+          - generic [ref=e438]:
+            - generic [ref=e441]:
+              - link "FORECASTING ON-TIME DELIVERY WITH LSTM AND SVR LUTPub https://lutpub.lut.fi › bitstream › Mastersthesis_H..." [ref=e443] [cursor=pointer]:
+                - /url: https://lutpub.lut.fi/bitstream/10024/169070/1/Mastersthesis_Hyytiainen_Mette.pdf
+                - heading "FORECASTING ON-TIME DELIVERY WITH LSTM AND SVR" [level=3] [ref=e444]
+                - generic [ref=e449]:
+                  - generic [ref=e451]: LUTPub
+                  - generic [ref=e453]: https://lutpub.lut.fi › bitstream › Mastersthesis_H...
+              - generic [ref=e454]:
+                - generic:
+                  - generic: PDF
+              - button "Acerca de este resultado" [ref=e455] [cursor=pointer]:
+                - img [ref=e458]
+            - generic [ref=e460]:
+              - generic [ref=e462]:
+                - text: "Enhancing Predictive. Business Analytics with Deep Learning and Ensemble Methods: A Comparative Study of."
+                - emphasis [ref=e463]: LSTM
+                - text: Networks and
+                - emphasis [ref=e464]: Random Forest
+                - text: Algorithms.
+              - generic [ref=e465]: 128 páginas
+          - generic [ref=e469]:
+            - generic [ref=e472]:
+              - link "Hybrid LSTM-Random Forest for Intrusion Detection in ... International Journal of Computers and Informatics https://www.ijci.zu.edu.eg › view" [ref=e474] [cursor=pointer]:
+                - /url: https://www.ijci.zu.edu.eg/index.php/ijci/article/view/74
+                - heading "Hybrid LSTM-Random Forest for Intrusion Detection in ..." [level=3] [ref=e475]
+                - generic [ref=e480]:
+                  - generic [ref=e482]: International Journal of Computers and Informatics
+                  - generic [ref=e484]: https://www.ijci.zu.edu.eg › view
+              - generic [ref=e485]:
+                - generic [ref=e486]: ·
+                - link "Traducir esta página" [ref=e487] [cursor=pointer]:
+                  - /url: https://www.ijci.zu.edu.eg/index.php/ijci/article/view/74
+              - button "Acerca de este resultado" [ref=e488] [cursor=pointer]:
+                - img [ref=e491]
+            - generic [ref=e494]:
+              - generic [ref=e495]: por A Tolba · 2024 · Mencionado por 3 —
+              - generic [ref=e496]:
+                - text: Using the WSN dataset, this research proposes a new hybrid model that combines
+                - emphasis [ref=e497]: LSTM
+                - text: and
+                - emphasis [ref=e498]: Random Forest
+                - text: to help detect and categorize four forms ...
+            - generic [ref=e500]: "Falta(n): Alabdulatif ‎AppSci"
+        - navigation [ref=e503]:
+          - heading "Navegación de páginas" [level=1] [ref=e504]
+          - text: "1"
+          - link "Page 2" [ref=e507] [cursor=pointer]:
+            - /url: /search?q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&sca_esv=44a089a1939db368&ei=U6QmaoaXAdaI5OUP-6q9iAI&start=10&sa=N&sstk=AU9db-DuY5IGDT430d7k3mcA3X8n8HYxLm_gyRxpmuD6s95SlSn9AV65ak0Vb5tNcGG4P5w0lbycvfaXltQ-jTUUto6RGutGIZoH-g&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQ8tMDegQIIxAE
+            - text: "2"
+          - link "Page 3" [ref=e509] [cursor=pointer]:
+            - /url: /search?q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&sca_esv=44a089a1939db368&ei=U6QmaoaXAdaI5OUP-6q9iAI&start=20&sa=N&sstk=AU9db-DuY5IGDT430d7k3mcA3X8n8HYxLm_gyRxpmuD6s95SlSn9AV65ak0Vb5tNcGG4P5w0lbycvfaXltQ-jTUUto6RGutGIZoH-g&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQ8tMDegQIIxAG
+            - text: "3"
+          - link "Page 4" [ref=e511] [cursor=pointer]:
+            - /url: /search?q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&sca_esv=44a089a1939db368&ei=U6QmaoaXAdaI5OUP-6q9iAI&start=30&sa=N&sstk=AU9db-DuY5IGDT430d7k3mcA3X8n8HYxLm_gyRxpmuD6s95SlSn9AV65ak0Vb5tNcGG4P5w0lbycvfaXltQ-jTUUto6RGutGIZoH-g&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQ8tMDegQIIxAI
+            - text: "4"
+          - link "Page 5" [ref=e513] [cursor=pointer]:
+            - /url: /search?q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&sca_esv=44a089a1939db368&ei=U6QmaoaXAdaI5OUP-6q9iAI&start=40&sa=N&sstk=AU9db-DuY5IGDT430d7k3mcA3X8n8HYxLm_gyRxpmuD6s95SlSn9AV65ak0Vb5tNcGG4P5w0lbycvfaXltQ-jTUUto6RGutGIZoH-g&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQ8tMDegQIIxAK
+            - text: "5"
+          - heading "Siguiente" [level=2] [ref=e515]:
+            - link "Siguiente" [ref=e516] [cursor=pointer]:
+              - /url: /search?q=Alabdulatif+LSTM+GRU+Random+Forest+IDS+2025+AppSci+pdf&sca_esv=44a089a1939db368&ei=U6QmaoaXAdaI5OUP-6q9iAI&start=10&sa=N&sstk=AU9db-DuY5IGDT430d7k3mcA3X8n8HYxLm_gyRxpmuD6s95SlSn9AV65ak0Vb5tNcGG4P5w0lbycvfaXltQ-jTUUto6RGutGIZoH-g&ved=2ahUKEwjGjI-HwveUAxVWBLkGHXtVDyEQ8NMDegQIIxAM
+              - generic [ref=e518]: Siguiente
+        - navigation
+    - contentinfo [ref=e519]:
+      - heading "Vínculos a pie de página" [level=1] [ref=e520]
+      - generic [ref=e524]:
+        - generic [ref=e526]:
+          - text: Perú
+          - generic [ref=e528]:
+            - button "21104, Juliaca - Según tu actividad anterior" [ref=e530] [cursor=pointer]:
+              - generic [ref=e531]: 21104, Juliaca
+              - generic [ref=e533]:
+                - text: "-"
+                - generic [ref=e534]: Según tu actividad anterior
+            - text: "-"
+            - button "Actualizar ubicación" [ref=e536] [cursor=pointer]: Actualizar ubicación
+        - generic [ref=e539]:
+          - link "Ayuda" [ref=e540] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=es-419&fg=1
+          - link "Enviar comentarios" [ref=e541] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacidad" [ref=e542] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=es-419&fg=1
+          - link "Condiciones" [ref=e543] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=es-419&fg=1

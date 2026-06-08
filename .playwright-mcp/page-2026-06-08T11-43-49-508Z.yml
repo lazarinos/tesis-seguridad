@@ -1,0 +1,209 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir al contenido principal" [ref=e2] [cursor=pointer]
+      - link "Ayuda sobre la accesibilidad" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=es-419
+  - generic [ref=e8]:
+    - search [ref=e9]:
+      - generic [ref=e12]:
+        - link "Ir a la página principal de Google" [ref=e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=es-419&ictx=0&sa=X&ved=0ahUKEwiQ-tCwyPeUAxUippUCHT_WO94QpYkNCAo
+          - img "Ir a la página principal de Google" [ref=e14]
+        - generic [ref=e19]:
+          - combobox "Buscar" [ref=e22]: site:repositorioacademico.upc.edu.pe "SCADA" "62443" site:repositorioacademico.upc.edu.pe "SCADA" "62443"
+          - generic [ref=e23]:
+            - button "Borrar" [ref=e25] [cursor=pointer]:
+              - img [ref=e27]
+            - generic [ref=e30]:
+              - button "Búsqueda por voz" [ref=e31] [cursor=pointer]:
+                - img [ref=e32]
+              - button "Búsqueda por imagen" [ref=e34] [cursor=pointer]:
+                - img [ref=e35]
+        - button "Buscar" [ref=e37] [cursor=pointer]:
+          - img [ref=e40]
+    - generic [ref=e42]:
+      - button "Configuración" [ref=e44] [cursor=pointer]:
+        - img [ref=e47]
+      - generic [ref=e50]:
+        - button "Apps de Google" [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+        - link "Acceder" [ref=e57] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=es-419&passive=true&continue=https://www.google.com/search%3Fq%3Dsite:repositorioacademico.upc.edu.pe%2B%2522SCADA%2522%2B%252262443%2522&ec=futura_srp_og_si_72236_p
+  - generic [ref=e59]:
+    - navigation [ref=e65]:
+      - generic [ref=e71]:
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - link "Modo IA" [ref=e76] [cursor=pointer]:
+              - /url: /search?q=site:repositorioacademico.upc.edu.pe+%22SCADA%22+%2262443%22&sca_esv=44a089a1939db368&udm=50&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZgnwrKvYM0f5ATETxEVoMN36K1K1tYX98-p4Er2L3AabTlUNpywttBCeTgWvSD2ltyo1k2KFAiwJTjYhPRTFUk5OSfm_62Pna68NXJln0UvFvzqfTq2yPnV_xpvHggzQ9lgHPAw&aep=1&ntc=1&sa=X&ved=2ahUKEwiQ-tCwyPeUAxUippUCHT_WO94Q2J8OegQIChAD
+              - generic [ref=e79]: Modo IA
+          - listitem [ref=e80]:
+            - link "Todo" [disabled] [ref=e81]:
+              - generic [ref=e83]: Todo
+          - listitem [ref=e84]:
+            - link "Imágenes" [ref=e85] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZgnwrKvYM0f5ATETxEVoMN36K1K1tYX98-p4Er2L3AabTlUNpywttBCeTgWvSD2ltyo1k2KFAiwJTjYhPRTFUk5OSfm_62Pna68NXJln0UvFvzqfTq2yPnV_xpvHggzQ9lgHPAw&q=site:repositorioacademico.upc.edu.pe+%22SCADA%22+%2262443%22&sa=X&ved=2ahUKEwiQ-tCwyPeUAxUippUCHT_WO94QtKgLegQIEBAB
+              - generic [ref=e87]: Imágenes
+          - listitem [ref=e88]:
+            - link "Videos" [ref=e89] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=7&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZgnwrKvYM0f5ATETxEVoMN36K1K1tYX98-p4Er2L3AabTlUNpywttBCeTgWvSD2ltyo1k2KFAiwJTjYhPRTFUk5OSfm_62Pna68NXJln0UvFvzqfTq2yPnV_xpvHggzQ9lgHPAw&q=site:repositorioacademico.upc.edu.pe+%22SCADA%22+%2262443%22&sa=X&ved=2ahUKEwiQ-tCwyPeUAxUippUCHT_WO94QtKgLegQIDxAB
+              - generic [ref=e91]: Videos
+          - listitem [ref=e92]:
+            - link "Videos cortos" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&udm=39&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZgnwrKvYM0f5ATETxEVoMN36K1K1tYX98-p4Er2L3AabTlUNpywttBCeTgWvSD2ltyo1k2KFAiwJTjYhPRTFUk5OSfm_62Pna68NXJln0UvFvzqfTq2yPnV_xpvHggzQ9lgHPAw&q=site:repositorioacademico.upc.edu.pe+%22SCADA%22+%2262443%22&sa=X&ved=2ahUKEwiQ-tCwyPeUAxUippUCHT_WO94Qs6gLegQICxAB
+              - generic [ref=e95]: Videos cortos
+          - listitem [ref=e96]:
+            - link "Noticias" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=44a089a1939db368&q=site:repositorioacademico.upc.edu.pe+%22SCADA%22+%2262443%22&tbm=nws&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZgnwrKvYM0f5ATETxEVoMN36K1K1tYX98-p4Er2L3AabTlUNpywttBCeTgWvSD2ltyo1k2KFAiwJTjYhPRTFUk5OSfm_62Pna68NXJln0UvFvzqfTq2yPnV_xpvHggzQ9lgHPAw&sa=X&ved=2ahUKEwiQ-tCwyPeUAxUippUCHT_WO94Q0pQJegQIDBAB
+              - generic [ref=e99]: Noticias
+          - listitem [ref=e100]:
+            - link "Maps" [ref=e101] [cursor=pointer]:
+              - /url: https://maps.google.com/maps?sca_esv=44a089a1939db368&output=search&q=site:repositorioacademico.upc.edu.pe+%22SCADA%22+%2262443%22&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg3gf3Rx3g7wPLd9qB5u5EuZgnwrKvYM0f5ATETxEVoMN36K1K1tYX98-p4Er2L3AabTlUNpywttBCeTgWvSD2ltyo1k2KFAiwJTjYhPRTFUk5OSfm_62Pna68NXJln0UvFvzqfTq2yPnV_xpvHggzQ9lgHPAw&entry=mc&ved=1t:200715&ictx=111
+              - generic [ref=e103]: Maps
+          - listitem [ref=e104]:
+            - button "Más filtros" [ref=e105] [cursor=pointer]:
+              - generic "Más filtros" [ref=e106]:
+                - generic [ref=e107]:
+                  - generic [ref=e108]: Más
+                  - img [ref=e110]
+        - button "Herramientas" [ref=e113] [cursor=pointer]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Herramientas
+            - img [ref=e118]
+    - heading "Resultados de búsqueda" [level=1] [ref=e120]
+    - main [ref=e126]:
+      - region "Anuncios" [ref=e129]:
+        - generic [ref=e130]:
+          - heading "Resultado patrocinado" [level=2] [ref=e137]
+          - generic [ref=e138]:
+            - generic [ref=e151]:
+              - generic [ref=e152]:
+                - link "Data Center para Minería - Data Center Industrial - Data Center + Edge AGIA TECHNOLOGY S.A.C. https://www.agiasolutions.com › infraestructura › ind-mineria" [ref=e153] [cursor=pointer]:
+                  - /url: https://www.agiasolutions.com/industria
+                  - heading "Data Center para Minería - Data Center Industrial - Data Center + Edge" [level=3] [ref=e154]
+                  - generic [ref=e160]:
+                    - generic [ref=e162]: AGIA TECHNOLOGY S.A.C.
+                    - generic [ref=e163]: https://www.agiasolutions.com › infraestructura › ind-mineria
+                - button "¿Por qué este anuncio?" [ref=e166] [cursor=pointer]:
+                  - img [ref=e168]
+              - generic [ref=e172]: Infraestructura TI para industria y minería. Operación continua en campo. Data center + procesamiento en sitio para decisiones en tiempo real.
+            - button "Ocultar resultado patrocinado" [ref=e174] [cursor=pointer]:
+              - separator [ref=e175]
+              - generic [ref=e176]:
+                - generic [ref=e177]: Ocultar resultado patrocinado
+                - img [ref=e179]
+      - generic [ref=e184]:
+        - generic [ref=e187]:
+          - heading "Resultados web" [level=2] [ref=e188]
+          - generic [ref=e189]:
+            - generic [ref=e192]:
+              - link "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS Repositorio Academico UPC https://repositorioacademico.upc.edu.pe › Guarda_HE" [ref=e194] [cursor=pointer]:
+                - /url: https://repositorioacademico.upc.edu.pe/bitstream/10757/670630/8/Guarda_HE.pdf
+                - heading "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS" [level=3] [ref=e195]
+                - generic [ref=e200]:
+                  - generic [ref=e202]: Repositorio Academico UPC
+                  - generic [ref=e204]: https://repositorioacademico.upc.edu.pe › Guarda_HE
+              - button "Acerca de este resultado" [ref=e205] [cursor=pointer]:
+                - img [ref=e208]
+            - generic [ref=e212]:
+              - emphasis [ref=e213]: SCADA
+              - text: . – (Supervisory control and data acquisition) La abreviatura en ... 2019, ISA/IEC
+              - emphasis [ref=e214]: "62443"
+              - text: "-1-1, ISA/IEC"
+              - emphasis [ref=e215]: "62443"
+              - text: "-2-1 e ISA/IEC"
+              - emphasis [ref=e216]: "62443"
+              - text: "-3-3. II.3.2.1."
+        - generic [ref=e220]:
+          - generic [ref=e223]:
+            - link "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS ... Repositorio Académico UPC https://repositorioacademico.upc.edu.pe › bitstream" [ref=e225] [cursor=pointer]:
+              - /url: https://repositorioacademico.upc.edu.pe/bitstream/10757/683576/1/Sotelo_OE.pdf
+              - heading "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS ..." [level=3] [ref=e226]
+              - generic [ref=e231]:
+                - generic [ref=e233]: Repositorio Académico UPC
+                - generic [ref=e235]: https://repositorioacademico.upc.edu.pe › bitstream
+            - generic [ref=e236]:
+              - generic:
+                - generic: PDF
+            - button "Acerca de este resultado" [ref=e237] [cursor=pointer]:
+              - img [ref=e240]
+          - generic [ref=e242]:
+            - generic [ref=e244]:
+              - text: • IEC
+              - emphasis [ref=e245]: "62443"
+              - text: ": Norma que se centra en la ciberseguridad de sistemas de automatización ..."
+              - emphasis [ref=e246]: SCADA
+              - text: en la sala de control. En todos los modos, los enclavamientos de ...
+            - generic [ref=e247]: 60 páginas
+        - generic [ref=e251]:
+          - generic [ref=e254]:
+            - link "universidad peruana de ciencias aplicadas Repositorio Académico UPC https://repositorioacademico.upc.edu.pe › handle" [ref=e256] [cursor=pointer]:
+              - /url: https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/660721/Morales_LJ.pdf?sequence=3&isAllowed=y
+              - heading "universidad peruana de ciencias aplicadas" [level=3] [ref=e257]
+              - generic [ref=e262]:
+                - generic [ref=e264]: Repositorio Académico UPC
+                - generic [ref=e266]: https://repositorioacademico.upc.edu.pe › handle
+            - generic [ref=e267]:
+              - generic:
+                - generic: PDF
+            - button "Acerca de este resultado" [ref=e268] [cursor=pointer]:
+              - img [ref=e271]
+          - generic [ref=e275]:
+            - text: ...
+            - emphasis [ref=e276]: "62443"
+            - text: ",. ISO/IEC 27001:2013, NIST SP 800-53, Cobit 5, etc ... Para el cálculo de los riesgos en sistemas"
+            - emphasis [ref=e277]: SCADA
+            - text: ", sistemas de gestión de energía y sistemas."
+        - generic [ref=e281]:
+          - generic [ref=e284]:
+            - link "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS Repositorio Académico UPC https://repositorioacademico.upc.edu.pe › handle" [ref=e286] [cursor=pointer]:
+              - /url: https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/672985/Romero_EH.pdf;jsessionid=174E30E75A6D18902FA970CBDDA7C4E0?sequence=1
+              - heading "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS" [level=3] [ref=e287]
+              - generic [ref=e292]:
+                - generic [ref=e294]: Repositorio Académico UPC
+                - generic [ref=e296]: https://repositorioacademico.upc.edu.pe › handle
+            - generic [ref=e297]:
+              - generic:
+                - generic: PDF
+            - button "Acerca de este resultado" [ref=e298] [cursor=pointer]:
+              - img [ref=e301]
+          - generic [ref=e305]:
+            - emphasis [ref=e306]: "62443"
+            - text: ", ISO/IEC 27001 Y 27002, Serie 800 de NIST donde se utilizan como ... tecnologías"
+            - emphasis [ref=e307]: SCADA
+            - text: /ICS. De “Estado de preparación en ciberseguridad del ...
+      - generic [ref=e309]:
+        - generic [ref=e310]:
+          - heading "Avisos sobre resultados filtrados" [level=2] [ref=e311]
+          - paragraph [ref=e313]:
+            - generic [ref=e314]:
+              - text: Para que veas los resultados más relevantes, omitimos ciertas entradas muy similares a las 4 que ya te mostramos.
+              - text: Si lo deseas, puedes
+              - link "repetir la búsqueda e incluir los resultados omitidos" [ref=e315] [cursor=pointer]:
+                - /url: /search?q=site:repositorioacademico.upc.edu.pe+%22SCADA%22+%2262443%22&sca_esv=44a089a1939db368&filter=0
+              - text: .
+        - navigation
+      - navigation
+    - contentinfo [ref=e316]:
+      - heading "Vínculos a pie de página" [level=1] [ref=e317]
+      - generic [ref=e321]:
+        - generic [ref=e323]:
+          - text: Perú
+          - generic [ref=e325]:
+            - button "21104, Juliaca - Según tu actividad anterior" [ref=e327] [cursor=pointer]:
+              - generic [ref=e328]: 21104, Juliaca
+              - generic [ref=e330]:
+                - text: "-"
+                - generic [ref=e331]: Según tu actividad anterior
+            - text: "-"
+            - button "Actualizar ubicación" [ref=e333] [cursor=pointer]: Actualizar ubicación
+        - generic [ref=e336]:
+          - link "Ayuda" [ref=e337] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=es-419&fg=1
+          - link "Enviar comentarios" [ref=e338] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacidad" [ref=e339] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=es-419&fg=1
+          - link "Condiciones" [ref=e340] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=es-419&fg=1

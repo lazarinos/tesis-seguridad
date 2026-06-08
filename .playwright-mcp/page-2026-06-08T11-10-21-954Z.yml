@@ -1,0 +1,457 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Ir al contenido principal" [ref=e2] [cursor=pointer]
+      - link "Ayuda sobre la accesibilidad" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=es-419
+  - generic [ref=e8]:
+    - search [ref=e9]:
+      - generic [ref=e12]:
+        - link "Ir a la página principal de Google" [ref=e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=es-419&ictx=0&sa=X&ved=0ahUKEwjVvv7twPeUAxX3lZUCHU78O0cQpYkNCAo
+          - img "Ir a la página principal de Google" [ref=e14]
+        - generic [ref=e19]:
+          - combobox "Buscar" [ref=e22]: "\"Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems\" Hermosilla MDPI Computers 2025 pdf \"Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems\" Hermosilla MDPI Computers 2025 pdf"
+          - generic [ref=e23]:
+            - button "Borrar" [ref=e25] [cursor=pointer]:
+              - img [ref=e27]
+            - generic [ref=e30]:
+              - button "Búsqueda por voz" [ref=e31] [cursor=pointer]:
+                - img [ref=e32]
+              - button "Búsqueda por imagen" [ref=e34] [cursor=pointer]:
+                - img [ref=e35]
+        - button "Buscar" [ref=e37] [cursor=pointer]:
+          - img [ref=e40]
+    - generic [ref=e42]:
+      - button "Configuración" [ref=e44] [cursor=pointer]:
+        - img [ref=e47]
+      - generic [ref=e50]:
+        - button "Apps de Google" [ref=e52] [cursor=pointer]:
+          - img [ref=e53]
+        - link "Acceder" [ref=e57] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=es-419&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Use%2Bof%2BExplainable%2BArtificial%2BIntelligence%2Bfor%2BAnalyzing%2Band%2BExplaining%2BIntrusion%2BDetection%2BSystems%2522%2BHermosilla%2BMDPI%2BComputers%2B2025%2Bpdf%26sei%3DEaMmaqPBI5vU1sQPgo6-gAw&ec=futura_srp_og_si_72236_p
+  - generic [ref=e59]:
+    - navigation [ref=e65]:
+      - generic [ref=e71]:
+        - list [ref=e72]:
+          - listitem [ref=e73]:
+            - link "Modo IA" [ref=e76] [cursor=pointer]:
+              - /url: /search?q=%22Use+of+Explainable+Artificial+Intelligence+for+Analyzing+and+Explaining+Intrusion+Detection+Systems%22+Hermosilla+MDPI+Computers+2025+pdf&sca_esv=37c618bae3233f88&udm=50&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg2QNsLCUqzZKqmjKDQ4UhxYCTgA1JUTt7jI4KFils7rtRAhZvtsvWiYvi2wxRLvfUdS5tuHUJsULD3S5Lnvlfm6PkSuddhf4Jx_cUVsEGrlufUMtulHw0jnKsqgHjwx1icfQa7ulInag4ScczdmJiUvS8mQ-w&aep=1&ntc=1&sa=X&ved=2ahUKEwjVvv7twPeUAxX3lZUCHU78O0cQ2J8OegQICRAD
+              - generic [ref=e79]: Modo IA
+          - listitem [ref=e80]:
+            - link "Todo" [disabled] [ref=e81]:
+              - generic [ref=e83]: Todo
+          - listitem [ref=e84]:
+            - link "Imágenes" [ref=e85] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg2QNsLCUqzZKqmjKDQ4UhxYCTgA1JUTt7jI4KFils7rtRAhZvtsvWiYvi2wxRLvfUdS5tuHUJsULD3S5Lnvlfm6PkSuddhf4Jx_cUVsEGrlufUMtulHw0jnKsqgHjwx1icfQa7ulInag4ScczdmJiUvS8mQ-w&q=%22Use+of+Explainable+Artificial+Intelligence+for+Analyzing+and+Explaining+Intrusion+Detection+Systems%22+Hermosilla+MDPI+Computers+2025+pdf&sa=X&ved=2ahUKEwjVvv7twPeUAxX3lZUCHU78O0cQtKgLegQIEBAB
+              - generic [ref=e87]: Imágenes
+          - listitem [ref=e88]:
+            - link "Videos" [ref=e89] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&udm=7&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg2QNsLCUqzZKqmjKDQ4UhxYCTgA1JUTt7jI4KFils7rtRAhZvtsvWiYvi2wxRLvfUdS5tuHUJsULD3S5Lnvlfm6PkSuddhf4Jx_cUVsEGrlufUMtulHw0jnKsqgHjwx1icfQa7ulInag4ScczdmJiUvS8mQ-w&q=%22Use+of+Explainable+Artificial+Intelligence+for+Analyzing+and+Explaining+Intrusion+Detection+Systems%22+Hermosilla+MDPI+Computers+2025+pdf&sa=X&ved=2ahUKEwjVvv7twPeUAxX3lZUCHU78O0cQtKgLegQIDxAB
+              - generic [ref=e91]: Videos
+          - listitem [ref=e92]:
+            - link "Noticias" [ref=e93] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&q=%22Use+of+Explainable+Artificial+Intelligence+for+Analyzing+and+Explaining+Intrusion+Detection+Systems%22+Hermosilla+MDPI+Computers+2025+pdf&tbm=nws&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg2QNsLCUqzZKqmjKDQ4UhxYCTgA1JUTt7jI4KFils7rtRAhZvtsvWiYvi2wxRLvfUdS5tuHUJsULD3S5Lnvlfm6PkSuddhf4Jx_cUVsEGrlufUMtulHw0jnKsqgHjwx1icfQa7ulInag4ScczdmJiUvS8mQ-w&sa=X&ved=2ahUKEwjVvv7twPeUAxX3lZUCHU78O0cQ0pQJegQIEhAB
+              - generic [ref=e95]: Noticias
+          - listitem [ref=e96]:
+            - link "Videos cortos" [ref=e97] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&udm=39&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg2QNsLCUqzZKqmjKDQ4UhxYCTgA1JUTt7jI4KFils7rtRAhZvtsvWiYvi2wxRLvfUdS5tuHUJsULD3S5Lnvlfm6PkSuddhf4Jx_cUVsEGrlufUMtulHw0jnKsqgHjwx1icfQa7ulInag4ScczdmJiUvS8mQ-w&q=%22Use+of+Explainable+Artificial+Intelligence+for+Analyzing+and+Explaining+Intrusion+Detection+Systems%22+Hermosilla+MDPI+Computers+2025+pdf&sa=X&ved=2ahUKEwjVvv7twPeUAxX3lZUCHU78O0cQs6gLegQIERAB
+              - generic [ref=e99]: Videos cortos
+          - listitem [ref=e100]:
+            - link "Libros" [ref=e101] [cursor=pointer]:
+              - /url: /search?sca_esv=37c618bae3233f88&q=%22Use+of+Explainable+Artificial+Intelligence+for+Analyzing+and+Explaining+Intrusion+Detection+Systems%22+Hermosilla+MDPI+Computers+2025+pdf&udm=36&source=lnms&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTaf9fS4tJ71bi2aHS-Pmeg2QNsLCUqzZKqmjKDQ4UhxYCTgA1JUTt7jI4KFils7rtRAhZvtsvWiYvi2wxRLvfUdS5tuHUJsULD3S5Lnvlfm6PkSuddhf4Jx_cUVsEGrlufUMtulHw0jnKsqgHjwx1icfQa7ulInag4ScczdmJiUvS8mQ-w&sa=X&ved=2ahUKEwjVvv7twPeUAxX3lZUCHU78O0cQ0pQJegQIDRAB
+              - generic [ref=e103]: Libros
+          - listitem [ref=e104]:
+            - button "Más filtros" [ref=e105] [cursor=pointer]:
+              - generic "Más filtros" [ref=e106]:
+                - generic [ref=e107]:
+                  - generic [ref=e108]: Más
+                  - img [ref=e110]
+        - button "Herramientas" [ref=e113] [cursor=pointer]:
+          - generic [ref=e115]:
+            - generic [ref=e116]: Herramientas
+            - img [ref=e118]
+    - heading "Resultados de búsqueda" [level=1] [ref=e120]
+    - main [ref=e126]:
+      - region "Anuncios" [ref=e129]:
+        - generic [ref=e130]:
+          - heading "Resultados patrocinados" [level=2] [ref=e137]
+          - generic [ref=e138]:
+            - generic [ref=e145]:
+              - generic [ref=e151]:
+                - generic [ref=e152]:
+                  - link "Download API eBook - API Security Best Practices - API Security eBook f5.com https://www.f5.com" [ref=e153] [cursor=pointer]:
+                    - /url: https://www.f5.com/products
+                    - heading "Download API eBook - API Security Best Practices - API Security eBook" [level=3] [ref=e154]
+                    - generic [ref=e156]:
+                      - img [ref=e161]
+                      - generic [ref=e163]:
+                        - generic [ref=e165]: f5.com
+                        - generic [ref=e166]: https://www.f5.com
+                  - button "¿Por qué este anuncio?" [ref=e169] [cursor=pointer]:
+                    - img [ref=e171]
+                - generic [ref=e175]: "Download the API Security for Dummies eBook today. Explore best practices to protect API-driven applications. Request a Trial. Types: Free Trials Available, Customer Case Studies, Chat Option Available."
+                - generic [ref=e180]: Más de 1 millón de visitas en el último mes
+                - link "F5 Application Platform Learn more about the new F5 App Delivery & Security Platform" [ref=e185] [cursor=pointer]:
+                  - /url: https://www.f5.com/products/f5-application-delivery-and-security-platform?utm_source=google&utm_medium=cpc&utm_campaign=25Q2_latam_latam_adc_adc_adc_PSE_app-platform-webpage_noa_PG
+                  - generic [ref=e186]: F5 Application Platform
+                  - generic [ref=e189]: Learn more about the new F5 App Delivery & Security Platform
+              - generic [ref=e196]:
+                - generic [ref=e197]:
+                  - link "Global Threat Report 2026 - Panorama De Amenazas De 2026 CrowdStrike https://go.crowdstrike.com" [ref=e198] [cursor=pointer]:
+                    - /url: https://go.crowdstrike.com/2026-global-threat-report-exec-summary-es-la
+                    - heading "Global Threat Report 2026 - Panorama De Amenazas De 2026" [level=3] [ref=e199]
+                    - generic [ref=e205]:
+                      - generic [ref=e207]: CrowdStrike
+                      - generic [ref=e208]: https://go.crowdstrike.com
+                  - button "¿Por qué este anuncio?" [ref=e211] [cursor=pointer]:
+                    - img [ref=e213]
+                - generic [ref=e217]: Global threat report revela la nueva velocidad y el volumen de los cibercrímenes con ia. La ia potencia los ataques y reduce las barreras de entrada. conoce los últimos hallazgos.
+            - button "Ocultar resultados patrocinados" [ref=e219] [cursor=pointer]:
+              - separator [ref=e220]
+              - generic [ref=e221]:
+                - generic [ref=e222]: Ocultar resultados patrocinados
+                - img [ref=e224]
+      - generic [ref=e229]:
+        - generic [ref=e232]:
+          - heading "Web results" [level=2] [ref=e233]
+          - generic [ref=e234]:
+            - generic [ref=e237]:
+              - link "Use of Explainable Artificial Intelligence for Analyzing and ... MDPI https://www.mdpi.com › ..." [ref=e239] [cursor=pointer]:
+                - /url: https://www.mdpi.com/2073-431X/14/5/160
+                - heading "Use of Explainable Artificial Intelligence for Analyzing and ..." [level=3] [ref=e240]
+                - generic [ref=e245]:
+                  - generic [ref=e247]: MDPI
+                  - generic [ref=e249]: https://www.mdpi.com › ...
+              - generic [ref=e250]:
+                - generic [ref=e251]: ·
+                - link "Traducir esta página" [ref=e252] [cursor=pointer]:
+                  - /url: https://www.mdpi.com/2073-431X/14/5/160
+              - button "Acerca de este resultado" [ref=e253] [cursor=pointer]:
+                - img [ref=e256]
+            - generic [ref=e259]:
+              - generic [ref=e260]: por P Hermosilla · 2025 · Mencionado por 12 —
+              - generic [ref=e261]:
+                - emphasis [ref=e262]: Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems
+                - text: . by. Pamela
+                - emphasis [ref=e263]: Hermosilla
+                - text: .
+        - generic [ref=e267]:
+          - generic [ref=e270]:
+            - link "Article Versions Notes MDPI https://www.mdpi.com › notes" [ref=e272] [cursor=pointer]:
+              - /url: https://www.mdpi.com/2073-431X/14/5/160/notes
+              - heading "Article Versions Notes" [level=3] [ref=e273]
+              - generic [ref=e278]:
+                - generic [ref=e280]: MDPI
+                - generic [ref=e282]: https://www.mdpi.com › notes
+            - generic [ref=e283]:
+              - generic [ref=e284]: ·
+              - link "Traducir esta página" [ref=e285] [cursor=pointer]:
+                - /url: https://www.mdpi.com/2073-431X/14/5/160/notes
+            - button "Acerca de este resultado" [ref=e286] [cursor=pointer]:
+              - img [ref=e289]
+          - generic [ref=e293]:
+            - emphasis [ref=e294]: Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems
+            - text: .
+            - emphasis [ref=e295]: Computers 2025
+            - text: ", 14, 160. https://doi.org/10.3390 ..."
+        - generic [ref=e299]:
+          - generic [ref=e302]:
+            - link "Computers, Volume 14, Issue 5 (May 2025) – 47 articles MDPI https://www.mdpi.com › ..." [ref=e304] [cursor=pointer]:
+              - /url: https://www.mdpi.com/2073-431X/14/5
+              - heading "Computers, Volume 14, Issue 5 (May 2025) – 47 articles" [level=3] [ref=e305]
+              - generic [ref=e310]:
+                - generic [ref=e312]: MDPI
+                - generic [ref=e314]: https://www.mdpi.com › ...
+            - generic [ref=e315]:
+              - generic [ref=e316]: ·
+              - link "Traducir esta página" [ref=e317] [cursor=pointer]:
+                - /url: https://www.mdpi.com/2073-431X/14/5
+            - button "Acerca de este resultado" [ref=e318] [cursor=pointer]:
+              - img [ref=e321]
+          - generic [ref=e325]:
+            - text: To view the papers in
+            - emphasis [ref=e326]: pdf
+            - text: format, click on the "
+            - emphasis [ref=e327]: PDF
+            - text: ...
+            - emphasis [ref=e328]: Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems
+            - text: .
+        - generic [ref=e332]:
+          - generic [ref=e335]:
+            - link "INTEGRATING KNOWLEDGE MANAGEMENT AND ... Криминалистичко-полицијски универзитет https://eskup.kpu.edu.rs › view" [ref=e337] [cursor=pointer]:
+              - /url: https://eskup.kpu.edu.rs/dar/article/view/687
+              - heading "INTEGRATING KNOWLEDGE MANAGEMENT AND ..." [level=3] [ref=e338]
+              - generic [ref=e343]:
+                - generic [ref=e345]: Криминалистичко-полицијски универзитет
+                - generic [ref=e347]: https://eskup.kpu.edu.rs › view
+            - generic [ref=e348]:
+              - generic [ref=e349]: ·
+              - link "Traducir esta página" [ref=e350] [cursor=pointer]:
+                - /url: https://eskup.kpu.edu.rs/dar/article/view/687
+            - button "Acerca de este resultado" [ref=e351] [cursor=pointer]:
+              - img [ref=e354]
+          - generic [ref=e357]:
+            - generic [ref=e358]: por A Ioan · 2025 —
+            - generic [ref=e359]:
+              - text: (
+              - emphasis [ref=e360]: "2025"
+              - text: ).
+              - emphasis [ref=e361]: Use of explainable artificial intelligence for analyzing and explaining intrusion detection systems
+              - text: .
+              - emphasis [ref=e362]: Computers
+              - text: ", 14(5), 160. https ..."
+        - generic [ref=e366]:
+          - generic [ref=e369]:
+            - 'link "Explainable AI for Forensic Analysis: A Comparative Study ... ResearchGate https://www.researchgate.net › 3..." [ref=e371] [cursor=pointer]':
+              - /url: https://www.researchgate.net/publication/393315446_Explainable_AI_for_Forensic_Analysis_A_Comparative_Study_of_SHAP_and_LIME_in_Intrusion_Detection_Models
+              - 'heading "Explainable AI for Forensic Analysis: A Comparative Study ..." [level=3] [ref=e372]'
+              - generic [ref=e377]:
+                - generic [ref=e379]: ResearchGate
+                - generic [ref=e381]: https://www.researchgate.net › 3...
+            - generic [ref=e382]:
+              - generic [ref=e383]: ·
+              - link "Traducir esta página" [ref=e384] [cursor=pointer]:
+                - /url: https://www.researchgate.net/publication/393315446_Explainable_AI_for_Forensic_Analysis_A_Comparative_Study_of_SHAP_and_LIME_in_Intrusion_Detection_Models
+            - button "Acerca de este resultado" [ref=e385] [cursor=pointer]:
+              - img [ref=e388]
+          - generic [ref=e391]:
+            - generic [ref=e392]: 9 jun 2025 —
+            - generic [ref=e393]:
+              - emphasis [ref=e394]: Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems
+              - text: . April
+              - emphasis [ref=e395]: "2025"
+              - text: ·
+              - emphasis [ref=e396]: Computers
+              - text: .
+        - generic [ref=e401]:
+          - heading "Más preguntas" [level=2] [ref=e403]
+          - generic [ref=e404]:
+            - button "Why is explainable AI important in cyber security?" [ref=e410] [cursor=pointer]:
+              - generic [ref=e412]: Why is explainable AI important in cyber security?
+              - img [ref=e415]
+            - button "What is an intrusion detection system (intruder prevention system) ids ips that uses patterns of known malicious activity similar to how antivirus ap?" [ref=e424] [cursor=pointer]:
+              - generic [ref=e426]: What is an intrusion detection system (intruder prevention system) ids ips that uses patterns of known malicious activity similar to how antivirus ap?
+              - img [ref=e429]
+            - button "What is an intrusion detection system using artificial intelligence?" [ref=e438] [cursor=pointer]:
+              - generic [ref=e440]: What is an intrusion detection system using artificial intelligence?
+              - img [ref=e443]
+            - button "What is explainable AI XAI and its applications in building trust and understanding in AI decision making?" [ref=e452] [cursor=pointer]:
+              - generic [ref=e454]: What is explainable AI XAI and its applications in building trust and understanding in AI decision making?
+              - img [ref=e457]
+        - generic [ref=e463]:
+          - heading "Resultados patrocinados" [level=2] [ref=e470]
+          - generic [ref=e471]:
+            - generic [ref=e478]:
+              - generic [ref=e483]:
+                - generic [ref=e484]:
+                  - link "Download The Guide | Download ZTS For Dummies Guide Illumio https://www.illumio.com › illumio › zero-trust" [ref=e485] [cursor=pointer]:
+                    - /url: https://www.illumio.com/resource-center/zero-trust-segmentation-for-dummies
+                    - heading "Download The Guide | Download ZTS For Dummies Guide" [level=3] [ref=e486]
+                    - generic [ref=e492]:
+                      - generic [ref=e494]: Illumio
+                      - generic [ref=e495]: https://www.illumio.com › illumio › zero-trust
+                  - button "¿Por qué este anuncio?" [ref=e498] [cursor=pointer]:
+                    - img [ref=e500]
+                - generic [ref=e504]: Zero Trust Segmentation Is The Fundamental Building Block of Any Security Strategy. When Breaches Happen, You Need Zero Trust...
+                - generic [ref=e506]:
+                  - text: ‎
+                  - link "ZTS For Dummies" [ref=e507] [cursor=pointer]:
+                    - /url: /aclk?sa=L&ai=DChsSEwiaroXuwPeUAxUtWEgAHQHDN-AYACICCAIQBhoCY2U&co=1&ase=2&gclid=EAIaIQobChMImq6F7sD3lAMVLVhIAB0BwzfgEAMYASAFEgJE0fD_BwE&cid=CAASuwHkaC_6EORFM9IhBdeuIzUKr6LPABNJhFh9janN7jQT_sDlG6jozQyhljTY5JXUEazIksOZzh79VNerf9Z7NqaVPYDzT5Q3NV81WdXYseW2lrvG51PBn57jxu0oaDGdVIn6XP5EUK4kIy8cK96dUriidZjIuCkMqGksdC9jzbNAAWGV5Fe0k0RqEknBu6zEy58oJo0QXCqhWoq3ZCyNWMm3xg8szMuEifVhdMnxfORYzJMALXlD5UjyE7ML&cce=2&category=acrcp_v1_32&sig=AOD64_0N1ebCdcq6BwvhH4AAAdJdgU0xkQ&adurl=&q=
+                  - text: · ‎
+                  - link "Try Illumio" [ref=e508] [cursor=pointer]:
+                    - /url: https://www.illumio.com/try-illumio-segmentation
+                  - text: · ‎
+                  - link "Zero Trust For Dummies" [ref=e509] [cursor=pointer]:
+                    - /url: https://www.illumio.com/resource-center/zero-trust-segmentation-for-dummies
+                  - text: · ‎
+                  - link "What We Do" [ref=e510] [cursor=pointer]:
+                    - /url: https://www.illumio.com/company/what-we-do
+                  - text: · ‎
+                  - link "Partners" [ref=e511] [cursor=pointer]:
+                    - /url: https://www.illumio.com/partners
+                  - text: · ‎
+                  - link "Government" [ref=e512] [cursor=pointer]:
+                    - /url: https://www.illumio.com/solutions/government
+                - generic [ref=e517]: Más de 100,000 visitas en el último mes
+              - generic [ref=e522]:
+                - generic [ref=e523]:
+                  - link "IT root cause analysis - Detect operational weaknesses qbilon GmbH https://www.qbilon.io › qbilon-suite" [ref=e524] [cursor=pointer]:
+                    - /url: https://www.qbilon.io/qbilon-suite/
+                    - heading "IT root cause analysis - Detect operational weaknesses" [level=3] [ref=e525]
+                    - generic [ref=e531]:
+                      - generic [ref=e533]: qbilon GmbH
+                      - generic [ref=e534]: https://www.qbilon.io › qbilon-suite
+                  - button "¿Por qué este anuncio?" [ref=e537] [cursor=pointer]:
+                    - img [ref=e539]
+                - generic [ref=e543]: "Maximize network protection coverage with Qbilon’s automated sensor management. Combine Qbilon & PRTG® – instant IT, OT, IoT security insights, no coding. Real-time monitoring view. Types: Network monitoring tool, data harmonization, asset management, IT infrastructure."
+            - button "Ocultar resultados patrocinados" [ref=e545] [cursor=pointer]:
+              - separator [ref=e546]
+              - generic [ref=e547]:
+                - generic [ref=e548]: Ocultar resultados patrocinados
+                - img [ref=e550]
+        - generic [ref=e554]:
+          - heading "Web results" [level=2] [ref=e555]
+          - generic [ref=e556]:
+            - generic [ref=e559]:
+              - link "Adaptive Neural Network Method for Detecting Crimes in the ... OUCI https://ouci.dntb.gov.ua › works" [ref=e561] [cursor=pointer]:
+                - /url: https://ouci.dntb.gov.ua/en/works/ldopQ680/
+                - heading "Adaptive Neural Network Method for Detecting Crimes in the ..." [level=3] [ref=e562]
+                - generic [ref=e567]:
+                  - generic [ref=e569]: OUCI
+                  - generic [ref=e571]: https://ouci.dntb.gov.ua › works
+              - generic [ref=e572]:
+                - generic [ref=e573]: ·
+                - link "Traducir esta página" [ref=e574] [cursor=pointer]:
+                  - /url: https://ouci.dntb.gov.ua/en/works/ldopQ680/
+              - button "Acerca de este resultado" [ref=e575] [cursor=pointer]:
+                - img [ref=e578]
+            - generic [ref=e582]:
+              - text: ... (
+              - emphasis [ref=e583]: "2025"
+              - text: ).
+              - emphasis [ref=e584]: Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems
+              - text: .
+              - emphasis [ref=e585]: Computers
+              - text: ", 14. DOI: 10.3390/computers14050160 ..."
+        - generic [ref=e589]:
+          - generic [ref=e592]:
+            - link "The SHAP Explainer Model for Binary Classifiers Detecting ... National Institutes of Health (.gov) https://pmc.ncbi.nlm.nih.gov › P..." [ref=e594] [cursor=pointer]:
+              - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12940977/
+              - heading "The SHAP Explainer Model for Binary Classifiers Detecting ..." [level=3] [ref=e595]
+              - generic [ref=e600]:
+                - generic [ref=e602]: National Institutes of Health (.gov)
+                - generic [ref=e604]: https://pmc.ncbi.nlm.nih.gov › P...
+            - generic [ref=e605]:
+              - generic [ref=e606]: ·
+              - link "Traducir esta página" [ref=e607] [cursor=pointer]:
+                - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12940977/
+            - button "Acerca de este resultado" [ref=e608] [cursor=pointer]:
+              - img [ref=e611]
+          - generic [ref=e614]:
+            - generic [ref=e615]: por T Urbańczyk · 2026 —
+            - generic [ref=e616]:
+              - emphasis [ref=e617]: Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems
+              - text: .
+              - emphasis [ref=e618]: Computers
+              - text: .
+              - emphasis [ref=e619]: "2025"
+              - text: ";14:160. doi: 10.3390 ..."
+        - generic [ref=e623]:
+          - generic [ref=e626]:
+            - link "Adaptive Neural Network Method for Detecting Crimes in ... MDPI https://www.mdpi.com › ..." [ref=e628] [cursor=pointer]:
+              - /url: https://www.mdpi.com/2306-5729/11/3/49
+              - heading "Adaptive Neural Network Method for Detecting Crimes in ..." [level=3] [ref=e629]
+              - generic [ref=e634]:
+                - generic [ref=e636]: MDPI
+                - generic [ref=e638]: https://www.mdpi.com › ...
+            - generic [ref=e639]:
+              - generic [ref=e640]: ·
+              - link "Traducir esta página" [ref=e641] [cursor=pointer]:
+                - /url: https://www.mdpi.com/2306-5729/11/3/49
+            - button "Acerca de este resultado" [ref=e642] [cursor=pointer]:
+              - img [ref=e645]
+          - generic [ref=e648]:
+            - generic [ref=e649]: por S Vladov · 2026 —
+            - generic [ref=e650]:
+              - emphasis [ref=e651]: Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems
+              - text: .
+              - emphasis [ref=e652]: Computers 2025
+              - text: ", 14, 160. [Google Scholar] [CrossRef] ..."
+        - generic [ref=e656]:
+          - generic [ref=e659]:
+            - link "(PDF) INTEGRATING KNOWLEDGE MANAGEMENT AND ... ResearchGate https://www.researchgate.net › 4..." [ref=e661] [cursor=pointer]:
+              - /url: https://www.researchgate.net/publication/404272096_INTEGRATING_KNOWLEDGE_MANAGEMENT_AND_ARTIFICIAL_INTELLIGENCE_TO_OVERCOME_CONTEMPORARY_CHALLENGES_IN_DETECTING_AND_PROVING_CRIME
+              - heading "(PDF) INTEGRATING KNOWLEDGE MANAGEMENT AND ..." [level=3] [ref=e662]
+              - generic [ref=e667]:
+                - generic [ref=e669]: ResearchGate
+                - generic [ref=e671]: https://www.researchgate.net › 4...
+            - generic [ref=e672]:
+              - generic [ref=e673]: ·
+              - link "Traducir esta página" [ref=e674] [cursor=pointer]:
+                - /url: https://www.researchgate.net/publication/404272096_INTEGRATING_KNOWLEDGE_MANAGEMENT_AND_ARTIFICIAL_INTELLIGENCE_TO_OVERCOME_CONTEMPORARY_CHALLENGES_IN_DETECTING_AND_PROVING_CRIME
+            - button "Acerca de este resultado" [ref=e675] [cursor=pointer]:
+              - img [ref=e678]
+          - generic [ref=e681]:
+            - generic [ref=e682]: 29 abr 2026 —
+            - generic [ref=e683]:
+              - text: ...
+              - emphasis [ref=e684]: Use of Explainable Artificial Intelligence for Analyzing and Explaining Intrusion Detection Systems
+              - text: . Article. Full-text available. Apr
+              - emphasis [ref=e685]: "2025"
+              - text: .
+        - generic [ref=e689]:
+          - heading "Imágenes" [level=2] [ref=e693]
+          - generic [ref=e697]:
+            - generic [ref=e701] [cursor=pointer]:
+              - link "Use of Explainable Artificial Intelligence for Analyzing and ... MDPI":
+                - /url: https://www.mdpi.com/2073-431X/14/5/160
+              - button "Use of Explainable Artificial Intelligence for Analyzing and ..." [ref=e703]:
+                - img "Use of Explainable Artificial Intelligence for Analyzing and ..." [ref=e705]
+              - generic [ref=e707]:
+                - generic [ref=e709]: Use of Explainable Artificial Intelligence for Analyzing and ...
+                - generic [ref=e710]:
+                  - generic [ref=e717]: MDPI
+                  - button "Acerca de este resultado" [ref=e720]:
+                    - img [ref=e723]
+            - generic [ref=e728] [cursor=pointer]:
+              - link "Use of Explainable Artificial Intelligence for Analyzing and ... MDPI":
+                - /url: https://www.mdpi.com/2073-431X/14/5/160
+              - button "Use of Explainable Artificial Intelligence for Analyzing and ..." [ref=e730]:
+                - img "Use of Explainable Artificial Intelligence for Analyzing and ..." [ref=e732]
+              - generic [ref=e734]:
+                - generic [ref=e736]: Use of Explainable Artificial Intelligence for Analyzing and ...
+                - generic [ref=e737]:
+                  - generic [ref=e744]: MDPI
+                  - button "Acerca de este resultado" [ref=e747]:
+                    - img [ref=e750]
+            - generic [ref=e755] [cursor=pointer]:
+              - link "Computers | May 2025 - Browse Articles MDPI":
+                - /url: https://www.mdpi.com/2073-431X/14/5
+              - button "Computers | May 2025 - Browse Articles" [ref=e757]:
+                - img "Computers | May 2025 - Browse Articles" [ref=e759]
+              - generic [ref=e761]:
+                - generic [ref=e763]: Computers | May 2025 - Browse Articles
+                - generic [ref=e764]:
+                  - generic [ref=e771]: MDPI
+                  - button "Acerca de este resultado" [ref=e774]:
+                    - img [ref=e777]
+          - button "Mostrar más imágenes" [ref=e780] [cursor=pointer]:
+            - separator [ref=e781]
+            - generic [ref=e782]:
+              - generic [ref=e783]: Mostrar más imágenes
+              - img [ref=e785]
+      - generic [ref=e788]:
+        - generic [ref=e789]:
+          - heading "Avisos sobre resultados filtrados" [level=2] [ref=e790]
+          - paragraph [ref=e792]:
+            - generic [ref=e793]:
+              - text: Para que veas los resultados más relevantes, omitimos ciertas entradas muy similares a las 9 que ya te mostramos.
+              - text: Si lo deseas, puedes
+              - link "repetir la búsqueda e incluir los resultados omitidos" [ref=e794] [cursor=pointer]:
+                - /url: /search?q=%22Use+of+Explainable+Artificial+Intelligence+for+Analyzing+and+Explaining+Intrusion+Detection+Systems%22+Hermosilla+MDPI+Computers+2025+pdf&sca_esv=37c618bae3233f88&filter=0
+              - text: .
+        - navigation
+      - navigation
+    - contentinfo [ref=e795]:
+      - heading "Vínculos a pie de página" [level=1] [ref=e796]
+      - generic [ref=e800]:
+        - generic [ref=e802]:
+          - text: Perú
+          - generic [ref=e804]:
+            - button "21104, Juliaca - A través de tu dirección IP" [ref=e806] [cursor=pointer]:
+              - generic [ref=e807]: 21104, Juliaca
+              - generic [ref=e809]:
+                - text: "-"
+                - generic [ref=e810]: A través de tu dirección IP
+            - text: "-"
+            - button "Actualizar ubicación" [ref=e812] [cursor=pointer]: Actualizar ubicación
+        - generic [ref=e815]:
+          - link "Ayuda" [ref=e816] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=es-419&fg=1
+          - link "Enviar comentarios" [ref=e817] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacidad" [ref=e818] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=es-419&fg=1
+          - link "Condiciones" [ref=e819] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=es-419&fg=1

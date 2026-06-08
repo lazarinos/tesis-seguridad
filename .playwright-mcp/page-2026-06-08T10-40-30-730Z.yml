@@ -1,0 +1,27 @@
+- main [ref=e2]:
+  - heading "¡Asegurándonos de que no eres un robot!" [level=1] [ref=e3]
+  - generic [ref=e4]:
+    - img [ref=e5]
+    - paragraph [ref=e6]:
+      - text: Calculando...
+      - text: "Dificultad: 2, Velocidad: 0kH/s"
+    - 'progressbar "Calculando... Dificultad: 2, Velocidad: 0kH/s" [ref=e7]'
+    - group [ref=e8]
+  - generic [ref=e10]:
+    - paragraph [ref=e11]:
+      - text: Protegido por
+      - link "Anubis" [ref=e12] [cursor=pointer]:
+        - /url: https://github.com/TecharoHQ/anubis
+      - text: From
+      - link "Techaro" [ref=e13] [cursor=pointer]:
+        - /url: https://techaro.lol
+      - text: . Hecho con ❤️ en 🇨🇦.
+    - paragraph [ref=e14]:
+      - text: Diseño de la mascota por
+      - link "CELPHASE" [ref=e15] [cursor=pointer]:
+        - /url: https://bsky.app/profile/celphase.bsky.social
+      - text: .
+    - paragraph [ref=e16]:
+      - text: Este sitio web utiliza Anubis versión
+      - code [ref=e17]: v1.25.0
+      - text: .
