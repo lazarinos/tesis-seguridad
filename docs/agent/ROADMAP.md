@@ -72,7 +72,7 @@ Descargar, auditar y verificar los datasets de la tesis (**GeNIS 2025** como pri
 - [x] Limpieza del árbol Git: deselección de archivos temporales pesados (`node_modules`, `scratch`, logs, DBs).
 - [x] Actualización de `.gitignore` para bloquear permanentemente datasets, logs de playwright y bases sqlite temporales.
 - [x] Carga y respaldo de datasets en la nube para acceso rápido (`enlaces_nube_rapida.txt`).
-- [~] Preparación de commits limpios y push al repositorio remoto en GitHub (`origin master`).
+- [x] Preparación de commits limpios y push al repositorio remoto en GitHub (`origin master`).
 
 **Validación:** `git status` limpio, `git log` coherente y `git push origin master` exitoso sin violación de cuotas ni datasets pesados en el árbol Git.  
 **Finaliza cuando:** El repositorio remoto en GitHub contenga el código estructurado, la documentación, los scripts y la memoria técnica actualizada.

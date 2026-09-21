@@ -17,3 +17,8 @@
 - **10:42:** Generación de inventario criptográfico P02 (`dataset_files_hashes.csv`, `dataset_metadata.csv`, `data_inventory.md`).
 - **10:43:** Smoke test de integridad y distribución de clases ejecutado y aprobado al 100%.
 - **10:44:** Actualización documental de `README.md` y `datasets_complementarios_tesis.md`. Hitos P01 y P02 completados.
+- **11:00:** Creación del paquete comprimido de GeNIS 30s (`genis_2025_30sec.zip`, 72.34 MB) y subida exitosa a la nube vía Gofile (`https://gofile.io/d/v5W0QmXN`).
+- **11:23:** Finalización de subida de CICIDS2017 (`MachineLearningCSV.zip`, 224.21 MB) a Gofile (`https://gofile.io/d/LkY9UuFq`) y catalogación en `enlaces_nube_rapida.txt`.
+- **11:24:** Limpieza profunda de Git: desindexación de 370,000 líneas temporales de `node_modules` y `scratch/`, actualización de `.gitignore`.
+- **11:25:** Creación de commit formal de adopción de Protocolo V1.0 y estructura limpia de investigación.
+- **11:29:** Ejecución exitosa de `git push origin master` a `https://github.com/lazarinos/tesis-seguridad.git`. Repositorio sincronizado y árbol de trabajo 100% limpio.
