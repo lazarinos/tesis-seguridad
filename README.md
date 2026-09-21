@@ -18,32 +18,43 @@ El estudio se rige bajo el **Protocolo de Ejecución V1.0** y la **Matriz de Tra
 
 ---
 
-## 2. Conjuntos de Datos
+## 2. Conjuntos de Datos y Enlaces de Acceso Rápido
 
 Conforme a la metodología aprobada para Seminario de Tesis II, la investigación utiliza un diseño de validación cruzada con dos conjuntos de datos:
 
-| Dataset | Rol Metodológico | Origen y Referencia | Partición / Uso | Formato Local |
-|---|---|---|---|---|
-| **GeNIS 2025** (*GECAD Network Intrusion Scenarios*) | **Dataset Principal** | [Zenodo Record 14919237](https://doi.org/10.5281/zenodo.14919237) / *Data in Brief* (2025) | Particiones oficiales preprocesadas de **ventana de 30 segundos** (Train y Test) | `datasets/genis/genis-30-sec-train.csv`<br>`datasets/genis/genis-30-sec-test.csv` |
-| **CICIDS2017** | **Dataset de Contraste Independiente** | Canadian Institute for Cybersecurity ([UNB CIC](https://www.unb.ca/cic/datasets/ids-2017.html)) / Mirror [Hugging Face](https://huggingface.co/datasets/bencorn/CICIDS2017) | Muestra reproducible de **100 000 flujos estratificados** generados con semilla 42 | `datasets/cicids2017/*.csv` |
+| Dataset | Rol Metodológico | Enlace Directo Nube (Descarga Rápida) | Fuente Oficial / DOI | Flujos / Columnas | Tamaño Comprimido |
+|---|---|---|---|:---:|:---:|
+| **GeNIS 2025** (*Ventana 30s*) | **Dataset Principal** | [Descargar GeNIS 30s (Gofile)](https://gofile.io/d/v5W0QmXN) | [Zenodo 14919237](https://doi.org/10.5281/zenodo.14919237) | 607,933 flujos / 87 cols | **72.34 MB** |
+| **CICIDS2017** (*Completo*) | **Dataset de Contraste** | [Descargar CICIDS (Gofile)](https://gofile.io/d/LkY9UuFq) · [Mirror AWS](https://huggingface.co/datasets/bencorn/CICIDS2017/resolve/main/csvs/MachineLearningCSV.zip) | [UNB CIC](https://www.unb.ca/cic/datasets/ids-2017.html) | 2,830,743 flujos / 79 cols | **224.21 MB** |
 
-> [!NOTE]
-> Los enlaces anteriores a Google Drive fueron discontinuados para preservar la reproducibilidad académica. Las fuentes actuales se descargan directamente desde los repositorios de investigación oficiales (Zenodo y Hugging Face) mediante el script automatizado.
+### Enlaces Directos en la Nube (Sin Tiempos de Espera ni Rate-Limits)
+- **GeNIS 2025 (Ventana Oficial 30s preprocesada):**  
+  🔗 [https://gofile.io/d/v5W0QmXN](https://gofile.io/d/v5W0QmXN) *(72.34 MB, incluye `genis-30-sec-train.csv` y `genis-30-sec-test.csv`)*
+- **CICIDS2017 (MachineLearningCSV con 8 CSVs etiquetados):**  
+  🔗 Espejo 1 (Gofile): [https://gofile.io/d/LkY9UuFq](https://gofile.io/d/LkY9UuFq) *(224.21 MB)*  
+  🔗 Espejo 2 (Hugging Face / AWS CloudFront): [https://huggingface.co/datasets/bencorn/CICIDS2017/resolve/main/csvs/MachineLearningCSV.zip](https://huggingface.co/datasets/bencorn/CICIDS2017/resolve/main/csvs/MachineLearningCSV.zip)
+- **Registro Centralizado de Enlaces:** Consulta [`tesis_experimentos/01_data_metadata/enlaces_nube_rapida.txt`](tesis_experimentos/01_data_metadata/enlaces_nube_rapida.txt).
+
+### Archivos Comprimidos Locales (Listos para subir a tu Google Drive personal)
+Si deseas respaldarlos en tu propio Google Drive (`drive.google.com`), los paquetes ya están comprimidos localmente en:
+- GeNIS 2025 (30s): `datasets/genis_2025_30sec.zip`
+- CICIDS2017: `datasets/.cache/MachineLearningCSV.zip`
 
 ---
 
 ## 3. Adquisición y Verificación Automatizada
 
-Para descargar, extraer y verificar la integridad criptográfica (hashes MD5 y SHA-256) de los datasets:
+Para descargar, extraer y verificar la integridad criptográfica (hashes MD5 y SHA-256) de los datasets de forma 100% reproducible:
 
 ```powershell
 python scripts/download_datasets.py
 ```
 
-El script genera automáticamente:
-- `tesis_experimentos/01_data_metadata/dataset_metadata.csv`: inventario formal con DOIs y licencias.
-- `tesis_experimentos/01_data_metadata/dataset_files_hashes.csv`: hashes criptográficos de cada flujo CSV.
-- `tesis_experimentos/01_data_metadata/data_inventory.md`: reporte técnico del hito P02.
+El script genera automáticamente las evidencias normativas del hito P02:
+- [`tesis_experimentos/01_data_metadata/dataset_metadata.csv`](tesis_experimentos/01_data_metadata/dataset_metadata.csv): inventario formal con DOIs, citas y licencias.
+- [`tesis_experimentos/01_data_metadata/dataset_files_hashes.csv`](tesis_experimentos/01_data_metadata/dataset_files_hashes.csv): hashes criptográficos SHA-256 y MD5 de los 10 archivos CSV.
+- [`tesis_experimentos/01_data_metadata/data_inventory.md`](tesis_experimentos/01_data_metadata/data_inventory.md): reporte cuantitativo del hito P02.
+- [`tesis_experimentos/00_protocol/protocolo_v1.0.md`](tesis_experimentos/00_protocol/protocolo_v1.0.md): Protocolo de Ejecución V1.0 congelado.
 
 ---
 
