@@ -1,13 +1,21 @@
 # Datasets Complementarios para la Tesis
 
+> [!IMPORTANT]
+> **Decisión Definitiva Congelada en Protocolo V1.0 (Seminario de Tesis II - 2026-II):**  
+> Conforme al Protocolo de Ejecución V1.0 y la Matriz de Trazabilidad Técnica, la tesis ha formalizado la adopción de:
+> - **Dataset Principal:** **GeNIS 2025** (particiones oficiales preprocesadas de ventana de 30 segundos: `genis-30-sec-train.csv` y `genis-30-sec-test.csv`).
+> - **Dataset de Contraste Independiente:** **CICIDS2017** (subconjunto estratificado reproducible de 100 000 flujos con semilla 42, derivado de `MachineLearningCSV`).
+>
+> Los demás datasets evaluados (UNSW-NB15, TON_IoT, CSE-CIC-IDS2018) quedan como antecedentes bibliográficos de referencia y no forman parte de la experimentación principal para mantener la viabilidad dentro del cronograma de 17 semanas.
+
+---
+
 ## Idea central
 
-La tesis **no debería basarse únicamente en GeNIS**.  
-Lo más defendible es usar:
+La investigación **no se basa únicamente en GeNIS**. Se emplea:
 
 - **GeNIS 2025** como dataset principal.
-- **1 dataset adicional** como validación externa mínima.
-- **2 datasets adicionales** si quieres una metodología más fuerte.
+- **CICIDS2017** como validación y contraste externo independiente.
 
 ---
 

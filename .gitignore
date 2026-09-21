@@ -1,8 +1,48 @@
-datasets/*.csv
-datasets/*.zip
-*.html
-*.pdf
-*.docx
-/.quarto/
-/.Rproj.user/
+# ==============================================================================
+# .gitignore - Tesis de Seguridad (UNAJ - Fernando Ccolla Lazarinos)
+# ==============================================================================
 
+# Datasets y archivos binarios pesados (1.1+ GB)
+# Se adquieren mediante: python scripts/download_datasets.py
+datasets/
+*.zip
+*.tar.gz
+*.pcap
+*.pcapng
+*.iso
+0-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Documentos generados y temporales
+.quarto/
+.Rproj.user/
+*_files/
+*.log
+scratch/
+.playwright-mcp/
+*.db
+
+# IDE y Sistema Operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,10 @@
+Estacion de Trabajo: Tesis II - Fernando Ccolla Lazarinos
+Fecha de Registro: 2026-09-21
+Sistema Operativo: Windows 10 (10.0.26200)
+Arquitectura: AMD64
+Procesador: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Nucleos Fisicos: 6
+Nucleos Logicos: 12
+Memoria RAM Total: 7.92 GB
+Memoria RAM Disponible: 1.38 GB
+Version de Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]

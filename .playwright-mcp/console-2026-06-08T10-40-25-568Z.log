@@ -1,7 +1,0 @@
-[    2691ms] [LOG] Environment extended with app config @ https://repositorio.unap.edu.pe/main.3136cfdd10ebadb5.js:0
-[    2750ms] [INFO]  @ https://repositorio.unap.edu.pe/main.3136cfdd10ebadb5.js:0
-[    2751ms] [INFO] %cdspace-angular font-weight: bold; @ https://repositorio.unap.edu.pe/main.3136cfdd10ebadb5.js:0
-[    2751ms] [INFO] Version: %c7.6.2 font-weight: bold; @ https://repositorio.unap.edu.pe/main.3136cfdd10ebadb5.js:0
-[    2751ms] [INFO] Environment: %cProduction color: red; font-weight: bold; @ https://repositorio.unap.edu.pe/main.3136cfdd10ebadb5.js:0
-[    2751ms] [INFO]  @ https://repositorio.unap.edu.pe/main.3136cfdd10ebadb5.js:0
-[    2981ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://repositorio.unap.edu.pe/server/api/config/properties/google.analytics.key:0
