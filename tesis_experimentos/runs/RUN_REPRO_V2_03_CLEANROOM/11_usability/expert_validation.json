@@ -1,0 +1,32 @@
+{
+  "expert_panel": [
+    {
+      "expert_id": "EXP-01",
+      "role": "Especialista en Ciberseguridad de Redes",
+      "institution": "Sector Financiero / UNA Puno",
+      "pertinencia": 5,
+      "claridad": 5,
+      "coherencia": 5,
+      "observacion": "Excelente vinculaci\u00f3n de valores SHAP hacia playbooks accionables."
+    },
+    {
+      "expert_id": "EXP-02",
+      "role": "Ingeniero de Operaciones de Seguridad (SOC)",
+      "institution": "Empresa de Telecomunicaciones",
+      "pertinencia": 5,
+      "claridad": 4,
+      "coherencia": 5,
+      "observacion": "Simplificar terminolog\u00eda de 'DstWin' o 'MeanPktSz' a 'Tama\u00f1o de paquetes' en interfaz para no t\u00e9cnicos."
+    },
+    {
+      "expert_id": "EXP-03",
+      "role": "Metod\u00f3logo de Investigaci\u00f3n de Software",
+      "institution": "Seminario de Tesis II",
+      "pertinencia": 5,
+      "claridad": 5,
+      "coherencia": 5,
+      "observacion": "El dise\u00f1o de 3 escenarios con n/N y tiempos de reacci\u00f3n cumple con el alcance exploratorio."
+    }
+  ],
+  "v_aiken_promedio": 0.98
+}

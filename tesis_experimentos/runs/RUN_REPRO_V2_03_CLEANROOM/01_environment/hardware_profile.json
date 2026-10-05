@@ -1,0 +1,31 @@
+{
+  "cpu": {
+    "name": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+    "physical_cores": 6,
+    "logical_cores": 12,
+    "architecture": "AMD64"
+  },
+  "ram_gb": 7.92,
+  "gpu": {
+    "name": "Radeon RX 570 Series",
+    "vram_gb": 4.0,
+    "compute_device_used_for_training": "CPU"
+  },
+  "storage": [
+    {
+      "model": "Viper M.2 VPN100",
+      "media_type": "Fixed hard disk media",
+      "size_gb": 238.47
+    },
+    {
+      "model": "SAMSUNG MZVLQ512HBLU-00B00",
+      "media_type": "Fixed hard disk media",
+      "size_gb": 476.94
+    }
+  ],
+  "os": {
+    "system": "Windows",
+    "release": "10",
+    "version": "10.0.26200"
+  }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "record_id": 1,
+    "target_class": "dos",
+    "pred_code": "dos",
+    "confidence": 0.9999528982076205,
+    "playbook": "PB-01 (DoS Mitigation)",
+    "description": "Saturaci\u00f3n SYN / UDP de enlace",
+    "top_shap_factors": [
+      {
+        "feature": "Sdaddr",
+        "shap_value": 0.2053751394814508
+      },
+      {
+        "feature": "Dur",
+        "shap_value": 0.051513483191355035
+      },
+      {
+        "feature": "SIntPktMin",
+        "shap_value": 0.04716371840227607
+      }
+    ]
+  },
+  {
+    "record_id": 10,
+    "target_class": "recon",
+    "pred_code": "recon",
+    "confidence": 1.0,
+    "playbook": "PB-02 (Reconnaissance Isolation)",
+    "description": "Escaneo de puertos horizontal / vertical",
+    "top_shap_factors": [
+      {
+        "feature": "sHops",
+        "shap_value": 0.14081239660079828
+      },
+      {
+        "feature": "sTtl",
+        "shap_value": 0.08567344002586325
+      },
+      {
+        "feature": "SrcBytes",
+        "shap_value": 0.07083676997746093
+      }
+    ]
+  },
+  {
+    "record_id": 8,
+    "target_class": "bruteforce",
+    "pred_code": "bruteforce",
+    "confidence": 0.9990201267522393,
+    "playbook": "PB-03 (Brute Force Defense)",
+    "description": "Fuerza bruta de contrase\u00f1as / 2FA",
+    "top_shap_factors": [
+      {
+        "feature": "dMaxPktSz",
+        "shap_value": 0.06740337795002771
+      },
+      {
+        "feature": "Sdaddr",
+        "shap_value": 0.06337786317024699
+      },
+      {
+        "feature": "State_CON",
+        "shap_value": 0.052422815748707635
+      }
+    ]
+  }
+]

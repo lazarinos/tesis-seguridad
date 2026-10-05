@@ -1,0 +1,42 @@
+{
+  "sample_size": 10,
+  "accuracy_per_scenario": {
+    "DoS": {
+      "success_rate": "10/10",
+      "percentage": 100.0,
+      "median_time_s": 23.75,
+      "iqr_time_s": 6.25
+    },
+    "PortScan_Recon": {
+      "success_rate": "8/10",
+      "percentage": 80.0,
+      "median_time_s": 32.15,
+      "iqr_time_s": 8.700000000000003
+    },
+    "BruteForce": {
+      "success_rate": "10/10",
+      "percentage": 100.0,
+      "median_time_s": 20.6,
+      "iqr_time_s": 4.449999999999999
+    }
+  },
+  "global_median_reaction_time_s": 25.65,
+  "likert_evaluations": {
+    "claridad": {
+      "median": 4.5,
+      "mean": 4.4
+    },
+    "utilidad": {
+      "median": 5.0,
+      "mean": 4.6
+    },
+    "confianza": {
+      "median": 4.0,
+      "mean": 4.0
+    },
+    "adopcion": {
+      "median": 4.5,
+      "mean": 4.4
+    }
+  }
+}

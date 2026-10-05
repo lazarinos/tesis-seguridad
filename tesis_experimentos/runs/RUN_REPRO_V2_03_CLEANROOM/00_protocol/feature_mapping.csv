@@ -1,0 +1,17 @@
+genis_feature,cicids_feature,canonical_concept,direction,statistic,unit_genis,unit_cicids,transform,status,justification,source_reference
+Dur,Flow Duration,flow_duration,bidirectional,total,seconds,microseconds,x_cic / 1e6,CONVERTIBLE,Misma magnitud física temporal; factor determinista 1e6.,RFC 7011 / UNB
+TotPkts,Total Fwd Packets + Total Backward Packets,flow_packet_count,bidirectional,sum,packets,packets,exact_sum,CONVERTIBLE,Suma de paquetes hacia adelante y retorno equivale al total.,HERA / CICFlowMeter
+TotBytes,Total Length of Fwd Packets + Total Length of Bwd Packets,flow_byte_volume,bidirectional,sum,bytes,bytes,exact_sum,CONVERTIBLE,Volumen total de datos transmitidos en ambas direcciones.,HERA / CICFlowMeter
+SrcPkts,Total Fwd Packets,fwd_packet_count,source_to_dest,count,packets,packets,identity,EXACTA,Conteo idéntico de paquetes salientes de origen.,Silva et al. 2025 / Sharafaldin 2018
+DstPkts,Total Backward Packets,bwd_packet_count,dest_to_source,count,packets,packets,identity,EXACTA,Conteo idéntico de paquetes de retorno.,Silva et al. 2025 / Sharafaldin 2018
+SrcBytes,Total Length of Fwd Packets,fwd_byte_volume,source_to_dest,sum,bytes,bytes,identity,EXACTA,Volumen de bytes transmitidos por el cliente.,Silva et al. 2025 / Sharafaldin 2018
+DstBytes,Total Length of Bwd Packets,bwd_byte_volume,dest_to_source,sum,bytes,bytes,identity,EXACTA,Volumen de bytes transmitidos por el servidor.,Silva et al. 2025 / Sharafaldin 2018
+Rate,Flow Packets/s,packet_rate,bidirectional,rate,pkts/sec,pkts/sec,identity,EXACTA,Tasa de transferencia de paquetes por segundo.,Silva et al. 2025 / Sharafaldin 2018
+sMeanPktSz,Fwd Packet Length Mean,fwd_mean_pkt_size,source_to_dest,mean,bytes,bytes,identity,EXACTA,Media del tamaño de paquetes enviados por origen.,Silva et al. 2025 / Sharafaldin 2018
+dMeanPktSz,Bwd Packet Length Mean,bwd_mean_pkt_size,dest_to_source,mean,bytes,bytes,identity,EXACTA,Media del tamaño de paquetes de respuesta.,Silva et al. 2025 / Sharafaldin 2018
+sMaxPktSz,Fwd Packet Length Max,fwd_max_pkt_size,source_to_dest,max,bytes,bytes,identity,EXACTA,Tamaño máximo de paquete de origen.,Silva et al. 2025 / Sharafaldin 2018
+dMaxPktSz,Bwd Packet Length Max,bwd_max_pkt_size,dest_to_source,max,bytes,bytes,identity,EXACTA,Tamaño máximo de paquete de respuesta.,Silva et al. 2025 / Sharafaldin 2018
+SrcWin,Init_Win_bytes_forward,tcp_win_init_fwd,source_to_dest,initial_value,bytes,bytes,identity,EXACTA,Tamaño inicial de ventana TCP del emisor.,Silva et al. 2025 / Sharafaldin 2018
+DstWin,Init_Win_bytes_backward,tcp_win_init_bwd,dest_to_source,initial_value,bytes,bytes,identity,EXACTA,Tamaño inicial de ventana TCP del receptor.,Silva et al. 2025 / Sharafaldin 2018
+Dport,Destination Port,dest_port,identifier,none,port_number,port_number,identity,NO_COMPARABLE,Excluido de SHAP cruzado por ser identificador/topología según Protocolo V2 Regla 5.,Protocolo V2 Secc 2.4
+Sport,Source Port,src_port,identifier,none,port_number,port_number,identity,NO_COMPARABLE,Excluido de SHAP cruzado por ser puerto efímero según Protocolo V2 Regla 5.,Protocolo V2 Secc 2.4

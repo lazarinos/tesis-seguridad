@@ -1,3 +1,0 @@
-dataset,doi_url,version,licencia,rol_tesis,archivos_extraidos,estado
-"GeNIS 2025","https://doi.org/10.5281/zenodo.14919237","1.0 (Zenodo)","CC BY 4.0","Dataset principal (entrenamiento, validacion y test oficial 30s)",2,"Descargado y Verificado"
-"CICIDS2017","https://www.unb.ca/cic/datasets/ids-2017.html","MachineLearningCSV v1","Academic Research (UNB)","Dataset de contraste independiente (100k flujos estratificados, semilla 42)",8,"Descargado y Verificado"

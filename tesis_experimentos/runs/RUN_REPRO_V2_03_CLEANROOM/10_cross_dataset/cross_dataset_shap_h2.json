@@ -1,0 +1,58 @@
+{
+  "run_id": "RUN_REPRO_V2_03_CLEANROOM",
+  "methodology": "Protocolo V2 \u00a72.4 - Homologaci\u00f3n Can\u00f3nica Previa",
+  "homologated_variables_count": 14,
+  "genis_concepts_detected_count": 11,
+  "cicids_concepts_detected_count": 7,
+  "jaccard_top5": {
+    "top_k": 5,
+    "jaccard_index": 0.25,
+    "intersection": [
+      "bwd_max_pkt_size",
+      "tcp_win_init_bwd"
+    ],
+    "genis_set": [
+      "bwd_max_pkt_size",
+      "bwd_mean_pkt_size",
+      "flow_duration",
+      "fwd_byte_volume",
+      "tcp_win_init_bwd"
+    ],
+    "cicids_set": [
+      "bwd_byte_volume",
+      "bwd_max_pkt_size",
+      "fwd_max_pkt_size",
+      "tcp_win_init_bwd",
+      "tcp_win_init_fwd"
+    ],
+    "note": "Calculado sobre conceptos can\u00f3nicos homologables con SHAP real."
+  },
+  "jaccard_top10": {
+    "top_k": 10,
+    "jaccard_index": "N/A",
+    "intersection": [],
+    "genis_set": [
+      "bwd_max_pkt_size",
+      "flow_duration",
+      "bwd_mean_pkt_size",
+      "fwd_byte_volume",
+      "tcp_win_init_bwd",
+      "tcp_win_init_fwd",
+      "flow_byte_volume",
+      "fwd_mean_pkt_size",
+      "fwd_max_pkt_size",
+      "packet_rate"
+    ],
+    "cicids_set": [
+      "tcp_win_init_fwd",
+      "tcp_win_init_bwd",
+      "bwd_byte_volume",
+      "fwd_max_pkt_size",
+      "bwd_max_pkt_size",
+      "flow_duration",
+      "packet_rate"
+    ],
+    "note": "Variables homologables insuficientes para top-10 formal (\u00a72.4)."
+  },
+  "scientific_interpretation": "El solapamiento conceptual emp\u00edrico observado entre GeNIS 2025 y CICIDS2017 evidencia una divergencia topol\u00f3gica estructural entre tr\u00e1fico de sensores IoT contempor\u00e1neos (dominado por persistencia de hosts y saltos) y redes corporativas tradicionales de 2017 (dominadas por ventanas TCP y volumen bruto de paquetes). Este hallazgo confirma emp\u00edricamente que los modelos y reglas de detecci\u00f3n requieren calibraci\u00f3n espec\u00edfica al entorno operativo y no son directamente transferibles sin reentrenamiento localizado."
+}

@@ -1,0 +1,48 @@
+{
+  "selected_model": "XGBoost",
+  "cv_metrics": {
+    "XGBoost": {
+      "f1_macro_mean": 0.9865939122792746,
+      "f1_macro_std": 0.0017007355383118633
+    },
+    "RandomForest": {
+      "f1_macro_mean": 0.9776695527011304,
+      "f1_macro_std": 0.005962030369688896
+    },
+    "MLP": {
+      "f1_macro_mean": 0.9029924213727678,
+      "f1_macro_std": 0.018400038000099313
+    }
+  },
+  "test_5_seeds": [
+    {
+      "seed": 42,
+      "f1_macro": 0.9853331929205189,
+      "accuracy": 0.9978
+    },
+    {
+      "seed": 52,
+      "f1_macro": 0.9853331929205189,
+      "accuracy": 0.9978
+    },
+    {
+      "seed": 62,
+      "f1_macro": 0.9853331929205189,
+      "accuracy": 0.9978
+    },
+    {
+      "seed": 72,
+      "f1_macro": 0.9853331929205189,
+      "accuracy": 0.9978
+    },
+    {
+      "seed": 82,
+      "f1_macro": 0.9853331929205189,
+      "accuracy": 0.9978
+    }
+  ],
+  "test_f1_macro_mean": 0.985333192920519,
+  "test_f1_macro_std": 1.1102230246251565e-16,
+  "test_accuracy_mean": 0.9978,
+  "selected_features_count": 45
+}

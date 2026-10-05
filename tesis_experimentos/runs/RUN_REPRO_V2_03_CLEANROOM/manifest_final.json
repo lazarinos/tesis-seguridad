@@ -1,0 +1,82 @@
+{
+  "run_id": "RUN_REPRO_V2_03_CLEANROOM",
+  "timestamp": "2026-10-05 01:46:28",
+  "environment_id": "ENV_de6fe487a3e9",
+  "artifacts_manifest": [
+    {
+      "file": "scripts/preflight_and_audit_cleanroom.py",
+      "size_bytes": 13190,
+      "sha256": "a8928126b11948c72d4313506f294aa9cde5815b4ad28d4d173d460109db706e"
+    },
+    {
+      "file": "scripts/run_genis_cleanroom.py",
+      "size_bytes": 30463,
+      "sha256": "237aaff347cff4e3987819e5405926f3023eed2213430772efd66bd7bea2f34e"
+    },
+    {
+      "file": "scripts/run_cicids_cleanroom.py",
+      "size_bytes": 14098,
+      "sha256": "b081b6882fa0e111381b1158268e1688bc09bc5688da2980220cbd46cff6d521"
+    },
+    {
+      "file": "scripts/run_cross_shap_cleanroom.py",
+      "size_bytes": 6123,
+      "sha256": "0de7f16f90ae246f7e57df08639b18f9e7a3f84535baaa4387b35596b25f4b9a"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\01_environment\\hardware_profile.json",
+      "size_bytes": 670,
+      "sha256": "e557342fd0c86b57cf2075e4c295377db336ae9a501538fadb904457751df7f9"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\01_environment\\software_lock.json",
+      "size_bytes": 298,
+      "sha256": "401f03a0e2476bf6ab2d59befffdbeda982da74ed4dcceb6ac34a5eccf84dcb0"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\02_audit\\dataset_audit_genis.json",
+      "size_bytes": 760,
+      "sha256": "a43339835af2fde1c63ae5c95747f3e719b24a4ae8582923cabc79f19528f434"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\02_audit\\feature_semantic_audit.csv",
+      "size_bytes": 16685,
+      "sha256": "066507d643399f7a0ae57a1a3ae685a35d80d4811689aa47c5edd928602e5d9e"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\04_cv\\selected_model_decision.json",
+      "size_bytes": 1293,
+      "sha256": "4f6737bec72f39dbeaed7813f72c9033f98e615e423e1861667e999e160c4da7"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\07_metrics\\oe1_definitive.json",
+      "size_bytes": 6163,
+      "sha256": "e6c0cfbe5d482b72be3ad35617456781f051b00a06550c1e62ac2508fb7cc526"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\09_cicids\\cicids_oe1_metrics.json",
+      "size_bytes": 1083,
+      "sha256": "bbba31c2869db83001cb3c57f6c5e98cc3d2de6ef431d546b678434bf01791f2"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\10_cross_dataset\\cross_dataset_shap_h2.json",
+      "size_bytes": 2080,
+      "sha256": "c68f4cefff6ef637920a262b2dd0f1c895f5d5983ca2f8c9d83333382a28365e"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\08_shap\\shap_top10_definitive.csv",
+      "size_bytes": 758,
+      "sha256": "adca831fff4ff1889a745659596b7a701d9b49c78bbdea48c3cee4f332326c4c"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\08_shap\\local_cases_definitive.json",
+      "size_bytes": 1642,
+      "sha256": "c50477c1fee29511267ac2c8169582a60927093a82ebd64b47177791d8826a06"
+    },
+    {
+      "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\06_predictions\\RandomForest_S42_predictions.csv",
+      "size_bytes": 10198319,
+      "sha256": "cc57c6daaff1d50a2061d4b9c2ea8c43ad0b7ce0a9b85b7e0f6d84eea71d0201"
+    }
+  ]
+}

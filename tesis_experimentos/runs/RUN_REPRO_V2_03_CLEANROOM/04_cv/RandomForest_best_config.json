@@ -1,0 +1,203 @@
+{
+  "model": "RandomForest",
+  "best_candidate": {
+    "candidate_id": 3,
+    "params": {
+      "n_estimators": 150,
+      "max_depth": 10,
+      "min_samples_split": 5
+    },
+    "f1_macro_mean": 0.9999730789867586,
+    "f1_macro_std": 5.3842026482930903e-05,
+    "val_lat_ms_mean": 0.012025266463057058,
+    "fold_f1_scores": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9998653949337927
+    ]
+  },
+  "all_candidates": [
+    {
+      "candidate_id": 1,
+      "params": {
+        "n_estimators": 50,
+        "max_depth": 10,
+        "min_samples_split": 5
+      },
+      "f1_macro_mean": 0.9999679813558167,
+      "f1_macro_std": 5.223447521028567e-05,
+      "val_lat_ms_mean": 0.005035805459246213,
+      "fold_f1_scores": [
+        0.9999745118452905,
+        1.0,
+        1.0,
+        1.0,
+        0.9998653949337927
+      ]
+    },
+    {
+      "candidate_id": 2,
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 10,
+        "min_samples_split": 5
+      },
+      "f1_macro_mean": 0.999959615365996,
+      "f1_macro_std": 5.384358389158545e-05,
+      "val_lat_ms_mean": 0.008069543552959654,
+      "fold_f1_scores": [
+        1.0,
+        1.0,
+        1.0,
+        0.9999326818961869,
+        0.9998653949337927
+      ]
+    },
+    {
+      "candidate_id": 3,
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 10,
+        "min_samples_split": 5
+      },
+      "f1_macro_mean": 0.9999730789867586,
+      "f1_macro_std": 5.3842026482930903e-05,
+      "val_lat_ms_mean": 0.012025266463057058,
+      "fold_f1_scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.9998653949337927
+      ]
+    },
+    {
+      "candidate_id": 4,
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 15,
+        "min_samples_split": 2
+      },
+      "f1_macro_mean": 0.9999730789867586,
+      "f1_macro_std": 5.3842026482930903e-05,
+      "val_lat_ms_mean": 0.008266400223104143,
+      "fold_f1_scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.9998653949337927
+      ]
+    },
+    {
+      "candidate_id": 5,
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 15,
+        "min_samples_split": 2
+      },
+      "f1_macro_mean": 0.9999730789867586,
+      "f1_macro_std": 5.3842026482930903e-05,
+      "val_lat_ms_mean": 0.011659351134887051,
+      "fold_f1_scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.9998653949337927
+      ]
+    },
+    {
+      "candidate_id": 6,
+      "params": {
+        "n_estimators": 100,
+        "max_depth": 20,
+        "min_samples_split": 2
+      },
+      "f1_macro_mean": 0.9999730789867586,
+      "f1_macro_std": 5.3842026482930903e-05,
+      "val_lat_ms_mean": 0.008365803629134574,
+      "fold_f1_scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.9998653949337927
+      ]
+    },
+    {
+      "candidate_id": 7,
+      "params": {
+        "n_estimators": 150,
+        "max_depth": 20,
+        "min_samples_split": 2
+      },
+      "f1_macro_mean": 0.9999730789867586,
+      "f1_macro_std": 5.3842026482930903e-05,
+      "val_lat_ms_mean": 0.013130815222264742,
+      "fold_f1_scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.9998653949337927
+      ]
+    },
+    {
+      "candidate_id": 8,
+      "params": {
+        "n_estimators": 200,
+        "max_depth": 20,
+        "min_samples_split": 5
+      },
+      "f1_macro_mean": 0.9999730789867586,
+      "f1_macro_std": 5.3842026482930903e-05,
+      "val_lat_ms_mean": 0.022045490922502603,
+      "fold_f1_scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.9998653949337927
+      ]
+    },
+    {
+      "candidate_id": 9,
+      "params": {
+        "n_estimators": 100,
+        "max_depth": null,
+        "min_samples_split": 5
+      },
+      "f1_macro_mean": 0.9999730789867586,
+      "f1_macro_std": 5.3842026482930903e-05,
+      "val_lat_ms_mean": 0.016506565539050402,
+      "fold_f1_scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.9998653949337927
+      ]
+    },
+    {
+      "candidate_id": 10,
+      "params": {
+        "n_estimators": 150,
+        "max_depth": null,
+        "min_samples_split": 2
+      },
+      "f1_macro_mean": 0.9999730789867586,
+      "f1_macro_std": 5.3842026482930903e-05,
+      "val_lat_ms_mean": 0.01879620149301704,
+      "fold_f1_scores": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.9998653949337927
+      ]
+    }
+  ]
+}

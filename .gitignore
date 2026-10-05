@@ -40,6 +40,18 @@ scratch/
 .playwright-mcp/
 *.db
 
+# Agentes de IA, Asistentes y Memoria de Desarrollo
+.agents/
+.agent/
+docs/agent/
+.gemini/
+.claude/
+.cursor/
+.windsurf/
+.antigravity/
+agent/
+agent_logs/
+
 # IDE y Sistema Operativo
 .vscode/
 .idea/
