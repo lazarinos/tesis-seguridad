@@ -67,13 +67,11 @@ tesis-seguridad/
 │           ├── 08_shap/                                     # Valores SHAP globales y casos locales con playbooks
 │           ├── 09_cicids/                                   # Replicación completa sobre CICIDS2017
 │           ├── 10_cross_dataset/                            # Contraste empírico H2 de interpretabilidad cruzada
-│           ├── 11_report/                                   # Revisiones técnicas y manifiestos de corrida
-│           ├── 11_usability/                                # Evaluación de usabilidad SUS con administradores PyME
+│           ├── 11_report/                                   # Revisiones técnicas (OE4 con usuarios: pendiente, siguiente fase)
 │           └── manifest_final.json                          # Manifiesto criptográfico de hashes SHA-256 de la corrida
 │
-├── exposicion/                                              # Diapositivas (.pptx), guión y resultados para la sustentación
-│   ├── GUION_EXPOSICION_DOCENTE.md                          # Guión minuto a minuto para la sustentación ante el jurado
-│   └── RESULTADOS_PRELIMINARES.md                           # Síntesis ejecutiva de métricas y gráficos para diapositivas
+├── exposicion/                                              # Diapositivas (.pptx) de la defensa del Protocolo V2
+│   └── Defensa_Protocolo_V2_Fernando_Ccolla_Lazarinos.pptx  # 11 diapositivas con notas del orador
 │
 ├── prototype/                                               # Prototipo Flask: alerta + SHAP + playbook
 │
