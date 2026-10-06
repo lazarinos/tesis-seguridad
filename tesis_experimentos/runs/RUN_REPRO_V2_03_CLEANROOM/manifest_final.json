@@ -5,8 +5,8 @@
   "artifacts_manifest": [
     {
       "file": "scripts/preflight_and_audit_cleanroom.py",
-      "size_bytes": 13190,
-      "sha256": "a8928126b11948c72d4313506f294aa9cde5815b4ad28d4d173d460109db706e"
+      "size_bytes": 12322,
+      "sha256": "6b6bc59d8dd8eb84817a8003788c2e693e6455921db7fd47d8d72af04d76b9db"
     },
     {
       "file": "scripts/run_genis_cleanroom.py",
@@ -25,8 +25,8 @@
     },
     {
       "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\01_environment\\hardware_profile.json",
-      "size_bytes": 670,
-      "sha256": "e557342fd0c86b57cf2075e4c295377db336ae9a501538fadb904457751df7f9"
+      "size_bytes": 547,
+      "sha256": "17cafba9f9689ecc46ddabc4381c128fe4ec484fb98611c2b0f35950fb4d7cbc"
     },
     {
       "file": "tesis_experimentos\\runs\\RUN_REPRO_V2_03_CLEANROOM\\01_environment\\software_lock.json",

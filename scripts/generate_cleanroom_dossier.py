@@ -147,7 +147,6 @@ def main():
     
     cpu_name = hw_data["cpu"]["name"]
     ram_gb = hw_data["ram_gb"]
-    gpu_name = hw_data["gpu"]["name"]
     env_id = sw_data["environment_id"]
     
     md.append("# DOSSIER INTEGRAL DE EXPERIMENTACIÓN Y EVIDENCIA CIENTÍFICA")
@@ -156,7 +155,7 @@ def main():
     md.append(f"**Autor:** Bach. Fernando Ccolla Lazarinos  ")
     md.append(f"**Identificador de Corrida Oficial:** `{RUN_ID}`  ")
     md.append(f"**Fecha y Hora de Consolidación:** {now_str}  ")
-    md.append(f"**Entorno de Auditoría:** `{env_id}` ({hw_data['os']['system']} {hw_data['os']['release']}, {cpu_name}, {ram_gb} GB RAM, GPU {gpu_name}, Python {sw_data['packages']['python']}, Flask {sw_data['packages']['flask']})  ")
+    md.append(f"**Entorno de Auditoría:** `{env_id}` ({hw_data['os']['system']} {hw_data['os']['release']}, {cpu_name}, {ram_gb} GB RAM, Python {sw_data['packages']['python']}, Flask {sw_data['packages']['flask']})  ")
     md.append("\n---\n")
 
     # 3.1. Árbol de la corrida cleanroom

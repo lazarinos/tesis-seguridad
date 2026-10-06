@@ -4,7 +4,7 @@
 **Autor:** Bach. Fernando Ccolla Lazarinos  
 **Identificador de Corrida Oficial:** `RUN_REPRO_V2_03_CLEANROOM`  
 **Fecha y Hora de Consolidación:** 2026-10-05 01:46:28  
-**Entorno de Auditoría:** `ENV_de6fe487a3e9` (Windows 10, Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, 7.92 GB RAM, GPU Radeon RX 570 Series, Python 3.11.9, Flask 3.1.2)  
+**Entorno de Auditoría:** `ENV_de6fe487a3e9` (Windows 10, Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, 7.92 GB RAM, Python 3.11.9, Flask 3.1.2)  
 
 ---
 
@@ -16,7 +16,7 @@ RUN_REPRO_V2_03_CLEANROOM/
 ├── 00_protocol/
 ├── 01_environment/
 │   ├── dataset_files_hashes.csv (1,306 bytes)
-│   ├── hardware_profile.json (670 bytes)
+│   ├── hardware_profile.json (547 bytes)
 │   ├── software_lock.json (298 bytes)
 ├── 02_audit/
 │   ├── dataset_audit_genis.json (760 bytes)
@@ -178,25 +178,6 @@ def get_real_hardware():
     cores_log = psutil.cpu_count(logical=True)
     ram_gb = round(psutil.virtual_memory().total / (1024**3), 2)
     
-    # GPU
-    gpu_name = "UNKNOWN"
-    gpu_vram = None
-    try:
-        ps_gpu = subprocess.check_output(
-            ["powershell", "-Command", "Get-CimInstance Win32_VideoController | Select-Object Name, AdapterRAM | ConvertTo-Json"],
-            text=True
-        ).strip()
-        if ps_gpu:
-            gpu_data = json.loads(ps_gpu)
-            if isinstance(gpu_data, list):
-                gpu_data = gpu_data[0]
-            gpu_name = gpu_data.get("Name", "UNKNOWN")
-            raw_vram = gpu_data.get("AdapterRAM", 0)
-            if raw_vram:
-                gpu_vram = round(float(raw_vram) / (1024**3), 2)
-    except Exception:
-        pass
-        
     # Disks
     disks = []
     try:
@@ -224,12 +205,7 @@ def get_real_hardware():
             "architecture": platform.machine()
         },
         "ram_gb": ram_gb,
-        "gpu": {
-            "name": gpu_name,
-            "vram_gb": gpu_vram,
-            "compute_device_used_for_training": "CPU"
-        },
-        "storage": disks,
+              "storage": disks,
         "os": {
             "system": platform.system(),
             "release": platform.release(),
@@ -270,7 +246,7 @@ def main():
     env_id = compute_environment_id(hw, sw)
     print(f"Environment ID generado: {env_id}")
     print(f"CPU Real: {hw['cpu']['name']} ({hw['cpu']['logical_cores']} hilos)")
-    print(f"RAM Total: {hw['ram_gb']} GB | GPU: {hw['gpu']['name']} (VRAM: {hw['gpu']['vram_gb']} GB)")
+    print(f"RAM Total: {hw['ram_gb']} GB")
     
     with open(os.path.join(BASE_DIR, "01_environment", "hardware_profile.json"), "w", encoding="utf-8") as f:
         json.dump(hw, f, indent=2)
@@ -1625,8 +1601,8 @@ if __name__ == "__main__":
 
 ### 7.5. PERFIL DE HARDWARE REAL DEL SISTEMA
 - **Ruta:** `tesis_experimentos\runs\RUN_REPRO_V2_03_CLEANROOM\01_environment\hardware_profile.json`  
-- **Tamaño:** `670 bytes`  
-- **Hash SHA-256:** `e557342fd0c86b57cf2075e4c295377db336ae9a501538fadb904457751df7f9`  
+- **Tamaño:** `547 bytes`  
+- **Hash SHA-256:** `17cafba9f9689ecc46ddabc4381c128fe4ec484fb98611c2b0f35950fb4d7cbc`  
 
 ```json
 {
@@ -1637,11 +1613,6 @@ if __name__ == "__main__":
     "architecture": "AMD64"
   },
   "ram_gb": 7.92,
-  "gpu": {
-    "name": "Radeon RX 570 Series",
-    "vram_gb": 4.0,
-    "compute_device_used_for_training": "CPU"
-  },
   "storage": [
     {
       "model": "Viper M.2 VPN100",

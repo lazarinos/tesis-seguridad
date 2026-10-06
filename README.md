@@ -102,7 +102,7 @@ Para ejecutar y reproducir íntegramente la experimentación desde la consola (P
 ```powershell
 python scripts/preflight_and_audit_cleanroom.py
 ```
-*Detecta el hardware real (CPU, RAM, GPU, SSD), genera el identificador único `environment_id` y audita valores faltantes, duplicados y consistencia de las 41 características contra el diccionario oficial.*
+*Detecta el hardware real (CPU, RAM, SSD), genera el identificador único `environment_id` y audita valores faltantes, duplicados y consistencia de las 41 características contra el diccionario oficial.*
 
 ### Paso 2: Ejecución del Pipeline Principal (GeNIS 2025)
 ```powershell

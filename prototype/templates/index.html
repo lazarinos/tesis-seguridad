@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NIDS-XAI | Monitoreo y Respuesta Asistida</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="app-card">
+    <!-- Encabezado de aplicación -->
+    <header class="app-header">
+      <div class="header-main">
+        <h1>NIDS-XAI</h1>
+        <span class="header-sub">Monitoreo y respuesta asistida</span>
+      </div>
+      <div class="flow-selector">
+        <span class="selector-tag">Flujo de prueba:</span>
+        <button class="flow-btn active" data-flow="recon">Reconocimiento</button>
+        <button class="flow-btn" data-flow="dos">Saturación (DoS)</button>
+        <button class="flow-btn" data-flow="bruteforce">Fuerza Bruta</button>
+        <button class="flow-btn" data-flow="benign">Normal</button>
+      </div>
+    </header>
+
+    <main class="content-body">
+      <!-- 1. ESTADO DE SEGURIDAD -->
+      <section class="section-block">
+        <div class="label-subtle">Estado de seguridad</div>
+        
+        <div class="status-banner warning" id="status-banner">
+          <div class="status-badge" id="status-badge">ALERTA</div>
+          <h2 class="status-title" id="status-title">Posible reconocimiento de red</h2>
+          <p class="status-desc" id="status-desc">
+            Se detectó un patrón compatible con escaneo de puertos o búsqueda de servicios disponibles.
+          </p>
+        </div>
+
+        <!-- ¿Qué significa? -->
+        <div class="box-card">
+          <div class="box-title">¿QUÉ SIGNIFICA?</div>
+          <div class="box-content" id="meaning-content">
+            Un equipo externo está intentando descubrir qué servicios de su red se encuentran accesibles.
+          </div>
+        </div>
+
+        <!-- Acciones recomendadas -->
+        <div class="box-card">
+          <div class="box-title">ACCIONES RECOMENDADAS</div>
+          <div class="box-content">
+            <ol class="action-list" id="action-list">
+              <li>Revisar la dirección de origen.</li>
+              <li>Bloquear temporalmente si no es reconocida.</li>
+              <li>Revisar los puertos expuestos.</li>
+              <li>Verificar servicios sensibles.</li>
+            </ol>
+          </div>
+        </div>
+
+        <!-- Botones principales -->
+        <div class="button-bar">
+          <button class="btn-primary" id="btn-mark-reviewed">Marcar como revisada</button>
+          <button class="btn-secondary" id="btn-toggle-tech">Ver detalles técnicos</button>
+        </div>
+
+        <div class="review-status" id="review-status" style="display: none;">
+          Alerta marcada como revisada por el operador.
+        </div>
+      </section>
+
+      <hr class="divider">
+
+      <!-- 2. POR QUÉ SE GENERÓ ESTA ALERTA -->
+      <section class="section-block">
+        <h3 class="section-heading">Por qué se generó esta alerta</h3>
+        <p class="lead-text">El modelo observó principalmente:</p>
+        <ul class="bullet-list" id="bullet-list">
+          <li>Saltos de red anómalos <span class="feat-tag">(sHops)</span></li>
+          <li>Patrón TTL relevante <span class="feat-tag">(sTtl)</span></li>
+          <li>Tráfico enviado desde el origen <span class="feat-tag">(SrcBytes)</span></li>
+        </ul>
+      </section>
+
+      <!-- 3. DETALLES TÉCNICOS (COLAPSABLE) -->
+      <section class="section-block tech-block" id="tech-block" style="display: none;">
+        <hr class="divider" style="margin-top: 0;">
+        <h3 class="section-heading">Detalles técnicos</h3>
+        <div class="tech-list">
+          <div><strong>Modelo:</strong> <span>Random Forest</span></div>
+          <div><strong>Predicción:</strong> <span id="tech-pred">Recon</span></div>
+          <div><strong>Confianza:</strong> <span id="tech-conf">99.9%</span></div>
+          <div><strong>Inferencia:</strong> <span id="tech-lat">18.7 ms</span></div>
+          <div><strong>Seed:</strong> <span>42</span></div>
+          <div><strong>Run:</strong> <span>RUN_REPRO_V2_03_CLEANROOM</span></div>
+          <div class="full-row"><strong>Top SHAP:</strong> <span id="tech-shap">sHops, sTtl, SrcBytes</span></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <span>Tesis II &bull; Fernando Ccolla Lazarinos &bull; UNAJ</span>
+    </footer>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

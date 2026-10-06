@@ -7,7 +7,7 @@
 ---
 
 ### 1. Checklist de Criterios de Aceptación (Protocolo de Investigación V2)
-- [x] **Perfil de Hardware Real y Software Lock:** Verificado con PowerShell (Intel Core i5-10400 @ 2.90GHz, 6 núcleos físicos / 12 lógicos, RAM 7.92 GB, SSDs NVMe Viper/Samsung, Radeon RX 570 4.0 GiB VRAM en cómputo CPU). Sin cadenas hardcodeadas.
+- [x] **Perfil de Hardware Real y Software Lock:** Verificado con PowerShell (Intel Core i5-10400 @ 2.90GHz, 6 núcleos físicos / 12 lógicos, RAM 7.92 GB, SSDs NVMe Viper/Samsung, cómputo en CPU). Sin cadenas hardcodeadas.
 - [x] **Auditoría de Calidad de Datos GeNIS:** 486,346 train, 121,587 test. 0 faltantes, 0 infinitos, 0 duplicados intra-split y **0 flujos exactos duplicados entre train y test (0.0% de solapamiento)**.
 - [x] **Auditoría Semántica de Características:** 84 características contrastadas contra el diccionario oficial de Argus (`0-info/genis-features.csv`). Exclusión formal documentada de identificadores de red (`Sport`, `Dport`, `FlowID`, `Rank`, `Seq`, `Offset`, `StartTime`, `LastTime`).
 - [x] **GeNIS Cleanroom desde Cero (OE1):** 24 configuraciones evaluadas en 5-fold CV (120 pliegues). Regla formal de selección §4.1 aplicada: empate técnico $\Delta F_1 = 0.000040 \le 0.005$; Random Forest seleccionado por menor dispersión ($\sigma = 0.000054 < 0.000085$).

@@ -49,25 +49,6 @@ def get_real_hardware():
     cores_log = psutil.cpu_count(logical=True)
     ram_gb = round(psutil.virtual_memory().total / (1024**3), 2)
     
-    # GPU
-    gpu_name = "UNKNOWN"
-    gpu_vram = None
-    try:
-        ps_gpu = subprocess.check_output(
-            ["powershell", "-Command", "Get-CimInstance Win32_VideoController | Select-Object Name, AdapterRAM | ConvertTo-Json"],
-            text=True
-        ).strip()
-        if ps_gpu:
-            gpu_data = json.loads(ps_gpu)
-            if isinstance(gpu_data, list):
-                gpu_data = gpu_data[0]
-            gpu_name = gpu_data.get("Name", "UNKNOWN")
-            raw_vram = gpu_data.get("AdapterRAM", 0)
-            if raw_vram:
-                gpu_vram = round(float(raw_vram) / (1024**3), 2)
-    except Exception:
-        pass
-        
     # Disks
     disks = []
     try:
@@ -95,11 +76,6 @@ def get_real_hardware():
             "architecture": platform.machine()
         },
         "ram_gb": ram_gb,
-        "gpu": {
-            "name": gpu_name,
-            "vram_gb": gpu_vram,
-            "compute_device_used_for_training": "CPU"
-        },
         "storage": disks,
         "os": {
             "system": platform.system(),
@@ -141,7 +117,7 @@ def main():
     env_id = compute_environment_id(hw, sw)
     print(f"Environment ID generado: {env_id}")
     print(f"CPU Real: {hw['cpu']['name']} ({hw['cpu']['logical_cores']} hilos)")
-    print(f"RAM Total: {hw['ram_gb']} GB | GPU: {hw['gpu']['name']} (VRAM: {hw['gpu']['vram_gb']} GB)")
+    print(f"RAM Total: {hw['ram_gb']} GB")
     
     with open(os.path.join(BASE_DIR, "01_environment", "hardware_profile.json"), "w", encoding="utf-8") as f:
         json.dump(hw, f, indent=2)

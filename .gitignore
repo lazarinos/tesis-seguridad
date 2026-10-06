@@ -58,3 +58,26 @@ agent_logs/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Entornos virtuales, caches y temporales
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Secretos y credenciales
+.env
+.env.*
+credentials.json
+*.key
+*.pem
+
+# Artefactos de render y herramientas locales
+*.pdf.png
+.claude-flow/
+.mcp.json
