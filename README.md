@@ -37,8 +37,6 @@ El repositorio ha sido depurado eliminando scripts intermedios y corridas obsole
 ```text
 tesis-seguridad/
 │
-├── Protocolo_Investigacion_V2_Fernando_Ccolla_Lazarinos.md   # Protocolo Maestro V2 con reglas y umbrales congelados
-├── REPORTE_DEFINITIVO_EXPERIMENTOS_TESIS.md                 # Dossier Integral Maestro (con código, matrices y validaciones)
 ├── README.md                                                # Este documento de referencia y guía de reproducción
 │
 ├── datasets/                                                # Conjuntos de datos auditados e inalterables
@@ -73,23 +71,22 @@ tesis-seguridad/
 │           ├── 11_usability/                                # Evaluación de usabilidad SUS con administradores PyME
 │           └── manifest_final.json                          # Manifiesto criptográfico de hashes SHA-256 de la corrida
 │
-├── marco_teorico/                                           # Sustento teórico y epistemológico de la tesis
-│   ├── marco_teorico_tesis.md                               # Redacción formal del marco teórico capitulado
-│   ├── matriz_antecedentes.md                               # Matriz comparativa de antecedentes internacionales y nacionales
-│   ├── planteamiento.md                                     # Planteamiento del problema, objetivos y justificación
-│   └── referencias.bib                                      # Archivo BibTeX con la bibliografía completa estandarizada
-│
-├── exposicion/                                              # Materiales consolidados para la sustentación
+├── exposicion/                                              # Diapositivas (.pptx), guión y resultados para la sustentación
 │   ├── GUION_EXPOSICION_DOCENTE.md                          # Guión minuto a minuto para la sustentación ante el jurado
 │   └── RESULTADOS_PRELIMINARES.md                           # Síntesis ejecutiva de métricas y gráficos para diapositivas
+│
+├── prototype/                                               # Prototipo Flask: alerta + SHAP + playbook
 │
 ├── bibliography/                                            # Acervo de literatura científica en PDF (Artículos y Tesis)
 │   ├── seleccionados_final/                                 # Artículos principales de revistas indexadas (Q1/Q2/IEEE)
 │   └── nuevos/                                              # Artículos internacionales (P01-P14), nacionales (N01-N07) y locales (L01)
 │
-└── docs/                                                    # Documentación de ingeniería y gobierno del proyecto
-    ├── agent/                                               # Memoria persistente del agente (ROADMAP, PROGRESS, DECISIONS)
-    └── protocol/                                            # Metodología y protocolos normativos previos de Tesis II
+└── docs/                                                    # Documentación del proyecto
+    ├── protocolo/                                           # Protocolo Maestro V2 (reglas y umbrales congelados)
+    │   └── historico/                                       # Metodología y protocolos previos de Tesis II
+    ├── reportes/                                            # Dossier Integral Maestro (código, matrices y validaciones)
+    ├── marco_teorico/                                       # Marco teórico, matriz de antecedentes, planteamiento y .bib
+    └── agent/                                               # Memoria del agente (ROADMAP, PROGRESS, DECISIONS)
 ```
 
 ---
@@ -126,7 +123,7 @@ python scripts/run_cross_shap_cleanroom.py
 ```powershell
 python scripts/generate_cleanroom_dossier.py
 ```
-*Valida dinámicamente la consistencia de predicciones y matrices de confusión, genera el reporte maestro `REPORTE_DEFINITIVO_EXPERIMENTOS_TESIS.md` en el Escritorio del usuario y en la raíz del repositorio, y emite el manifiesto criptográfico de hashes `manifest_final.json`.*
+*Valida dinámicamente la consistencia de predicciones y matrices de confusión, genera el reporte maestro `REPORTE_DEFINITIVO_EXPERIMENTOS_TESIS.md` en el Escritorio del usuario y en `docs/reportes/`, y emite el manifiesto criptográfico de hashes `manifest_final.json`.*
 
 ---
 
