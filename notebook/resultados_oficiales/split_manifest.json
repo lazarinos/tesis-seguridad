@@ -1,0 +1,20 @@
+{
+  "total_sample_size": 99996,
+  "train_size": 79996,
+  "test_size": 20000,
+  "seed": 42,
+  "train_sha256": "7c92d4fd0ef9d733f86ca13143fa1b556a67e64f055f1ece8c71ecdcbb2ccfcb",
+  "test_sha256": "9a6f3d34eeaf0cd3b438d760de883a572bc3cbbb6336ec46d516ff0ff92ba965",
+  "train_distribution": {
+    "benign": 64180,
+    "dos": 10742,
+    "recon": 4561,
+    "bruteforce": 513
+  },
+  "test_distribution": {
+    "benign": 16046,
+    "dos": 2686,
+    "recon": 1140,
+    "bruteforce": 128
+  }
+}

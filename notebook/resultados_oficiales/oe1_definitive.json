@@ -1,0 +1,270 @@
+{
+  "run_id": "RUN_REPRO_V2_03_CLEANROOM",
+  "environment_id": "ENV_de6fe487a3e9",
+  "dataset": "GeNIS_2025",
+  "selected_model": "RandomForest",
+  "selection_decision": {
+    "selected_model": "RandomForest",
+    "selection_rule": "F1_macro -> std_dev (if diff <= 0.005) -> val_latency",
+    "delta_f1": 4.038463218025701e-05,
+    "is_tie": true,
+    "justification": "Menor desviacion estandar (DE=0.000054 vs 0.000085)",
+    "best_hyperparameters": {
+      "n_estimators": 150,
+      "max_depth": 10,
+      "min_samples_split": 5
+    },
+    "cv_f1_macro": 0.9999730789867586,
+    "cv_f1_std": 5.3842026482930903e-05,
+    "all_cv_summary": {
+      "RandomForest": {
+        "f1_mean": 0.9999730789867586,
+        "f1_std": 5.3842026482930903e-05,
+        "val_lat_ms": 0.012025266463057058,
+        "params": {
+          "n_estimators": 150,
+          "max_depth": 10,
+          "min_samples_split": 5
+        }
+      },
+      "XGBoost": {
+        "f1_mean": 0.9999326943545783,
+        "f1_std": 8.513663985474454e-05,
+        "val_lat_ms": 0.011704002934855432,
+        "params": {
+          "n_estimators": 100,
+          "max_depth": 6,
+          "learning_rate": 0.1
+        }
+      },
+      "MLP": {
+        "f1_mean": 0.9996180050862373,
+        "f1_std": 0.00020406592211337992,
+        "val_lat_ms": 0.0021368460661020396,
+        "params": {
+          "hidden_layer_sizes": [
+            128,
+            64
+          ],
+          "alpha": 0.001,
+          "max_iter": 30
+        }
+      }
+    }
+  },
+  "cv_evaluation_120_folds": {
+    "folds_per_config": 5,
+    "total_candidates": 24,
+    "total_fold_evaluations": 120,
+    "models": {
+      "RandomForest": {
+        "f1_macro_mean": 0.9999730789867586,
+        "f1_macro_std": 5.3842026482930903e-05,
+        "val_latency_ms": 0.012025266463057058
+      },
+      "XGBoost": {
+        "f1_macro_mean": 0.9999326943545783,
+        "f1_macro_std": 8.513663985474454e-05,
+        "val_latency_ms": 0.011704002934855432
+      },
+      "MLP": {
+        "f1_macro_mean": 0.9996180050862373,
+        "f1_macro_std": 0.00020406592211337992,
+        "val_latency_ms": 0.0021368460661020396
+      }
+    }
+  },
+  "test_evaluation_5_seeds": {
+    "test_flows_count": 121587,
+    "seeds": [
+      42,
+      52,
+      62,
+      72,
+      82
+    ],
+    "metrics_summary": {
+      "f1_macro_mean": 0.9999569130879158,
+      "f1_macro_std": 2.1543456042127927e-05,
+      "accuracy_mean": 0.9999934203492149,
+      "accuracy_std": 3.289825392505108e-06,
+      "precision_macro_mean": 0.9999692685925016,
+      "precision_macro_std": 1.536570374924828e-05,
+      "recall_macro_mean": 0.9999445676274945,
+      "recall_macro_std": 2.771618625274641e-05
+    },
+    "per_seed": {
+      "42": {
+        "f1_macro": 0.9999461413598947,
+        "accuracy": 0.9999917754365187,
+        "precision_macro": 0.9999615857406269,
+        "recall_macro": 0.9999307095343681,
+        "confusion_matrix": [
+          [
+            6507,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            3607,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            105925,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            5547
+          ]
+        ]
+      },
+      "52": {
+        "f1_macro": 0.9999461413598947,
+        "accuracy": 0.9999917754365187,
+        "precision_macro": 0.9999615857406269,
+        "recall_macro": 0.9999307095343681,
+        "confusion_matrix": [
+          [
+            6507,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            3607,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            105925,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            5547
+          ]
+        ]
+      },
+      "62": {
+        "f1_macro": 1.0,
+        "accuracy": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "confusion_matrix": [
+          [
+            6507,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            3608,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            105925,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            5547
+          ]
+        ]
+      },
+      "72": {
+        "f1_macro": 0.9999461413598947,
+        "accuracy": 0.9999917754365187,
+        "precision_macro": 0.9999615857406269,
+        "recall_macro": 0.9999307095343681,
+        "confusion_matrix": [
+          [
+            6507,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            3607,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            105925,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            5547
+          ]
+        ]
+      },
+      "82": {
+        "f1_macro": 0.9999461413598947,
+        "accuracy": 0.9999917754365187,
+        "precision_macro": 0.9999615857406269,
+        "recall_macro": 0.9999307095343681,
+        "confusion_matrix": [
+          [
+            6507,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            3607,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            105925,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            5547
+          ]
+        ]
+      }
+    }
+  },
+  "h3_latency_benchmark": {
+    "warmup_flows": 100,
+    "measured_flows": 1000,
+    "mean_ms": 18.877371100126766,
+    "p95_ms": 19.090920001326595,
+    "p99_ms": 19.246577004960272,
+    "max_ms": 21.00139999674866,
+    "threshold_ms": 500.0,
+    "meets_hypothesis": true,
+    "margin_factor": 26.49
+  }
+}

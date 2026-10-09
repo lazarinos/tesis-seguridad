@@ -17,7 +17,7 @@ from sklearn.metrics import confusion_matrix, f1_score, accuracy_score
 RUN_ID = "RUN_REPRO_V2_03_CLEANROOM"
 BASE_DIR = os.path.join("tesis_experimentos", "runs", RUN_ID)
 DESKTOP_PATH = r"C:\Users\LAZARINOS\Desktop\REPORTE_DEFINITIVO_EXPERIMENTOS_TESIS.md"
-REPO_PATH = r"C:\Users\LAZARINOS\Desktop\tesis-seguridad\REPORTE_DEFINITIVO_EXPERIMENTOS_TESIS.md"
+REPO_PATH = os.path.join("docs", "reportes", "REPORTE_DEFINITIVO_EXPERIMENTOS_TESIS.md")
 MANIFEST_PATH = os.path.join(BASE_DIR, "manifest_final.json")
 
 CLASS_NAMES = ["benign", "bruteforce", "dos", "recon"]

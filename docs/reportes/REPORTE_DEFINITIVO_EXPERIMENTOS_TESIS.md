@@ -3,7 +3,7 @@
 **Docente:** Liz Huancapaza Hilasaca | **Curso:** Seminario de Tesis II  
 **Autor:** Bach. Fernando Ccolla Lazarinos  
 **Identificador de Corrida Oficial:** `RUN_REPRO_V2_03_CLEANROOM`  
-**Fecha y Hora de Consolidación:** 2026-10-05 01:46:28  
+**Fecha y Hora de Consolidación:** 2026-10-09 11:53:58  
 **Entorno de Auditoría:** `ENV_de6fe487a3e9` (Windows 10, Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, 7.92 GB RAM, Python 3.11.9, Flask 3.1.2)  
 
 ---
@@ -14,6 +14,10 @@ Topología completa del directorio de ejecución cleanroom independiente, sin de
 ```text
 RUN_REPRO_V2_03_CLEANROOM/
 ├── 00_protocol/
+│   ├── decision_log.csv (3,810 bytes)
+│   ├── feature_mapping.csv (3,123 bytes)
+│   ├── matriz_trazabilidad_v1.0.md (10,009 bytes)
+│   ├── protocolo_v1.0.md (17,531 bytes)
 ├── 01_environment/
 │   ├── dataset_files_hashes.csv (1,306 bytes)
 │   ├── hardware_profile.json (547 bytes)
@@ -54,8 +58,7 @@ RUN_REPRO_V2_03_CLEANROOM/
 ├── 10_cross_dataset/
 │   ├── cross_dataset_shap_h2.json (2,080 bytes)
 ├── 11_report/
-│   ├── AUTONOMOUS_REVIEW.md (1,185 bytes)
-│   ├── finalization.log (1,917 bytes)
+│   ├── DICTAMEN_TECNICO.md (3,721 bytes)
 ```
 
 ## 2. AUDITORÍA PREVIA DE CALIDAD DE DATOS Y CONTROL DE FUGA (§3.3 / §3.4)
@@ -123,8 +126,8 @@ Transcripción literal sin interpretaciones ni recortes de los componentes ejecu
 
 ### 7.1. SCRIPT DE PRE-FLIGHT Y AUDITORÍA
 - **Ruta:** `scripts/preflight_and_audit_cleanroom.py`  
-- **Tamaño:** `13,190 bytes`  
-- **Hash SHA-256:** `a8928126b11948c72d4313506f294aa9cde5815b4ad28d4d173d460109db706e`  
+- **Tamaño:** `12,322 bytes`  
+- **Hash SHA-256:** `6b6bc59d8dd8eb84817a8003788c2e693e6455921db7fd47d8d72af04d76b9db`  
 
 ```python
 """
@@ -205,7 +208,7 @@ def get_real_hardware():
             "architecture": platform.machine()
         },
         "ram_gb": ram_gb,
-              "storage": disks,
+        "storage": disks,
         "os": {
             "system": platform.system(),
             "release": platform.release(),

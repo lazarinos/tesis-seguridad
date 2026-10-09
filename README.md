@@ -67,13 +67,15 @@ tesis-seguridad/
 │           ├── 08_shap/                                     # Valores SHAP globales y casos locales con playbooks
 │           ├── 09_cicids/                                   # Replicación completa sobre CICIDS2017
 │           ├── 10_cross_dataset/                            # Contraste empírico H2 de interpretabilidad cruzada
-│           ├── 11_report/                                   # Revisiones técnicas (OE4 con usuarios: pendiente, siguiente fase)
+│           ├── 11_report/                                   # Dictamen de revisión técnica y auditoría de calidad
 │           └── manifest_final.json                          # Manifiesto criptográfico de hashes SHA-256 de la corrida
 │
 ├── exposicion/                                              # Diapositivas (.pptx) de la defensa del Protocolo V2
 │   └── Defensa_Protocolo_V2_Fernando_Ccolla_Lazarinos.pptx  # 11 diapositivas con notas del orador
 │
 ├── prototype/                                               # Prototipo Flask: alerta + SHAP + playbook
+│
+├── notebook/                                                # Demostración reproducible en Jupyter Notebook (muestra GeNIS)
 │
 ├── bibliography/                                            # Acervo de literatura científica en PDF (Artículos y Tesis)
 │   ├── seleccionados_final/                                 # Artículos principales de revistas indexadas (Q1/Q2/IEEE)
@@ -83,8 +85,7 @@ tesis-seguridad/
     ├── protocolo/                                           # Protocolo Maestro V2 (reglas y umbrales congelados)
     │   └── historico/                                       # Metodología y protocolos previos de Tesis II
     ├── reportes/                                            # Dossier Integral Maestro (código, matrices y validaciones)
-    ├── marco_teorico/                                       # Marco teórico, matriz de antecedentes, planteamiento y .bib
-    └── agent/                                               # Memoria del agente (ROADMAP, PROGRESS, DECISIONS)
+    └── marco_teorico/                                       # Marco teórico, matriz de antecedentes, planteamiento y .bib
 ```
 
 ---

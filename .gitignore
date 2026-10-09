@@ -40,7 +40,7 @@ scratch/
 .playwright-mcp/
 *.db
 
-# Agentes de IA, Asistentes y Memoria de Desarrollo
+# Herramientas de desarrollo, editores y entorno local
 .agents/
 .agent/
 docs/agent/

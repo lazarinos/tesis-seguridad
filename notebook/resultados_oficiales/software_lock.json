@@ -1,0 +1,14 @@
+{
+  "environment_id": "ENV_de6fe487a3e9",
+  "packages": {
+    "python": "3.11.9",
+    "scikit-learn": "1.9.0",
+    "xgboost": "3.2.0",
+    "shap": "0.51.0",
+    "imbalanced-learn": "0.14.2",
+    "pandas": "2.3.3",
+    "numpy": "2.4.0",
+    "psutil": "7.2.2",
+    "flask": "3.1.2"
+  }
+}

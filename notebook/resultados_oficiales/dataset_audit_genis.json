@@ -1,0 +1,35 @@
+{
+  "run_id": "RUN_REPRO_V2_03_CLEANROOM",
+  "environment_id": "ENV_de6fe487a3e9",
+  "train_rows": 486346,
+  "test_rows": 121587,
+  "total_rows": 607933,
+  "columns_count": 87,
+  "missing_values": {
+    "train": 0,
+    "test": 0
+  },
+  "infinite_values": {
+    "train": 0,
+    "test": 0
+  },
+  "intra_split_duplicates": {
+    "train": 0,
+    "test": 0
+  },
+  "cross_split_exact_duplicates": 0,
+  "cross_split_overlap_pct": 0.0,
+  "train_class_distribution": {
+    "dos": 423700,
+    "benign": 26027,
+    "recon": 22186,
+    "bruteforce": 14433
+  },
+  "test_class_distribution": {
+    "dos": 105925,
+    "benign": 6507,
+    "recon": 5547,
+    "bruteforce": 3608
+  },
+  "sensitivity_test_size_without_train_duplicates": 121587
+}
